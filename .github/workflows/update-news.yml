@@ -149,3 +149,20 @@ jobs:
             git pull --rebase origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; exit 1; }
           done
           git push
+      - name: Notify private repository
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_PAT }}
+        run: |
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            https://api.github.com/repos/dreamshao/tools/dispatches \
+            -d '{
+              "event_type":"sync-data",
+              "client_payload":{
+                "source_repo":"'"${GITHUB_REPOSITORY}"'",
+                "branch":"'"${GITHUB_REF_NAME}"'"
+              }
+            }'
