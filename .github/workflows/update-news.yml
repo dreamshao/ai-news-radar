@@ -154,6 +154,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PRIVATE_REPO_PAT }}
         run: |
+          echo "Token length: ${#GH_TOKEN}"
           curl -L \
             -X POST \
             -H "Accept: application/vnd.github+json" \
