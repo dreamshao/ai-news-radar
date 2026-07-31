@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:11:31.019429Z",
+  "generated_at": "2026-07-31T09:27:58.542840Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8606,
-      "importance": 0.8606,
-      "importance_score": 0.8606,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7258,
+        "recency": 0.7126,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -196,7 +196,7 @@
           "published_at": "2026-07-30T20:37:56.772000Z"
         },
         {
-          "id": "71301392f704d77d4d5d651f37acc4215aa2d0e6",
+          "id": "78f35006a1ff22846b633f893aa370e44f4f71d4",
           "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
           "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
           "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
@@ -204,15 +204,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-30T18:13:06Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.ctgt.ai"
@@ -261,7 +261,7 @@
           "published_at": "2026-07-30T20:37:56.772000Z"
         },
         {
-          "id": "71301392f704d77d4d5d651f37acc4215aa2d0e6",
+          "id": "78f35006a1ff22846b633f893aa370e44f4f71d4",
           "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
           "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
           "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
@@ -269,23 +269,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-30T18:13:06Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9543,
+        "recency": 0.9369,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -389,15 +389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.7803,
+        "recency": 0.7661,
         "story_heat": 0.25
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7819,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,7 +508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -573,8 +573,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T08:11:31.019429Z",
-      "latest_at": "2026-07-31T08:11:31.019429Z",
+      "earliest_at": "2026-07-31T09:27:58.542840Z",
+      "latest_at": "2026-07-31T09:27:58.542840Z",
       "primary_item": {
         "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
         "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
@@ -591,7 +591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -639,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8089,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -722,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8294,
+        "recency": 0.8143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -757,7 +757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -805,15 +805,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9893,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,7 +839,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
+      }
+    },
+    {
+      "story_id": "story_d83536587724",
+      "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "primary_url": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+          "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+          "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+          "title_en": "Univé builds an AI-ready workforce",
+          "title_original": "Univé builds an AI-ready workforce",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/unive",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.965,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:00:00Z",
+      "latest_at": "2026-07-31T07:00:00Z",
+      "primary_item": {
+        "id": "4dabd3013738d25515192e1f33862f429d47f0c4",
+        "title": "Univé 打造人工智能就绪的劳动力队伍 / Univé builds an AI-ready workforce",
+        "title_zh": "Univé 打造人工智能就绪的劳动力队伍",
+        "title_en": "Univé builds an AI-ready workforce",
+        "title_original": "Univé builds an AI-ready workforce",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -887,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7805,
+        "recency": 0.7663,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,7 +1005,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -970,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7663,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,89 +1087,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
-      }
-    },
-    {
-      "story_id": "story_5823adf4f214",
-      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-      "url": "https://www.aibase.com/news/30039",
-      "primary_url": "https://www.aibase.com/news/30039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_en": null,
-          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_en": null,
-          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:11:31.019429Z",
-      "latest_at": "2026-07-31T08:11:31.019429Z",
-      "primary_item": {
-        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "title_en": null,
-        "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1163,15 +1164,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1198,7 +1199,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
+      }
+    },
+    {
+      "story_id": "story_5823adf4f214",
+      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+      "url": "https://www.aibase.com/news/30039",
+      "primary_url": "https://www.aibase.com/news/30039",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_en": null,
+          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:11:31.019429Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_en": null,
+          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:11:31.019429Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:11:31.019429Z",
+      "latest_at": "2026-07-31T08:11:31.019429Z",
+      "primary_item": {
+        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "title_en": null,
+        "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30039",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1246,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1280,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1328,15 +1411,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8107,
+        "recency": 0.796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1363,7 +1446,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1411,15 +1494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1445,89 +1528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
-      }
-    },
-    {
-      "story_id": "story_47a367770bd1",
-      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-      "url": "https://www.ithome.com/0/984/130.htm",
-      "primary_url": "https://www.ithome.com/0/984/130.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "title_en": null,
-          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/130.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:38:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "title_en": null,
-          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/130.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:38:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.978,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T06:38:54Z",
-      "latest_at": "2026-07-31T06:38:54Z",
-      "primary_item": {
-        "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
-        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-        "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-        "title_en": null,
-        "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-        "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/984/130.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1575,15 +1576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8762,
+        "recency": 0.8603,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1608,7 +1609,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
+      }
+    },
+    {
+      "story_id": "story_47a367770bd1",
+      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+      "url": "https://www.ithome.com/0/984/130.htm",
+      "primary_url": "https://www.ithome.com/0/984/130.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9601,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T06:38:54Z",
+      "latest_at": "2026-07-31T06:38:54Z",
+      "primary_item": {
+        "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_en": null,
+        "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/984/130.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1656,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9822,
+        "recency": 0.9642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1689,7 +1772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     },
     {
@@ -1737,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1770,88 +1853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
-      }
-    },
-    {
-      "story_id": "story_d771dc699568",
-      "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
-          "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，模型名设为 deepseek-v4-flash 即可使用，调用方式不变。其 Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Toolathlon verified 70.3，DSBench-Hard 59.6，多项基准远超 V4-Pro-Preview。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
-          "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测",
-          "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，模型名设为 deepseek-v4-flash 即可使用，调用方式不变。其 Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Toolathlon verified 70.3，DSBench-Hard 59.6，多项基准远超 V4-Pro-Preview。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:00:00Z",
-      "latest_at": "2026-07-30T16:00:00Z",
-      "primary_item": {
-        "id": "7d91b70339b7967ebaa32ca21e712e7f1c378db1",
-        "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-        "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测",
-        "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，模型名设为 deepseek-v4-flash 即可使用，调用方式不变。其 Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Toolathlon verified 70.3，DSBench-Hard 59.6，多项基准远超 V4-Pro-Preview。",
-        "recommend_reason_zh": null,
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T08:12:20.193390Z"
+        "scored_at": "2026-07-31T09:28:51.080143Z"
       }
     }
   ]
