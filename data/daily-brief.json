@@ -1,140 +1,81 @@
 {
-  "generated_at": "2026-07-31T09:27:58.542840Z",
+  "generated_at": "2026-07-31T11:01:48.001424Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_19984c444ae4",
-      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "story_id": "story_077a06a5fc28",
+      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT-5.6",
-          "title_original": "Advancing the price-performance frontier with GPT-5.6",
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "title_zh": "在整个欧洲推进负责任的人工智能",
+          "title_en": "Advancing responsible AI across Europe",
+          "title_original": "Advancing responsible AI across Europe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T10:00:00Z"
-        },
-        {
-          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
-          "title": "借助 GPT‑5.6 突破性价比新高度",
-          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
-          "title_en": null,
-          "title_original": "借助 GPT‑5.6 突破性价比新高度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:01:26.158000Z"
-        },
-        {
-          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
-          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T17:15:51Z"
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT-5.6",
-          "title_original": "Advancing the price-performance frontier with GPT-5.6",
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "title_zh": "在整个欧洲推进负责任的人工智能",
+          "title_en": "Advancing responsible AI across Europe",
+          "title_original": "Advancing responsible AI across Europe",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T10:00:00Z"
-        },
-        {
-          "id": "d285a9d4f35e566f21b9c59df8f133f1b7a6eae5",
-          "title": "借助 GPT‑5.6 突破性价比新高度",
-          "title_zh": "借助 GPT‑5.6 突破性价比新高度",
-          "title_en": null,
-          "title_original": "借助 GPT‑5.6 突破性价比新高度",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T18:01:26.158000Z"
-        },
-        {
-          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
-          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
-          "title_zh": "GPT-5.6 如何推进性价比前沿",
-          "title_en": "Advancing the price-performance frontier with GPT‑5.6",
-          "title_original": "Advancing the price-performance frontier with GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T17:15:51Z"
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7126,
-        "story_heat": 0.5
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T10:00:00Z",
-      "latest_at": "2026-07-30T18:01:26.158000Z",
+      "earliest_at": "2026-07-31T11:01:48.001424Z",
+      "latest_at": "2026-07-31T11:01:48.001424Z",
       "primary_item": {
-        "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
-        "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
-        "title_zh": "GPT-5.6 如何推进性价比前沿",
-        "title_en": "Advancing the price-performance frontier with GPT-5.6",
-        "title_original": "Advancing the price-performance frontier with GPT-5.6",
+        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+        "title_zh": "在整个欧洲推进负责任的人工智能",
+        "title_en": "Advancing responsible AI across Europe",
+        "title_original": "Advancing responsible AI across Europe",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -142,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -277,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9369,
+        "recency": 0.916,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -389,15 +330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.7661,
+        "recency": 0.749,
         "story_heat": 0.25
       },
       "category": "official",
@@ -425,7 +366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -473,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7676,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,338 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
-      }
-    },
-    {
-      "story_id": "story_077a06a5fc28",
-      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "title_zh": "在整个欧洲推进负责任的人工智能",
-          "title_en": "Advancing responsible AI across Europe",
-          "title_original": "Advancing responsible AI across Europe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "title_zh": "在整个欧洲推进负责任的人工智能",
-          "title_en": "Advancing responsible AI across Europe",
-          "title_original": "Advancing responsible AI across Europe",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T09:27:58.542840Z",
-      "latest_at": "2026-07-31T09:27:58.542840Z",
-      "primary_item": {
-        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-        "title_zh": "在整个欧洲推进负责任的人工智能",
-        "title_en": "Advancing responsible AI across Europe",
-        "title_original": "Advancing responsible AI across Europe",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
-      }
-    },
-    {
-      "story_id": "story_4960da0a8a33",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7942,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:30:24Z",
-      "latest_at": "2026-07-30T17:30:24Z",
-      "primary_item": {
-        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-        "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-        "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
-      }
-    },
-    {
-      "story_id": "story_cd0c62bd1478",
-      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8143,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T19:14:22Z",
-      "latest_at": "2026-07-30T19:14:22Z",
-      "primary_item": {
-        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-        "title_zh": "GitHub Models 现已退役",
-        "title_en": "GitHub Models is now retired",
-        "title_original": "GitHub Models is now retired",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
-      }
-    },
-    {
-      "story_id": "story_8589c3648ef5",
-      "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-      "url": "https://www.ithome.com/0/984/201.htm",
-      "primary_url": "https://www.ithome.com/0/984/201.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
-          "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "title_en": null,
-          "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/201.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T07:27:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
-          "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "title_en": null,
-          "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-          "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/984/201.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T07:27:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T07:27:01Z",
-      "latest_at": "2026-07-31T07:27:01Z",
-      "primary_item": {
-        "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
-        "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-        "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-        "title_en": null,
-        "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
-        "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/984/201.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -887,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.965,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,7 +532,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
+      }
+    },
+    {
+      "story_id": "story_4960da0a8a33",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7764,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:30:24Z",
+      "latest_at": "2026-07-30T17:30:24Z",
+      "primary_item": {
+        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+        "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T11:02:36.880955Z"
+      }
+    },
+    {
+      "story_id": "story_cd0c62bd1478",
+      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7961,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T19:14:22Z",
+      "latest_at": "2026-07-30T19:14:22Z",
+      "primary_item": {
+        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+        "title_zh": "GitHub Models 现已退役",
+        "title_en": "GitHub Models is now retired",
+        "title_original": "GitHub Models is now retired",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T11:02:36.880955Z"
+      }
+    },
+    {
+      "story_id": "story_8589c3648ef5",
+      "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+      "url": "https://www.ithome.com/0/984/201.htm",
+      "primary_url": "https://www.ithome.com/0/984/201.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
+          "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "title_en": null,
+          "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/201.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T07:27:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
+          "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "title_en": null,
+          "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+          "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/201.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T07:27:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9496,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:27:01Z",
+      "latest_at": "2026-07-31T07:27:01Z",
+      "primary_item": {
+        "id": "e85b5a858f1f35056a55ddbd905fc86be861948e",
+        "title": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+        "title_zh": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+        "title_en": null,
+        "title_original": "腾讯混元科研智能体 Hyra 攻克加法组合学 50 年未解难题",
+        "summary": "腾讯混元基于 Hy3 模型的科研智能体 Hyra 为加法组合学中悬而未决半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 经约 24 小时运行提出核心思路，将最好结果从约 1.14 提高到 1.21，并给出显式构造、论文预印本及 Lean 4 形式化证明。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/984/201.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T11:02:36.880955Z"
+      }
+    },
+    {
+      "story_id": "story_559c84081a7e",
+      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+      "url": "https://www.minimax.io/blog/minimax-h3",
+      "primary_url": "https://www.minimax.io/blog/minimax-h3",
+      "source": "MiniMax：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MiniMax：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minimax.io/blog/minimax-h3",
+          "source": "MiniMax：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T09:59:02.996000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.985,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T09:59:02.996000Z",
+      "latest_at": "2026-07-31T09:59:02.996000Z",
+      "primary_item": {
+        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
+        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+        "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+        "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+        "recommend_reason_zh": null,
+        "url": "https://www.minimax.io/blog/minimax-h3",
+        "source": "MiniMax：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -970,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7663,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1005,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1053,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7663,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1087,7 +1027,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
+      }
+    },
+    {
+      "story_id": "story_d786a5714ff6",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
+      "primary_url": "https://www.aibase.com/news/30048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:01:48.001424Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "title_en": null,
+          "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:01:48.001424Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T11:01:48.001424Z",
+      "latest_at": "2026-07-31T11:01:48.001424Z",
+      "primary_item": {
+        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_zh": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "title_en": null,
+        "title_original": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1164,15 +1186,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8286,
+        "recency": 0.8101,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1199,89 +1221,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
-      }
-    },
-    {
-      "story_id": "story_5823adf4f214",
-      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-      "url": "https://www.aibase.com/news/30039",
-      "primary_url": "https://www.aibase.com/news/30039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_en": null,
-          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "title_en": null,
-          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:11:31.019429Z",
-      "latest_at": "2026-07-31T08:11:31.019429Z",
-      "primary_item": {
-        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "title_en": null,
-        "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1329,21 +1269,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7771,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T16:00:00Z",
       "latest_at": "2026-07-30T16:00:00Z",
@@ -1363,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1411,15 +1350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.796,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1446,30 +1385,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
-      "story_id": "story_5695031e97d0",
-      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-      "url": "https://www.aibase.com/news/30047",
-      "primary_url": "https://www.aibase.com/news/30047",
+      "story_id": "story_1ec32c7e798b",
+      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+      "url": "https://www.aibase.com/news/30049",
+      "primary_url": "https://www.aibase.com/news/30049",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
           "title_en": null,
-          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30047",
+          "url": "https://www.aibase.com/news/30049",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
+          "published_at": "2026-07-31T11:01:48.001424Z"
         }
       ],
       "source_count": 1,
@@ -1478,31 +1417,31 @@
       ],
       "items": [
         {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
           "title_en": null,
-          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30047",
+          "url": "https://www.aibase.com/news/30049",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-31T08:11:31.019429Z"
+          "published_at": "2026-07-31T11:01:48.001424Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1510,17 +1449,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T08:11:31.019429Z",
-      "latest_at": "2026-07-31T08:11:31.019429Z",
+      "earliest_at": "2026-07-31T11:01:48.001424Z",
+      "latest_at": "2026-07-31T11:01:48.001424Z",
       "primary_item": {
-        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-        "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
         "title_en": null,
-        "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30047",
+        "url": "https://www.aibase.com/news/30049",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1528,7 +1467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1576,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8603,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1609,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1657,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9601,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1691,7 +1630,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1739,15 +1678,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1772,7 +1711,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     },
     {
@@ -1820,15 +1759,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1853,7 +1792,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T09:28:51.080143Z"
+        "scored_at": "2026-07-31T11:02:36.880955Z"
       }
     }
   ]
