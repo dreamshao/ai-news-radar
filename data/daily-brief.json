@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:32:06.475851Z",
+  "generated_at": "2026-08-01T17:27:12.319769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T15:32:06.475851Z",
-      "latest_at": "2026-08-01T15:32:06.475851Z",
+      "earliest_at": "2026-08-01T17:27:12.319769Z",
+      "latest_at": "2026-08-01T17:27:12.319769Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.799,
+        "recency": 0.7772,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7549,
+        "recency": 0.7343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7381,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -449,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9323,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,7 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -609,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7348,
+        "recency": 0.7147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.747,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -804,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,7 +837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -885,15 +885,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,7 +918,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -966,15 +966,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,171 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
-      }
-    },
-    {
-      "story_id": "story_934172c730ea",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7198,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
-      "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "title_zh": "限制 npmbypass-2FA 粒度访问令牌",
-        "title_en": "Restricting npm bypass-2FA granular access tokens",
-        "title_original": "Restricting npm bypass-2FA granular access tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
-      }
-    },
-    {
-      "story_id": "story_c38e05787678",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_en": null,
-          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-          "title_en": null,
-          "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-          "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T16:01:51Z",
-      "latest_at": "2026-07-31T16:01:51Z",
-      "primary_item": {
-        "id": "2eb387d7832df603b86c5364d32bd8318dfcbcea",
-        "title": "animated-voiceover 开源：一人干翻动画工作室",
-        "title_zh": "animated-voiceover 开源：一人干翻动画工作室",
-        "title_en": null,
-        "title_original": "animated-voiceover 开源：一人干翻动画工作室",
-        "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -1239,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7458,
+        "recency": 0.7254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -1378,15 +1214,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9122,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1411,7 +1247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -1517,15 +1353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9059,
+        "recency": 0.8811,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1550,109 +1386,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
-      "story_id": "story_0878b3fd6fe1",
-      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-      "url": "https://news.ycombinator.com/item?id=49134079",
-      "primary_url": "https://news.ycombinator.com/item?id=49134079",
+      "story_id": "story_83ab2fec2032",
+      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://news.ycombinator.com/item?id=49134038",
+      "primary_url": "https://news.ycombinator.com/item?id=49134038",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
+          "url": "https://news.ycombinator.com/item?id=49134038",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T14:00:43.425000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
+          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T13:02:44Z"
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:56:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
+          "url": "https://news.ycombinator.com/item?id=49134038",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T14:00:43.425000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
+          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T13:02:44Z"
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:56:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9782,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T13:02:44Z",
-      "latest_at": "2026-08-01T14:00:43.425000Z",
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T17:27:33.402000Z",
       "primary_item": {
-        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-        "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-        "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-        "title_en": "Google kills Earth AI generator after one day",
-        "title_original": "Google kills Earth AI generator after one day",
+        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+        "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+        "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+        "title_original": "Charlie Stross – On the non-use of AI in my writing process",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134079",
+        "url": "https://news.ycombinator.com/item?id=49134038",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1660,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -1766,15 +1602,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8388,
+        "recency": 0.8158,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1799,7 +1635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
@@ -1876,15 +1712,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8752,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1909,44 +1745,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
-      "story_id": "story_cb70a765bd5d",
-      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-      "url": "https://news.ycombinator.com/item?id=49132341",
-      "primary_url": "https://news.ycombinator.com/item?id=49132341",
+      "story_id": "story_817116dbd893",
+      "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+      "url": "https://news.ycombinator.com/item?id=49135257",
+      "primary_url": "https://news.ycombinator.com/item?id=49135257",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132341",
+          "url": "https://news.ycombinator.com/item?id=49135257",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "b75bb0bc2b5de15baa5440547daa4dbdfa19cffd",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-01T08:26:55Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "source_count": 2,
@@ -1956,62 +1792,62 @@
       ],
       "items": [
         {
-          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132341",
+          "url": "https://news.ycombinator.com/item?id=49135257",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "b75bb0bc2b5de15baa5440547daa4dbdfa19cffd",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+          "title_en": "Cursor removed cost information from the usage page and CSV export",
+          "title_original": "Cursor removed cost information from the usage page and CSV export",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-01T08:26:55Z"
+          "published_at": "2026-08-01T15:25:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T08:26:55Z",
-      "latest_at": "2026-08-01T11:07:58.137000Z",
+      "earliest_at": "2026-08-01T15:25:21Z",
+      "latest_at": "2026-08-01T17:27:33.402000Z",
       "primary_item": {
-        "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-        "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-        "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-        "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-        "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
+        "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+        "title": "Cursor从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+        "title_zh": "Cursor从使用页面和 CSV 导出中删除了成本信息",
+        "title_en": "Cursor removed cost information from the usage page and CSV export",
+        "title_original": "Cursor removed cost information from the usage page and CSV export",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49132341",
+        "url": "https://news.ycombinator.com/item?id=49135257",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -2019,109 +1855,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     },
     {
-      "story_id": "story_b49f835a8373",
-      "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://news.ycombinator.com/item?id=49127874",
-      "primary_url": "https://news.ycombinator.com/item?id=49127874",
+      "story_id": "story_a975cc406b15",
+      "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+      "url": "https://news.ycombinator.com/item?id=49135914",
+      "primary_url": "https://news.ycombinator.com/item?id=49135914",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
+          "id": "529485b4472a45bf408a70b93a10287b0ed3c31f",
+          "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+          "title_zh": "我解雇了我的人工智能助手",
+          "title_en": "I Fired My AI Assitant",
+          "title_original": "I Fired My AI Assitant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
+          "url": "https://news.ycombinator.com/item?id=49135914",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
+          "id": "37fbb7956512f48759c1747ec2a094ed1a14094a",
+          "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+          "title_zh": "我解雇了我的人工智能助手",
+          "title_en": "I Fired My AI Assitant",
+          "title_original": "I Fired My AI Assitant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T16:38:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
+          "id": "529485b4472a45bf408a70b93a10287b0ed3c31f",
+          "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+          "title_zh": "我解雇了我的人工智能助手",
+          "title_en": "I Fired My AI Assitant",
+          "title_original": "I Fired My AI Assitant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
+          "url": "https://news.ycombinator.com/item?id=49135914",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
+          "published_at": "2026-08-01T17:27:33.402000Z"
         },
         {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
+          "id": "37fbb7956512f48759c1747ec2a094ed1a14094a",
+          "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+          "title_zh": "我解雇了我的人工智能助手",
+          "title_en": "I Fired My AI Assitant",
+          "title_original": "I Fired My AI Assitant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T16:38:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7862,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T19:55:41Z",
-      "latest_at": "2026-07-31T22:52:32.457000Z",
+      "earliest_at": "2026-08-01T16:38:28Z",
+      "latest_at": "2026-08-01T17:27:33.402000Z",
       "primary_item": {
-        "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-        "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-        "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
+        "id": "529485b4472a45bf408a70b93a10287b0ed3c31f",
+        "title": "我解雇了我的人工智能助手 / I Fired My AI Assitant",
+        "title_zh": "我解雇了我的人工智能助手",
+        "title_en": "I Fired My AI Assitant",
+        "title_original": "I Fired My AI Assitant",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49127874",
+        "url": "https://news.ycombinator.com/item?id=49135914",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -2129,7 +1965,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T15:32:45.424387Z"
+        "scored_at": "2026-08-01T17:27:56.815041Z"
+      }
+    },
+    {
+      "story_id": "story_aa07489c8f5d",
+      "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+      "url": "https://news.ycombinator.com/item?id=49136236",
+      "primary_url": "https://news.ycombinator.com/item?id=49136236",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f2937595bcb14b74e28b637a6623c01052805843",
+          "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+          "title_zh": "评估开放人工智能数学结果",
+          "title_en": "Assessment of open AI math results",
+          "title_original": "Assessment of open AI math results",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49136236",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T17:27:33.402000Z"
+        },
+        {
+          "id": "ab162ad9d997795e3b518ad4cd4c068a2bdc7dfe",
+          "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+          "title_zh": "评估开放人工智能数学结果",
+          "title_en": "Assessment of open AI math results",
+          "title_original": "Assessment of open AI math results",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T17:08:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f2937595bcb14b74e28b637a6623c01052805843",
+          "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+          "title_zh": "评估开放人工智能数学结果",
+          "title_en": "Assessment of open AI math results",
+          "title_original": "Assessment of open AI math results",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49136236",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T17:27:33.402000Z"
+        },
+        {
+          "id": "ab162ad9d997795e3b518ad4cd4c068a2bdc7dfe",
+          "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+          "title_zh": "评估开放人工智能数学结果",
+          "title_en": "Assessment of open AI math results",
+          "title_original": "Assessment of open AI math results",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T17:08:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T17:08:03Z",
+      "latest_at": "2026-08-01T17:27:33.402000Z",
+      "primary_item": {
+        "id": "f2937595bcb14b74e28b637a6623c01052805843",
+        "title": "评估开放人工智能数学结果 / Assessment of open AI math results",
+        "title_zh": "评估开放人工智能数学结果",
+        "title_en": "Assessment of open AI math results",
+        "title_original": "Assessment of open AI math results",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49136236",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T17:27:56.815041Z"
+      }
+    },
+    {
+      "story_id": "story_0878b3fd6fe1",
+      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+      "url": "https://news.ycombinator.com/item?id=49134079",
+      "primary_url": "https://news.ycombinator.com/item?id=49134079",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T14:00:43.425000Z"
+        },
+        {
+          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
+          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T13:02:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T14:00:43.425000Z"
+        },
+        {
+          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
+          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T13:02:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9515,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T13:02:44Z",
+      "latest_at": "2026-08-01T14:00:43.425000Z",
+      "primary_item": {
+        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+        "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
+        "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
+        "title_en": "Google kills Earth AI generator after one day",
+        "title_original": "Google kills Earth AI generator after one day",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49134079",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T17:27:56.815041Z"
       }
     }
   ]
