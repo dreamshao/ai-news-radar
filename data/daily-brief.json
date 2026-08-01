@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T21:12:20.111831Z",
+  "generated_at": "2026-08-01T22:14:03.331680Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T21:12:20.111831Z",
-      "latest_at": "2026-08-01T21:12:20.111831Z",
+      "earliest_at": "2026-08-01T22:14:03.331680Z",
+      "latest_at": "2026-08-01T22:14:03.331680Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7362,
+        "recency": 0.7254,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -273,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -308,118 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
-      }
-    },
-    {
-      "story_id": "story_d40fa5aaf708",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "primary_url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/31/smevals",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:15:23Z"
-        },
-        {
-          "id": "dab3d4d172b1d35069b2895cfd4414942a1d1178",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "title_en": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "title_original": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/31/smevals",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-31T21:15:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Simon Willison",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-          "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/31/smevals",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:15:23Z"
-        },
-        {
-          "id": "dab3d4d172b1d35069b2895cfd4414942a1d1178",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "title_en": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "title_original": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Jul/31/smevals",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-31T21:15:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7076,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T21:15:23Z",
-      "latest_at": "2026-07-31T21:15:23Z",
-      "primary_item": {
-        "id": "67953bd0f4cbf27beb2f7f7c9c8888ca464aa330",
-        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-        "title_zh": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-        "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-        "title_original": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-        "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Jul/31/smevals",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -467,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7795,
+        "recency": 0.768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,88 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
-      }
-    },
-    {
-      "story_id": "story_af28dcb2d4df",
-      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
-          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-          "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:38:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
-          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-          "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-          "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:38:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7115,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T21:38:05Z",
-      "latest_at": "2026-07-31T21:38:05Z",
-      "primary_item": {
-        "id": "f5b0f06a5840986aee788abf2fc3d097bd3d489a",
-        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-        "title_zh": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-        "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-        "title_original": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-        "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -629,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8222,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +470,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -797,15 +605,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
+      "score": 0.5858,
+      "importance": 0.5858,
+      "importance_score": 0.5858,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9588,
+        "recency": 0.9446,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -830,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -936,15 +744,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9477,
+        "recency": 0.9338,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -969,7 +777,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
+      }
+    },
+    {
+      "story_id": "story_8c9e60cd6b83",
+      "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://news.ycombinator.com/item?id=49136955",
+      "primary_url": "https://news.ycombinator.com/item?id=49136955",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49136955",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T21:54:37.127000Z"
+        },
+        {
+          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
+          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T18:21:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49136955",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T21:54:37.127000Z"
+        },
+        {
+          "id": "1af37655e7e4bac7d5d6d13fea08039000871601",
+          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
+          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T18:21:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9953,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T18:21:41Z",
+      "latest_at": "2026-08-01T21:54:37.127000Z",
+      "primary_item": {
+        "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
+        "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
+        "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49136955",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1075,15 +993,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.8514,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1108,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1214,15 +1132,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8347,
+        "recency": 0.8224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1247,7 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1324,15 +1242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9473,
+        "recency": 0.9334,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,117 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
-      }
-    },
-    {
-      "story_id": "story_de533034d9ec",
-      "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-      "url": "https://code.intellios.ai/cwbrowser",
-      "primary_url": "https://code.intellios.ai/cwbrowser",
-      "source": "code.intellios.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_en": null,
-          "title_original": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "code.intellios.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T06:18:00.662000Z"
-        },
-        {
-          "id": "bcfe10fa2622cd4799c49145d20c8314bb5de1f3",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_en": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "title_original": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T21:39:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "code.intellios.ai"
-      ],
-      "items": [
-        {
-          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_en": null,
-          "title_original": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "code.intellios.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T06:18:00.662000Z"
-        },
-        {
-          "id": "bcfe10fa2622cd4799c49145d20c8314bb5de1f3",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "title_en": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "title_original": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T21:39:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8063,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T21:39:52Z",
-      "latest_at": "2026-08-01T06:18:00.662000Z",
-      "primary_item": {
-        "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
-        "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-        "title_zh": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-        "title_en": null,
-        "title_original": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://code.intellios.ai/cwbrowser",
-        "source": "code.intellios.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1544,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9473,
+        "recency": 0.9334,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1577,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1654,15 +1462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9013,
+        "recency": 0.888,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1687,7 +1495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     },
     {
@@ -1764,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8646,
+        "recency": 0.8519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1797,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T21:13:03.568129Z"
+        "scored_at": "2026-08-01T22:14:45.586128Z"
       }
     }
   ]
