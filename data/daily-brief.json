@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:11:41.034831Z",
+  "generated_at": "2026-08-03T20:02:15.863755Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T18:11:41.034831Z",
-      "latest_at": "2026-08-03T18:11:41.034831Z",
+      "earliest_at": "2026-08-03T20:02:15.863755Z",
+      "latest_at": "2026-08-03T20:02:15.863755Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -137,7 +137,7 @@
           "published_at": "2026-08-03T15:44:20.724000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
@@ -145,15 +145,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -202,7 +202,7 @@
           "published_at": "2026-08-03T15:44:20.724000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
@@ -210,23 +210,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.949,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9509,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -359,15 +442,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7707,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -394,7 +477,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
+      }
+    },
+    {
+      "story_id": "story_c812f9375d11",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.966,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+        "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "title_en": "Europe's AI labeling and transparency rules are now in effect",
+        "title_original": "Europe's AI labeling and transparency rules are now in effect",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -442,21 +637,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:38:20.482322Z",
       "latest_at": "2026-08-03T12:38:20.482322Z",
@@ -476,88 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
-      }
-    },
-    {
-      "story_id": "story_f8f3a56ad08e",
-      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-      "url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T15:31:21Z",
-      "latest_at": "2026-08-03T15:31:21Z",
-      "primary_item": {
-        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-        "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-        "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2084301100078027143",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -605,15 +718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +751,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
+      }
+    },
+    {
+      "story_id": "story_f8f3a56ad08e",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9369,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T15:31:21Z",
+      "latest_at": "2026-08-03T15:31:21Z",
+      "primary_item": {
+        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+        "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+        "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2084301100078027143",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -686,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9506,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,7 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -767,15 +961,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9126,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,7 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -848,15 +1042,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9488,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -881,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -958,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7409,
+        "recency": 0.7214,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -992,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1040,21 +1234,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:38:20.482322Z",
       "latest_at": "2026-08-03T12:38:20.482322Z",
@@ -1074,7 +1267,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1122,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1203,21 +1396,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:38:20.482322Z",
       "latest_at": "2026-08-03T12:38:20.482322Z",
@@ -1237,7 +1429,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1285,21 +1477,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T12:38:20.482322Z",
       "latest_at": "2026-08-03T12:38:20.482322Z",
@@ -1319,7 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1367,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1476,15 +1667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5978,
-      "importance": 0.5978,
-      "importance_score": 0.5978,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9016,
+        "recency": 0.8779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1509,7 +1700,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1557,15 +1748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,203 +1781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
-      }
-    },
-    {
-      "story_id": "story_1de0c63082e4",
-      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T04:51:39.521000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T04:51:39.521000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5893,
-      "importance": 0.5893,
-      "importance_score": 0.5893,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8249,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T04:51:39.521000Z",
-      "primary_item": {
-        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-        "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     },
     {
@@ -1834,15 +1829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1867,146 +1862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
-      }
-    },
-    {
-      "story_id": "story_4797ec632e82",
-      "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "source": "www.modelrepublic.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": null,
-          "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T04:51:39.521000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": null,
-          "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
-          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49150561",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T04:51:39.521000Z"
-        },
-        {
-          "id": "92658c15f576130012e41e8bcd733b5f2982a26a",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8355,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T05:44:58.273000Z",
-      "primary_item": {
-        "id": "1df375caf2242069944c372fb478134ce40d4667",
-        "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "title_en": null,
-        "title_original": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "source": "www.modelrepublic.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T18:12:23.784664Z"
+        "scored_at": "2026-08-03T20:04:21.563960Z"
       }
     }
   ]
