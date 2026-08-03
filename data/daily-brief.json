@@ -1,8 +1,149 @@
 {
-  "generated_at": "2026-08-03T01:00:33.321294Z",
+  "generated_at": "2026-08-03T04:51:21.144280Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_86a49a282286",
+      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
+          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+          "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T02:00:00Z"
+        },
+        {
+          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
+          "title": "Qwen3.8-Max：编程与协同办公的新去处",
+          "title_zh": "Qwen3.8-Max：编程与协同办公的新去处",
+          "title_en": null,
+          "title_original": "Qwen3.8-Max：编程与协同办公的新去处",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T03:52:51.022000Z"
+        },
+        {
+          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+          "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "title_original": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T02:16:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
+          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+          "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+          "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T02:00:00Z"
+        },
+        {
+          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
+          "title": "Qwen3.8-Max：编程与协同办公的新去处",
+          "title_zh": "Qwen3.8-Max：编程与协同办公的新去处",
+          "title_en": null,
+          "title_original": "Qwen3.8-Max：编程与协同办公的新去处",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T03:52:51.022000Z"
+        },
+        {
+          "id": "0f2e65a830beca422e5048c3a6a340c9bba9a126",
+          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+          "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "title_original": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T02:16:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8613,
+      "importance": 0.8613,
+      "importance_score": 0.8613,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.89,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9596,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T02:00:00Z",
+      "latest_at": "2026-08-03T03:52:51.022000Z",
+      "primary_item": {
+        "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
+        "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
+        "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+        "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+        "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+        "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen3.8",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
     {
       "story_id": "story_cd21c6fddb56",
       "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -65,8 +206,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T01:00:33.321294Z",
-      "latest_at": "2026-08-03T01:00:33.321294Z",
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,30 +224,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_01ec666359ea",
-      "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
-      "url": "https://www.aibase.com/news/30050",
-      "primary_url": "https://www.aibase.com/news/30050",
+      "story_id": "story_803fd98bf2ba",
+      "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+      "url": "https://www.aibase.com/news/30053",
+      "primary_url": "https://www.aibase.com/news/30053",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "07451fdbea9e3793d0539ee20aed5ac1a8647f7a",
-          "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
-          "title_zh": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+          "title_zh": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
           "title_en": null,
-          "title_original": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+          "title_original": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30050",
+          "url": "https://www.aibase.com/news/30053",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T01:00:33.321294Z"
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
       "source_count": 1,
@@ -115,18 +256,18 @@
       ],
       "items": [
         {
-          "id": "07451fdbea9e3793d0539ee20aed5ac1a8647f7a",
-          "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
-          "title_zh": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+          "title_zh": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
           "title_en": null,
-          "title_original": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+          "title_original": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30050",
+          "url": "https://www.aibase.com/news/30053",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T01:00:33.321294Z"
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
       "item_count": 1,
@@ -147,17 +288,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T01:00:33.321294Z",
-      "latest_at": "2026-08-03T01:00:33.321294Z",
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
       "primary_item": {
-        "id": "07451fdbea9e3793d0539ee20aed5ac1a8647f7a",
-        "title": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
-        "title_zh": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+        "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+        "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+        "title_zh": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
         "title_en": null,
-        "title_original": "北京 AGI Bar 创新玩法：消费即送 DeepSeek V4 Flash 无限量 API，AI 算力变身线下基础设施",
+        "title_original": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30050",
+        "url": "https://www.aibase.com/news/30053",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -165,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
@@ -242,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9495,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -277,7 +418,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_0aec4c645307",
+      "title": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+      "url": "https://www.aibase.com/news/30052",
+      "primary_url": "https://www.aibase.com/news/30052",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8852f23529982beafe52c54995a32d79a593a1e5",
+          "title": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "title_zh": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "title_en": null,
+          "title_original": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30052",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8852f23529982beafe52c54995a32d79a593a1e5",
+          "title": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "title_zh": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "title_en": null,
+          "title_original": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30052",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "8852f23529982beafe52c54995a32d79a593a1e5",
+        "title": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+        "title_zh": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+        "title_en": null,
+        "title_original": "DeepSeek V4-Flash API开启公测 速度与性价比全面碾压GPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30052",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
@@ -325,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8144,
+        "recency": 0.7704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -358,88 +581,695 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_aedb8d520358",
-      "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-      "url": "https://x.com/elonmusk/status/2083800942927839307",
-      "primary_url": "https://x.com/elonmusk/status/2083800942927839307",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_6c3058580779",
+      "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+      "url": "https://www.aibase.com/news/30057",
+      "primary_url": "https://www.aibase.com/news/30057",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
-          "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "title_zh": "Grok 支持分析任意视频",
-          "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "title_original": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+          "id": "59814318328af4611933775cbc86841bd19f6eb1",
+          "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "title_zh": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "title_en": null,
+          "title_original": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2083800942927839307",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T06:23:54Z"
+          "url": "https://www.aibase.com/news/30057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
-          "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "title_zh": "Grok 支持分析任意视频",
-          "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "title_original": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-          "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+          "id": "59814318328af4611933775cbc86841bd19f6eb1",
+          "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "title_zh": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "title_en": null,
+          "title_original": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/elonmusk/status/2083800942927839307",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T06:23:54Z"
+          "url": "https://www.aibase.com/news/30057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7643,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-02T06:23:54Z",
-      "latest_at": "2026-08-02T06:23:54Z",
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
       "primary_item": {
-        "id": "4482ac0b34e8a66df33dcfffcbff66f3e210ec46",
-        "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "title_zh": "Grok 支持分析任意视频",
-        "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "title_original": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+        "id": "59814318328af4611933775cbc86841bd19f6eb1",
+        "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+        "title_zh": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+        "title_en": null,
+        "title_original": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/elonmusk/status/2083800942927839307",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30057",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_a04b7bc71a92",
+      "title": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+      "url": "https://www.aibase.com/news/30051",
+      "primary_url": "https://www.aibase.com/news/30051",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "01127ac2d2eee7f5b58328e3406d6ac44178a4c5",
+          "title": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "title_zh": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "title_en": null,
+          "title_original": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30051",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "01127ac2d2eee7f5b58328e3406d6ac44178a4c5",
+          "title": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "title_zh": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "title_en": null,
+          "title_original": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30051",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "01127ac2d2eee7f5b58328e3406d6ac44178a4c5",
+        "title": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+        "title_zh": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+        "title_en": null,
+        "title_original": "OpenAI调查更多AI智能体逃逸事件:部分代理疑似突破沙箱环境",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30051",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_67666086ef48",
+      "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+      "url": "https://www.aibase.com/news/30059",
+      "primary_url": "https://www.aibase.com/news/30059",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "title_zh": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "title_en": null,
+          "title_original": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "title_zh": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "title_en": null,
+          "title_original": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+        "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+        "title_zh": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+        "title_en": null,
+        "title_original": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30059",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_1de0c63082e4",
+      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
+          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T04:51:39.521000Z"
+        },
+        {
+          "id": "4edaaec810850620669c5112868bb919b9b9706c",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": null,
+          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "frogs.vaguespac.es",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T01:44:49.130000Z"
+        },
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        },
+        {
+          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "frogs.vaguespac.es",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
+          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T04:51:39.521000Z"
+        },
+        {
+          "id": "4edaaec810850620669c5112868bb919b9b9706c",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": null,
+          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "frogs.vaguespac.es",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T01:44:49.130000Z"
+        },
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        },
+        {
+          "id": "84039601be79c0b1c6a0c6401151a44f6eb5fcbc",
+          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
+          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6208,
+      "importance": 0.6208,
+      "importance_score": 0.6208,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-03T04:51:39.521000Z",
+      "primary_item": {
+        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
+        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
+        "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_fc3c04b4d9ff",
+      "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+      "url": "https://www.aibase.com/news/30056",
+      "primary_url": "https://www.aibase.com/news/30056",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e1e45b20f840146141814ed5c038aeb44e120f4",
+          "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "title_zh": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "title_en": null,
+          "title_original": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e1e45b20f840146141814ed5c038aeb44e120f4",
+          "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "title_zh": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "title_en": null,
+          "title_original": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30056",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "2e1e45b20f840146141814ed5c038aeb44e120f4",
+        "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+        "title_zh": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+        "title_en": null,
+        "title_original": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30056",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_b53ec22aef45",
+      "title": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+      "url": "https://www.aibase.com/news/30063",
+      "primary_url": "https://www.aibase.com/news/30063",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5f4947f0799a18185add99beb7a989700686e4f2",
+          "title": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "title_zh": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "title_en": null,
+          "title_original": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5f4947f0799a18185add99beb7a989700686e4f2",
+          "title": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "title_zh": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "title_en": null,
+          "title_original": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "5f4947f0799a18185add99beb7a989700686e4f2",
+        "title": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+        "title_zh": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+        "title_en": null,
+        "title_original": "​全球大模型调用量榜单大洗牌：中国科技企业直接包揽前五！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30063",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_25b5736c72ff",
+      "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+      "url": "https://www.aibase.com/news/30062",
+      "primary_url": "https://www.aibase.com/news/30062",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "title_zh": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "title_en": null,
+          "title_original": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "title_zh": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "title_en": null,
+          "title_original": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+        "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+        "title_zh": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+        "title_en": null,
+        "title_original": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30062",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
@@ -545,15 +1375,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.8717,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -578,117 +1408,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_249a7e6e5d49",
-      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-      "url": "https://news.ycombinator.com/item?id=49148899",
-      "primary_url": "https://news.ycombinator.com/item?id=49148899",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_5e37a2bfe3ac",
+      "title": "AI海报在俄亥俄州博览会上获奖",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "primary_url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "source": "www.ohiostatefair.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "title_zh": "Show HN：Mu – 代理工具",
-          "title_en": "Show HN: Mu – Tools for Agents",
-          "title_original": "Show HN: Mu – Tools for Agents",
+          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
+          "title": "AI海报在俄亥俄州博览会上获奖",
+          "title_zh": "AI海报在俄亥俄州博览会上获奖",
+          "title_en": null,
+          "title_original": "AI海报在俄亥俄州博览会上获奖",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148899",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T01:00:54.371000Z"
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "source": "www.ohiostatefair.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T00:56:46.069000Z"
         },
         {
-          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "title_zh": "Show HN：Mu – 代理工具",
-          "title_en": "Show HN: Mu – Tools for Agents",
-          "title_original": "Show HN: Mu – Tools for Agents",
+          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI海报在俄亥俄州博览会上获奖",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/micro/mu",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T22:06:34Z"
+          "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "www.ohiostatefair.com"
       ],
       "items": [
         {
-          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "title_zh": "Show HN：Mu – 代理工具",
-          "title_en": "Show HN: Mu – Tools for Agents",
-          "title_original": "Show HN: Mu – Tools for Agents",
+          "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
+          "title": "AI海报在俄亥俄州博览会上获奖",
+          "title_zh": "AI海报在俄亥俄州博览会上获奖",
+          "title_en": null,
+          "title_original": "AI海报在俄亥俄州博览会上获奖",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148899",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T01:00:54.371000Z"
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+          "source": "www.ohiostatefair.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T00:56:46.069000Z"
         },
         {
-          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
-          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-          "title_zh": "Show HN：Mu – 代理工具",
-          "title_en": "Show HN: Mu – Tools for Agents",
-          "title_original": "Show HN: Mu – Tools for Agents",
+          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "title": "AI海报在俄亥俄州博览会上获奖 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI海报在俄亥俄州博览会上获奖",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/micro/mu",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T22:06:34Z"
+          "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9451,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T22:06:34Z",
-      "latest_at": "2026-08-03T01:00:54.371000Z",
+      "earliest_at": "2026-08-02T22:43:47Z",
+      "latest_at": "2026-08-03T00:56:46.069000Z",
       "primary_item": {
-        "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
-        "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
-        "title_zh": "Show HN：Mu – 代理工具",
-        "title_en": "Show HN: Mu – Tools for Agents",
-        "title_original": "Show HN: Mu – Tools for Agents",
+        "id": "228ad5508c6f118f1b0277b76977ba9c4c7e3a3d",
+        "title": "AI海报在俄亥俄州博览会上获奖",
+        "title_zh": "AI海报在俄亥俄州博览会上获奖",
+        "title_en": null,
+        "title_original": "AI海报在俄亥俄州博览会上获奖",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49148899",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+        "source": "www.ohiostatefair.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
+      }
+    },
+    {
+      "story_id": "story_91a125b4245a",
+      "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+      "url": "https://www.aibase.com/news/30060",
+      "primary_url": "https://www.aibase.com/news/30060",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
+          "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "title_zh": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "title_en": null,
+          "title_original": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30060",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
+          "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "title_zh": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "title_en": null,
+          "title_original": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30060",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
+      "primary_item": {
+        "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
+        "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+        "title_zh": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+        "title_en": null,
+        "title_original": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30060",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
@@ -765,15 +1677,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9179,
+        "recency": 0.8683,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,109 +1710,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_28846135b250",
-      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "url": "https://news.ycombinator.com/item?id=49147842",
-      "primary_url": "https://news.ycombinator.com/item?id=49147842",
+      "story_id": "story_4797ec632e82",
+      "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://news.ycombinator.com/item?id=49150561",
+      "primary_url": "https://news.ycombinator.com/item?id=49150561",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147842",
+          "url": "https://news.ycombinator.com/item?id=49150561",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-03T04:51:39.521000Z"
         },
         {
-          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/paoloanzn/microcodex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T20:11:35Z"
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147842",
+          "url": "https://news.ycombinator.com/item?id=49150561",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-03T04:51:39.521000Z"
         },
         {
-          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
+          "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+          "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/paoloanzn/microcodex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T20:11:35Z"
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T20:11:35Z",
-      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "earliest_at": "2026-08-03T02:30:30Z",
+      "latest_at": "2026-08-03T04:51:39.521000Z",
       "primary_item": {
-        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-        "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "id": "967b7c526151efdf34a4aa3eb14d4f2ba0d669a5",
+        "title": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+        "title_zh": "OpenAI 的超级 PAC 正在资助人工智能生成的新闻网站攻击行业批评者",
+        "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+        "title_original": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147842",
+        "url": "https://news.ycombinator.com/item?id=49150561",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -908,154 +1820,126 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_e28f2fbd5da2",
-      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "source": "www.wafer.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_499161498fce",
+      "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+      "url": "https://www.aibase.com/news/30061",
+      "primary_url": "https://www.aibase.com/news/30061",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "id": "4d38de32aeef8625b8e642f3dbeeaa0b79d4443f",
+          "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+          "title_zh": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
           "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_original": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
-        },
-        {
-          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T04:21:14Z"
+          "url": "https://www.aibase.com/news/30061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.wafer.ai"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "id": "4d38de32aeef8625b8e642f3dbeeaa0b79d4443f",
+          "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+          "title_zh": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
           "title_en": null,
-          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_original": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T07:21:18.343000Z"
-        },
-        {
-          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
-          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T04:21:14Z"
+          "url": "https://www.aibase.com/news/30061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T04:51:21.144280Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.775,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-02T04:21:14Z",
-      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "earliest_at": "2026-08-03T04:51:21.144280Z",
+      "latest_at": "2026-08-03T04:51:21.144280Z",
       "primary_item": {
-        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
-        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "id": "4d38de32aeef8625b8e642f3dbeeaa0b79d4443f",
+        "title": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
+        "title_zh": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
         "title_en": null,
-        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_original": "京东外卖推出 AI 智能头盔：老骑手的\"活地图\"装进耳朵，首批骑手免费领",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "source": "www.wafer.ai",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/30061",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     },
     {
-      "story_id": "story_86c71e140188",
-      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-      "url": "https://news.ycombinator.com/item?id=49148159",
-      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "story_id": "story_249a7e6e5d49",
+      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+      "url": "https://news.ycombinator.com/item?id=49148899",
+      "primary_url": "https://news.ycombinator.com/item?id=49148899",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148159",
+          "url": "https://news.ycombinator.com/item?id=49148899",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-03T01:00:54.371000Z"
         },
         {
-          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "url": "https://github.com/micro/mu",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:48:28Z"
+          "published_at": "2026-08-02T22:06:34Z"
         }
       ],
       "source_count": 2,
@@ -1065,62 +1949,62 @@
       ],
       "items": [
         {
-          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148159",
+          "url": "https://news.ycombinator.com/item?id=49148899",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-03T01:00:54.371000Z"
         },
         {
-          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "url": "https://github.com/micro/mu",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:48:28Z"
+          "published_at": "2026-08-02T22:06:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T20:48:28Z",
-      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "earliest_at": "2026-08-02T22:06:34Z",
+      "latest_at": "2026-08-03T01:00:54.371000Z",
       "primary_item": {
-        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-        "title_zh": "人工智能狂热：从郁金香到代币",
-        "title_en": "AI Mania: From Tulips to Tokens",
-        "title_original": "AI Mania: From Tulips to Tokens",
+        "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+        "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+        "title_zh": "Show HN：Mu – 代理工具",
+        "title_en": "Show HN: Mu – Tools for Agents",
+        "title_original": "Show HN: Mu – Tools for Agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49148159",
+        "url": "https://news.ycombinator.com/item?id=49148899",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1128,446 +2012,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
-      }
-    },
-    {
-      "story_id": "story_1de0c63082e4",
-      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9427,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
-      "primary_item": {
-        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
-      }
-    },
-    {
-      "story_id": "story_e4f117040b00",
-      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://news.ycombinator.com/item?id=49147606",
-      "primary_url": "https://news.ycombinator.com/item?id=49147606",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
-          "title_en": "EU rules on AI models become enforceable. What's going to change?",
-          "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
-          "title_en": "EU rules on AI models become enforceable. What's going to change?",
-          "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
-          "title_en": "EU rules on AI models become enforceable. What's going to change?",
-          "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147606",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
-          "title_en": "EU rules on AI models become enforceable. What's going to change?",
-          "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:40:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9427,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:40:19Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
-      "primary_item": {
-        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-        "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
-        "title_en": "EU rules on AI models become enforceable. What's going to change?",
-        "title_original": "EU rules on AI models become enforceable. What's going to change?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147606",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
-      }
-    },
-    {
-      "story_id": "story_2aa8e79a0b19",
-      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "primary_url": "https://news.ycombinator.com/item?id=49140340",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-          "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7423,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T01:56:44Z",
-      "latest_at": "2026-08-02T04:22:16.640000Z",
-      "primary_item": {
-        "id": "206af265b950be5f12e82285bf43bfc57041e321",
-        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
-        "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "title_original": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49140340",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
-      }
-    },
-    {
-      "story_id": "story_8982a531b4b5",
-      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T01:02:58.790000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T01:02:58.790000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7423,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T01:02:58.790000Z",
-      "latest_at": "2026-08-02T04:22:16.640000Z",
-      "primary_item": {
-        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T01:01:11.406936Z"
+        "scored_at": "2026-08-03T04:51:56.912135Z"
       }
     }
   ]
