@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:44:29.489261Z",
+  "generated_at": "2026-08-03T12:38:20.482322Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
+      "earliest_at": "2026-08-03T12:38:20.482322Z",
+      "latest_at": "2026-08-03T12:38:20.482322Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9072,
+        "recency": 0.8576,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,30 +224,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_84c5710e9cd0",
-      "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-      "url": "https://www.aibase.com/news/30075",
-      "primary_url": "https://www.aibase.com/news/30075",
+      "story_id": "story_13f269c0a486",
+      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+      "url": "https://www.aibase.com/news/30081",
+      "primary_url": "https://www.aibase.com/news/30081",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
           "title_en": null,
-          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30075",
+          "url": "https://www.aibase.com/news/30081",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
+          "published_at": "2026-08-03T12:38:20.482322Z"
         }
       ],
       "source_count": 1,
@@ -256,18 +256,18 @@
       ],
       "items": [
         {
-          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
           "title_en": null,
-          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30075",
+          "url": "https://www.aibase.com/news/30081",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
+          "published_at": "2026-08-03T12:38:20.482322Z"
         }
       ],
       "item_count": 1,
@@ -288,17 +288,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
+      "earliest_at": "2026-08-03T12:38:20.482322Z",
+      "latest_at": "2026-08-03T12:38:20.482322Z",
       "primary_item": {
-        "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-        "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-        "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
+        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+        "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
         "title_en": null,
-        "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30075",
+        "url": "https://www.aibase.com/news/30081",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -306,7 +306,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_d4bda84f7d7e",
+      "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_zh": "Kimi Work 幻灯片制作教程发布",
+          "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+          "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_zh": "Kimi Work 幻灯片制作教程发布",
+          "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+          "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T11:51:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:51:51Z",
+      "latest_at": "2026-08-03T11:51:51Z",
+      "primary_item": {
+        "id": "105fa79b50a073218fcefadaa53b7c82b1993b5e",
+        "title": "Kimi Work 幻灯片制作教程发布 / Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "title_zh": "Kimi Work 幻灯片制作教程发布",
+        "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "title_original": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -383,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8492,
+        "recency": 0.8028,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -417,7 +499,444 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_c4b1b3535dd0",
+      "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+      "url": "https://www.aibase.com/news/30083",
+      "primary_url": "https://www.aibase.com/news/30083",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
+          "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "title_zh": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "title_en": null,
+          "title_original": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30083",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
+          "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "title_zh": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "title_en": null,
+          "title_original": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30083",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T12:38:20.482322Z",
+      "latest_at": "2026-08-03T12:38:20.482322Z",
+      "primary_item": {
+        "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
+        "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+        "title_zh": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+        "title_en": null,
+        "title_original": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30083",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_d1d0d52ac226",
+      "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+      "url": "https://www.aibase.com/news/30077",
+      "primary_url": "https://www.aibase.com/news/30077",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
+          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "title_en": null,
+          "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30077",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
+          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "title_en": null,
+          "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30077",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T12:38:20.482322Z",
+      "latest_at": "2026-08-03T12:38:20.482322Z",
+      "primary_item": {
+        "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
+        "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+        "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+        "title_en": null,
+        "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30077",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_5c854a37b36c",
+      "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+      "url": "https://www.aibase.com/news/30082",
+      "primary_url": "https://www.aibase.com/news/30082",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
+          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "title_en": null,
+          "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30082",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
+          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "title_en": null,
+          "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30082",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T12:38:20.482322Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T12:38:20.482322Z",
+      "latest_at": "2026-08-03T12:38:20.482322Z",
+      "primary_item": {
+        "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
+        "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+        "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+        "title_en": null,
+        "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30082",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_84c5710e9cd0",
+      "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+      "url": "https://www.aibase.com/news/30075",
+      "primary_url": "https://www.aibase.com/news/30075",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_en": null,
+          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30075",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T08:44:29.489261Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "title_en": null,
+          "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30075",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T08:44:29.489261Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9453,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T08:44:29.489261Z",
+      "latest_at": "2026-08-03T08:44:29.489261Z",
+      "primary_item": {
+        "id": "f59bfc236f3c1225600055a79c51a55866c87545",
+        "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "title_zh": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "title_en": null,
+        "title_original": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30075",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
+      }
+    },
+    {
+      "story_id": "story_4b4ef74657f2",
+      "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T11:01:11Z"
+        },
+        {
+          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
+          "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T11:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6113,
+      "importance": 0.6113,
+      "importance_score": 0.6113,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9769,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T11:01:11Z",
+      "latest_at": "2026-08-03T11:01:11Z",
+      "primary_item": {
+        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
+        "title": "中国阿里巴巴再次冲击美国人工智能霸主地位 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "title_zh": "中国阿里巴巴再次冲击美国人工智能霸主地位",
+        "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -465,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,416 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_df555478b2e0",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "title_en": null,
-          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "title_en": null,
-          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7283,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T10:47:27Z",
-      "latest_at": "2026-08-02T10:47:27Z",
-      "primary_item": {
-        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "title_en": null,
-        "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_2404ccea579b",
-      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-      "url": "https://www.aibase.com/news/30076",
-      "primary_url": "https://www.aibase.com/news/30076",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
-      "primary_item": {
-        "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-        "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30076",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_dce3a07d3738",
-      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-      "url": "https://www.aibase.com/news/30072",
-      "primary_url": "https://www.aibase.com/news/30072",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_en": null,
-          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30072",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "title_en": null,
-          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30072",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
-      "primary_item": {
-        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-        "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-        "title_en": null,
-        "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30072",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_0ef8d19ed489",
-      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-      "url": "https://www.aibase.com/news/30078",
-      "primary_url": "https://www.aibase.com/news/30078",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
-      "primary_item": {
-        "id": "c5357842007b62e9404544dc1119ed664675d994",
-        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_en": null,
-        "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30078",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_44eb798ada97",
-      "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-      "url": "https://www.aibase.com/news/30077",
-      "primary_url": "https://www.aibase.com/news/30077",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
-          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "title_en": null,
-          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
-          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "title_en": null,
-          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
-      "primary_item": {
-        "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
-        "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-        "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-        "title_en": null,
-        "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30077",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -1071,15 +1181,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.611,
-      "importance": 0.611,
-      "importance_score": 0.611,
+      "score": 0.6017,
+      "importance": 0.6017,
+      "importance_score": 0.6017,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9455,
+        "recency": 0.8938,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1104,26 +1214,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_4d6c238ed8d7",
-      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-      "url": "https://www.aibase.com/news/30067",
-      "primary_url": "https://www.aibase.com/news/30067",
+      "story_id": "story_2404ccea579b",
+      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+      "url": "https://www.aibase.com/news/30076",
+      "primary_url": "https://www.aibase.com/news/30076",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
+          "url": "https://www.aibase.com/news/30076",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1136,14 +1246,14 @@
       ],
       "items": [
         {
-          "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-          "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-          "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "title_en": null,
-          "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30067",
+          "url": "https://www.aibase.com/news/30076",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1152,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,14 +1281,14 @@
       "earliest_at": "2026-08-03T08:44:29.489261Z",
       "latest_at": "2026-08-03T08:44:29.489261Z",
       "primary_item": {
-        "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
-        "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-        "title_zh": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
+        "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+        "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
         "title_en": null,
-        "title_original": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
+        "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30067",
+        "url": "https://www.aibase.com/news/30076",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1186,7 +1296,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -1226,7 +1336,7 @@
           "published_at": "2026-08-03T04:51:39.521000Z"
         },
         {
-          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
+          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
           "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
           "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
@@ -1234,15 +1344,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews",
         "www.modelrepublic.org"
       ],
@@ -1276,7 +1386,7 @@
           "published_at": "2026-08-03T04:51:39.521000Z"
         },
         {
-          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
+          "id": "ca9c216c1b9cea8611bc54072e9460a58a492acb",
           "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
           "title_zh": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
           "title_en": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
@@ -1284,23 +1394,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-03T02:30:30Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9577,
+        "recency": 0.9053,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1325,26 +1435,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_013951fb56c6",
-      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-      "url": "https://www.aibase.com/news/30066",
-      "primary_url": "https://www.aibase.com/news/30066",
+      "story_id": "story_dce3a07d3738",
+      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+      "url": "https://www.aibase.com/news/30072",
+      "primary_url": "https://www.aibase.com/news/30072",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
+          "url": "https://www.aibase.com/news/30072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1357,14 +1467,14 @@
       ],
       "items": [
         {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "title_en": null,
-          "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30066",
+          "url": "https://www.aibase.com/news/30072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1373,15 +1483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1392,14 +1502,14 @@
       "earliest_at": "2026-08-03T08:44:29.489261Z",
       "latest_at": "2026-08-03T08:44:29.489261Z",
       "primary_item": {
-        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "title_zh": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+        "title_zh": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
         "title_en": null,
-        "title_original": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "title_original": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30066",
+        "url": "https://www.aibase.com/news/30072",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1407,228 +1517,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_2686ce80dcaa",
-      "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-      "url": "https://publicdomainreview.org/essay/ars-notoria",
-      "primary_url": "https://publicdomainreview.org/essay/ars-notoria",
-      "source": "publicdomainreview.org",
-      "source_name": "Buzzing",
+      "story_id": "story_70cc08e0a26a",
+      "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://news.ycombinator.com/item?id=49153374",
+      "primary_url": "https://news.ycombinator.com/item?id=49153374",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_en": null,
-          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "publicdomainreview.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:20:48.057000Z"
-        },
-        {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49143001",
+          "url": "https://news.ycombinator.com/item?id=49153374",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
+          "published_at": "2026-08-03T12:13:37.199000Z"
         },
         {
-          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": null,
+          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T10:18:24Z"
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T12:09:10.975000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "publicdomainreview.org"
+        "Hacker News",
+        "ankursethi.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_en": null,
-          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+          "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "publicdomainreview.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T19:20:48.057000Z"
-        },
-        {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49143001",
+          "url": "https://news.ycombinator.com/item?id=49153374",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
+          "published_at": "2026-08-03T12:13:37.199000Z"
         },
         {
-          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
-          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": null,
+          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T10:18:24Z"
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T12:09:10.975000Z"
+        },
+        {
+          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T09:32:07Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8241,
+        "recency": 0.9941,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T10:18:24Z",
-      "latest_at": "2026-08-02T19:20:48.057000Z",
+      "earliest_at": "2026-08-03T09:32:07Z",
+      "latest_at": "2026-08-03T12:13:37.199000Z",
       "primary_item": {
-        "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
-        "title": "人工智能：《Ars Notoria》与即时知识的承诺",
-        "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
-        "title_en": null,
-        "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
+        "title": "通过手动重新输入 LLM 生成的代码来防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+        "title_zh": "通过手动重新输入 LLM 生成的代码来防止认知债务",
+        "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://publicdomainreview.org/essay/ars-notoria",
-        "source": "publicdomainreview.org",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49153374",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
-      }
-    },
-    {
-      "story_id": "story_1435bdc2b70b",
-      "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-      "url": "https://www.aibase.com/news/30079",
-      "primary_url": "https://www.aibase.com/news/30079",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T08:44:29.489261Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T08:44:29.489261Z",
-      "latest_at": "2026-08-03T08:44:29.489261Z",
-      "primary_item": {
-        "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-        "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_en": null,
-        "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30079",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -1705,15 +1733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8935,
+        "recency": 0.8446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,117 +1766,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_d6e2360dd6e4",
-      "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-      "url": "https://news.ycombinator.com/item?id=49150773",
-      "primary_url": "https://news.ycombinator.com/item?id=49150773",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_0ef8d19ed489",
+      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+      "url": "https://www.aibase.com/news/30078",
+      "primary_url": "https://www.aibase.com/news/30078",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-          "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
-          "title_original": "AI migrated legacy COBOL programs to Java, bugs included",
+          "id": "c5357842007b62e9404544dc1119ed664675d994",
+          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_en": null,
+          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49150773",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T08:44:50.720000Z"
-        },
-        {
-          "id": "7780440077a835de97ea849119756aeef42b2536",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-          "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
-          "title_original": "AI migrated legacy COBOL programs to Java, bugs included",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2607.28271",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T03:06:12Z"
+          "url": "https://www.aibase.com/news/30078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T08:44:29.489261Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-          "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
-          "title_original": "AI migrated legacy COBOL programs to Java, bugs included",
+          "id": "c5357842007b62e9404544dc1119ed664675d994",
+          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+          "title_en": null,
+          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49150773",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T08:44:50.720000Z"
-        },
-        {
-          "id": "7780440077a835de97ea849119756aeef42b2536",
-          "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-          "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-          "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
-          "title_original": "AI migrated legacy COBOL programs to Java, bugs included",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2607.28271",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T03:06:12Z"
+          "url": "https://www.aibase.com/news/30078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T08:44:29.489261Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9453,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T03:06:12Z",
-      "latest_at": "2026-08-03T08:44:50.720000Z",
+      "earliest_at": "2026-08-03T08:44:29.489261Z",
+      "latest_at": "2026-08-03T08:44:29.489261Z",
       "primary_item": {
-        "id": "aab82e673ccb853614b9615a0f4973cabbb40712",
-        "title": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误 / AI migrated legacy COBOL programs to Java, bugs included",
-        "title_zh": "AI 将遗留 COBOL 程序迁移到 Java，其中包括错误",
-        "title_en": "AI migrated legacy COBOL programs to Java, bugs included",
-        "title_original": "AI migrated legacy COBOL programs to Java, bugs included",
+        "id": "c5357842007b62e9404544dc1119ed664675d994",
+        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+        "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
+        "title_en": null,
+        "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49150773",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.aibase.com/news/30078",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
@@ -1925,15 +1925,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.821,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1958,26 +1958,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     },
     {
-      "story_id": "story_e24d34ec2f2e",
-      "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-      "url": "https://www.aibase.com/news/30071",
-      "primary_url": "https://www.aibase.com/news/30071",
+      "story_id": "story_44eb798ada97",
+      "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+      "url": "https://www.aibase.com/news/30077",
+      "primary_url": "https://www.aibase.com/news/30077",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-          "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-          "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "title_en": null,
-          "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30071",
+          "url": "https://www.aibase.com/news/30077",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1990,14 +1990,14 @@
       ],
       "items": [
         {
-          "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-          "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-          "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+          "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+          "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "title_en": null,
-          "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+          "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30071",
+          "url": "https://www.aibase.com/news/30077",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2006,15 +2006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2025,14 +2025,14 @@
       "earliest_at": "2026-08-03T08:44:29.489261Z",
       "latest_at": "2026-08-03T08:44:29.489261Z",
       "primary_item": {
-        "id": "14aa4844b3302d7d858d84a4d15d02a343f96693",
-        "title": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
-        "title_zh": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+        "id": "797b6a91e86f1df5b05af69e860e1a6af4ea0229",
+        "title": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
+        "title_zh": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
         "title_en": null,
-        "title_original": "消息称蚂蚁灵波或启动独立融资，蚂蚁集团AI版图再迎资本化进展",
+        "title_original": "刚完成35亿美元融资，月之暗面传筹备港股上市引关注",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30071",
+        "url": "https://www.aibase.com/news/30077",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2040,7 +2040,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-03T08:45:09.632878Z"
+        "scored_at": "2026-08-03T12:39:05.450952Z"
       }
     }
   ]
