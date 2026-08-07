@@ -33292,5 +33292,9 @@
   "Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release": "谷歌地球收回了制作虚假卫星图像的人工智能工具，该工具发布后立即被滥用",
   "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time": "OpenAI 将其新 Astra 模型标记为可能首次达到最高网络安全风险级别",
   "Claude Code: Starting August 14, auto mode will be the default permission mode": "Claude·代码：8月14日起，自动模式将成为默认权限模式",
-  "MCP allowlists in enterprise managed settings": "企业托管设置中的 MCP 许可名单"
+  "MCP allowlists in enterprise managed settings": "企业托管设置中的 MCP 许可名单",
+  "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心",
+  "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道",
+  "Could this be the end of BIOS-locked laptops? AI tweaker deploys Claude to unlock and change settings for good": "这会是 BIOS 锁定笔记本电脑的终结吗？ AI 调整者部署 Claude 来解锁并永久更改设置",
+  "Copilot code review effort levels are generally available": "Copilot代码审查工作水平通常可用"
 }
