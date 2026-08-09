@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:05:40.836430Z",
+  "generated_at": "2026-08-09T19:50:55.461098Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8208,
+        "recency": 0.8119,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,7 +326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -374,15 +374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7985,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,7 +407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -455,15 +455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7457,
+        "recency": 0.7376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,88 +488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
-      }
-    },
-    {
-      "story_id": "story_abc8705d02da",
-      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": null,
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9419,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T14:57:11Z",
-      "latest_at": "2026-08-09T14:57:11Z",
-      "primary_item": {
-        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-        "title_en": "Lessons from the hacks",
-        "title_original": "Lessons from the hacks",
-        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-        "recommend_reason_zh": null,
-        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -617,15 +536,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,7 +569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -785,15 +704,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5914,
-      "importance": 0.5914,
-      "importance_score": 0.5914,
+      "score": 0.5895,
+      "importance": 0.5895,
+      "importance_score": 0.5895,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9756,
+        "recency": 0.965,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -818,7 +737,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
+      }
+    },
+    {
+      "story_id": "story_9e861a3d88aa",
+      "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+      "url": "https://news.ycombinator.com/item?id=49234675",
+      "primary_url": "https://news.ycombinator.com/item?id=49234675",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用LLM学习复杂的主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49234675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T19:37:49.635000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用LLM学习复杂的主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用LLM学习复杂的主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49234675",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T19:37:49.635000Z"
+        },
+        {
+          "id": "250a9a3f9e07d8e53a3b8f1b2f663d25c253491f",
+          "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+          "title_zh": "我如何利用LLM学习复杂的主题",
+          "title_en": "How I use LLMs to learn complex topics",
+          "title_original": "How I use LLMs to learn complex topics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T19:16:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T19:16:49Z",
+      "latest_at": "2026-08-09T19:37:49.635000Z",
+      "primary_item": {
+        "id": "f087f938a8267a1e48b8c770652e4aea5ecb19b3",
+        "title": "我如何利用LLM学习复杂的主题 / How I use LLMs to learn complex topics",
+        "title_zh": "我如何利用LLM学习复杂的主题",
+        "title_en": "How I use LLMs to learn complex topics",
+        "title_original": "How I use LLMs to learn complex topics",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49234675",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -895,15 +924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9933,
+        "recency": 0.9825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,7 +957,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1005,15 +1034,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.979,
+        "recency": 0.9684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1038,7 +1067,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1064,7 +1093,7 @@
           "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
           "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
           "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
           "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
@@ -1072,15 +1101,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jorypestorious.com/blog/portable-agent-factory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1099,7 +1128,7 @@
           "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "id": "a1925d17d55a737b655ccae97f1a47ce1cd16aa8",
           "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
           "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
           "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
@@ -1107,23 +1136,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jorypestorious.com/blog/portable-agent-factory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9649,
+        "recency": 0.9545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,7 +1177,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1225,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.9073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1258,7 +1287,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1335,15 +1364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.9073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1445,15 +1474,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8847,
+        "recency": 0.8751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,7 +1507,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1555,15 +1584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8229,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1588,7 +1617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     },
     {
@@ -1665,15 +1694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8123,
+        "recency": 0.8035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,7 +1727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T19:06:19.990207Z"
+        "scored_at": "2026-08-09T19:52:56.084017Z"
       }
     }
   ]
