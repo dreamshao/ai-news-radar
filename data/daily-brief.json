@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T15:50:40.203470Z",
+  "generated_at": "2026-08-09T16:58:43.405388Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_ed474c29d378",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -211,15 +211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -244,7 +244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -292,15 +292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -325,7 +325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -373,15 +373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,7 +406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -454,15 +454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7815,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -487,7 +487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -535,15 +535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,109 +568,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
-      "story_id": "story_67d5e9ec1941",
-      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-      "url": "https://news.ycombinator.com/item?id=49230605",
-      "primary_url": "https://news.ycombinator.com/item?id=49230605",
+      "story_id": "story_51fad9d35640",
+      "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+      "url": "https://news.ycombinator.com/item?id=49231838",
+      "primary_url": "https://news.ycombinator.com/item?id=49231838",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230605",
+          "url": "https://news.ycombinator.com/item?id=49231838",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
+          "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49230605",
+          "url": "https://news.ycombinator.com/item?id=49231838",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
+          "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
-          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:56:16Z"
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 0.9949,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T15:37:14.306000Z",
+      "earliest_at": "2026-08-09T14:36:46Z",
+      "latest_at": "2026-08-09T16:37:19.032000Z",
       "primary_item": {
-        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-        "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-        "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
-        "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-        "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+        "title": "我想拥有这条安全带。然后 Codex Desktop 获胜 / I Wanted to Own the Harness. Then Codex Desktop Won",
+        "title_zh": "我想拥有这条安全带。然后 Codex Desktop 获胜",
+        "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+        "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49230605",
+        "url": "https://news.ycombinator.com/item?id=49231838",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -678,7 +678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -784,15 +784,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7449,
+        "recency": 0.7328,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -817,7 +817,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
+      }
+    },
+    {
+      "story_id": "story_67d5e9ec1941",
+      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+      "url": "https://news.ycombinator.com/item?id=49230605",
+      "primary_url": "https://news.ycombinator.com/item?id=49230605",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49230605",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T15:37:14.306000Z"
+        },
+        {
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49230605",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T15:37:14.306000Z"
+        },
+        {
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T15:37:14.306000Z",
+      "primary_item": {
+        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+        "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+        "title_zh": "70% 的 AI 收入来自 OpenAI 和 Anthropic",
+        "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+        "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49230605",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -894,15 +1004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9457,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,7 +1037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -1004,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9457,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,7 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -1114,15 +1224,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9272,
+        "recency": 0.9121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,7 +1257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -1224,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8625,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1257,7 +1367,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     },
     {
@@ -1334,15 +1444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8513,
+        "recency": 0.8375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T15:51:16.136887Z"
+        "scored_at": "2026-08-09T16:59:21.136834Z"
       }
     }
   ]
