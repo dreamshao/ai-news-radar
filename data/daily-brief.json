@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:26:28.561405Z",
+  "generated_at": "2026-08-10T17:12:43.855903Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8983,
-      "importance": 0.8983,
-      "importance_score": 0.8983,
+      "score": 0.8938,
+      "importance": 0.8938,
+      "importance_score": 0.8938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9794,
+        "recency": 0.9547,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,30 +142,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
-      "story_id": "story_1c29972a7c81",
-      "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "story_id": "story_b385166df3f8",
+      "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
+          "published_at": "2026-08-10T16:25:36Z"
         }
       ],
       "source_count": 1,
@@ -174,31 +174,31 @@
       ],
       "items": [
         {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
+          "published_at": "2026-08-10T16:25:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9257,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,17 +207,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T10:05:36Z",
-      "latest_at": "2026-08-10T10:05:36Z",
+      "earliest_at": "2026-08-10T16:25:36Z",
+      "latest_at": "2026-08-10T16:25:36Z",
       "primary_item": {
-        "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-        "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-        "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+        "title": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_zh": "构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制",
+        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -225,7 +225,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_ea01cc68f0f3",
+      "title": "网络Copilot扩展了对话控制 / Copilot on web expands conversation controls",
+      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络Copilot扩展了对话控制 / Copilot on web expands conversation controls",
+          "title_zh": "网络Copilot扩展了对话控制",
+          "title_en": "Copilot on web expands conversation controls",
+          "title_original": "Copilot on web expands conversation controls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络Copilot扩展了对话控制 / Copilot on web expands conversation controls",
+          "title_zh": "网络Copilot扩展了对话控制",
+          "title_en": "Copilot on web expands conversation controls",
+          "title_original": "Copilot on web expands conversation controls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9609,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:27:04Z",
+      "latest_at": "2026-08-10T14:27:04Z",
+      "primary_item": {
+        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+        "title": "网络Copilot扩展了对话控制 / Copilot on web expands conversation controls",
+        "title_zh": "网络Copilot扩展了对话控制",
+        "title_en": "Copilot on web expands conversation controls",
+        "title_original": "Copilot on web expands conversation controls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9865,
+        "recency": 0.9616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -443,15 +526,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9555,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -478,7 +561,255 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_4efc9ada130f",
+      "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "title_zh": "构建人工智能原生财务功能教会了我什么",
+          "title_en": "What building an AI-native finance function taught me",
+          "title_original": "What building an AI-native finance function taught me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+          "title_zh": "构建人工智能原生财务功能教会了我什么",
+          "title_en": "What building an AI-native finance function taught me",
+          "title_original": "What building an AI-native finance function taught me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9969,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-10T17:00:00Z",
+      "primary_item": {
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "构建人工智能原生财务功能教会了我什么 / What building an AI-native finance function taught me",
+        "title_zh": "构建人工智能原生财务功能教会了我什么",
+        "title_en": "What building an AI-native finance function taught me",
+        "title_original": "What building an AI-native finance function taught me",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_1c29972a7c81",
+      "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:05:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:05:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9023,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:05:36Z",
+      "latest_at": "2026-08-10T10:05:36Z",
+      "primary_item": {
+        "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
+        "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
+        "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_fca31970616e",
+      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_zh": "Claude Code 自动模式默认开启原理",
+          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_zh": "Claude Code 自动模式默认开启原理",
+          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9824,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T15:58:56Z",
+      "latest_at": "2026-08-10T15:58:56Z",
+      "primary_item": {
+        "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+        "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "title_zh": "Claude Code 自动模式默认开启原理",
+        "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -526,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9621,
+        "recency": 0.9378,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,7 +892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -609,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9515,
+        "recency": 0.9275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,90 +975,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_895e60ee83c3",
-      "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "primary_url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
-          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/muse-glimmer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
-          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/muse-glimmer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8001,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T00:00:00Z",
-      "latest_at": "2026-08-10T00:00:00Z",
-      "primary_item": {
-        "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
-        "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-        "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
-        "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-        "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/muse-glimmer",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -775,15 +1023,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.9026,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,7 +1057,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -886,15 +1134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7999,
+        "recency": 0.7797,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -921,7 +1169,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_895e60ee83c3",
+      "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "primary_url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+          "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+          "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "4c0b7e66a80d2246586eb18415c39c893219d70f",
+        "title": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+        "title_en": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "title_original": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/muse-glimmer",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -969,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1003,7 +1334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -1051,15 +1382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9496,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,7 +1416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -1133,15 +1464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1167,7 +1498,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
+      }
+    },
+    {
+      "story_id": "story_b21a5deb85d6",
+      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
+      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
+          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "title_en": "Model Routing Powered by Wisdom of the Market",
+          "title_original": "Model Routing Powered by Wisdom of the Market",
+          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
+          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+          "title_en": "Model Routing Powered by Wisdom of the Market",
+          "title_original": "Model Routing Powered by Wisdom of the Market",
+          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7799,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T00:00:00Z",
+      "latest_at": "2026-08-10T00:00:00Z",
+      "primary_item": {
+        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
+        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
+        "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+        "title_en": "Model Routing Powered by Wisdom of the Market",
+        "title_original": "Model Routing Powered by Wisdom of the Market",
+        "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -1215,15 +1627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,7 +1660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -1325,15 +1737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7394,
+        "recency": 0.7208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1359,7 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     },
     {
@@ -1407,15 +1819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.825,
+        "recency": 0.8042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,414 +1852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_36c8d8e68235",
-      "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
-          "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
-          "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T04:04:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
-          "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
-          "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-          "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T04:04:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8486,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T04:04:12Z",
-      "latest_at": "2026-08-10T04:04:12Z",
-      "primary_item": {
-        "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
-        "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-        "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
-        "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-        "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-        "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_74d6609f6ca6",
-      "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-      "url": "https://www.ithome.com/0/987/649.htm",
-      "primary_url": "https://www.ithome.com/0/987/649.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "title_en": null,
-          "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/649.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T23:07:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-          "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "title_en": null,
-          "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-          "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/649.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T23:07:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.79,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T23:07:08Z",
-      "latest_at": "2026-08-09T23:07:08Z",
-      "primary_item": {
-        "id": "83b57b656222e6b83012b070d7628ec3bc2014a8",
-        "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-        "title_zh": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-        "title_en": null,
-        "title_original": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
-        "summary": "宇树科技8月10日正式启动申购，发行价150.80元/股，对应市值约609.93亿元，拟公开发行4044.64万股，预计募资总额约60.99亿元。发行市盈率219.23倍，战略配售获配808.9286万股，包括社保基金、深度求索、中国石油集团等。2023年至2025年营收分别为1.59亿元、3.93亿元和16.99亿元，净利润于2025年达2.78亿元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/649.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_5b5d1dfa241f",
-      "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-      "url": "https://www.aibase.com/news/30225",
-      "primary_url": "https://www.aibase.com/news/30225",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
-          "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "title_en": null,
-          "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T10:38:56.274493Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
-          "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "title_en": null,
-          "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30225",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T10:38:56.274493Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9331,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:38:56.274493Z",
-      "latest_at": "2026-08-10T10:38:56.274493Z",
-      "primary_item": {
-        "id": "cb9cde2ee59f2e01a0e84aaeaad602bc9c2f3268",
-        "title": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-        "title_zh": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-        "title_en": null,
-        "title_original": "国产AI生态迎高光时刻：调用量连冠全球，明星模型强势登顶",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30225",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_9d4e935f861b",
-      "title": "OpenChamber：一个基于代理的开发环境",
-      "url": "https://openchamber.dev",
-      "primary_url": "https://openchamber.dev",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-          "title": "OpenChamber：一个基于代理的开发环境",
-          "title_zh": "OpenChamber：一个基于代理的开发环境",
-          "title_en": null,
-          "title_original": "OpenChamber：一个基于代理的开发环境",
-          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
-          "recommend_reason_zh": null,
-          "url": "https://openchamber.dev",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:46:27.596000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-          "title": "OpenChamber：一个基于代理的开发环境",
-          "title_zh": "OpenChamber：一个基于代理的开发环境",
-          "title_en": null,
-          "title_original": "OpenChamber：一个基于代理的开发环境",
-          "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
-          "recommend_reason_zh": null,
-          "url": "https://openchamber.dev",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:46:27.596000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8091,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:46:27.596000Z",
-      "latest_at": "2026-08-10T00:46:27.596000Z",
-      "primary_item": {
-        "id": "c171df9c3b7454128276a4174bc6b638a51034f2",
-        "title": "OpenChamber：一个基于代理的开发环境",
-        "title_zh": "OpenChamber：一个基于代理的开发环境",
-        "title_en": null,
-        "title_original": "OpenChamber：一个基于代理的开发环境",
-        "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
-        "recommend_reason_zh": null,
-        "url": "https://openchamber.dev",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
-      }
-    },
-    {
-      "story_id": "story_91b9abec7d9b",
-      "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-      "url": "https://www.aibase.com/news/30223",
-      "primary_url": "https://www.aibase.com/news/30223",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_en": null,
-          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30223",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T08:53:33.329052Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-          "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "title_en": null,
-          "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30223",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T08:53:33.329052Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9098,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T08:53:33.329052Z",
-      "latest_at": "2026-08-10T08:53:33.329052Z",
-      "primary_item": {
-        "id": "5402e65fa0e3ec1a8d6133f7f55accbc02561921",
-        "title": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "title_zh": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "title_en": null,
-        "title_original": "AI 承诺四天工作制，员工却每周加班 90 小时：科技巨头自己都没做到",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30223",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-10T15:27:10.153850Z"
+        "scored_at": "2026-08-10T17:13:25.179507Z"
       }
     }
   ]
