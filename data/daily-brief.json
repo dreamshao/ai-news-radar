@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:16:28.242439Z",
+  "generated_at": "2026-08-12T18:12:07.646429Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.954,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9543,
+        "recency": 0.9416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9852,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.846,
+        "recency": 0.8347,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8498,
+        "recency": 0.8384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7383,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
+      }
+    },
+    {
+      "story_id": "story_d59aee8eef1f",
+      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "primary_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
+          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+          "recommend_reason_zh": null,
+          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T17:57:36.369000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
+          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+          "recommend_reason_zh": null,
+          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T17:57:36.369000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9965,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T17:57:36.369000Z",
+      "latest_at": "2026-08-12T17:57:36.369000Z",
+      "primary_item": {
+        "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
+        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+        "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
+        "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+        "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
+        "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
+        "recommend_reason_zh": null,
+        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -633,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.717,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -716,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -798,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7239,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -880,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.9144,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -962,21 +1044,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.8947,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T10:29:38.863909Z",
       "latest_at": "2026-08-12T10:29:38.863909Z",
@@ -996,7 +1077,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1044,21 +1125,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7181,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T18:20:44Z",
       "latest_at": "2026-08-11T18:20:44Z",
@@ -1078,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1126,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.9689,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1239,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1207,15 +1287,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7323,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,88 +1320,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
-      }
-    },
-    {
-      "story_id": "story_c157368be595",
-      "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-      "primary_url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
-          "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
-          "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:38:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
-          "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
-          "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-          "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:38:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T17:38:49Z",
-      "latest_at": "2026-08-11T17:38:49Z",
-      "primary_item": {
-        "id": "124d1b2bb503e35587e3196646752b9fbec9491b",
-        "title": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞 / \"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-        "title_zh": "研究人员发现可读取ChatGPT等模型加密推理过程的API漏洞",
-        "title_en": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-        "title_original": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-        "summary": "Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API存在漏洞，可读取推理模型的加密思考过程。扫描约7000条公开会话发现62个API密钥、33个邮箱和33个密码。通过越狱，Anthropic的Haiku 4.5可逐字转写Opus 4.8的原始推理；解码10000条推理轨迹的API成本约720美元。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1369,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7402,
+        "recency": 0.7303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1404,7 +1403,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1452,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9404,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1485,7 +1484,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1533,15 +1532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7807,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1566,7 +1565,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1614,21 +1613,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.8947,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T10:29:38.863909Z",
       "latest_at": "2026-08-12T10:29:38.863909Z",
@@ -1648,7 +1646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     },
     {
@@ -1696,15 +1694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1729,7 +1727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T17:17:14.754655Z"
+        "scored_at": "2026-08-12T18:12:50.509497Z"
       }
     }
   ]
