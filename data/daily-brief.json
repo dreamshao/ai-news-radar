@@ -1,8 +1,207 @@
 {
-  "generated_at": "2026-08-12T02:48:36.580918Z",
+  "generated_at": "2026-08-12T05:08:44.755122Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f1aeb278b794",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_zh": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
+          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T16:53:26.879000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
+          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_zh": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
+          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49259339",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T16:53:26.879000Z"
+        },
+        {
+          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "title_en": null,
+          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T16:41:17.281000Z"
+        },
+        {
+          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T14:50:33Z"
+        },
+        {
+          "id": "d2b7aec04594679734bd16690316a9172d0a10b8",
+          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "title_original": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-11T14:50:33Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8354,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:50:33Z",
+      "latest_at": "2026-08-11T16:53:26.879000Z",
+      "primary_item": {
+        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
+        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "title_en": null,
+        "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T05:09:25.463666Z"
+      }
+    },
     {
       "story_id": "story_5d259fa5549c",
       "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -77,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8679,
+        "recency": 0.8391,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -161,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9098,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -244,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8266,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +478,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -327,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7845,
+        "recency": 0.7585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,177 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
-      }
-    },
-    {
-      "story_id": "story_f1aeb278b794",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_zh": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
-          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T16:53:26.879000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "6d1cfa2910e04a5058b726a06334be2164e1126a",
-          "title": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_zh": "Apple Silicon 和 macOS VM：使用 Llama.cpp 将 LLM 推理速度提高 11–16 倍",
-          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49259339",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-11T16:53:26.879000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "bf9c6365003c8af46a4fc9e19b733c22378a6a89",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_en": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "title_original": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-11T14:50:33Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.864,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:50:33Z",
-      "latest_at": "2026-08-11T16:53:26.879000Z",
-      "primary_item": {
-        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "title_en": null,
-        "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -580,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8835,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -615,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -663,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8625,
         "story_heat": 0.0
       },
       "category": "official",
@@ -697,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -745,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7845,
+        "recency": 0.7585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,7 +809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -828,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8556,
         "story_heat": 0.0
       },
       "category": "official",
@@ -862,7 +891,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -910,15 +939,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,7 +973,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
+      }
+    },
+    {
+      "story_id": "story_0e2124d94648",
+      "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+      "url": "https://www.aibase.com/news/30269",
+      "primary_url": "https://www.aibase.com/news/30269",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e4b2fbb5d5ca5d021991205bf36b65d9d043877",
+          "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "title_zh": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "title_en": null,
+          "title_original": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T05:08:44.755122Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3e4b2fbb5d5ca5d021991205bf36b65d9d043877",
+          "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "title_zh": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "title_en": null,
+          "title_original": "64卡互联800GB/s:阿里云M890超节点正式开售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T05:08:44.755122Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T05:08:44.755122Z",
+      "latest_at": "2026-08-12T05:08:44.755122Z",
+      "primary_item": {
+        "id": "3e4b2fbb5d5ca5d021991205bf36b65d9d043877",
+        "title": "64卡互联800GB/s:阿里云M890超节点正式开售",
+        "title_zh": "64卡互联800GB/s:阿里云M890超节点正式开售",
+        "title_en": null,
+        "title_original": "64卡互联800GB/s:阿里云M890超节点正式开售",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30269",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -992,15 +1103,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8761,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1026,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1074,15 +1185,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9121,
+        "recency": 0.8819,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1109,89 +1220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
-      }
-    },
-    {
-      "story_id": "story_0655dcabfd8f",
-      "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-      "url": "https://www.aibase.com/news/30265",
-      "primary_url": "https://www.aibase.com/news/30265",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "abfc2f25c7ea2a579260a1aca3776945a7e4a441",
-          "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "title_zh": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "title_en": null,
-          "title_original": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T02:48:36.580918Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "abfc2f25c7ea2a579260a1aca3776945a7e4a441",
-          "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "title_zh": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "title_en": null,
-          "title_original": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T02:48:36.580918Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T02:48:36.580918Z",
-      "latest_at": "2026-08-12T02:48:36.580918Z",
-      "primary_item": {
-        "id": "abfc2f25c7ea2a579260a1aca3776945a7e4a441",
-        "title": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-        "title_zh": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-        "title_en": null,
-        "title_original": "4 万亿新目标锁定！上海重磅发布“十五五”软件规划，释放哪些关键信号？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30265",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1231,7 +1260,7 @@
           "published_at": "2026-08-11T13:22:55.785000Z"
         },
         {
-          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
           "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
           "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
           "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
@@ -1239,15 +1268,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-11T10:40:47Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews"
       ],
@@ -1281,7 +1310,7 @@
           "published_at": "2026-08-11T13:22:55.785000Z"
         },
         {
-          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "id": "a9acabb07c0465534b0ff0e2cd88c9ef6390ca8b",
           "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
           "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
           "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
@@ -1289,23 +1318,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-11T10:40:47Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1332,7 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1380,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,7 +1443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1462,21 +1491,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T00:08:00Z",
       "latest_at": "2026-08-12T00:08:00Z",
@@ -1496,7 +1524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1544,15 +1572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1577,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1625,15 +1653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
@@ -1706,15 +1734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
+        "recency": 0.802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,88 +1767,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     },
     {
-      "story_id": "story_2b5700449511",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_16532195ccfc",
+      "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+      "url": "https://www.aibase.com/news/30268",
+      "primary_url": "https://www.aibase.com/news/30268",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "id": "0836ca274e0fa2df55ee13aa50cd515e2b20cd17",
+          "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "title_zh": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "title_en": null,
+          "title_original": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
+          "url": "https://www.aibase.com/news/30268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T05:08:44.755122Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Cloud：Databases（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "id": "0836ca274e0fa2df55ee13aa50cd515e2b20cd17",
+          "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "title_zh": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "title_en": null,
+          "title_original": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
+          "url": "https://www.aibase.com/news/30268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T05:08:44.755122Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8555,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
+      "earliest_at": "2026-08-12T05:08:44.755122Z",
+      "latest_at": "2026-08-12T05:08:44.755122Z",
       "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+        "id": "0836ca274e0fa2df55ee13aa50cd515e2b20cd17",
+        "title": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+        "title_zh": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+        "title_en": null,
+        "title_original": "Manus官宣脱离Meta恢复独立运营，部分用户数据8月23日前需备份",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30268",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T02:50:42.791570Z"
+        "scored_at": "2026-08-12T05:09:25.463666Z"
       }
     }
   ]
