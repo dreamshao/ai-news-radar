@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:42:01.889124Z",
+  "generated_at": "2026-08-12T10:29:38.863909Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.933,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7971,
+        "recency": 0.7768,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -331,15 +331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8356,
+        "recency": 0.8143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -366,7 +366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7592,
+        "recency": 0.7398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,90 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
-      }
-    },
-    {
-      "story_id": "story_2bcee1a44f59",
-      "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-          "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-          "title_zh": "在 ChatGPT 中测试广告",
-          "title_en": "Testing ads in ChatGPT",
-          "title_original": "Testing ads in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-          "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-          "title_zh": "在 ChatGPT 中测试广告",
-          "title_en": "Testing ads in ChatGPT",
-          "title_original": "Testing ads in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7205,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T10:00:00Z",
-      "latest_at": "2026-08-11T10:00:00Z",
-      "primary_item": {
-        "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-        "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
-        "title_zh": "在 ChatGPT 中测试广告",
-        "title_en": "Testing ads in ChatGPT",
-        "title_original": "Testing ads in ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/testing-ads-in-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -696,15 +613,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7733,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -731,7 +648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -779,15 +696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8115,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -814,7 +731,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -862,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,113 +813,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
-      "story_id": "story_761a27a82638",
-      "title": "Daybreak 模型现已在 AWS 上提供 / Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "primary_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "541271c740829eb3d8c31048162316b10ac424bf",
-          "title": "Daybreak 模型现已在 AWS 上提供 / Daybreak models are now available on AWS",
-          "title_zh": "Daybreak 模型现已在 AWS 上提供",
-          "title_en": "Daybreak models are now available on AWS",
-          "title_original": "Daybreak models are now available on AWS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "541271c740829eb3d8c31048162316b10ac424bf",
-          "title": "Daybreak 模型现已在 AWS 上提供 / Daybreak models are now available on AWS",
-          "title_zh": "Daybreak 模型现已在 AWS 上提供",
-          "title_en": "Daybreak models are now available on AWS",
-          "title_original": "Daybreak models are now available on AWS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7205,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T10:00:00Z",
-      "latest_at": "2026-08-11T10:00:00Z",
-      "primary_item": {
-        "id": "541271c740829eb3d8c31048162316b10ac424bf",
-        "title": "Daybreak 模型现已在 AWS 上提供 / Daybreak models are now available on AWS",
-        "title_zh": "Daybreak 模型现已在 AWS 上提供",
-        "title_en": "Daybreak models are now available on AWS",
-        "title_original": "Daybreak models are now available on AWS",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
-      }
-    },
-    {
-      "story_id": "story_a9f021589299",
-      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-      "url": "https://www.aibase.com/news/30278",
-      "primary_url": "https://www.aibase.com/news/30278",
+      "story_id": "story_ad70cc461272",
+      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+      "url": "https://www.aibase.com/news/30289",
+      "primary_url": "https://www.aibase.com/news/30289",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:42:01.889124Z"
+          "published_at": "2026-08-12T10:29:38.863909Z"
         }
       ],
       "source_count": 1,
@@ -1011,18 +845,18 @@
       ],
       "items": [
         {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30278",
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:42:01.889124Z"
+          "published_at": "2026-08-12T10:29:38.863909Z"
         }
       ],
       "item_count": 1,
@@ -1043,17 +877,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T08:42:01.889124Z",
-      "latest_at": "2026-08-12T08:42:01.889124Z",
+      "earliest_at": "2026-08-12T10:29:38.863909Z",
+      "latest_at": "2026-08-12T10:29:38.863909Z",
       "primary_item": {
-        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+        "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
         "title_en": null,
-        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
+        "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30278",
+        "url": "https://www.aibase.com/news/30289",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1061,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1109,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1143,7 +977,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1191,15 +1025,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8076,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1225,7 +1059,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1273,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1307,7 +1141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1355,15 +1189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1389,7 +1223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1437,15 +1271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8377,
+        "recency": 0.8163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1472,7 +1306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1520,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7972,
+        "recency": 0.7769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,7 +1387,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
+      }
+    },
+    {
+      "story_id": "story_a04023a0a935",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:29:38.863909Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:29:38.863909Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T10:29:38.863909Z",
+      "latest_at": "2026-08-12T10:29:38.863909Z",
+      "primary_item": {
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_en": null,
+        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1601,15 +1517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8836,
+        "recency": 0.861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1634,89 +1550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
-      }
-    },
-    {
-      "story_id": "story_8703bb84c475",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_en": null,
-          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:42:01.889124Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "title_en": null,
-          "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:42:01.889124Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T08:42:01.889124Z",
-      "latest_at": "2026-08-12T08:42:01.889124Z",
-      "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "title_zh": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "title_en": null,
-        "title_original": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30277",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1764,15 +1598,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7525,
+        "recency": 0.7332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1797,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     },
     {
@@ -1845,15 +1679,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1878,7 +1712,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-12T08:42:52.936582Z"
+        "scored_at": "2026-08-12T10:30:32.420105Z"
+      }
+    },
+    {
+      "story_id": "story_2b5700449511",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": null,
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": null,
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7656,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T16:00:00Z",
+      "latest_at": "2026-08-11T16:00:00Z",
+      "primary_item": {
+        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+        "recommend_reason_zh": null,
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+        "source": "Google Cloud：Databases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T10:30:32.420105Z"
+      }
+    },
+    {
+      "story_id": "story_fc6202e68e51",
+      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_en": null,
+          "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:15:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_en": null,
+          "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:15:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7465,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T14:15:07Z",
+      "latest_at": "2026-08-11T14:15:07Z",
+      "primary_item": {
+        "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+        "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "title_en": null,
+        "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-12T10:30:32.420105Z"
       }
     }
   ]
