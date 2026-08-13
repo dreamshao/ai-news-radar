@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:31:13.148433Z",
+  "generated_at": "2026-08-13T12:02:27.059444Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7992,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7437,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7952,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7439,
+        "recency": 0.7277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
+      }
+    },
+    {
+      "story_id": "story_804890f5e6d9",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9891,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:16:42.199000Z",
+      "latest_at": "2026-08-13T11:16:42.199000Z",
+      "primary_item": {
+        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -380,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.768,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -463,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7936,
+        "recency": 0.7763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -546,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -628,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -710,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8759,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -792,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7873,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -826,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -874,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,88 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
-      }
-    },
-    {
-      "story_id": "story_f9c6869f48c8",
-      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9173,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T04:32:24Z",
-      "latest_at": "2026-08-13T04:32:24Z",
-      "primary_item": {
-        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_en": null,
-        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1037,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,7 +1071,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
+      }
+    },
+    {
+      "story_id": "story_f9c6869f48c8",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T04:32:24Z",
+      "latest_at": "2026-08-13T04:32:24Z",
+      "primary_item": {
+        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_en": null,
+        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1118,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,7 +1234,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1200,15 +1282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8391,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1233,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1281,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1341,6 +1423,20 @@
           "published_at": "2026-08-12T22:26:37Z"
         },
         {
+          "id": "efc931ed7b5335890d58d5f06e7d2c8238e6a703",
+          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_zh": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它",
+          "title_en": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_original": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T10:23:51Z"
+        },
+        {
           "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
           "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
           "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊",
@@ -1355,8 +1451,9 @@
           "published_at": "2026-08-12T22:26:37Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News",
         "TechCrunch",
         "TechCrunch AI"
       ],
@@ -1376,6 +1473,20 @@
           "published_at": "2026-08-12T22:26:37Z"
         },
         {
+          "id": "efc931ed7b5335890d58d5f06e7d2c8238e6a703",
+          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_zh": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它",
+          "title_en": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_original": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T10:23:51Z"
+        },
+        {
           "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
           "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
           "title_zh": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊",
@@ -1390,26 +1501,26 @@
           "published_at": "2026-08-12T22:26:37Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6449,
-      "importance": 0.6449,
-      "importance_score": 0.6449,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6666,
+      "importance": 0.6666,
+      "importance_score": 0.6666,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.84,
-        "story_heat": 0.25
+        "recency": 0.8217,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T22:26:37Z",
-      "latest_at": "2026-08-12T22:26:37Z",
+      "latest_at": "2026-08-13T10:23:51Z",
       "primary_item": {
         "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
         "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -1426,7 +1537,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1474,15 +1585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,7 +1619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     },
     {
@@ -1556,15 +1667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,203 +1701,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
-      }
-    },
-    {
-      "story_id": "story_532ddb51b41a",
-      "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-      "url": "https://news.ycombinator.com/item?id=49271994",
-      "primary_url": "https://news.ycombinator.com/item?id=49271994",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "title_zh": "人工智能正在消除软件工程的中产阶级？",
-          "title_en": "AI is removing the middle class of software engineering?",
-          "title_original": "AI is removing the middle class of software engineering?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:06:45.151000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "title_zh": "人工智能正在消除软件工程的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering",
-          "title_original": "AI is removing the middle class of software engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": null,
-          "title_original": "人工智能正在消灭软件工程领域的中产阶级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering",
-          "title_original": "AI is removing the middle class of software engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering?",
-          "title_original": "AI is removing the middle class of software engineering?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "blog.florianherrengt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-          "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-          "title_zh": "人工智能正在消除软件工程的中产阶级？",
-          "title_en": "AI is removing the middle class of software engineering?",
-          "title_original": "AI is removing the middle class of software engineering?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T21:06:45.151000Z"
-        },
-        {
-          "id": "a3be90b09c426d87865a1d917bf54fa6b8efcc02",
-          "title": "人工智能正在消除软件工程的中产阶级 / AI is removing the middle class of software engineering",
-          "title_zh": "人工智能正在消除软件工程的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering",
-          "title_original": "AI is removing the middle class of software engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49271994",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "dd93c66931d2a3a0077c82c673fbc2cd284ab684",
-          "title": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": null,
-          "title_original": "人工智能正在消灭软件工程领域的中产阶级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "blog.florianherrengt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T15:00:03.093000Z"
-        },
-        {
-          "id": "5db718b2a6183c86d39fd9145ef252eba680b3fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering",
-          "title_original": "AI is removing the middle class of software engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-12T13:20:05Z"
-        },
-        {
-          "id": "3ebabc6faeef7e8588813913dd0e88e0a99104fa",
-          "title": "人工智能正在消灭软件工程领域的中产阶级 / AI is removing the middle class of software engineering?",
-          "title_zh": "人工智能正在消灭软件工程领域的中产阶级",
-          "title_en": "AI is removing the middle class of software engineering?",
-          "title_original": "AI is removing the middle class of software engineering?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T13:20:05Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5891,
-      "importance": 0.5891,
-      "importance_score": 0.5891,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.824,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T13:20:05Z",
-      "latest_at": "2026-08-12T21:06:45.151000Z",
-      "primary_item": {
-        "id": "fbcbfa36f79e94b02668d12b5ebcfd6226205fd6",
-        "title": "人工智能正在消除软件工程的中产阶级？ / AI is removing the middle class of software engineering?",
-        "title_zh": "人工智能正在消除软件工程的中产阶级？",
-        "title_en": "AI is removing the middle class of software engineering?",
-        "title_original": "AI is removing the middle class of software engineering?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49271994",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T10:33:25.500856Z"
+        "scored_at": "2026-08-13T12:03:11.737725Z"
       }
     }
   ]
