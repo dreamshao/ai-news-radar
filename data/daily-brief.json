@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:42:43.399568Z",
+  "generated_at": "2026-08-15T15:38:57.195850Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7235,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7564,
+        "recency": 0.7462,
         "story_heat": 0.5
       },
       "category": "official",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7204,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7939,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -438,21 +438,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T11:00:50Z",
       "latest_at": "2026-08-15T11:00:50Z",
@@ -472,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -549,15 +548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5989,
-      "importance": 0.5989,
-      "importance_score": 0.5989,
+      "score": 0.5971,
+      "importance": 0.5971,
+      "importance_score": 0.5971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7228,
+        "recency": 0.713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -582,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -658,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5789,
-      "importance": 0.5789,
-      "importance_score": 0.5789,
+      "score": 0.5771,
+      "importance": 0.5771,
+      "importance_score": 0.5771,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7273,
+        "recency": 0.7175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -797,15 +796,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5665,
+      "importance": 0.5665,
+      "importance_score": 0.5665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -830,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -907,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -980,7 +979,7 @@
           "published_at": "2026-08-14T17:15:03.350000Z"
         },
         {
-          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
+          "id": "42518da9cb2f9423d48d27d45c23092ae766781b",
           "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
           "title_zh": "充分利用您的Claude代码（Claude Code）会话",
           "title_en": "Maximizing the value of your Claude Code sessions",
@@ -988,15 +987,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-14T16:15:21Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.com",
         "hackernews"
       ],
@@ -1030,7 +1029,7 @@
           "published_at": "2026-08-14T17:15:03.350000Z"
         },
         {
-          "id": "ef41b7ce62ac386f758078a0319bf9644ea9cd77",
+          "id": "42518da9cb2f9423d48d27d45c23092ae766781b",
           "title": "充分利用您的Claude代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
           "title_zh": "充分利用您的Claude代码（Claude Code）会话",
           "title_en": "Maximizing the value of your Claude Code sessions",
@@ -1038,23 +1037,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-14T16:15:21Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7886,
+        "recency": 0.778,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1079,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1185,15 +1184,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7563,
+        "recency": 0.7462,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1218,7 +1217,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1295,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8408,
+        "recency": 0.8295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,7 +1327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1405,15 +1404,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,7 +1437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1464,7 +1463,7 @@
           "published_at": "2026-08-14T20:56:57.601000Z"
         },
         {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
+          "id": "b30c037f6065cee52205b74f7c2b9e1f88dafff8",
           "title": "亲手打造的AI / AI by Hand",
           "title_zh": "亲手打造的AI",
           "title_en": "AI by Hand",
@@ -1472,15 +1471,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-14T15:58:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.byhand.ai"
       ],
       "items": [
@@ -1499,7 +1498,7 @@
           "published_at": "2026-08-14T20:56:57.601000Z"
         },
         {
-          "id": "272e92f897c88293a600bd3a1108b047008f58f9",
+          "id": "b30c037f6065cee52205b74f7c2b9e1f88dafff8",
           "title": "亲手打造的AI / AI by Hand",
           "title_zh": "亲手打造的AI",
           "title_en": "AI by Hand",
@@ -1507,23 +1506,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.byhand.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-14T15:58:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5032,
+      "importance": 0.5032,
+      "importance_score": 0.5032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.7634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,117 +1547,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
-      }
-    },
-    {
-      "story_id": "story_cec2fecb0919",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-          "title": "Qwen 3.8 27B",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "Qwen 3.8 27B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:57:54.561000Z"
-        },
-        {
-          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
-          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_zh": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型",
-          "title_en": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_original": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-          "title": "Qwen 3.8 27B",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "Qwen 3.8 27B",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:57:54.561000Z"
-        },
-        {
-          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
-          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_zh": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型",
-          "title_en": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "title_original": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7305,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:00:00Z",
-      "latest_at": "2026-08-14T16:57:54.561000Z",
-      "primary_item": {
-        "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
-        "title": "Qwen 3.8 27B",
-        "title_zh": null,
-        "title_en": null,
-        "title_original": "Qwen 3.8 27B",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1735,15 +1624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.9733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1768,7 +1657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1845,15 +1734,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.9733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1878,7 +1767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -1904,7 +1793,7 @@
           "published_at": "2026-08-15T11:38:13.989000Z"
         },
         {
-          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
           "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
           "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
           "title_en": "Debian has begun voting on the future of AI/LLM contributions",
@@ -1912,15 +1801,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1939,7 +1828,7 @@
           "published_at": "2026-08-15T11:38:13.989000Z"
         },
         {
-          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "id": "e87d34022d30c47cf57e217d6741dffe90a85d0f",
           "title": "Debian 已开始对 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
           "title_zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票",
           "title_en": "Debian has begun voting on the future of AI/LLM contributions",
@@ -1947,23 +1836,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9566,
+        "recency": 0.9437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,7 +1877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -2014,7 +1903,7 @@
           "published_at": "2026-08-15T09:21:23.610000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
           "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
           "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
           "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -2022,15 +1911,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -2049,7 +1938,7 @@
           "published_at": "2026-08-15T09:21:23.610000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "id": "62898d884feb1e92e6098d4e2970a33b66410c56",
           "title": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
           "title_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
           "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -2057,23 +1946,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9256,
+        "recency": 0.9131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2098,7 +1987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     },
     {
@@ -2124,7 +2013,7 @@
           "published_at": "2026-08-15T06:51:01.588000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
           "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
           "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -2132,15 +2021,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -2159,7 +2048,7 @@
           "published_at": "2026-08-15T06:51:01.588000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
           "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
           "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
           "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -2167,23 +2056,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T04:42:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8927,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2208,7 +2097,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T14:44:53.015240Z"
+        "scored_at": "2026-08-15T15:39:30.501037Z"
+      }
+    },
+    {
+      "story_id": "story_7997168e9fa3",
+      "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+      "url": "https://news.ycombinator.com/item?id=49305642",
+      "primary_url": "https://news.ycombinator.com/item?id=49305642",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
+          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+          "title_zh": "Claude寓言5 玩得开心",
+          "title_en": "Claude Fable 5 Having Fun",
+          "title_original": "Claude Fable 5 Having Fun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49305642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T23:42:42.819000Z"
+        },
+        {
+          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
+          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+          "title_zh": "Claude寓言5 玩得开心",
+          "title_en": "Claude Fable 5 Having Fun",
+          "title_original": "Claude Fable 5 Having Fun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T23:01:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
+          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+          "title_zh": "Claude寓言5 玩得开心",
+          "title_en": "Claude Fable 5 Having Fun",
+          "title_original": "Claude Fable 5 Having Fun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49305642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T23:42:42.819000Z"
+        },
+        {
+          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
+          "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+          "title_zh": "Claude寓言5 玩得开心",
+          "title_en": "Claude Fable 5 Having Fun",
+          "title_original": "Claude Fable 5 Having Fun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T23:01:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7944,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T23:01:46Z",
+      "latest_at": "2026-08-14T23:42:42.819000Z",
+      "primary_item": {
+        "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
+        "title": "Claude寓言5 玩得开心 / Claude Fable 5 Having Fun",
+        "title_zh": "Claude寓言5 玩得开心",
+        "title_en": "Claude Fable 5 Having Fun",
+        "title_original": "Claude Fable 5 Having Fun",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49305642",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T15:39:30.501037Z"
       }
     }
   ]
