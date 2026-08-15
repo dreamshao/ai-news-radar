@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:42:25.927353Z",
+  "generated_at": "2026-08-15T21:38:47.316938Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7281,
+        "recency": 0.7182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.8577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,7 +276,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
+      }
+    },
+    {
+      "story_id": "story_b004ea508d1a",
+      "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+      "url": "https://chenxiachan.github.io/thoughtdag",
+      "primary_url": "https://chenxiachan.github.io/thoughtdag",
+      "source": "chenxiachan.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": null,
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:51:01.588000Z"
+        },
+        {
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "chenxiachan.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": null,
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:51:01.588000Z"
+        },
+        {
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9931,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T21:09:54.519000Z",
+      "primary_item": {
+        "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+        "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_en": null,
+        "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://chenxiachan.github.io/thoughtdag",
+        "source": "chenxiachan.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -382,15 +521,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9799,
+        "recency": 0.9667,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -521,15 +660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9429,
+        "recency": 0.9302,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -554,7 +693,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:44:28.989000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:44:28.989000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9051,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:44:28.989000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -660,15 +938,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5541,
-      "importance": 0.5541,
-      "importance_score": 0.5541,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9073,
+        "recency": 0.895,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,7 +971,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
+      }
+    },
+    {
+      "story_id": "story_6a65f744a5e9",
+      "title": "Cloudflare的AI精神错乱",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "source": "opensauce.it",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
+        },
+        {
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "opensauce.it"
+      ],
+      "items": [
+        {
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
+        },
+        {
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9855,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:08:40Z",
+      "latest_at": "2026-08-15T20:37:59.382000Z",
+      "primary_item": {
+        "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+        "title": "Cloudflare的AI精神错乱",
+        "title_zh": "Cloudflare的AI精神错乱",
+        "title_en": null,
+        "title_original": "Cloudflare的AI精神错乱",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://opensauce.it/cloudflare-ai-psychosis",
+        "source": "opensauce.it",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -770,15 +1158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -803,227 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
-      }
-    },
-    {
-      "story_id": "story_6a65f744a5e9",
-      "title": "Cloudflare的AI精神错乱",
-      "url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
-      "source": "opensauce.it",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-          "title": "Cloudflare的AI精神错乱",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": null,
-          "title_original": "Cloudflare的AI精神错乱",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "opensauce.it",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:37:59.382000Z"
-        },
-        {
-          "id": "73064ab685015f002a9069e852cddb22d433140d",
-          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": "Cloudflare's AI Psychosis",
-          "title_original": "Cloudflare's AI Psychosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:08:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "opensauce.it"
-      ],
-      "items": [
-        {
-          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-          "title": "Cloudflare的AI精神错乱",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": null,
-          "title_original": "Cloudflare的AI精神错乱",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "opensauce.it",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:37:59.382000Z"
-        },
-        {
-          "id": "73064ab685015f002a9069e852cddb22d433140d",
-          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
-          "title_zh": "Cloudflare的AI精神错乱",
-          "title_en": "Cloudflare's AI Psychosis",
-          "title_original": "Cloudflare's AI Psychosis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://opensauce.it/cloudflare-ai-psychosis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:08:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9989,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:08:40Z",
-      "latest_at": "2026-08-15T20:37:59.382000Z",
-      "primary_item": {
-        "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
-        "title": "Cloudflare的AI精神错乱",
-        "title_zh": "Cloudflare的AI精神错乱",
-        "title_en": null,
-        "title_original": "Cloudflare的AI精神错乱",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://opensauce.it/cloudflare-ai-psychosis",
-        "source": "opensauce.it",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
-      }
-    },
-    {
-      "story_id": "story_7ea48d24e4f7",
-      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-      "url": "https://news.ycombinator.com/item?id=49313367",
-      "primary_url": "https://news.ycombinator.com/item?id=49313367",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:42:44.146000Z"
-        },
-        {
-          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:42:44.146000Z"
-        },
-        {
-          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T20:42:44.146000Z",
-      "primary_item": {
-        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-        "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
-        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49313367",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1100,15 +1268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1133,7 +1301,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
+      }
+    },
+    {
+      "story_id": "story_7ea48d24e4f7",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:42:44.146000Z"
+        },
+        {
+          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:42:44.146000Z"
+        },
+        {
+          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9866,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:42:44.146000Z",
+      "primary_item": {
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+        "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1210,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.9316,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1243,7 +1521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1269,7 +1547,7 @@
           "published_at": "2026-08-15T16:44:35.735000Z"
         },
         {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
           "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
           "title_zh": "软件开发中的人工智能现状",
           "title_en": "The AI Situation in Software Development",
@@ -1277,15 +1555,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T14:12:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1304,7 +1582,7 @@
           "published_at": "2026-08-15T16:44:35.735000Z"
         },
         {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
           "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
           "title_zh": "软件开发中的人工智能现状",
           "title_en": "The AI Situation in Software Development",
@@ -1312,23 +1590,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T14:12:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.9316,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1379,7 +1657,7 @@
           "published_at": "2026-08-15T14:44:28.989000Z"
         },
         {
-          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
           "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
           "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
           "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
@@ -1387,15 +1665,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -1414,7 +1692,7 @@
           "published_at": "2026-08-15T14:44:28.989000Z"
         },
         {
-          "id": "1f8ae1aef3db19d43c0f47ec3f690e670ae9f436",
+          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
           "title": "Yadda 3.0.0：人工智能代理时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
           "title_zh": "Yadda 3.0.0：人工智能代理时代的 BDD",
           "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
@@ -1422,23 +1700,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.9051,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1463,117 +1741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
-      }
-    },
-    {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:44:28.989000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:44:28.989000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:44:28.989000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-        "title_en": "Secondhand book sales are booming. Is it because of AI?",
-        "title_original": "Secondhand book sales are booming. Is it because of AI?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1599,7 +1767,7 @@
           "published_at": "2026-08-15T13:46:39.566000Z"
         },
         {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
+          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
           "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
           "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
           "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
@@ -1607,15 +1775,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1634,7 +1802,7 @@
           "published_at": "2026-08-15T13:46:39.566000Z"
         },
         {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
+          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
           "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
           "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
           "title_en": "GenRec: Towards LLM-Native Recommendation at Netflix",
@@ -1642,23 +1810,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9048,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1683,7 +1851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1760,15 +1928,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8772,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1793,7 +1961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -1870,15 +2038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8488,
+        "recency": 0.8374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1903,117 +2071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
-      }
-    },
-    {
-      "story_id": "story_b004ea508d1a",
-      "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://news.ycombinator.com/item?id=49307700",
-      "primary_url": "https://news.ycombinator.com/item?id=49307700",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T06:51:01.588000Z"
-        },
-        {
-          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T04:42:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T06:51:01.588000Z"
-        },
-        {
-          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T04:42:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8186,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T04:42:07Z",
-      "latest_at": "2026-08-15T06:51:01.588000Z",
-      "primary_item": {
-        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-        "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-        "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49307700",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     },
     {
@@ -2090,15 +2148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7385,
+        "recency": 0.7285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2123,7 +2181,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:43:03.589022Z"
+        "scored_at": "2026-08-15T21:39:26.043284Z"
       }
     }
   ]
