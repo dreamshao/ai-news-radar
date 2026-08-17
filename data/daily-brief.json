@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-17T05:01:22.154413Z",
+  "generated_at": "2026-08-17T05:53:25.922963Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_d5502002c943",
-      "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-      "url": "https://www.aibase.com/news/30390",
-      "primary_url": "https://www.aibase.com/news/30390",
+      "story_id": "story_cee4919aff48",
+      "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+      "url": "https://www.aibase.com/news/30392",
+      "primary_url": "https://www.aibase.com/news/30392",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-          "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "title_zh": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
           "title_en": null,
-          "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_original": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30390",
+          "url": "https://www.aibase.com/news/30392",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T04:07:48.267961Z"
+          "published_at": "2026-08-17T05:53:25.922963Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-          "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "title_zh": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
           "title_en": null,
-          "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_original": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30390",
+          "url": "https://www.aibase.com/news/30392",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T04:07:48.267961Z"
+          "published_at": "2026-08-17T05:53:25.922963Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -64,17 +64,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T04:07:48.267961Z",
-      "latest_at": "2026-08-17T04:07:48.267961Z",
+      "earliest_at": "2026-08-17T05:53:25.922963Z",
+      "latest_at": "2026-08-17T05:53:25.922963Z",
       "primary_item": {
-        "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
-        "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
-        "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+        "title_zh": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
         "title_en": null,
-        "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+        "title_original": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30390",
+        "url": "https://www.aibase.com/news/30392",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9037,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,30 +164,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
-      "story_id": "story_49a27a8cb3e7",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "url": "https://www.aibase.com/news/30389",
-      "primary_url": "https://www.aibase.com/news/30389",
+      "story_id": "story_8b2229e8149b",
+      "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
+      "url": "https://www.aibase.com/news/30391",
+      "primary_url": "https://www.aibase.com/news/30391",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "id": "6a4cd56392985062cbbf523a364f448949a683d5",
+          "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
+          "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
           "title_en": null,
-          "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30389",
+          "url": "https://www.aibase.com/news/30391",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
+          "published_at": "2026-08-17T05:53:25.922963Z"
         }
       ],
       "source_count": 1,
@@ -196,31 +196,31 @@
       ],
       "items": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "id": "6a4cd56392985062cbbf523a364f448949a683d5",
+          "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
+          "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
           "title_en": null,
-          "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30389",
+          "url": "https://www.aibase.com/news/30391",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
+          "published_at": "2026-08-17T05:53:25.922963Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -228,17 +228,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T03:15:33.620173Z",
-      "latest_at": "2026-08-17T03:15:33.620173Z",
+      "earliest_at": "2026-08-17T05:53:25.922963Z",
+      "latest_at": "2026-08-17T05:53:25.922963Z",
       "primary_item": {
-        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-        "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "id": "6a4cd56392985062cbbf523a364f448949a683d5",
+        "title": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
+        "title_zh": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
         "title_en": null,
-        "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "title_original": "Anthropic CEO称AI抵制”从根本上说是深层的信任危机”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30389",
+        "url": "https://www.aibase.com/news/30391",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7742,
+        "recency": 0.7645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -327,7 +327,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
+      }
+    },
+    {
+      "story_id": "story_d5502002c943",
+      "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+      "url": "https://www.aibase.com/news/30390",
+      "primary_url": "https://www.aibase.com/news/30390",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
+          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_en": null,
+          "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30390",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T04:07:48.267961Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
+          "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "title_en": null,
+          "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30390",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T04:07:48.267961Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T04:07:48.267961Z",
+      "latest_at": "2026-08-17T04:07:48.267961Z",
+      "primary_item": {
+        "id": "d4951b2a059e6f8fd529fa08bd1ce2b3ead1dc3c",
+        "title": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+        "title_zh": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+        "title_en": null,
+        "title_original": "支付巨头 Stripe 据传将以超 70 亿美元收购 AI 独角兽 OpenRouter",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30390",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T05:55:26.770285Z"
+      }
+    },
+    {
+      "story_id": "story_49a27a8cb3e7",
+      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+      "url": "https://www.aibase.com/news/30389",
+      "primary_url": "https://www.aibase.com/news/30389",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_en": null,
+          "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T03:15:33.620173Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "title_en": null,
+          "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T03:15:33.620173Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9627,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T03:15:33.620173Z",
+      "latest_at": "2026-08-17T03:15:33.620173Z",
+      "primary_item": {
+        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "title_zh": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "title_en": null,
+        "title_original": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30389",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -375,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -409,7 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -457,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,171 +655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
-      }
-    },
-    {
-      "story_id": "story_6cfaa7bb350f",
-      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-      "url": "https://www.aibase.com/news/30383",
-      "primary_url": "https://www.aibase.com/news/30383",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "title_en": null,
-          "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "title_en": null,
-          "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9749,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T03:15:33.620173Z",
-      "latest_at": "2026-08-17T03:15:33.620173Z",
-      "primary_item": {
-        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "title_en": null,
-        "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30383",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
-      }
-    },
-    {
-      "story_id": "story_f1ac0a167ce6",
-      "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-      "url": "https://www.aibase.com/news/30385",
-      "primary_url": "https://www.aibase.com/news/30385",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
-          "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "title_en": null,
-          "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30385",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
-          "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "title_en": null,
-          "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30385",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T03:15:33.620173Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9749,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T03:15:33.620173Z",
-      "latest_at": "2026-08-17T03:15:33.620173Z",
-      "primary_item": {
-        "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
-        "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-        "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-        "title_en": null,
-        "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30385",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -790,15 +790,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5834,
-      "importance": 0.5834,
-      "importance_score": 0.5834,
+      "score": 0.5814,
+      "importance": 0.5814,
+      "importance_score": 0.5814,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9314,
+        "recency": 0.9198,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -823,26 +823,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
-      "story_id": "story_5014b5e051ff",
-      "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
-      "url": "https://www.aibase.com/news/30387",
-      "primary_url": "https://www.aibase.com/news/30387",
+      "story_id": "story_6cfaa7bb350f",
+      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+      "url": "https://www.aibase.com/news/30383",
+      "primary_url": "https://www.aibase.com/news/30383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
-          "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
-          "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
           "title_en": null,
-          "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30387",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -855,14 +855,14 @@
       ],
       "items": [
         {
-          "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
-          "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
-          "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
           "title_en": null,
-          "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30387",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -871,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,14 +890,14 @@
       "earliest_at": "2026-08-17T03:15:33.620173Z",
       "latest_at": "2026-08-17T03:15:33.620173Z",
       "primary_item": {
-        "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
-        "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
-        "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+        "title_zh": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
         "title_en": null,
-        "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+        "title_original": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30387",
+        "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -905,7 +905,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1011,15 +1011,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9449,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1044,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1150,15 +1150,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9207,
+        "recency": 0.9092,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1183,7 +1183,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1289,15 +1289,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9146,
+        "recency": 0.9032,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1322,26 +1322,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
-      "story_id": "story_24a06eb07327",
-      "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
-      "url": "https://www.aibase.com/news/30384",
-      "primary_url": "https://www.aibase.com/news/30384",
+      "story_id": "story_f1ac0a167ce6",
+      "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
+      "url": "https://www.aibase.com/news/30385",
+      "primary_url": "https://www.aibase.com/news/30385",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7dbd7975ad7bffce4ec2d79df7371ab1189dbc55",
-          "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
-          "title_zh": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+          "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
+          "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
+          "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
           "title_en": null,
-          "title_original": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+          "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30384",
+          "url": "https://www.aibase.com/news/30385",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1354,14 +1354,14 @@
       ],
       "items": [
         {
-          "id": "7dbd7975ad7bffce4ec2d79df7371ab1189dbc55",
-          "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
-          "title_zh": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+          "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
+          "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
+          "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
           "title_en": null,
-          "title_original": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+          "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30384",
+          "url": "https://www.aibase.com/news/30385",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1370,15 +1370,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1389,14 +1389,14 @@
       "earliest_at": "2026-08-17T03:15:33.620173Z",
       "latest_at": "2026-08-17T03:15:33.620173Z",
       "primary_item": {
-        "id": "7dbd7975ad7bffce4ec2d79df7371ab1189dbc55",
-        "title": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
-        "title_zh": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+        "id": "39ad074c9a7264ed91ecb5caf93d3472b5e08e8f",
+        "title": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
+        "title_zh": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
         "title_en": null,
-        "title_original": "贾跃亭宣布FF机器人业务拟独立上市，目标年底出货2000台",
+        "title_original": "支付巨头 Stripe 70 亿美元收购 OpenRouter：AI 模型\"路由器\"傍上支付巨头",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30384",
+        "url": "https://www.aibase.com/news/30385",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1404,7 +1404,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1510,15 +1510,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.846,
+        "recency": 0.8355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1543,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1620,15 +1620,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9792,
+        "recency": 0.967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,12 +1653,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
       "story_id": "story_a1caa46a80fe",
-      "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
+      "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
       "url": "https://news.ycombinator.com/item?id=49323136",
       "primary_url": "https://news.ycombinator.com/item?id=49323136",
       "source": "hackernews",
@@ -1666,10 +1666,10 @@
       "sources": [
         {
           "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
-          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
-          "title_zh": "红皇后假说——人工智能自我完善的新途径",
-          "title_en": "Red queen hypothesis – a new way forward for self-improving AI",
-          "title_original": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
+          "title_zh": "红皇后假说——自我完善人工智能的新途径",
+          "title_en": "Red queen hypothesis – A new way forward for self-improving AI",
+          "title_original": "Red queen hypothesis – A new way forward for self-improving AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49323136",
@@ -1680,10 +1680,10 @@
         },
         {
           "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
-          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
-          "title_zh": "红皇后假说——人工智能自我完善的新途径",
-          "title_en": "Red queen hypothesis – a new way forward for self-improving AI",
-          "title_original": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
+          "title_zh": "红皇后假说——自我完善人工智能的新途径",
+          "title_en": "Red queen hypothesis – A new way forward for self-improving AI",
+          "title_original": "Red queen hypothesis – A new way forward for self-improving AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
@@ -1701,10 +1701,10 @@
       "items": [
         {
           "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
-          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
-          "title_zh": "红皇后假说——人工智能自我完善的新途径",
-          "title_en": "Red queen hypothesis – a new way forward for self-improving AI",
-          "title_original": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
+          "title_zh": "红皇后假说——自我完善人工智能的新途径",
+          "title_en": "Red queen hypothesis – A new way forward for self-improving AI",
+          "title_original": "Red queen hypothesis – A new way forward for self-improving AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49323136",
@@ -1715,10 +1715,10 @@
         },
         {
           "id": "e65ff95c4c70f4ac352d14e5cb1db191859800fd",
-          "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
-          "title_zh": "红皇后假说——人工智能自我完善的新途径",
-          "title_en": "Red queen hypothesis – a new way forward for self-improving AI",
-          "title_original": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
+          "title_zh": "红皇后假说——自我完善人工智能的新途径",
+          "title_en": "Red queen hypothesis – A new way forward for self-improving AI",
+          "title_original": "Red queen hypothesis – A new way forward for self-improving AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
@@ -1730,15 +1730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9569,
+        "recency": 0.9449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1749,10 +1749,10 @@
       "latest_at": "2026-08-17T01:58:06.520000Z",
       "primary_item": {
         "id": "5185cec364d42b8d8fdb81877d2d7a9f09ff9571",
-        "title": "红皇后假说——人工智能自我完善的新途径 / Red queen hypothesis – a new way forward for self-improving AI",
-        "title_zh": "红皇后假说——人工智能自我完善的新途径",
-        "title_en": "Red queen hypothesis – a new way forward for self-improving AI",
-        "title_original": "Red queen hypothesis – a new way forward for self-improving AI",
+        "title": "红皇后假说——自我完善人工智能的新途径 / Red queen hypothesis – A new way forward for self-improving AI",
+        "title_zh": "红皇后假说——自我完善人工智能的新途径",
+        "title_en": "Red queen hypothesis – A new way forward for self-improving AI",
+        "title_original": "Red queen hypothesis – A new way forward for self-improving AI",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49323136",
@@ -1763,7 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -1869,15 +1869,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7565,
+        "recency": 0.7471,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1902,26 +1902,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
-      "story_id": "story_137325242f80",
-      "title": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
-      "url": "https://www.aibase.com/news/30386",
-      "primary_url": "https://www.aibase.com/news/30386",
+      "story_id": "story_5014b5e051ff",
+      "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+      "url": "https://www.aibase.com/news/30387",
+      "primary_url": "https://www.aibase.com/news/30387",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d8a36f891d0cd7167f1747139649ac2a781bd884",
-          "title": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
-          "title_zh": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+          "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
+          "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
           "title_en": null,
-          "title_original": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+          "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30386",
+          "url": "https://www.aibase.com/news/30387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1934,14 +1934,14 @@
       ],
       "items": [
         {
-          "id": "d8a36f891d0cd7167f1747139649ac2a781bd884",
-          "title": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
-          "title_zh": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+          "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
+          "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+          "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
           "title_en": null,
-          "title_original": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+          "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30386",
+          "url": "https://www.aibase.com/news/30387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1950,15 +1950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1969,14 +1969,14 @@
       "earliest_at": "2026-08-17T03:15:33.620173Z",
       "latest_at": "2026-08-17T03:15:33.620173Z",
       "primary_item": {
-        "id": "d8a36f891d0cd7167f1747139649ac2a781bd884",
-        "title": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
-        "title_zh": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+        "id": "d27438bf2c3e78ceea45a02bca06e5402040c930",
+        "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+        "title_zh": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
         "title_en": null,
-        "title_original": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
+        "title_original": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30386",
+        "url": "https://www.aibase.com/news/30387",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1984,7 +1984,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     },
     {
@@ -2061,15 +2061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8109,
+        "recency": 0.8008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2094,7 +2094,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T05:01:56.805956Z"
+        "scored_at": "2026-08-17T05:55:26.770285Z"
       }
     }
   ]
