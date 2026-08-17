@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-08-17T13:10:19.232637Z",
+  "generated_at": "2026-08-17T13:55:54.742951Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b3a579450c1c",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "primary_url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8854,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:30:00Z",
+      "latest_at": "2026-08-17T05:30:00Z",
+      "primary_item": {
+        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+        "title_en": "The Defender’s Window",
+        "title_original": "The Defender’s Window",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-defenders-window",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T13:58:00.908830Z"
+      }
+    },
     {
       "story_id": "story_7e8345d4d33c",
       "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.928,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "The Defender’s Window",
-          "title_zh": null,
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "The Defender’s Window",
-          "title_zh": null,
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8951,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "The Defender’s Window",
-        "title_zh": null,
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -214,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8887,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +279,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
+      }
+    },
+    {
+      "story_id": "story_3fb9b8caeae7",
+      "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "primary_url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+          "title_en": "Securing the Infrastructure of Intelligence",
+          "title_original": "Securing the Infrastructure of Intelligence",
+          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:34:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+          "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+          "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+          "title_en": "Securing the Infrastructure of Intelligence",
+          "title_original": "Securing the Infrastructure of Intelligence",
+          "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:34:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:34:51Z",
+      "latest_at": "2026-08-17T12:34:51Z",
+      "primary_item": {
+        "id": "ac4e815c536d239831b729b0b9da8bf16acc16d1",
+        "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻 / Securing the Infrastructure of Intelligence",
+        "title_zh": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
+        "title_en": "Securing the Infrastructure of Intelligence",
+        "title_original": "Securing the Infrastructure of Intelligence",
+        "summary": "NVIDIA 宣布与 SB Energy 合作，锁定俄亥俄州 PORTS-Pike 科技园区的电力容量（LPS）以独家部署 NVIDIA 算力，OpenAI 将成为租户。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -297,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.982,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +443,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
+      }
+    },
+    {
+      "story_id": "story_cec42b7695cc",
+      "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+      "url": "https://www.ithome.com/0/990/812.htm",
+      "primary_url": "https://www.ithome.com/0/990/812.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_en": null,
+          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/990/812.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+          "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "title_en": null,
+          "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+          "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/990/812.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T12:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9785,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T12:25:27Z",
+      "latest_at": "2026-08-17T12:25:27Z",
+      "primary_item": {
+        "id": "857ded46599c92a5d91b8bd44d423dc2c66d49d2",
+        "title": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "title_zh": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "title_en": null,
+        "title_original": "A 股迎来\"人形机器人第一股\"，宇树科技官宣 8 月 19 日科创板上市",
+        "summary": "宇树科技宣布股票将于 2026 年 8 月 19 日在科创板上市，发行价 150.80 元/股，对应市值约 609.93 亿元，预计募资约 60.99 亿元。该公司 2023 至 2025 年营收分别为 1.59 亿元、3.93 亿元和 16.99 亿元，净利润分别为-1114.51 万元、9547.47 万元和 2.78 亿元，是全球少数实现盈利的高性能通用机器人公司。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/990/812.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -379,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8665,
+        "recency": 0.8571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -462,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.967,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -544,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -577,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -625,15 +819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,7 +853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -707,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -741,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -789,15 +983,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,7 +1017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -871,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -905,7 +1099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -981,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6348,
-      "importance": 0.6348,
-      "importance_score": 0.6348,
+      "score": 0.6329,
+      "importance": 0.6329,
+      "importance_score": 0.6329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9685,
+        "recency": 0.9579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1014,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -1062,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1096,7 +1290,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -1144,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,7 +1372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -1226,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,109 +1454,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
-      "story_id": "story_f75e3b4636ba",
-      "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://news.ycombinator.com/item?id=49329575",
-      "primary_url": "https://news.ycombinator.com/item?id=49329575",
+      "story_id": "story_e4cf9fc24e9e",
+      "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+      "url": "https://news.ycombinator.com/item?id=49330215",
+      "primary_url": "https://news.ycombinator.com/item?id=49330215",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "d6b2168bb794c09ed0dbabb229d44036b43b46a8",
+          "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+          "title_zh": "显示 HN：推箱子 AI 求解器",
+          "title_en": "Show HN: Sokoban AI Solver",
+          "title_original": "Show HN: Sokoban AI Solver",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49330215",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T13:12:03.670000Z"
+          "published_at": "2026-08-17T13:40:22.397000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "fc9a13104de8b2a99f9c4bdc9c2e48975eff76d7",
+          "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+          "title_zh": "显示 HN：推箱子 AI 求解器",
+          "title_en": "Show HN: Sokoban AI Solver",
+          "title_original": "Show HN: Sokoban AI Solver",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "url": "https://mkornreich.me/projects/sokoban",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:07:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "d6b2168bb794c09ed0dbabb229d44036b43b46a8",
+          "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+          "title_zh": "显示 HN：推箱子 AI 求解器",
+          "title_en": "Show HN: Sokoban AI Solver",
+          "title_original": "Show HN: Sokoban AI Solver",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49329575",
+          "url": "https://news.ycombinator.com/item?id=49330215",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-17T13:12:03.670000Z"
+          "published_at": "2026-08-17T13:40:22.397000Z"
         },
         {
-          "id": "260409f5d7a18ebea1c93918e71ffbb13bc8865d",
-          "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-          "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-          "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "id": "fc9a13104de8b2a99f9c4bdc9c2e48975eff76d7",
+          "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+          "title_zh": "显示 HN：推箱子 AI 求解器",
+          "title_en": "Show HN: Sokoban AI Solver",
+          "title_original": "Show HN: Sokoban AI Solver",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.roboflow.com/openai-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T12:09:42Z"
+          "url": "https://mkornreich.me/projects/sokoban",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T13:07:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T12:09:42Z",
-      "latest_at": "2026-08-17T13:12:03.670000Z",
+      "earliest_at": "2026-08-17T13:07:00Z",
+      "latest_at": "2026-08-17T13:40:22.397000Z",
       "primary_item": {
-        "id": "3c01cf0ad846b6435e76dd4c292539b1b61bbb4c",
-        "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "title_zh": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
-        "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "title_original": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "id": "d6b2168bb794c09ed0dbabb229d44036b43b46a8",
+        "title": "显示 HN：推箱子 AI 求解器 / Show HN: Sokoban AI Solver",
+        "title_zh": "显示 HN：推箱子 AI 求解器",
+        "title_en": "Show HN: Sokoban AI Solver",
+        "title_original": "Show HN: Sokoban AI Solver",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49329575",
+        "url": "https://news.ycombinator.com/item?id=49330215",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1370,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -1476,15 +1670,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8506,
+        "recency": 0.8413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1509,7 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     },
     {
@@ -1586,15 +1780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1619,285 +1813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
-      }
-    },
-    {
-      "story_id": "story_6ea5c9d0c11e",
-      "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "daringfireball.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T23:15:10.042000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Daring Fireball",
-        "daringfireball.net",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在Claude中的“水印”文本掺假是对写作的歪曲",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T23:15:10.042000Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.828,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-17T00:06:02.469000Z",
-      "primary_item": {
-        "id": "f713a587ff54b68a52101f457162b00db26d1184",
-        "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-        "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-        "title_en": null,
-        "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "source": "daringfireball.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
-      }
-    },
-    {
-      "story_id": "story_a23b56bee6e9",
-      "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": null,
-          "title_original": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T23:17:59.746000Z"
-        },
-        {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:14:49.799000Z"
-        },
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": null,
-          "title_original": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T23:17:59.746000Z"
-        },
-        {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易 / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49323381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:14:49.799000Z"
-        },
-        {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8185,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T20:31:16Z",
-      "latest_at": "2026-08-16T23:17:59.746000Z",
-      "primary_item": {
-        "id": "606e2da905768ff4c91e5705070cb5ae9b37d3b4",
-        "title": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-        "title_zh": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-        "title_en": null,
-        "title_original": "Stripe敲定一笔超过70亿美元的交易，收购人工智能公司OpenRouter",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T13:12:23.332214Z"
+        "scored_at": "2026-08-17T13:58:00.908830Z"
       }
     }
   ]
