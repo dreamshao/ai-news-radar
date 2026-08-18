@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:52:04.767510Z",
+  "generated_at": "2026-08-18T17:47:06.327581Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8704,
-      "importance": 0.8704,
-      "importance_score": 0.8704,
+      "score": 0.8682,
+      "importance": 0.8682,
+      "importance_score": 0.8682,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9188,
+        "recency": 0.9067,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7838,
+        "recency": 0.7735,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,177 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
-      }
-    },
-    {
-      "story_id": "story_13ad5c9c5494",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "431f3a483f7a160512b15bf12fc1baab56d904bd",
-          "title": "Cursor 推出 Origin、GitHub 替代品 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin、GitHub 替代品",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49334209",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T21:44:18.532000Z"
-        },
-        {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:02:44Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "431f3a483f7a160512b15bf12fc1baab56d904bd",
-          "title": "Cursor 推出 Origin、GitHub 替代品 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin、GitHub 替代品",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49334209",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T21:44:18.532000Z"
-        },
-        {
-          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": "Cursor launches Origin, GitHub alternative",
-          "title_original": "Cursor launches Origin, GitHub alternative",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:02:44Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7641,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T17:02:44Z",
-      "latest_at": "2026-08-17T22:14:00.748000Z",
-      "primary_item": {
-        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_en": null,
-        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-        "recommend_reason_zh": null,
-        "url": "https://cursor.com/changelog/origin-code-hosting",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -444,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9188,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -479,7 +309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -527,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7374,
+        "recency": 0.7277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +392,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
+      }
+    },
+    {
+      "story_id": "story_7e601a28e35c",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.754,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T22:14:00.748000Z",
+      "latest_at": "2026-08-17T22:14:00.748000Z",
+      "primary_item": {
+        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "title_en": null,
+        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+        "recommend_reason_zh": null,
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -610,15 +552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8672,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -721,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8801,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -804,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7768,
+        "recency": 0.7665,
         "story_heat": 0.0
       },
       "category": "official",
@@ -838,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -886,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,7 +861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -967,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.7731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,7 +942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1048,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1082,7 +1024,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1159,15 +1101,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
+        "recency": 0.7172,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1193,7 +1135,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1241,21 +1183,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T09:51:54.733377Z",
       "latest_at": "2026-08-18T09:51:54.733377Z",
@@ -1275,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1352,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7184,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1386,7 +1327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1434,21 +1375,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T09:51:54.733377Z",
       "latest_at": "2026-08-18T09:51:54.733377Z",
@@ -1468,7 +1408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1516,21 +1456,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T09:51:54.733377Z",
       "latest_at": "2026-08-18T09:51:54.733377Z",
@@ -1550,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1598,15 +1537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1631,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1679,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8801,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1712,7 +1651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1818,15 +1757,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9335,
+        "recency": 0.9212,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1851,7 +1790,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     },
     {
@@ -1986,15 +1925,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7467,
+        "recency": 0.7368,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -2019,7 +1958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T16:52:41.392415Z"
+        "scored_at": "2026-08-18T17:47:41.242948Z"
       }
     }
   ]
