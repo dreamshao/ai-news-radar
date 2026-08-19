@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-08-19T11:44:11.313993Z",
+  "generated_at": "2026-08-19T13:13:09.623896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_24b8f639b701",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "title_zh": "跟踪组织代码质量趋势",
+          "title_en": "Track organization code quality trends",
+          "title_original": "Track organization code quality trends",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
+      "primary_item": {
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "title_zh": "跟踪组织代码质量趋势",
+        "title_en": "Track organization code quality trends",
+        "title_original": "Track organization code quality trends",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T13:13:46.227476Z"
+      }
+    },
     {
       "story_id": "story_77f8f8705916",
       "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7758,
+        "recency": 0.7594,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8201,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8387,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7853,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,90 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
-      }
-    },
-    {
-      "story_id": "story_7de8d1dc0770",
-      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "title_zh": "按令牌类型撤销凭证和取消授权",
-          "title_en": "Credential revocation and deauthorization by token type",
-          "title_original": "Credential revocation and deauthorization by token type",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8196,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
-      "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-        "title_zh": "按令牌类型撤销凭证和取消授权",
-        "title_en": "Credential revocation and deauthorization by token type",
-        "title_original": "Credential revocation and deauthorization by token type",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -493,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -575,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +609,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
+      }
+    },
+    {
+      "story_id": "story_7de8d1dc0770",
+      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按令牌类型撤销凭证和取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8022,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
+      "primary_item": {
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
+        "title_zh": "按令牌类型撤销凭证和取消授权",
+        "title_en": "Credential revocation and deauthorization by token type",
+        "title_original": "Credential revocation and deauthorization by token type",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -657,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -738,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8255,
+        "recency": 0.808,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -848,15 +931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7979,
+        "recency": 0.781,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -882,7 +965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -930,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,7 +1047,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1012,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7809,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1093,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9608,
+        "recency": 0.9404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1127,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1175,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1257,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1291,7 +1374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1339,15 +1422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,7 +1456,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1421,15 +1504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1455,146 +1538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
-      }
-    },
-    {
-      "story_id": "story_44ee19ab3371",
-      "title": "软件团队中人工智能的使用模式",
-      "url": "https://linear.app/data",
-      "primary_url": "https://linear.app/data",
-      "source": "linear.app",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-          "title": "软件团队中人工智能的使用模式",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": null,
-          "title_original": "软件团队中人工智能的使用模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "linear.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T06:30:17.079000Z"
-        },
-        {
-          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
-          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中的人工智能使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49353432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T01:37:37.013000Z"
-        },
-        {
-          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
-          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T22:08:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "linear.app"
-      ],
-      "items": [
-        {
-          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-          "title": "软件团队中人工智能的使用模式",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": null,
-          "title_original": "软件团队中人工智能的使用模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "linear.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T06:30:17.079000Z"
-        },
-        {
-          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
-          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中的人工智能使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49353432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T01:37:37.013000Z"
-        },
-        {
-          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
-          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
-          "title_zh": "软件团队中人工智能的使用模式",
-          "title_en": "AI usage patterns in software teams",
-          "title_original": "AI usage patterns in software teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://linear.app/data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T22:08:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9272,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T22:08:07Z",
-      "latest_at": "2026-08-19T06:30:17.079000Z",
-      "primary_item": {
-        "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
-        "title": "软件团队中人工智能的使用模式",
-        "title_zh": "软件团队中人工智能的使用模式",
-        "title_en": null,
-        "title_original": "软件团队中人工智能的使用模式",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://linear.app/data",
-        "source": "linear.app",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
@@ -1729,15 +1673,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7855,
+        "recency": 0.7688,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1762,89 +1706,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     },
     {
-      "story_id": "story_918250d3187d",
-      "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
-      "url": "https://www.aibase.com/news/30470",
-      "primary_url": "https://www.aibase.com/news/30470",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_44ee19ab3371",
+      "title": "软件团队中人工智能的使用模式",
+      "url": "https://linear.app/data",
+      "primary_url": "https://linear.app/data",
+      "source": "linear.app",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c4a93061e83a5163e5a9084c2224fce213720705",
-          "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
-          "title_zh": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "title_zh": "软件团队中人工智能的使用模式",
           "title_en": null,
-          "title_original": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "title_original": "软件团队中人工智能的使用模式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30470",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:56:37.848309Z"
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        },
+        {
+          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
+          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中的人工智能使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49353432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T01:37:37.013000Z"
+        },
+        {
+          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T22:08:07Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "linear.app"
       ],
       "items": [
         {
-          "id": "c4a93061e83a5163e5a9084c2224fce213720705",
-          "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
-          "title_zh": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+          "title": "软件团队中人工智能的使用模式",
+          "title_zh": "软件团队中人工智能的使用模式",
           "title_en": null,
-          "title_original": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "title_original": "软件团队中人工智能的使用模式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30470",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:56:37.848309Z"
+          "url": "https://linear.app/data",
+          "source": "linear.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T06:30:17.079000Z"
+        },
+        {
+          "id": "55ebba5576bc5540b0256faf9603dbf918a81874",
+          "title": "软件团队中的人工智能使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中的人工智能使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49353432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T01:37:37.013000Z"
+        },
+        {
+          "id": "fcc0bb9aa559222dc9ce7475984097e0092c2c74",
+          "title": "软件团队中人工智能的使用模式 / AI usage patterns in software teams",
+          "title_zh": "软件团队中人工智能的使用模式",
+          "title_en": "AI usage patterns in software teams",
+          "title_original": "AI usage patterns in software teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://linear.app/data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T22:08:07Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9467,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9076,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-19T07:56:37.848309Z",
-      "latest_at": "2026-08-19T07:56:37.848309Z",
+      "earliest_at": "2026-08-18T22:08:07Z",
+      "latest_at": "2026-08-19T06:30:17.079000Z",
       "primary_item": {
-        "id": "c4a93061e83a5163e5a9084c2224fce213720705",
-        "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
-        "title_zh": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+        "id": "55bcf27114be24ad6c263a2ce0aedac53c03c8f2",
+        "title": "软件团队中人工智能的使用模式",
+        "title_zh": "软件团队中人工智能的使用模式",
         "title_en": null,
-        "title_original": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+        "title_original": "软件团队中人工智能的使用模式",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30470",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://linear.app/data",
+        "source": "linear.app",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T11:46:12.769844Z"
+        "scored_at": "2026-08-19T13:13:46.227476Z"
       }
     }
   ]
