@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:57:50.533684Z",
+  "generated_at": "2026-08-19T09:52:02.791095Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8075,
+        "recency": 0.7971,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7282,
+        "recency": 0.7188,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,7 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -274,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8729,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,7 +309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -357,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8536,
+        "recency": 0.8425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -440,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8531,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "official",
@@ -475,7 +475,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
+      }
+    },
+    {
+      "story_id": "story_9d19a0dc02ff",
+      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+      "url": "https://www.aibase.com/news/30476",
+      "primary_url": "https://www.aibase.com/news/30476",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_en": null,
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T09:52:02.791095Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_en": null,
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T09:52:02.791095Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T09:52:02.791095Z",
+      "latest_at": "2026-08-19T09:52:02.791095Z",
+      "primary_item": {
+        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "title_en": null,
+        "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30476",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -523,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,89 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
-      }
-    },
-    {
-      "story_id": "story_ea0ed8c5e2fe",
-      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-      "url": "https://www.aibase.com/news/30474",
-      "primary_url": "https://www.aibase.com/news/30474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:57:50.533684Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:57:50.533684Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T08:57:50.533684Z",
-      "latest_at": "2026-08-19T08:57:50.533684Z",
-      "primary_item": {
-        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_en": null,
-        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30474",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8174,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -770,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -851,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,7 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -961,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8305,
+        "recency": 0.8197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,30 +995,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
-      "story_id": "story_3efa244006cd",
-      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-      "url": "https://www.aibase.com/news/30473",
-      "primary_url": "https://www.aibase.com/news/30473",
+      "story_id": "story_ea0ed8c5e2fe",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30473",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:56:37.848309Z"
+          "published_at": "2026-08-19T08:57:50.533684Z"
         }
       ],
       "source_count": 1,
@@ -1027,31 +1027,31 @@
       ],
       "items": [
         {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30473",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:56:37.848309Z"
+          "published_at": "2026-08-19T08:57:50.533684Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,17 +1059,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T07:56:37.848309Z",
-      "latest_at": "2026-08-19T07:56:37.848309Z",
+      "earliest_at": "2026-08-19T08:57:50.533684Z",
+      "latest_at": "2026-08-19T08:57:50.533684Z",
       "primary_item": {
-        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
         "title_en": null,
-        "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30473",
+        "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1077,7 +1077,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1125,15 +1125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.8023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,88 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
-      }
-    },
-    {
-      "story_id": "story_0bf04552d060",
-      "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-      "url": "https://x.com/merettm/status/2089776131255783823",
-      "primary_url": "https://x.com/merettm/status/2089776131255783823",
-      "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-          "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
-          "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/merettm/status/2089776131255783823",
-          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:07:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）"
-      ],
-      "items": [
-        {
-          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-          "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
-          "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-          "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/merettm/status/2089776131255783823",
-          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:07:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8071,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T18:07:10Z",
-      "latest_at": "2026-08-18T18:07:10Z",
-      "primary_item": {
-        "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
-        "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-        "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
-        "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-        "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
-        "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/merettm/status/2089776131255783823",
-        "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1287,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7282,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1322,26 +1241,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
-      "story_id": "story_98aa2734f33e",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
+      "story_id": "story_3efa244006cd",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
           "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
+          "url": "https://www.aibase.com/news/30473",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1354,14 +1273,14 @@
       ],
       "items": [
         {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
           "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
+          "url": "https://www.aibase.com/news/30473",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1370,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1389,14 +1308,14 @@
       "earliest_at": "2026-08-19T07:56:37.848309Z",
       "latest_at": "2026-08-19T07:56:37.848309Z",
       "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
         "title_en": null,
-        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30469",
+        "url": "https://www.aibase.com/news/30473",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1404,7 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1452,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7282,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1487,7 +1406,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
+      }
+    },
+    {
+      "story_id": "story_98aa2734f33e",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
+      "primary_url": "https://www.aibase.com/news/30469",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_en": null,
+          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:56:37.848309Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "title_en": null,
+          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30469",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:56:37.848309Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T07:56:37.848309Z",
+      "latest_at": "2026-08-19T07:56:37.848309Z",
+      "primary_item": {
+        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "title_en": null,
+        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30469",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1535,15 +1536,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1617,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1651,7 +1652,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     },
     {
@@ -1699,15 +1700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1733,7 +1734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T08:58:31.002582Z"
+        "scored_at": "2026-08-19T09:52:40.963471Z"
       }
     }
   ]
