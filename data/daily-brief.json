@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:43:29.463620Z",
+  "generated_at": "2026-08-21T21:42:40.402270Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9357,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8816,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7414,
+        "recency": 0.7309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9349,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
-      }
-    },
-    {
-      "story_id": "story_6b026b4e90dc",
-      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "title_zh": "用于管理被阻止用户的更好工具",
-          "title_en": "Better tools for managing blocked users",
-          "title_original": "Better tools for managing blocked users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "title_zh": "用于管理被阻止用户的更好工具",
-          "title_en": "Better tools for managing blocked users",
-          "title_original": "Better tools for managing blocked users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9542,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T17:28:36Z",
-      "latest_at": "2026-08-21T17:28:36Z",
-      "primary_item": {
-        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-        "title_zh": "用于管理被阻止用户的更好工具",
-        "title_en": "Better tools for managing blocked users",
-        "title_original": "Better tools for managing blocked users",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -521,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8375,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,7 +473,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
+      }
+    },
+    {
+      "story_id": "story_6b026b4e90dc",
+      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "title_zh": "用于管理被阻止用户的更好工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T17:28:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+          "title_zh": "用于管理被阻止用户的更好工具",
+          "title_en": "Better tools for managing blocked users",
+          "title_original": "Better tools for managing blocked users",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T17:28:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9407,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T17:28:36Z",
+      "latest_at": "2026-08-21T17:28:36Z",
+      "primary_item": {
+        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
+        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
+        "title_zh": "用于管理被阻止用户的更好工具",
+        "title_en": "Better tools for managing blocked users",
+        "title_original": "Better tools for managing blocked users",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.9008,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -686,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.8375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -767,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -848,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -881,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -929,15 +929,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8947,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -962,7 +962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9611,
+        "recency": 0.9475,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1074,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1122,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8554,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1203,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7359,
+        "recency": 0.7255,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1238,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1286,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,7 +1319,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1367,15 +1367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8554,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1448,15 +1448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8554,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1529,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8445,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1562,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1696,15 +1696,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5902,
-      "importance": 0.5902,
-      "importance_score": 0.5902,
+      "score": 0.5877,
+      "importance": 0.5877,
+      "importance_score": 0.5877,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9551,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1729,7 +1729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     },
     {
@@ -1777,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8323,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1810,7 +1810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T20:44:06.061100Z"
+        "scored_at": "2026-08-21T21:43:17.930421Z"
       }
     }
   ]
