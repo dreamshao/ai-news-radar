@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T02:02:07.440546Z",
+  "generated_at": "2026-08-23T03:17:50.287817Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.828,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -269,15 +269,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9501,
+        "recency": 0.9329,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,7 +302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -328,7 +328,7 @@
           "published_at": "2026-08-22T17:09:20.269000Z"
         },
         {
-          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
           "title": "新的MCP路线图 / New MCP Roadmap",
           "title_zh": "新的MCP路线图",
           "title_en": "New MCP Roadmap",
@@ -336,9 +336,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
@@ -359,7 +359,7 @@
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.modelcontextprotocol.io"
       ],
       "items": [
@@ -378,7 +378,7 @@
           "published_at": "2026-08-22T17:09:20.269000Z"
         },
         {
-          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "id": "e2aebfad7a6256299cd6bda017aa762d5fec10f6",
           "title": "新的MCP路线图 / New MCP Roadmap",
           "title_zh": "新的MCP路线图",
           "title_en": "New MCP Roadmap",
@@ -386,9 +386,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T13:31:34Z"
         },
         {
@@ -408,15 +408,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8797,
+        "recency": 0.8638,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,7 +441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -547,15 +547,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8491,
+        "recency": 0.8337,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -657,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.932,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -766,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8981,
+        "recency": 0.8819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -876,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.88,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -909,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     },
     {
@@ -986,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7567,
+        "recency": 0.7431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1016,10 +1016,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-23T02:14:58.359645Z"
+        "scored_at": "2026-08-23T03:30:24.745479Z"
       }
     }
   ]
