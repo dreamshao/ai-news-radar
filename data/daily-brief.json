@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:44:21.802020Z",
+  "generated_at": "2026-09-01T19:57:37.387617Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8671,
-      "importance": 0.8671,
-      "importance_score": 0.8671,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9894,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8459,
+      "importance": 0.8459,
+      "importance_score": 0.8459,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7853,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,7 +226,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_7ec800fd62d3",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9602,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T17:08:51Z",
+      "latest_at": "2026-09-01T17:08:51Z",
+      "primary_item": {
+        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+        "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+        "title_en": "Introducing agentic video understanding with Gemini",
+        "title_original": "Introducing agentic video understanding with Gemini",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_ad13bde463ce",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "primary_url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
+          "title": "How AI-native companies turn workflows into operating capability",
+          "title_zh": null,
+          "title_en": "How AI-native companies turn workflows into operating capability",
+          "title_original": "How AI-native companies turn workflows into operating capability",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
+          "title": "How AI-native companies turn workflows into operating capability",
+          "title_zh": null,
+          "title_en": "How AI-native companies turn workflows into operating capability",
+          "title_original": "How AI-native companies turn workflows into operating capability",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9582,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T17:00:00Z",
+      "latest_at": "2026-09-01T17:00:00Z",
+      "primary_item": {
+        "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
+        "title": "How AI-native companies turn workflows into operating capability",
+        "title_zh": null,
+        "title_en": "How AI-native companies turn workflows into operating capability",
+        "title_original": "How AI-native companies turn workflows into operating capability",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ai-native-company-workflows",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_c5bbc19a185e",
+      "title": "Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "Block users from discussion comments in personal repositories",
+          "title_zh": null,
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T16:30:01Z",
+      "latest_at": "2026-09-01T16:30:01Z",
+      "primary_item": {
+        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+        "title": "Block users from discussion comments in personal repositories",
+        "title_zh": null,
+        "title_en": "Block users from discussion comments in personal repositories",
+        "title_original": "Block users from discussion comments in personal repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -274,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7853,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,63 +558,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
-      "story_id": "story_d2daab157b0c",
-      "title": "Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "source": "GitHub Changelog",
+      "story_id": "story_d048fe91383f",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "Copilot model access update for GitHub Team plans",
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "title_zh": null,
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "published_at": "2026-09-01T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "Copilot model access update for GitHub Team plans",
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "title_zh": null,
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "published_at": "2026-09-01T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7627,
+        "ai_relevance": 0.95,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,25 +623,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T21:58:46Z",
-      "latest_at": "2026-08-31T21:58:46Z",
+      "earliest_at": "2026-09-01T12:00:00Z",
+      "latest_at": "2026-09-01T12:00:00Z",
       "primary_item": {
-        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-        "title": "Copilot model access update for GitHub Team plans",
+        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
         "title_zh": null,
-        "title_en": "Copilot model access update for GitHub Team plans",
-        "title_original": "Copilot model access update for GitHub Team plans",
+        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -440,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.774,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +723,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_5537a1603458",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T19:43:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T19:43:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T19:43:09Z",
+      "latest_at": "2026-09-01T19:43:09Z",
+      "primary_item": {
+        "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+        "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+        "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_d2daab157b0c",
+      "title": "Copilot model access update for GitHub Team plans",
+      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "title_zh": null,
+          "title_en": "Copilot model access update for GitHub Team plans",
+          "title_original": "Copilot model access update for GitHub Team plans",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "title_zh": null,
+          "title_en": "Copilot model access update for GitHub Team plans",
+          "title_original": "Copilot model access update for GitHub Team plans",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.728,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T21:58:46Z",
+      "latest_at": "2026-08-31T21:58:46Z",
+      "primary_item": {
+        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+        "title": "Copilot model access update for GitHub Team plans",
+        "title_zh": null,
+        "title_en": "Copilot model access update for GitHub Team plans",
+        "title_original": "Copilot model access update for GitHub Team plans",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -522,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,7 +970,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -604,15 +1018,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +1052,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -686,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7845,
+        "recency": 0.7488,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -768,15 +1182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.751,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,7 +1215,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
+      }
+    },
+    {
+      "story_id": "story_6f36d8876ee7",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+          "title_en": "Claude Platform release notes - September 1， 2026",
+          "title_original": "Claude Platform release notes - September 1， 2026",
+          "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "Claude Platform：开发者版本说明（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude Platform：开发者版本说明（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+          "title_en": "Claude Platform release notes - September 1， 2026",
+          "title_original": "Claude Platform release notes - September 1， 2026",
+          "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
+          "recommend_reason_zh": null,
+          "url": "https://platform.claude.com/docs/en/release-notes/overview",
+          "source": "Claude Platform：开发者版本说明（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7496,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "e2696f8d56951fd0408043550930c79ed5401eb2",
+        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026",
+        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+        "title_en": "Claude Platform release notes - September 1， 2026",
+        "title_original": "Claude Platform release notes - September 1， 2026",
+        "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
+        "recommend_reason_zh": null,
+        "url": "https://platform.claude.com/docs/en/release-notes/overview",
+        "source": "Claude Platform：开发者版本说明（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -849,21 +1344,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T11:46:02.266021Z",
       "latest_at": "2026-09-01T11:46:02.266021Z",
@@ -883,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -931,21 +1425,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T11:46:02.266021Z",
       "latest_at": "2026-09-01T11:46:02.266021Z",
@@ -965,7 +1458,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -1013,21 +1506,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T11:46:02.266021Z",
       "latest_at": "2026-09-01T11:46:02.266021Z",
@@ -1047,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -1095,21 +1587,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T11:46:02.266021Z",
       "latest_at": "2026-09-01T11:46:02.266021Z",
@@ -1129,7 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     },
     {
@@ -1177,21 +1668,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-01T11:46:02.266021Z",
       "latest_at": "2026-09-01T11:46:02.266021Z",
@@ -1211,612 +1701,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_d50e38f3313d",
-      "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-      "url": "https://www.aibase.com/news/30756",
-      "primary_url": "https://www.aibase.com/news/30756",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_en": null,
-          "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-          "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "title_en": null,
-          "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30756",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9307,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T11:46:02.266021Z",
-      "latest_at": "2026-09-01T11:46:02.266021Z",
-      "primary_item": {
-        "id": "993b62ebd3b045f88455749478a3a8a0eb01d374",
-        "title": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "title_zh": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "title_en": null,
-        "title_original": "Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30756",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_18a954a364e8",
-      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-      "url": "https://www.aibase.com/news/30749",
-      "primary_url": "https://www.aibase.com/news/30749",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_en": null,
-          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30749",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "title_en": null,
-          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30749",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9307,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T11:46:02.266021Z",
-      "latest_at": "2026-09-01T11:46:02.266021Z",
-      "primary_item": {
-        "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
-        "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-        "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-        "title_en": null,
-        "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30749",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_48f071bde448",
-      "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "primary_url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "source": "www.eff.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2f891399b124d83d293d2152de6d981224719664",
-          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_en": null,
-          "title_original": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "www.eff.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T14:41:25.376000Z"
-        },
-        {
-          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
-          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T12:53:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.eff.org"
-      ],
-      "items": [
-        {
-          "id": "2f891399b124d83d293d2152de6d981224719664",
-          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_en": null,
-          "title_original": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "www.eff.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T14:41:25.376000Z"
-        },
-        {
-          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
-          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-          "title_en": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "title_original": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T12:53:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9708,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T12:53:51Z",
-      "latest_at": "2026-09-01T14:41:25.376000Z",
-      "primary_item": {
-        "id": "2f891399b124d83d293d2152de6d981224719664",
-        "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-        "title_zh": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-        "title_en": null,
-        "title_original": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-        "source": "www.eff.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_ee700037d74d",
-      "title": "在人工智能时代，最安全的职业可能是写作",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "primary_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "source": "muratbuffalo.blogspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "title_zh": "在人工智能时代，最安全的职业可能是写作",
-          "title_en": null,
-          "title_original": "在人工智能时代，最安全的职业可能是写作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
-        },
-        {
-          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
-          "title": "The safest job from AI may be writing",
-          "title_zh": null,
-          "title_en": "The safest job from AI may be writing",
-          "title_original": "The safest job from AI may be writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49512856",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T23:57:39.973000Z"
-        },
-        {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "title_zh": "在人工智能时代，最安全的职业可能是写作",
-          "title_en": "The safest job from AI may be writing",
-          "title_original": "The safest job from AI may be writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "muratbuffalo.blogspot.com"
-      ],
-      "items": [
-        {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "title_zh": "在人工智能时代，最安全的职业可能是写作",
-          "title_en": null,
-          "title_original": "在人工智能时代，最安全的职业可能是写作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
-        },
-        {
-          "id": "acad8c61a48f59b61c96551eca0e300f3bc08db7",
-          "title": "The safest job from AI may be writing",
-          "title_zh": null,
-          "title_en": "The safest job from AI may be writing",
-          "title_original": "The safest job from AI may be writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49512856",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T23:57:39.973000Z"
-        },
-        {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "title_zh": "在人工智能时代，最安全的职业可能是写作",
-          "title_en": "The safest job from AI may be writing",
-          "title_original": "The safest job from AI may be writing",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8009,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:12:20Z",
-      "latest_at": "2026-09-01T01:21:40.999000Z",
-      "primary_item": {
-        "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-        "title": "在人工智能时代，最安全的职业可能是写作",
-        "title_zh": "在人工智能时代，最安全的职业可能是写作",
-        "title_en": null,
-        "title_original": "在人工智能时代，最安全的职业可能是写作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "source": "muratbuffalo.blogspot.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_417795a6a239",
-      "title": "人工智能也能让你更快变差",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "source": "www.hermit-tech.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "title_zh": "人工智能也能让你更快变差",
-          "title_en": null,
-          "title_original": "人工智能也能让你更快变差",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
-        },
-        {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "title_zh": "人工智能也能让你更快变差",
-          "title_en": "AI Can Make You Suck Faster Too",
-          "title_original": "AI Can Make You Suck Faster Too",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.hermit-tech.com"
-      ],
-      "items": [
-        {
-          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-          "title": "人工智能也能让你更快变差",
-          "title_zh": "人工智能也能让你更快变差",
-          "title_en": null,
-          "title_original": "人工智能也能让你更快变差",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "www.hermit-tech.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T11:45:30.411000Z"
-        },
-        {
-          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
-          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
-          "title_zh": "人工智能也能让你更快变差",
-          "title_en": "AI Can Make You Suck Faster Too",
-          "title_original": "AI Can Make You Suck Faster Too",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T05:32:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9306,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T05:32:56Z",
-      "latest_at": "2026-09-01T11:45:30.411000Z",
-      "primary_item": {
-        "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
-        "title": "人工智能也能让你更快变差",
-        "title_zh": "人工智能也能让你更快变差",
-        "title_en": null,
-        "title_original": "人工智能也能让你更快变差",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "source": "www.hermit-tech.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
-      }
-    },
-    {
-      "story_id": "story_175ffde23042",
-      "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-      "url": "https://www.aibase.com/news/30750",
-      "primary_url": "https://www.aibase.com/news/30750",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_en": null,
-          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "title_en": null,
-          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30750",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T11:46:02.266021Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9307,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T11:46:02.266021Z",
-      "latest_at": "2026-09-01T11:46:02.266021Z",
-      "primary_item": {
-        "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
-        "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-        "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-        "title_en": null,
-        "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30750",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-01T17:10:15.802977Z"
+        "scored_at": "2026-09-01T20:29:00.672138Z"
       }
     }
   ]
