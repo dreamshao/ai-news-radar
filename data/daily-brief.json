@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:02:51.509664Z",
+  "generated_at": "2026-09-04T05:59:35.442403Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9188,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.7852,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -360,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8654,
+        "recency": 0.8057,
         "story_heat": 0.25
       },
       "category": "official",
@@ -396,7 +396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -444,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9143,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -479,7 +479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -527,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8431,
+        "recency": 0.785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -610,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8775,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,7 +645,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
+      }
+    },
+    {
+      "story_id": "story_d509bcb05e90",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+      "url": "https://x.com/steipete/status/2095678161052901828",
+      "primary_url": "https://x.com/steipete/status/2095678161052901828",
+      "source": "X：Peter Steinberger (@steipete)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7461e269f4ce5431de650bddf050706285050c8",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+          "title_en": "brilliant fit.",
+          "title_original": "brilliant fit.",
+          "summary": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/steipete/status/2095678161052901828",
+          "source": "X：Peter Steinberger (@steipete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:59:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Peter Steinberger (@steipete)"
+      ],
+      "items": [
+        {
+          "id": "b7461e269f4ce5431de650bddf050706285050c8",
+          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+          "title_en": "brilliant fit.",
+          "title_original": "brilliant fit.",
+          "summary": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/steipete/status/2095678161052901828",
+          "source": "X：Peter Steinberger (@steipete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:59:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.93,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T00:59:44Z",
+      "latest_at": "2026-09-04T00:59:44Z",
+      "primary_item": {
+        "id": "b7461e269f4ce5431de650bddf050706285050c8",
+        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻 / brilliant fit.",
+        "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+        "title_en": "brilliant fit.",
+        "title_original": "brilliant fit.",
+        "summary": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/steipete/status/2095678161052901828",
+        "source": "X：Peter Steinberger (@steipete)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -722,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.91,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8282,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -757,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -834,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.8695,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -869,7 +951,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
+      }
+    },
+    {
+      "story_id": "story_9a9faf27130f",
+      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+      "primary_url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
+          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+          "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T21:16:11Z"
+        },
+        {
+          "id": "5a83b277e62ea149fe6aa88a224bc1b842b20ec5",
+          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+          "title_en": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "title_original": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T21:16:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
+          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+          "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+          "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T21:16:11Z"
+        },
+        {
+          "id": "5a83b277e62ea149fe6aa88a224bc1b842b20ec5",
+          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+          "title_en": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "title_original": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T21:16:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8816,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T21:16:11Z",
+      "latest_at": "2026-09-03T21:16:11Z",
+      "primary_item": {
+        "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
+        "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+        "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+        "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+        "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+        "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -917,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9253,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -952,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -1029,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.841,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1064,7 +1258,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
+      }
+    },
+    {
+      "story_id": "story_c5c8bde45089",
+      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "primary_url": "https://www.ithome.com/0/998/248.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_en": null,
+          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce2303998489384f999253e9b6e4a340881372b2",
+          "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "title_en": null,
+          "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+          "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/248.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T00:38:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9257,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T00:38:47Z",
+      "latest_at": "2026-09-04T00:38:47Z",
+      "primary_item": {
+        "id": "ce2303998489384f999253e9b6e4a340881372b2",
+        "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "title_zh": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "title_en": null,
+        "title_original": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+        "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/248.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T06:36:31.872870Z"
+      }
+    },
+    {
+      "story_id": "story_15513cdb6d25",
+      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+      "url": "https://x.com/frxiaobei/status/2095682473745363068",
+      "primary_url": "https://x.com/frxiaobei/status/2095682473745363068",
+      "source": "X：小北 (@frxiaobei)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/frxiaobei/status/2095682473745363068",
+          "source": "X：小北 (@frxiaobei)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T01:16:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：小北 (@frxiaobei)"
+      ],
+      "items": [
+        {
+          "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+          "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+          "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/frxiaobei/status/2095682473745363068",
+          "source": "X：小北 (@frxiaobei)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T01:16:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9342,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T01:16:52Z",
+      "latest_at": "2026-09-04T01:16:52Z",
+      "primary_item": {
+        "id": "80a3c8f58beaced15278adaa65406d43a191af5b",
+        "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+        "title_en": null,
+        "title_original": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+        "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/frxiaobei/status/2095682473745363068",
+        "source": "X：小北 (@frxiaobei)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -1141,15 +1499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8413,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1176,7 +1534,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
+      }
+    },
+    {
+      "story_id": "story_7818dad3e51c",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7712,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
+      "primary_item": {
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -1282,15 +1723,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9188,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1317,90 +1758,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
-      "story_id": "story_7818dad3e51c",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_28ff2f732cd6",
+      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "primary_url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_zh": null,
-          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "summary": null,
+          "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+          "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "title_en": null,
+          "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+          "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T12:00:00Z"
+          "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T02:29:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
-      "importance_label": "官方更新",
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8283,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T12:00:00Z",
-      "latest_at": "2026-09-03T12:00:00Z",
+      "earliest_at": "2026-09-04T02:29:45Z",
+      "latest_at": "2026-09-04T02:29:45Z",
       "primary_item": {
-        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
-        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_zh": null,
-        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-        "summary": null,
+        "id": "f5339e74c85067d67269ca03accd3a896f90c9fd",
+        "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "title_en": null,
+        "title_original": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+        "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -1448,15 +1888,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1482,7 +1922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     },
     {
@@ -1530,15 +1970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8384,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1564,417 +2004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
-      }
-    },
-    {
-      "story_id": "story_e6a6758f70a2",
-      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-      "url": "https://x.com/satyanadella/status/2095587182039969861",
-      "primary_url": "https://x.com/satyanadella/status/2095587182039969861",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-          "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2095587182039969861",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:58:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-          "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-          "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2095587182039969861",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:58:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:58:12Z",
-      "latest_at": "2026-09-03T18:58:12Z",
-      "primary_item": {
-        "id": "d151d2c34faf3535048acc29be8e88550fa0e0ec",
-        "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态 / Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-        "title_zh": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
-        "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-        "title_original": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
-        "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/satyanadella/status/2095587182039969861",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
-      }
-    },
-    {
-      "story_id": "story_d93119f5014c",
-      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
-          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-          "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:31:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
-          "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-          "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-          "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:31:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9233,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T19:31:13Z",
-      "latest_at": "2026-09-03T19:31:13Z",
-      "primary_item": {
-        "id": "90daac2c912a444025a044559d2234bb5f5c7e78",
-        "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍 / GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-        "title_zh": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-        "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-        "title_original": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-        "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
-      }
-    },
-    {
-      "story_id": "story_9a9faf27130f",
-      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-      "primary_url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
-          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-          "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T21:16:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
-          "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-          "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-          "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T21:16:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T21:16:11Z",
-      "latest_at": "2026-09-03T21:16:11Z",
-      "primary_item": {
-        "id": "8ce0ce55d6fca71709600be77bb102bc2fdce2e6",
-        "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问 / OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-        "title_zh": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-        "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-        "title_original": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
-        "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
-      }
-    },
-    {
-      "story_id": "story_3c27fe9d9468",
-      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-      "url": "https://x.com/fchollet/status/2095598451115614371",
-      "primary_url": "https://x.com/fchollet/status/2095598451115614371",
-      "source": "X：Francois Chollet (@fchollet)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fchollet/status/2095598451115614371",
-          "source": "X：Francois Chollet (@fchollet)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Francois Chollet (@fchollet)"
-      ],
-      "items": [
-        {
-          "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-          "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-          "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-          "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fchollet/status/2095598451115614371",
-          "source": "X：Francois Chollet (@fchollet)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T19:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9259,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T19:42:59Z",
-      "latest_at": "2026-09-03T19:42:59Z",
-      "primary_item": {
-        "id": "b87959710df4082dbf6573c19b9167a1210a7221",
-        "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现 / GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "title_zh": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-        "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "title_original": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-        "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/fchollet/status/2095598451115614371",
-        "source": "X：Francois Chollet (@fchollet)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
-      }
-    },
-    {
-      "story_id": "story_92d6f576b32f",
-      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-      "url": "https://x.com/testingcatalog/status/2095578972335542742",
-      "primary_url": "https://x.com/testingcatalog/status/2095578972335542742",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
-          "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
-          "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/testingcatalog/status/2095578972335542742",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:25:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
-          "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
-          "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-          "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/testingcatalog/status/2095578972335542742",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T18:25:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9088,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T18:25:35Z",
-      "latest_at": "2026-09-03T18:25:35Z",
-      "primary_item": {
-        "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
-        "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-        "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
-        "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-        "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-        "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/testingcatalog/status/2095578972335542742",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-04T01:40:10.902038Z"
+        "scored_at": "2026-09-04T06:36:31.872870Z"
       }
     }
   ]
