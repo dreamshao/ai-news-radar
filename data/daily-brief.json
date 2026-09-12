@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:12:17.062398Z",
+  "generated_at": "2026-09-12T05:54:01.243157Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T01:12:17.062398Z",
-      "latest_at": "2026-09-12T01:12:17.062398Z",
+      "earliest_at": "2026-09-12T05:54:01.243157Z",
+      "latest_at": "2026-09-12T05:54:01.243157Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9069,
+        "recency": 0.8474,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.948,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9885,
+        "recency": 0.9237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +420,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
+      }
+    },
+    {
+      "story_id": "story_4f105f17bfdc",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_en": null,
+          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.minitap.ai"
+      ],
+      "items": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_en": null,
+          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9543,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T02:39:39Z",
+      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "primary_item": {
+        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+        "recommend_reason_zh": null,
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -468,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9276,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -551,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8755,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -663,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8487,
+        "recency": 0.793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -698,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -746,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -828,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8029,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -863,7 +1004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -911,15 +1052,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,169 +1085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
-      }
-    },
-    {
-      "story_id": "story_9cc4559ef9f0",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_en": null,
-          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_en": null,
-          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7406,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T04:24:28Z",
-      "latest_at": "2026-09-11T04:24:28Z",
-      "primary_item": {
-        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "title_en": null,
-        "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8815,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T16:28:11Z",
-      "latest_at": "2026-09-11T16:28:11Z",
-      "primary_item": {
-        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "title_en": "AI researchers debate how close we are to recursive self-improvement",
-        "title_original": "AI researchers debate how close we are to recursive self-improvement",
-        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1154,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1235,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,7 +1247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1316,15 +1295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1349,7 +1328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1426,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6381,
-      "importance": 0.6381,
-      "importance_score": 0.6381,
+      "score": 0.627,
+      "importance": 0.627,
+      "importance_score": 0.627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.941,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1459,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1507,15 +1486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1540,7 +1519,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1580,7 +1559,7 @@
           "published_at": "2026-09-11T17:48:00.960000Z"
         },
         {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
+          "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
           "title": "对人工智能感到难过 / Feeling Sad about AI",
           "title_zh": "对人工智能感到难过",
           "title_en": "Feeling Sad about AI",
@@ -1588,15 +1567,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T16:50:51Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Simon Willison",
         "artificialworlds.net"
       ],
@@ -1630,7 +1609,7 @@
           "published_at": "2026-09-11T17:48:00.960000Z"
         },
         {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
+          "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
           "title": "对人工智能感到难过 / Feeling Sad about AI",
           "title_zh": "对人工智能感到难过",
           "title_en": "Feeling Sad about AI",
@@ -1638,23 +1617,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T16:50:51Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8944,
+        "recency": 0.8358,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1679,7 +1658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1727,15 +1706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8703,
+        "recency": 0.8132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1760,7 +1739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     },
     {
@@ -1836,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5895,
-      "importance": 0.5895,
-      "importance_score": 0.5895,
+      "score": 0.5794,
+      "importance": 0.5794,
+      "importance_score": 0.5794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8558,
+        "recency": 0.7997,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1869,7 +1848,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T01:45:56.212382Z"
+        "scored_at": "2026-09-12T06:25:37.443643Z"
+      }
+    },
+    {
+      "story_id": "story_918720d3acdd",
+      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+      "url": "https://www.aibase.com/news/30994",
+      "primary_url": "https://www.aibase.com/news/30994",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:35:05.657278Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+          "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "title_en": null,
+          "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T15:35:05.657278Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8132,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T15:35:05.657278Z",
+      "latest_at": "2026-09-11T15:35:05.657278Z",
+      "primary_item": {
+        "id": "3b2ee09acb93ba3ec7dcc800c8f83a5d8e19a201",
+        "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_zh": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "title_en": null,
+        "title_original": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30994",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T06:25:37.443643Z"
       }
     }
   ]
