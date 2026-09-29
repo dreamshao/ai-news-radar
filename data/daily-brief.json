@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:21:32.900020Z",
+  "generated_at": "2026-09-29T05:51:13.278163Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9264,
+        "recency": 0.8435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,95 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
+      }
+    },
+    {
+      "story_id": "story_c49bc1306894",
+      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "primary_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "title_zh": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "title_en": "How we will do better for Australia",
+          "title_original": "How we will do better for Australia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "title_zh": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "title_en": "How we will do better for Australia",
+          "title_original": "How we will do better for Australia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8549,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-28T19:00:00Z",
+      "primary_item": {
+        "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+        "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+        "title_zh": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+        "title_en": "How we will do better for Australia",
+        "title_original": "How we will do better for Australia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
       "story_id": "story_75870866258f",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "primary_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "source": "Google AI Blog",
@@ -96,8 +179,8 @@
       "sources": [
         {
           "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "title_zh": null,
+          "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
           "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "summary": null,
@@ -116,8 +199,8 @@
       "items": [
         {
           "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "title_zh": null,
+          "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
           "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "summary": null,
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.939,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +235,8 @@
       "latest_at": "2026-09-28T19:00:00Z",
       "primary_item": {
         "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "title_zh": null,
+        "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
         "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
         "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
         "summary": null,
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -296,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8214,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -408,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.8712,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,178 +526,235 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
-      "story_id": "story_ab1abbb94475",
-      "title": "Codex CLI 0.158.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7e0e84425f1a",
+      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.158.0",
-          "title_original": "Codex CLI 0.158.0",
-          "summary": null,
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+          "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
+          "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
+          "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.158.0",
-          "title_original": "Codex CLI 0.158.0",
-          "summary": null,
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+          "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
+          "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
+          "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
-      "importance_label": "官方更新",
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7137,
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
+      "earliest_at": "2026-09-29T02:21:20Z",
+      "latest_at": "2026-09-29T02:21:20Z",
       "primary_item": {
-        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-        "title": "Codex CLI 0.158.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.158.0",
-        "title_original": "Codex CLI 0.158.0",
-        "summary": null,
+        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
+        "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+        "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
+        "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
+        "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
-      "story_id": "story_4db9d5cf74c5",
-      "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_235ccfd8376d",
+      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
-          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_en": null,
+          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Hacker News · 24h最热",
+        "TechCrunch：AI（RSS）",
+        "techcrunch.com"
       ],
       "items": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
-          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_en": null,
+          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7896,
-        "story_heat": 0.0
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8324,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T07:00:00Z",
-      "latest_at": "2026-09-28T07:00:00Z",
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T23:56:18.714000Z",
       "primary_item": {
-        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-        "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
-        "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "summary": null,
+        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
       "story_id": "story_aee032fed00c",
-      "title": "Self-hosted runner version enforcement date has moved",
+      "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
       "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
       "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
       "source": "GitHub Changelog",
@@ -622,8 +762,8 @@
       "sources": [
         {
           "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "title_zh": null,
+          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+          "title_zh": "自托管运行程序版本的实施日期已更改",
           "title_en": "Self-hosted runner version enforcement date has moved",
           "title_original": "Self-hosted runner version enforcement date has moved",
           "summary": null,
@@ -642,8 +782,8 @@
       "items": [
         {
           "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "title_zh": null,
+          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+          "title_zh": "自托管运行程序版本的实施日期已更改",
           "title_en": "Self-hosted runner version enforcement date has moved",
           "title_original": "Self-hosted runner version enforcement date has moved",
           "summary": null,
@@ -657,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9442,
+        "recency": 0.8596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -678,8 +818,8 @@
       "latest_at": "2026-09-28T19:22:46Z",
       "primary_item": {
         "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "Self-hosted runner version enforcement date has moved",
-        "title_zh": null,
+        "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+        "title_zh": "自托管运行程序版本的实施日期已更改",
         "title_en": "Self-hosted runner version enforcement date has moved",
         "title_original": "Self-hosted runner version enforcement date has moved",
         "summary": null,
@@ -692,89 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
-      }
-    },
-    {
-      "story_id": "story_c6c19c9c924b",
-      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9618,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T20:39:33Z",
-      "latest_at": "2026-09-28T20:39:33Z",
-      "primary_item": {
-        "id": "bdd7bc28505792431b1428622a88a476b358f177",
-        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "title_zh": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-        "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "title_original": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "summary": "AMD 宣布以 82 亿美元收购 World Labs，后者是研究理解物理世界的深度学习模型的领先开发者，交易预计年底前在监管批准后完成。World Labs 创始人李飞飞将加入 AMD 担任执行副总裁兼首席科学家，两家公司去年起已建立推理优化与训练合作关系。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -822,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,7 +914,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
+      }
+    },
+    {
+      "story_id": "story_467c95690539",
+      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+      "url": "https://www.ithome.com/1/008/099.htm",
+      "primary_url": "https://www.ithome.com/1/008/099.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "title_zh": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "title_en": null,
+          "title_original": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "summary": "据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:58:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "title_zh": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "title_en": null,
+          "title_original": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "summary": "据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:58:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.932,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:58:38Z",
+      "latest_at": "2026-09-29T00:58:38Z",
+      "primary_item": {
+        "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+        "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+        "title_zh": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+        "title_en": null,
+        "title_original": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+        "summary": "据《卫报》报道，Meta 于 9 月 22 日在美国上线的 AI 智能体 Muse 被指未经用户罗布许可，将其多伦多住址发给 Facebook Marketplace 买家，并以罗布口吻谎称本人在家，致买家上门扑空。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/008/099.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -933,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.8423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -968,171 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
-      }
-    },
-    {
-      "story_id": "story_dc033248db9f",
-      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-      "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:08:15Z",
-      "latest_at": "2026-09-28T19:08:15Z",
-      "primary_item": {
-        "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-        "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-        "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-        "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-        "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
-      }
-    },
-    {
-      "story_id": "story_dc8ca5d09a34",
-      "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-      "url": "https://www.ithome.com/1/008/076.htm",
-      "primary_url": "https://www.ithome.com/1/008/076.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cf46ab42129c6ba74a86eb224240ccefbcf36de",
-          "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "title_zh": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "title_en": null,
-          "title_original": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "summary": "AMD 于当地时间 9 月 28 日宣布以全股票交易收购李飞飞等人 2024 年联合创办的 World Labs，交易价值约 82 亿美元，李飞飞将加入 AMD 出任执行副总裁兼首席科学家，向苏姿丰汇报。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/076.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T23:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cf46ab42129c6ba74a86eb224240ccefbcf36de",
-          "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "title_zh": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "title_en": null,
-          "title_original": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-          "summary": "AMD 于当地时间 9 月 28 日宣布以全股票交易收购李飞飞等人 2024 年联合创办的 World Labs，交易价值约 82 亿美元，李飞飞将加入 AMD 出任执行副总裁兼首席科学家，向苏姿丰汇报。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/076.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T23:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9971,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T23:09:29Z",
-      "latest_at": "2026-09-28T23:09:29Z",
-      "primary_item": {
-        "id": "7cf46ab42129c6ba74a86eb224240ccefbcf36de",
-        "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-        "title_zh": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-        "title_en": null,
-        "title_original": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
-        "summary": "AMD 于当地时间 9 月 28 日宣布以全股票交易收购李飞飞等人 2024 年联合创办的 World Labs，交易价值约 82 亿美元，李飞飞将加入 AMD 出任执行副总裁兼首席科学家，向苏姿丰汇报。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/008/076.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -1180,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9086,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,7 +1190,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
+      }
+    },
+    {
+      "story_id": "story_4db9d5cf74c5",
+      "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
+          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
+          "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7189,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T07:00:00Z",
+      "latest_at": "2026-09-28T07:00:00Z",
+      "primary_item": {
+        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+        "title": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目 / The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "title_zh": "Lenfest 研究所通过扩大 OpenAI 支持发展具有里程碑意义的项目",
+        "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -1262,15 +1321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,7 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -1344,15 +1403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,7 +1437,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -1426,15 +1485,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8152,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1460,7 +1519,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
+      }
+    },
+    {
+      "story_id": "story_0c88a8acc941",
+      "title": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+      "url": "https://www.aibase.com/news/31403",
+      "primary_url": "https://www.aibase.com/news/31403",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3220a793c954b6b58381c0b2e69e3397b696603b",
+          "title": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "title_zh": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "title_en": null,
+          "title_original": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31403",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T05:51:13.278163Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3220a793c954b6b58381c0b2e69e3397b696603b",
+          "title": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "title_zh": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "title_en": null,
+          "title_original": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31403",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T05:51:13.278163Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T05:51:13.278163Z",
+      "latest_at": "2026-09-29T05:51:13.278163Z",
+      "primary_item": {
+        "id": "3220a793c954b6b58381c0b2e69e3397b696603b",
+        "title": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+        "title_zh": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+        "title_en": null,
+        "title_original": "Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31403",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
@@ -1508,15 +1649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9824,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1542,172 +1683,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     },
     {
-      "story_id": "story_d9282900abb9",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "primary_url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-          "title": "Are you a Codex Original?",
-          "title_zh": null,
-          "title_en": "Are you a Codex Original?",
-          "title_original": "Are you a Codex Original?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-          "title": "Are you a Codex Original?",
-          "title_zh": null,
-          "title_en": "Are you a Codex Original?",
-          "title_original": "Are you a Codex Original?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/form/codex-originals",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7137,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
-      "primary_item": {
-        "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-        "title": "Are you a Codex Original?",
-        "title_zh": null,
-        "title_en": "Are you a Codex Original?",
-        "title_original": "Are you a Codex Original?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/form/codex-originals",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
-      }
-    },
-    {
-      "story_id": "story_693509ac395b",
-      "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "primary_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_b73aec0b4852",
+      "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "primary_url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "source": "GitHub Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "09c5de5949af99cefe291052246eb54aec2d40c5",
-          "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_zh": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
-          "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞联合创办的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，2025 年推出从提示词生成可交互 3D 世界的商业产品 Marble；李飞飞将出任 AMD EVP 兼首席科学家，向 CEO Lisa Su 汇报，团队继续推进 AI 模型研究。",
+          "id": "7f80a47f4884b2e81c718fb3b46d7243ee5107bd",
+          "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
+          "title_en": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "summary": "GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
+          "published_at": "2026-09-28T19:00:00Z"
+        },
+        {
+          "id": "68f00302c3948fb61d0d7e1a7dc3735272b08cfc",
+          "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
+          "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T00:55:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "GitHub Blog",
+        "Hacker News"
       ],
       "items": [
         {
-          "id": "09c5de5949af99cefe291052246eb54aec2d40c5",
-          "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_zh": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
-          "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞联合创办的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，2025 年推出从提示词生成可交互 3D 世界的商业产品 Marble；李飞飞将出任 AMD EVP 兼首席科学家，向 CEO Lisa Su 汇报，团队继续推进 AI 模型研究。",
+          "id": "7f80a47f4884b2e81c718fb3b46d7243ee5107bd",
+          "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
+          "title_en": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
+          "summary": "GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
+          "published_at": "2026-09-28T19:00:00Z"
+        },
+        {
+          "id": "68f00302c3948fb61d0d7e1a7dc3735272b08cfc",
+          "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
+          "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T00:55:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
-        "story_heat": 0.0
+        "recency": 0.8549,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T21:31:35Z",
-      "latest_at": "2026-09-28T21:31:35Z",
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-29T00:55:47Z",
       "primary_item": {
-        "id": "09c5de5949af99cefe291052246eb54aec2d40c5",
-        "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "title_zh": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
-        "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "title_original": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "summary": "AMD 宣布以约 82 亿美元的全股票交易收购李飞飞联合创办的 AI 研究实验室 World Labs，交易预计年底前完成。World Labs 于 2024 年成立，2025 年推出从提示词生成可交互 3D 世界的商业产品 Marble；李飞飞将出任 AMD EVP 兼首席科学家，向 CEO Lisa Su 汇报，团队继续推进 AI 模型研究。",
+        "id": "7f80a47f4884b2e81c718fb3b46d7243ee5107bd",
+        "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
+        "title_zh": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
+        "title_en": "How we found 24 Android vulnerabilities using our open source AI security agent",
+        "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
+        "summary": "GitHub Security Lab 发布开源 seclab-taskflows 任务流，通过 gather_mobile_entry_point_info.yaml 和 classify_application_local.yaml 等提示词引导 LLM 审计 Android 应用，已发现并报告 24 个漏洞。",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "source": "The Verge：AI（RSS）",
+        "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T23:29:38.385462Z"
+        "scored_at": "2026-09-29T06:06:50.995934Z"
       }
     }
   ]
