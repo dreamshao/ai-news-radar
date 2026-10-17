@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:49:40.555398Z",
+  "generated_at": "2026-10-17T12:02:20.277100Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9061,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8431,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,146 +248,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
-      "story_id": "story_2f7abdbde624",
-      "title": "Xcode 27 runner image generally available",
-      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image generally available",
-          "title_original": "Xcode 27 runner image generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image generally available",
-          "title_original": "Xcode 27 runner image generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7361,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T04:36:30Z",
-      "latest_at": "2026-10-16T04:36:30Z",
-      "primary_item": {
-        "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-        "title": "Xcode 27 runner image generally available",
-        "title_zh": null,
-        "title_en": "Xcode 27 runner image generally available",
-        "title_original": "Xcode 27 runner image generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_e5bf6702d2f9",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "url": "https://www.ithome.com/1/013/983.htm",
-      "primary_url": "https://www.ithome.com/1/013/983.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_4b8a0416def4",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
+      "source": "X：邵猛 (@shao__meng)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
           "title_en": null,
-          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/983.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T08:23:54.520000Z"
+          "published_at": "2026-10-17T01:52:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "X：邵猛 (@shao__meng)"
       ],
       "items": [
         {
-          "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-          "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
           "title_en": null,
-          "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-          "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/983.htm",
-          "source": "IT之家·人工智能",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T08:23:54.520000Z"
+          "published_at": "2026-10-17T01:52:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7775,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -395,25 +312,187 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-16T08:23:54.520000Z",
-      "latest_at": "2026-10-16T08:23:54.520000Z",
+      "earliest_at": "2026-10-17T01:52:43Z",
+      "latest_at": "2026-10-17T01:52:43Z",
       "primary_item": {
-        "id": "ed94136bde8a2482dd481d943f32e02d030fea85",
-        "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-        "title_zh": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
+        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
         "title_en": null,
-        "title_original": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-        "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
+        "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/983.htm",
-        "source": "IT之家·人工智能",
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_71834d6ca6af",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+      "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "primary_url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:29:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
+      ],
+      "items": [
+        {
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:29:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9778,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-17T10:29:00Z",
+      "latest_at": "2026-10-17T10:29:00Z",
+      "primary_item": {
+        "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+        "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+        "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_d5721315ada2",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_en": null,
+          "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_en": null,
+          "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9755,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-17T10:19:04Z",
+      "latest_at": "2026-10-17T10:19:04Z",
+      "primary_item": {
+        "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "title_en": null,
+        "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -461,21 +540,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T18:49:40.555398Z",
       "latest_at": "2026-10-16T18:49:40.555398Z",
@@ -495,333 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_f7f8fc413477",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-          "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA：Newsroom（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-          "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.819,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T12:00:00Z",
-      "latest_at": "2026-10-16T12:00:00Z",
-      "primary_item": {
-        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-        "recommend_reason_zh": null,
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "source": "NVIDIA：Newsroom（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_5d180e178e71",
-      "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-      "url": "https://x.com/adocomplete/status/2111171735806767558",
-      "primary_url": "https://x.com/adocomplete/status/2111171735806767558",
-      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-          "title_en": "Claude is building Claude Code.",
-          "title_original": "Claude is building Claude Code.",
-          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/adocomplete/status/2111171735806767558",
-          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T19:05:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
-      ],
-      "items": [
-        {
-          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-          "title_en": "Claude is building Claude Code.",
-          "title_original": "Claude is building Claude Code.",
-          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/adocomplete/status/2111171735806767558",
-          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T19:05:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9073,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T19:05:40Z",
-      "latest_at": "2026-10-16T19:05:40Z",
-      "primary_item": {
-        "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
-        "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
-        "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-        "title_en": "Claude is building Claude Code.",
-        "title_original": "Claude is building Claude Code.",
-        "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/adocomplete/status/2111171735806767558",
-        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_d5ba8a07d40f",
-      "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1493a8f2832e6e0a74e0810504b5434365a6705",
-          "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "title_zh": null,
-          "title_en": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1493a8f2832e6e0a74e0810504b5434365a6705",
-          "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "title_zh": null,
-          "title_en": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7117,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T02:16:35Z",
-      "latest_at": "2026-10-16T02:16:35Z",
-      "primary_item": {
-        "id": "e1493a8f2832e6e0a74e0810504b5434365a6705",
-        "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-        "title_zh": null,
-        "title_en": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-        "title_original": "Multi-repository support and other improvements for GitHub in Slack and Teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_6892471b94f6",
-      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-      "url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "primary_url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_en": null,
-          "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "title_en": null,
-          "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T02:03:07Z",
-      "latest_at": "2026-10-16T02:03:07Z",
-      "primary_item": {
-        "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_zh": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_en": null,
-        "title_original": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2110914404393091205",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -869,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,88 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
-      }
-    },
-    {
-      "story_id": "story_12019badf8ef",
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "url": "https://www.ithome.com/1/013/914.htm",
-      "primary_url": "https://www.ithome.com/1/013/914.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "title_en": null,
-          "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/914.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T06:14:36.073000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "title_en": null,
-          "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/013/914.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T06:14:36.073000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7537,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T06:14:36.073000Z",
-      "latest_at": "2026-10-16T06:14:36.073000Z",
-      "primary_item": {
-        "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-        "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-        "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-        "title_en": null,
-        "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-        "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/013/914.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1031,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1064,7 +735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1112,15 +783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.7577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1145,7 +816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1193,15 +864,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1226,7 +897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1302,15 +973,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6079,
-      "importance": 0.6079,
-      "importance_score": 0.6079,
+      "score": 0.5843,
+      "importance": 0.5843,
+      "importance_score": 0.5843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.958,
+        "recency": 0.8267,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1335,7 +1006,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_0d467d356306",
+      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+      "url": "https://llmspeed.dev",
+      "primary_url": "https://llmspeed.dev",
+      "source": "llmspeed.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": null,
+          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "llmspeed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T11:57:04.792000Z"
+        },
+        {
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T04:36:53Z"
+        },
+        {
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": null,
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50127979",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T04:36:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "llmspeed.dev"
+      ],
+      "items": [
+        {
+          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": null,
+          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "llmspeed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T11:57:04.792000Z"
+        },
+        {
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T04:36:53Z"
+        },
+        {
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": null,
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50127979",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T04:36:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5706,
+      "importance": 0.5706,
+      "importance_score": 0.5706,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T04:36:53Z",
+      "latest_at": "2026-10-17T11:57:04.792000Z",
+      "primary_item": {
+        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "title_en": null,
+        "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://llmspeed.dev",
+        "source": "llmspeed.dev",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1383,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1416,7 +1226,285 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_9bb7cbf8fa55",
+      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z"
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z"
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9724,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:37:46Z",
+      "latest_at": "2026-10-17T10:06:14.023000Z",
+      "primary_item": {
+        "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "title_zh": null,
+        "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_2fa39e14c857",
+      "title": "利用Claude设计更高效的量子电路",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "primary_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "Designing more efficient quantum circuits with Claude",
+          "title_zh": null,
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "Designing more efficient quantum circuits with Claude",
+          "title_zh": null,
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5462,
+      "importance": 0.5462,
+      "importance_score": 0.5462,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8634,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:00:18Z",
+      "latest_at": "2026-10-17T01:52:14.008000Z",
+      "primary_item": {
+        "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+        "title": "利用Claude设计更高效的量子电路",
+        "title_zh": "利用Claude设计更高效的量子电路",
+        "title_en": null,
+        "title_original": "利用Claude设计更高效的量子电路",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1522,15 +1610,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.974,
+        "recency": 0.8405,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1555,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1603,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1636,7 +1724,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
+      }
+    },
+    {
+      "story_id": "story_fff8882dd7b5",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z"
+        },
+        {
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z"
+        },
+        {
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.965,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:21:25Z",
+      "latest_at": "2026-10-17T09:34:06.239000Z",
+      "primary_item": {
+        "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "title_zh": null,
+        "title_en": "DeepSeek-v4.1-Flash-1017",
+        "title_original": "DeepSeek-v4.1-Flash-1017",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     },
     {
@@ -1742,15 +1940,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.8088,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1775,7 +1973,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T02:12:22.033934Z"
+        "scored_at": "2026-10-17T12:29:45.976373Z"
       }
     }
   ]
