@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T12:02:20.277100Z",
+  "generated_at": "2026-10-17T14:35:59.271705Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_27f49e3620ac",
-      "title": "How Itaú is building generative AI for its entire customer base",
+      "title": "Itaú 如何为其整个客户群构建生成式人工智能 / How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "primary_url": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI News",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "title_zh": null,
+          "title": "Itaú 如何为其整个客户群构建生成式人工智能 / How Itaú is building generative AI for its entire customer base",
+          "title_zh": "Itaú 如何为其整个客户群构建生成式人工智能",
           "title_en": "How Itaú is building generative AI for its entire customer base",
           "title_original": "How Itaú is building generative AI for its entire customer base",
           "summary": null,
@@ -33,8 +33,8 @@
       "items": [
         {
           "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "title_zh": null,
+          "title": "Itaú 如何为其整个客户群构建生成式人工智能 / How Itaú is building generative AI for its entire customer base",
+          "title_zh": "Itaú 如何为其整个客户群构建生成式人工智能",
           "title_en": "How Itaú is building generative AI for its entire customer base",
           "title_original": "How Itaú is building generative AI for its entire customer base",
           "summary": null,
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7819,
+        "recency": 0.7535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +69,8 @@
       "latest_at": "2026-10-16T19:00:00Z",
       "primary_item": {
         "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
-        "title": "How Itaú is building generative AI for its entire customer base",
-        "title_zh": null,
+        "title": "Itaú 如何为其整个客户群构建生成式人工智能 / How Itaú is building generative AI for its entire customer base",
+        "title_zh": "Itaú 如何为其整个客户群构建生成式人工智能",
         "title_en": "How Itaú is building generative AI for its entire customer base",
         "title_original": "How Itaú is building generative AI for its entire customer base",
         "summary": null,
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
-      }
-    },
-    {
-      "story_id": "story_002852c1d7cc",
-      "title": "Open source license compliance generally available",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-          "title": "Open source license compliance generally available",
-          "title_zh": null,
-          "title_en": "Open source license compliance generally available",
-          "title_original": "Open source license compliance generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T14:00:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-          "title": "Open source license compliance generally available",
-          "title_zh": null,
-          "title_en": "Open source license compliance generally available",
-          "title_original": "Open source license compliance generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T14:00:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7275,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T14:00:32Z",
-      "latest_at": "2026-10-16T14:00:32Z",
-      "primary_item": {
-        "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-        "title": "Open source license compliance generally available",
-        "title_zh": null,
-        "title_en": "Open source license compliance generally available",
-        "title_original": "Open source license compliance generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.821,
+        "recency": 0.7912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -296,21 +213,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-17T01:52:43Z",
       "latest_at": "2026-10-17T01:52:43Z",
@@ -330,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -378,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9778,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -459,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.94,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,7 +408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -540,15 +456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7799,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -573,7 +489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -621,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7688,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -654,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -702,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7688,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,174 +651,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
-      }
-    },
-    {
-      "story_id": "story_5ca42a9e449b",
-      "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-      "url": "https://www.aibase.com/news/31699",
-      "primary_url": "https://www.aibase.com/news/31699",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
-          "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "title_en": null,
-          "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T16:49:40.555398Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
-          "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "title_en": null,
-          "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T16:49:40.555398Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7577,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T16:49:40.555398Z",
-      "latest_at": "2026-10-16T16:49:40.555398Z",
-      "primary_item": {
-        "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
-        "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-        "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-        "title_en": null,
-        "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31699",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
-      }
-    },
-    {
-      "story_id": "story_0cbb6d146511",
-      "title": "阅文发布首批AI精品动画并升级OPC平台",
-      "url": "https://www.aibase.com/news/31698",
-      "primary_url": "https://www.aibase.com/news/31698",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "814ba23b42a59b9b616bb4afe7f90df4c13c0e7a",
-          "title": "阅文发布首批AI精品动画并升级OPC平台",
-          "title_zh": "阅文发布首批AI精品动画并升级OPC平台",
-          "title_en": null,
-          "title_original": "阅文发布首批AI精品动画并升级OPC平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T15:49:40.555398Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "814ba23b42a59b9b616bb4afe7f90df4c13c0e7a",
-          "title": "阅文发布首批AI精品动画并升级OPC平台",
-          "title_zh": "阅文发布首批AI精品动画并升级OPC平台",
-          "title_en": null,
-          "title_original": "阅文发布首批AI精品动画并升级OPC平台",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T15:49:40.555398Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T15:49:40.555398Z",
-      "latest_at": "2026-10-16T15:49:40.555398Z",
-      "primary_item": {
-        "id": "814ba23b42a59b9b616bb4afe7f90df4c13c0e7a",
-        "title": "阅文发布首批AI精品动画并升级OPC平台",
-        "title_zh": "阅文发布首批AI精品动画并升级OPC平台",
-        "title_en": null,
-        "title_original": "阅文发布首批AI精品动画并升级OPC平台",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31698",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
       "story_id": "story_a0a8bf87f586",
-      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
       "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "primary_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "source": "The Verge",
@@ -910,8 +664,8 @@
       "sources": [
         {
           "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
-          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-          "title_zh": null,
+          "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+          "title_zh": "苹果更新的应用商店规则针对“裸露”人工智能应用",
           "title_en": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "title_original": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "summary": null,
@@ -924,8 +678,8 @@
         },
         {
           "id": "3a865c995fbfd81450ebf59b39b07ccef58faa29",
-          "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-          "title_zh": null,
+          "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple’s updated App Store rules go after ‘nudify’ AI apps",
+          "title_zh": "苹果更新的应用商店规则针对“裸露”人工智能应用",
           "title_en": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
           "title_original": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
           "summary": null,
@@ -944,8 +698,8 @@
       "items": [
         {
           "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
-          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-          "title_zh": null,
+          "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+          "title_zh": "苹果更新的应用商店规则针对“裸露”人工智能应用",
           "title_en": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "title_original": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "summary": null,
@@ -958,8 +712,8 @@
         },
         {
           "id": "3a865c995fbfd81450ebf59b39b07ccef58faa29",
-          "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-          "title_zh": null,
+          "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple’s updated App Store rules go after ‘nudify’ AI apps",
+          "title_zh": "苹果更新的应用商店规则针对“裸露”人工智能应用",
           "title_en": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
           "title_original": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
           "summary": null,
@@ -973,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5843,
-      "importance": 0.5843,
-      "importance_score": 0.5843,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8267,
+        "recency": 0.7966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -992,8 +746,8 @@
       "latest_at": "2026-10-16T22:51:22Z",
       "primary_item": {
         "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
-        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-        "title_zh": null,
+        "title": "苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "title_zh": "苹果更新的应用商店规则针对“裸露”人工智能应用",
         "title_en": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
         "title_original": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
         "summary": null,
@@ -1006,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1047,8 +801,8 @@
         },
         {
           "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": null,
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
           "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
@@ -1097,8 +851,8 @@
         },
         {
           "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": null,
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
           "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
@@ -1112,15 +866,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9625,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1145,88 +899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
-      }
-    },
-    {
-      "story_id": "story_ac3ac3a38b3f",
-      "title": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-      "url": "https://www.aibase.com/news/31697",
-      "primary_url": "https://www.aibase.com/news/31697",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9fe5c1aa51a65597a2e6c9742bd152a6ec4dcb87",
-          "title": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "title_zh": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "title_en": null,
-          "title_original": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:49:40.555398Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9fe5c1aa51a65597a2e6c9742bd152a6ec4dcb87",
-          "title": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "title_zh": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "title_en": null,
-          "title_original": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:49:40.555398Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T14:49:40.555398Z",
-      "latest_at": "2026-10-16T14:49:40.555398Z",
-      "primary_item": {
-        "id": "9fe5c1aa51a65597a2e6c9742bd152a6ec4dcb87",
-        "title": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-        "title_zh": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-        "title_en": null,
-        "title_original": "ChatGPT 浏览器扩展大升级：能读你开着的标签页，还替你填表发信",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31697",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1332,15 +1005,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9724,
+        "recency": 0.9371,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1365,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1406,8 +1079,8 @@
         },
         {
           "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
-          "title": "Designing more efficient quantum circuits with Claude",
-          "title_zh": null,
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "与 Claude 一起设计更高效的量子电路",
           "title_en": "Designing more efficient quantum circuits with Claude",
           "title_original": "Designing more efficient quantum circuits with Claude",
           "summary": null,
@@ -1456,8 +1129,8 @@
         },
         {
           "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
-          "title": "Designing more efficient quantum circuits with Claude",
-          "title_zh": null,
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "与 Claude 一起设计更高效的量子电路",
           "title_en": "Designing more efficient quantum circuits with Claude",
           "title_original": "Designing more efficient quantum circuits with Claude",
           "summary": null,
@@ -1471,15 +1144,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8634,
+        "recency": 0.8321,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1504,7 +1177,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1545,8 +1218,8 @@
         },
         {
           "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
-          "title": "You could have invented transformers from memory",
-          "title_zh": null,
+          "title": "你本可以凭记忆发明Transformer / You could have invented transformers from memory",
+          "title_zh": "你本可以凭记忆发明Transformer",
           "title_en": "You could have invented transformers from memory",
           "title_original": "You could have invented transformers from memory",
           "summary": null,
@@ -1595,8 +1268,8 @@
         },
         {
           "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
-          "title": "You could have invented transformers from memory",
-          "title_zh": null,
+          "title": "你本可以凭记忆发明Transformer / You could have invented transformers from memory",
+          "title_zh": "你本可以凭记忆发明Transformer",
           "title_en": "You could have invented transformers from memory",
           "title_original": "You could have invented transformers from memory",
           "summary": null,
@@ -1610,15 +1283,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.81,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1643,88 +1316,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
-      }
-    },
-    {
-      "story_id": "story_4af294a32150",
-      "title": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-      "url": "https://www.aibase.com/news/31696",
-      "primary_url": "https://www.aibase.com/news/31696",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ef1326f8efe146c4e04617f2dccaff556bc2081",
-          "title": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "title_zh": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "title_en": null,
-          "title_original": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:49:40.555398Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ef1326f8efe146c4e04617f2dccaff556bc2081",
-          "title": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "title_zh": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "title_en": null,
-          "title_original": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:49:40.555398Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T14:49:40.555398Z",
-      "latest_at": "2026-10-16T14:49:40.555398Z",
-      "primary_item": {
-        "id": "8ef1326f8efe146c4e04617f2dccaff556bc2081",
-        "title": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-        "title_zh": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-        "title_en": null,
-        "title_original": "Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31696",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1801,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.965,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1834,7 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     },
     {
@@ -1875,8 +1467,8 @@
         },
         {
           "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "How the Claude Code team does code review",
-          "title_zh": null,
+          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
+          "title_zh": "Claude Code 团队如何进行代码审查",
           "title_en": "How the Claude Code team does code review",
           "title_original": "How the Claude Code team does code review",
           "summary": null,
@@ -1925,8 +1517,8 @@
         },
         {
           "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "How the Claude Code team does code review",
-          "title_zh": null,
+          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
+          "title_zh": "Claude Code 团队如何进行代码审查",
           "title_en": "How the Claude Code team does code review",
           "title_original": "How the Claude Code team does code review",
           "summary": null,
@@ -1940,15 +1532,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8088,
+        "recency": 0.7795,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1973,7 +1565,615 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:29:45.976373Z"
+        "scored_at": "2026-10-17T14:36:53.524191Z"
+      }
+    },
+    {
+      "story_id": "story_610847abe99b",
+      "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "primary_url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "source": "www.mercor.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": null,
+          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.mercor.com"
+      ],
+      "items": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": null,
+          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7471,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T17:08:38Z",
+      "latest_at": "2026-10-16T18:24:37.246000Z",
+      "primary_item": {
+        "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+        "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "title_en": null,
+        "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+        "source": "www.mercor.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:36:53.524191Z"
+      }
+    },
+    {
+      "story_id": "story_b99d97516c95",
+      "title": "FLUX 3 图片 克莱因",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "primary_url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "bfl.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
+          "title": "FLUX 3 图片 克莱因",
+          "title_zh": "FLUX 3 图片 克莱因",
+          "title_en": null,
+          "title_original": "FLUX 3 图片 克莱因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "bfl.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T00:48:15.026000Z"
+        },
+        {
+          "id": "7c4aabd1b8309d8822acc3cf967977c4460c7e12",
+          "title": "FLUX 3 图片 克莱因 / FLUX 3 Image Klein",
+          "title_zh": "FLUX 3 图片 克莱因",
+          "title_en": "FLUX 3 Image Klein",
+          "title_original": "FLUX 3 Image Klein",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T19:47:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "bfl.ai"
+      ],
+      "items": [
+        {
+          "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
+          "title": "FLUX 3 图片 克莱因",
+          "title_zh": "FLUX 3 图片 克莱因",
+          "title_en": null,
+          "title_original": "FLUX 3 图片 克莱因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "bfl.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T00:48:15.026000Z"
+        },
+        {
+          "id": "7c4aabd1b8309d8822acc3cf967977c4460c7e12",
+          "title": "FLUX 3 图片 克莱因 / FLUX 3 Image Klein",
+          "title_zh": "FLUX 3 图片 克莱因",
+          "title_en": "FLUX 3 Image Klein",
+          "title_original": "FLUX 3 Image Klein",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-image-klein",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T19:47:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8194,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T19:47:13Z",
+      "latest_at": "2026-10-17T00:48:15.026000Z",
+      "primary_item": {
+        "id": "dd7b3d8f6404ed2e9941f3ecfcb33bbd413279cc",
+        "title": "FLUX 3 图片 克莱因",
+        "title_zh": "FLUX 3 图片 克莱因",
+        "title_en": null,
+        "title_original": "FLUX 3 图片 克莱因",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "source": "bfl.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:36:53.524191Z"
+      }
+    },
+    {
+      "story_id": "story_4746262998ee",
+      "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "primary_url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_en": null,
+          "title_original": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T20:32:34.116000Z"
+        },
+        {
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
+          "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_en": "Anthropic assigned highest junk credit rating in June",
+          "title_original": "Anthropic assigned highest junk credit rating in June",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T18:11:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_en": null,
+          "title_original": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T20:32:34.116000Z"
+        },
+        {
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
+          "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "title_en": "Anthropic assigned highest junk credit rating in June",
+          "title_original": "Anthropic assigned highest junk credit rating in June",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T18:11:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7705,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:11:42Z",
+      "latest_at": "2026-10-16T20:32:34.116000Z",
+      "primary_item": {
+        "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+        "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+        "title_zh": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+        "title_en": null,
+        "title_original": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:36:53.524191Z"
+      }
+    },
+    {
+      "story_id": "story_d4941adc6fad",
+      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "source": "www.theregister.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7471,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T15:55:40Z",
+      "latest_at": "2026-10-16T18:24:37.239000Z",
+      "primary_item": {
+        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_en": null,
+        "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "source": "www.theregister.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:36:53.524191Z"
+      }
+    },
+    {
+      "story_id": "story_e7a9c919ea0b",
+      "title": "克劳德揭示了ECDSA曲线的起源",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "primary_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+          "title": "克劳德揭示了ECDSA曲线的起源",
+          "title_zh": "克劳德揭示了ECDSA曲线的起源",
+          "title_en": null,
+          "title_original": "克劳德揭示了ECDSA曲线的起源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T19:28:45.361000Z"
+        },
+        {
+          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
+          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude揭示了ECDSA曲线的起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:55:59Z"
+        },
+        {
+          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
+          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude 揭示 ECDSA 曲线起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50122800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:55:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+          "title": "克劳德揭示了ECDSA曲线的起源",
+          "title_zh": "克劳德揭示了ECDSA曲线的起源",
+          "title_en": null,
+          "title_original": "克劳德揭示了ECDSA曲线的起源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T19:28:45.361000Z"
+        },
+        {
+          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
+          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude揭示了ECDSA曲线的起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:55:59Z"
+        },
+        {
+          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
+          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude 揭示 ECDSA 曲线起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50122800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:55:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7587,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:55:59Z",
+      "latest_at": "2026-10-16T19:28:45.361000Z",
+      "primary_item": {
+        "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+        "title": "克劳德揭示了ECDSA曲线的起源",
+        "title_zh": "克劳德揭示了ECDSA曲线的起源",
+        "title_en": null,
+        "title_original": "克劳德揭示了ECDSA曲线的起源",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:36:53.524191Z"
       }
     }
   ]
