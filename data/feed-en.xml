@@ -5,21 +5,21 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 01:16:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 02:57:52 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>Character.AI bankruptcy fallout: Disney takes on 60+ staff, shelling out $180 million in compensation over three years</title>
-<link>https://www.aibase.com/news/31705</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31705</guid>
-<description>Character.AI bankruptcy fallout: Disney takes on 60+ staff, shelling out $180 million in compensation over three years (AIbase)</description>
+<title>AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭</title>
+<link>https://www.aibase.com/news/31709</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31709</guid>
+<description>AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
 <link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</link>
 <guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</guid>
-<description>Anthropic’s research found technical junior roles dropping from 21% to 14% and new-hire junior share from 27% to 9%, while AI agents worked six times human hours by August 2026, and Nolan Lovett warned of a senior-talent pipeline gap.</description>
+<description>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</description>
 <category>Industry news</category>
 <pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
 </item>
@@ -27,137 +27,145 @@
 <title>Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...</title>
 <link>https://x.com/arena/status/2111894091168682086</link>
 <guid isPermaLink="true">https://x.com/arena/status/2111894091168682086</guid>
-<description>DeepSeek-V4.1-Flash-20261017 (Max) has taken the top open-model spot on Code Arena: WebDev, surpassing Kimi K3 (Max) at roughly one-tenth the cost, according to Arena.</description>
+<description>Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...</description>
 <category>Industry news</category>
 <pubDate>Sun, 18 Oct 2026 18:56:03 +0000</pubDate>
 </item>
 <item>
-<title>Vercel data shows decision model Jev has become the fastest-adopted AI model ever</title>
-<link>https://www.aibase.com/news/31708</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31708</guid>
-<description>Vercel's data labels the decision model Jev the fastest-adopted AI model in history, and the piece probes how that adoption speed was measured and whether the underlying data holds up. (AIbase)</description>
+<title>AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活</title>
+<link>https://www.aibase.com/news/31710</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31710</guid>
+<description>AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
 <title>Two German courts now hold Google liable for what its AI overviews say</title>
 <link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</link>
 <guid isPermaLink="true">https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</guid>
-<description>Aachen Regional Court’s 24 September 2026 ruling, following Munich Regional Court’s late-May logic, held Google liable because its AI overview wrongly attributed another person’s sexual-assault allegation to a doctor, treating AI answers as Google’s own content.</description>
+<description>Two German courts now hold Google liable for what its AI overviews say</description>
 <category>Industry news</category>
 <pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
 </item>
 <item>
-<title>Ahead of IPO, Anthropic plans to donate 5% of its shares to establish a public interest fund, adding another 2% for every 50% rise in valuation</title>
-<link>https://www.aibase.com/news/31706</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31706</guid>
-<description>Ahead of IPO, Anthropic plans to donate 5% of its shares to establish a public interest fund, adding another 2% for every 50% rise in valuation (AIbase)</description>
+<title>DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元</title>
+<link>https://www.aibase.com/news/31711</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31711</guid>
+<description>DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
-<title>No keyboard, no mouse—just code they wrote themselves: 4 Gemini agents autonomously team up to defeat Minecraft's Ender Dragon</title>
-<link>https://www.aibase.com/news/31703</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31703</guid>
-<description>No keyboard, no mouse—just code they wrote themselves: 4 Gemini agents autonomously team up to defeat Minecraft's Ender Dragon (AIbase)</description>
+<title>成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型</title>
+<link>https://www.aibase.com/news/31712</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31712</guid>
+<description>成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
-<title>垂直大模型"同源观澜"在福州发布：用 AI 把两岸共同历史记忆"激活"</title>
-<link>https://www.aibase.com/news/31707</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31707</guid>
-<description>垂直大模型"同源观澜"在福州发布：用 AI 把两岸共同历史记忆"激活" (AIbase)</description>
+<title>演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空</title>
+<link>https://www.aibase.com/news/31713</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31713</guid>
+<description>演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
-<title>Disney to acquire some Character.AI assets for $20 million and take on its core team</title>
-<link>https://www.aibase.com/news/31704</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31704</guid>
-<description>Disney will pay $20 million for part of Character.AI's assets and take on its core team, but the page returned a 404, so deal terms remain unconfirmed. (AIbase)</description>
+<title>算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相</title>
+<link>https://www.aibase.com/news/31714</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31714</guid>
+<description>算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:57:52 +0000</pubDate>
 </item>
 <item>
 <title>Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.</title>
 <link>https://www.producthunt.com/products/tomo-for-chatgpt</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/tomo-for-chatgpt</guid>
-<description>Tomo for ChatGPT turns ChatGPT Q&amp;A into Duolingo-style play: users ask about any topic, then the answer appears in a playable form designed to satisfy curiosity through gameplay rather than just reading text. (Product Hunt)</description>
+<description>Ask anything. Then play it, Duolingo-style. (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 01:08:24 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 02:30:20 +0000</pubDate>
 </item>
 <item>
-<title>Hybrid reasoning agents: LLM agents that reason in latent space and act through text</title>
-<link>https://arxiv.org/abs/2610.18861</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
-<description>HybridAgent switches between latent-space reasoning and text-based acting within one unified generation process, and the authors report 10.4% average gains across 11 benchmarks with 35.5%–54.7% fewer tokens. (arxiv.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
+<title>Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬</title>
+<link>https://www.aibase.com/news/31705</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31705</guid>
+<description>Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
 </item>
 <item>
 <title>mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</title>
 <link>https://github.com/mlabonne/llm-course</link>
 <guid isPermaLink="true">https://github.com/mlabonne/llm-course</guid>
-<description>mlabonne/llm-course splits LLM learning into three parts, covering math, Python, neural network fundamentals and SFT, and ships Colab notebooks that stay permanently free. (GitHub Trending)</description>
+<description>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 18 Oct 2026 12:36:10 +0000</pubDate>
 </item>
 <item>
-<title>How is the employment situation at Anthropic changing?</title>
+<title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
+<link>https://arxiv.org/abs/2610.18861</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
+<description>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 (arxiv.org)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 的就业形势正在发生怎样的变化</title>
 <link>https://www.anthropic.com/research/employment-at-anthropic</link>
 <guid isPermaLink="true">https://www.anthropic.com/research/employment-at-anthropic</guid>
-<description>Anthropic’s internal data and 17 interviews show its agents work six times longer than humans, junior technical hiring has slowed, and revenue per employee is 2–4 times Meta and Google’s peak, framing how AI is reshaping work. (www.anthropic.com)</description>
+<description>Anthropic 的就业形势正在发生怎样的变化 (www.anthropic.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 <item>
-<title>Websites are shutting down their AI customer service</title>
+<title>网站正纷纷关闭人工智能客服</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>Yelp opens its data only to AI agents with paid licensing deals and Delta Air Lines blocks agent-assisted ticket booking, showing how sites are resisting OpenAI, Meta and Google’s agent ambitions. (www.theverge.com)</description>
+<description>网站正纷纷关闭人工智能客服 (www.theverge.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
+</item>
+<item>
+<title>Vercel数据表明决策模型Jev成史上采用最快AI模型</title>
+<link>https://www.aibase.com/news/31708</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31708</guid>
+<description>Vercel数据表明决策模型Jev成史上采用最快AI模型 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 01:16:48 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: WhatsApp MCP running free on Cloudflare</title>
 <link>https://github.com/finereli/whatsapp-mcp</link>
 <guid isPermaLink="true">https://github.com/finereli/whatsapp-mcp</guid>
-<description>A read-only MCP server running on Cloudflare Workers lets Claude Code search and read your own WhatsApp messages, stores them in SQLite, and requires a paid plan.</description>
+<description>Show HN: WhatsApp MCP running free on Cloudflare</description>
 <category>Worth watching</category>
 <pubDate>Sun, 18 Oct 2026 21:36:10 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic's proposed AI safety bill would only kick in after 50 deaths or $1 billion in damages</title>
+<title>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效</title>
 <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
 <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</guid>
-<description>Anthropic’s proposed AI safety bill would take effect only after an AI model causes 50 deaths or $1 billion in losses, raising the question of whether that threshold can prevent runaway AI. (www.tomshardware.com)</description>
+<description>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 (www.tomshardware.com)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek Search and Fetch service — $0.75 per 1,000 successful requests</title>
+<title>DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元</title>
 <link>https://api-docs.deepseek.com/guides/search</link>
 <guid isPermaLink="true">https://api-docs.deepseek.com/guides/search</guid>
-<description>DeepSeek's Search and Fetch APIs charge $0.75 per 1,000 successful requests, billing only HTTP 200 responses with results while failures, empty results and timeouts are free; account-level QPS limits apply and Harness tool calls begin billing on Nov 1, 2026. (api-docs.deepseek.com)</description>
+<description>DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 (api-docs.deepseek.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 18 Oct 2026 08:37:12 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: Sphinx – a hook that Q&amp;A-tests your AI code before release</title>
+<title>Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子</title>
 <link>https://sphinx-six-theta.vercel.app</link>
 <guid isPermaLink="true">https://sphinx-six-theta.vercel.app</guid>
-<description>Sphinx is a Git hook for agent-assisted development that asks a question generated from your diff about what the code actually does—such as whether a replayed Stripe event double-charges—and only lets the push through after a correct answer. (sphinx-six-theta.vercel.app)</description>
+<description>Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子 (sphinx-six-theta.vercel.app)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 18 Oct 2026 08:37:12 +0000</pubDate>
-</item>
-<item>
-<title>If you don't run your own LLM proxy, how do you know whats going on?</title>
-<link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</link>
-<guid isPermaLink="true">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</guid>
-<description>Running your own LLM proxy gives a single endpoint across multiple providers and models while logging each key's calls with model, client, time and status, so the author says a cache miss can be manually traced in 20 seconds.</description>
-<category>Worth watching</category>
-<pubDate>Sun, 18 Oct 2026 21:09:12 +0000</pubDate>
 </item>
 </channel>
 </rss>

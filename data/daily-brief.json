@@ -1,8 +1,898 @@
 {
-  "generated_at": "2026-10-19T01:16:48.538349Z",
+  "generated_at": "2026-10-19T02:57:52.955921Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_61950f77d8ab",
+      "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+      "url": "https://www.aibase.com/news/31709",
+      "primary_url": "https://www.aibase.com/news/31709",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "30190949768c96dea08fc1617658d74238fb5dd0",
+          "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_en": null,
+          "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "30190949768c96dea08fc1617658d74238fb5dd0",
+          "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_en": null,
+          "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "30190949768c96dea08fc1617658d74238fb5dd0",
+        "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+        "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+        "title_en": null,
+        "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31709",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_b5da960ac254",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T13:22:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T13:22:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8218,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T13:22:26Z",
+      "latest_at": "2026-10-18T13:22:26Z",
+      "primary_item": {
+        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_f9057edcf67a",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "primary_url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-18T18:56:03Z",
+      "latest_at": "2026-10-18T18:56:03Z",
+      "primary_item": {
+        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+        "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+        "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
+        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_be973b3cdd3b",
+      "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+      "url": "https://www.aibase.com/news/31710",
+      "primary_url": "https://www.aibase.com/news/31710",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
+          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_en": null,
+          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
+          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_en": null,
+          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31710",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
+        "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+        "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+        "title_en": null,
+        "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31710",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_5291e4230e02",
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T10:52:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T10:52:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-18T10:52:39Z",
+      "latest_at": "2026-10-18T10:52:39Z",
+      "primary_item": {
+        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_16ab1c3d9bf2",
+      "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+      "url": "https://www.aibase.com/news/31711",
+      "primary_url": "https://www.aibase.com/news/31711",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
+          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_en": null,
+          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31711",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
+          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_en": null,
+          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31711",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
+        "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "title_en": null,
+        "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31711",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_30ee62b208be",
+      "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+      "url": "https://www.aibase.com/news/31712",
+      "primary_url": "https://www.aibase.com/news/31712",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
+          "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_en": null,
+          "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31712",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
+          "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_en": null,
+          "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31712",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
+        "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+        "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+        "title_en": null,
+        "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31712",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_625af896d740",
+      "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+      "url": "https://www.aibase.com/news/31713",
+      "primary_url": "https://www.aibase.com/news/31713",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
+          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_en": null,
+          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31713",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
+          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_en": null,
+          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31713",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
+        "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "title_en": null,
+        "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31713",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_2489c36ca65c",
+      "title": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+      "url": "https://www.aibase.com/news/31714",
+      "primary_url": "https://www.aibase.com/news/31714",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cf641d6ccf8ef7cdc1289af9ce7939e46273d639",
+          "title": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "title_zh": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "title_en": null,
+          "title_original": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cf641d6ccf8ef7cdc1289af9ce7939e46273d639",
+          "title": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "title_zh": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "title_en": null,
+          "title_original": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T02:57:52.955921Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T02:57:52.955921Z",
+      "latest_at": "2026-10-19T02:57:52.955921Z",
+      "primary_item": {
+        "id": "cf641d6ccf8ef7cdc1289af9ce7939e46273d639",
+        "title": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+        "title_zh": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+        "title_en": null,
+        "title_original": "算力相当于全人类不吃不喝算 200 年！我国首个全国产十万卡 AI 超集群“曙光 8000”真机震撼亮相",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31714",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_c8053cb1d345",
+      "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
+          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "summary": "Ask anything. Then play it, Duolingo-style.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-17T10:14:13Z",
+          "updated_at": "2026-10-19T02:30:20Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
+          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
+          "title_zh": "为ChatGPT打造的Tomo",
+          "title_en": "Tomo for ChatGPT",
+          "title_original": "Tomo for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T09:20:05.051000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
+          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "summary": "Ask anything. Then play it, Duolingo-style.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-17T10:14:13Z",
+          "updated_at": "2026-10-19T02:30:20Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
+          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
+          "title_zh": "为ChatGPT打造的Tomo",
+          "title_en": "Tomo for ChatGPT",
+          "title_original": "Tomo for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T09:20:05.051000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T09:20:05.051000Z",
+      "latest_at": "2026-10-19T02:30:20Z",
+      "primary_item": {
+        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+        "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
+        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "summary": "Ask anything. Then play it, Duolingo-style.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
     {
       "story_id": "story_cda63bd1952b",
       "title": "Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬",
@@ -25,12 +915,7 @@
           "site_id": "aibase",
           "published_at": "2026-10-19T01:16:48.538349Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Character.AI bankruptcy fallout: Disney takes on 60+ staff, shelling out $180 million in compensation over three years",
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -52,25 +937,20 @@
           "site_id": "aibase",
           "published_at": "2026-10-19T01:16:48.538349Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Character.AI bankruptcy fallout: Disney takes on 60+ staff, shelling out $180 million in compensation over three years",
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,1175 +970,13 @@
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/31705",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Character.AI bankruptcy fallout: Disney takes on 60+ staff, shelling out $180 million in compensation over three years",
-          "summary": null,
-          "reason": null
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "人才收购加破产八卦，跟你的代码没关系，最多证明陪聊赛道烧钱难变现。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_b5da960ac254",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-          "recommend_reason_zh": "Anthropic内部研究显示，新员工中初级职位占比从27%降至9%，到2026年8月其AI agents工作时长已达人类的六倍，工程师代码提交量增至5.1倍，研究者Nolan Lovett警告这将导致资深人才断档。",
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Anthropic published internal research showing that the share of junior roles in its technical organization fell from 21% in early 2025 to 14%, the share of new junior hires dropped from 27% to 9%, and open junior positions fell to 6%, while non-technical departments remained largely stable.",
-            "reason": "Anthropic’s research found technical junior roles dropping from 21% to 14% and new-hire junior share from 27% to 9%, while AI agents worked six times human hours by August 2026, and Nolan Lovett warned of a senior-talent pipeline gap."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-          "recommend_reason_zh": "Anthropic内部研究显示，新员工中初级职位占比从27%降至9%，到2026年8月其AI agents工作时长已达人类的六倍，工程师代码提交量增至5.1倍，研究者Nolan Lovett警告这将导致资深人才断档。",
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Anthropic published internal research showing that the share of junior roles in its technical organization fell from 21% in early 2025 to 14%, the share of new junior hires dropped from 27% to 9%, and open junior positions fell to 6%, while non-technical departments remained largely stable.",
-            "reason": "Anthropic’s research found technical junior roles dropping from 21% to 14% and new-hire junior share from 27% to 9%, while AI agents worked six times human hours by August 2026, and Nolan Lovett warned of a senior-talent pipeline gap."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.842,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-18T13:22:26Z",
-      "latest_at": "2026-10-18T13:22:26Z",
-      "primary_item": {
-        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-        "recommend_reason_zh": "Anthropic内部研究显示，新员工中初级职位占比从27%降至9%，到2026年8月其AI agents工作时长已达人类的六倍，工程师代码提交量增至5.1倍，研究者Nolan Lovett警告这将导致资深人才断档。",
-        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Anthropic published internal research showing that the share of junior roles in its technical organization fell from 21% in early 2025 to 14%, the share of new junior hires dropped from 27% to 9%, and open junior positions fell to 6%, while non-technical departments remained largely stable.",
-          "reason": "Anthropic’s research found technical junior roles dropping from 21% to 14% and new-hire junior share from 27% to 9%, while AI agents worked six times human hours by August 2026, and Nolan Lovett warned of a senior-talent pipeline gap."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "招聘八卦和工时对比，改变不了你明天的交付；想学 Agent 用法不如去看文档。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_f9057edcf67a",
-      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-      "url": "https://x.com/arena/status/2111894091168682086",
-      "primary_url": "https://x.com/arena/status/2111894091168682086",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 在 Code Arena: WebDev 以 10 倍低成本超越 Kimi K3 (Max)，开源第一。",
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Arena announced that DeepSeek-V4.1-Flash-20261017 (Max) is now the top open-source model on the Code Arena: WebDev leaderboard, surpassing Kimi K3 (Max) at roughly 10x lower cost.",
-            "reason": "DeepSeek-V4.1-Flash-20261017 (Max) has taken the top open-model spot on Code Arena: WebDev, surpassing Kimi K3 (Max) at roughly one-tenth the cost, according to Arena."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 在 Code Arena: WebDev 以 10 倍低成本超越 Kimi K3 (Max)，开源第一。",
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Arena announced that DeepSeek-V4.1-Flash-20261017 (Max) is now the top open-source model on the Code Arena: WebDev leaderboard, surpassing Kimi K3 (Max) at roughly 10x lower cost.",
-            "reason": "DeepSeek-V4.1-Flash-20261017 (Max) has taken the top open-model spot on Code Arena: WebDev, surpassing Kimi K3 (Max) at roughly one-tenth the cost, according to Arena."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T18:56:03Z",
-      "latest_at": "2026-10-18T18:56:03Z",
-      "primary_item": {
-        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-        "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-        "recommend_reason_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 在 Code Arena: WebDev 以 10 倍低成本超越 Kimi K3 (Max)，开源第一。",
-        "url": "https://x.com/arena/status/2111894091168682086",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Arena announced that DeepSeek-V4.1-Flash-20261017 (Max) is now the top open-source model on the Code Arena: WebDev leaderboard, surpassing Kimi K3 (Max) at roughly 10x lower cost.",
-          "reason": "DeepSeek-V4.1-Flash-20261017 (Max) has taken the top open-model spot on Code Arena: WebDev, surpassing Kimi K3 (Max) at roughly one-tenth the cost, according to Arena."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "开源模型登顶 WebDev 榜，写前端可先拿它试手；榜单≠实战，别急着重构。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_d83ad166353f",
-      "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-      "url": "https://www.aibase.com/news/31708",
-      "primary_url": "https://www.aibase.com/news/31708",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96801ebb0b59af2d88647005900102161d894310",
-          "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "title_en": null,
-          "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
-          "recommend_reason_zh": "据Vercel的数据，决策模型Jev被称为史上采用最快的AI模型，这条结论本身值得一读，尤其可留意其采用速度的衡量口径与数据来源是否站得住脚。",
-          "url": "https://www.aibase.com/news/31708",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Vercel data shows decision model Jev has become the fastest-adopted AI model ever",
-            "summary": null,
-            "reason": "Vercel's data labels the decision model Jev the fastest-adopted AI model in history, and the piece probes how that adoption speed was measured and whether the underlying data holds up."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96801ebb0b59af2d88647005900102161d894310",
-          "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "title_en": null,
-          "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
-          "recommend_reason_zh": "据Vercel的数据，决策模型Jev被称为史上采用最快的AI模型，这条结论本身值得一读，尤其可留意其采用速度的衡量口径与数据来源是否站得住脚。",
-          "url": "https://www.aibase.com/news/31708",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Vercel data shows decision model Jev has become the fastest-adopted AI model ever",
-            "summary": null,
-            "reason": "Vercel's data labels the decision model Jev the fastest-adopted AI model in history, and the piece probes how that adoption speed was measured and whether the underlying data holds up."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T01:16:48.538349Z",
-      "latest_at": "2026-10-19T01:16:48.538349Z",
-      "primary_item": {
-        "id": "96801ebb0b59af2d88647005900102161d894310",
-        "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-        "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-        "title_en": null,
-        "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
-        "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
-        "recommend_reason_zh": "据Vercel的数据，决策模型Jev被称为史上采用最快的AI模型，这条结论本身值得一读，尤其可留意其采用速度的衡量口径与数据来源是否站得住脚。",
-        "url": "https://www.aibase.com/news/31708",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Vercel data shows decision model Jev has become the fastest-adopted AI model ever",
-          "summary": null,
-          "reason": "Vercel's data labels the decision model Jev the fastest-adopted AI model in history, and the piece probes how that adoption speed was measured and whether the underlying data holds up."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "只有\"采用最快\"的说法，没接口没价格没基准，等你真要选型时这点信息帮不上忙。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_5291e4230e02",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": "Aachen Regional Court在2026年9月24日裁决中沿用Munich法院逻辑，认定Google的AI把本属他人的性侵指控错安到一位医生身上，AI答案即公司自身内容。",
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Munich Regional Court I ruled in late May that Google's AI search summaries count as the company's own statements rather than neutral retransmission, making Google liable for erroneous content. After publicly announcing an appeal, Google in fact settled the case, so no higher court ever ruled on it.",
-            "reason": "Aachen Regional Court’s 24 September 2026 ruling, following Munich Regional Court’s late-May logic, held Google liable because its AI overview wrongly attributed another person’s sexual-assault allegation to a doctor, treating AI answers as Google’s own content."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": "Aachen Regional Court在2026年9月24日裁决中沿用Munich法院逻辑，认定Google的AI把本属他人的性侵指控错安到一位医生身上，AI答案即公司自身内容。",
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Munich Regional Court I ruled in late May that Google's AI search summaries count as the company's own statements rather than neutral retransmission, making Google liable for erroneous content. After publicly announcing an appeal, Google in fact settled the case, so no higher court ever ruled on it.",
-            "reason": "Aachen Regional Court’s 24 September 2026 ruling, following Munich Regional Court’s late-May logic, held Google liable because its AI overview wrongly attributed another person’s sexual-assault allegation to a doctor, treating AI answers as Google’s own content."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8122,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T10:52:39Z",
-      "latest_at": "2026-10-18T10:52:39Z",
-      "primary_item": {
-        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-        "recommend_reason_zh": "Aachen Regional Court在2026年9月24日裁决中沿用Munich法院逻辑，认定Google的AI把本属他人的性侵指控错安到一位医生身上，AI答案即公司自身内容。",
-        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Munich Regional Court I ruled in late May that Google's AI search summaries count as the company's own statements rather than neutral retransmission, making Google liable for erroneous content. After publicly announcing an appeal, Google in fact settled the case, so no higher court ever ruled on it.",
-          "reason": "Aachen Regional Court’s 24 September 2026 ruling, following Munich Regional Court’s late-May logic, held Google liable because its AI overview wrongly attributed another person’s sexual-assault allegation to a doctor, treating AI answers as Google’s own content."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "做搜索内容或出海德国的，AI 摘要的侵权风险现在有判例了，需法务对齐。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_3f5e9d31411c",
-      "title": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-      "url": "https://www.aibase.com/news/31706",
-      "primary_url": "https://www.aibase.com/news/31706",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "643c149586efd81ebc638ff50fb36395129c298f",
-          "title": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "title_zh": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "title_en": null,
-          "title_original": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31706",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Ahead of IPO, Anthropic plans to donate 5% of its shares to establish a public interest fund, adding another 2% for every 50% rise in valuation",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "643c149586efd81ebc638ff50fb36395129c298f",
-          "title": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "title_zh": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "title_en": null,
-          "title_original": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31706",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Ahead of IPO, Anthropic plans to donate 5% of its shares to establish a public interest fund, adding another 2% for every 50% rise in valuation",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T01:16:48.538349Z",
-      "latest_at": "2026-10-19T01:16:48.538349Z",
-      "primary_item": {
-        "id": "643c149586efd81ebc638ff50fb36395129c298f",
-        "title": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-        "title_zh": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-        "title_en": null,
-        "title_original": "上市前 Anthropic 拟捐 5% 股份设公共利益基金，估值每涨 50% 再添 2%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31706",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Ahead of IPO, Anthropic plans to donate 5% of its shares to establish a public interest fund, adding another 2% for every 50% rise in valuation",
-          "summary": null,
-          "reason": null
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "股权捐赠不改变API价格和模型能力，开发者无需理会。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_f9322ffd3993",
-      "title": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-      "url": "https://www.aibase.com/news/31703",
-      "primary_url": "https://www.aibase.com/news/31703",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "841c9ad62db8ff2f71e46eb951b223ce4d5f2650",
-          "title": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "title_zh": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "title_en": null,
-          "title_original": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31703",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "No keyboard, no mouse—just code they wrote themselves: 4 Gemini agents autonomously team up to defeat Minecraft's Ender Dragon",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "841c9ad62db8ff2f71e46eb951b223ce4d5f2650",
-          "title": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "title_zh": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "title_en": null,
-          "title_original": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31703",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "No keyboard, no mouse—just code they wrote themselves: 4 Gemini agents autonomously team up to defeat Minecraft's Ender Dragon",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T01:16:48.538349Z",
-      "latest_at": "2026-10-19T01:16:48.538349Z",
-      "primary_item": {
-        "id": "841c9ad62db8ff2f71e46eb951b223ce4d5f2650",
-        "title": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-        "title_zh": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-        "title_en": null,
-        "title_original": "不操控键鼠、自己写代码：4 个 Gemini 智能体在《我的世界》里自主组队击败末影龙",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31703",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "No keyboard, no mouse—just code they wrote themselves: 4 Gemini agents autonomously team up to defeat Minecraft's Ender Dragon",
-          "summary": null,
-          "reason": null
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "多智能体协作的研究演示，离能用的工程方案还远，看看思路就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_298a8fc112b6",
-      "title": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-      "url": "https://www.aibase.com/news/31707",
-      "primary_url": "https://www.aibase.com/news/31707",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a21dd1999471d8f636267adebac7bef6cbe520b3",
-          "title": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "title_zh": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "title_en": null,
-          "title_original": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31707",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a21dd1999471d8f636267adebac7bef6cbe520b3",
-          "title": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "title_zh": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "title_en": null,
-          "title_original": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31707",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T01:16:48.538349Z",
-      "latest_at": "2026-10-19T01:16:48.538349Z",
-      "primary_item": {
-        "id": "a21dd1999471d8f636267adebac7bef6cbe520b3",
-        "title": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-        "title_zh": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-        "title_en": null,
-        "title_original": "垂直大模型\"同源观澜\"在福州发布：用 AI 把两岸共同历史记忆\"激活\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31707",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": null
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 24,
-      "persona_review": "垂直模型若无开放接口和评测数据，对开发者等于零；等能调用或开源再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_6b14db08f0d9",
-      "title": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-      "url": "https://www.aibase.com/news/31704",
-      "primary_url": "https://www.aibase.com/news/31704",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ea9afb14cab98fa2f565e2362aca1e84c38e53f",
-          "title": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "title_zh": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "title_en": null,
-          "title_original": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
-          "recommend_reason_zh": "标题显示迪士尼以2000万美元收购Character.AI部分资产并接纳其核心团队，给出了交易金额与人员安排，但正文页面返回404、内容尚未加载，读者需自行核实细节。",
-          "url": "https://www.aibase.com/news/31704",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Disney to acquire some Character.AI assets for $20 million and take on its core team",
-            "summary": null,
-            "reason": "Disney will pay $20 million for part of Character.AI's assets and take on its core team, but the page returned a 404, so deal terms remain unconfirmed."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ea9afb14cab98fa2f565e2362aca1e84c38e53f",
-          "title": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "title_zh": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "title_en": null,
-          "title_original": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
-          "recommend_reason_zh": "标题显示迪士尼以2000万美元收购Character.AI部分资产并接纳其核心团队，给出了交易金额与人员安排，但正文页面返回404、内容尚未加载，读者需自行核实细节。",
-          "url": "https://www.aibase.com/news/31704",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T01:16:48.538349Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Disney to acquire some Character.AI assets for $20 million and take on its core team",
-            "summary": null,
-            "reason": "Disney will pay $20 million for part of Character.AI's assets and take on its core team, but the page returned a 404, so deal terms remain unconfirmed."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T01:16:48.538349Z",
-      "latest_at": "2026-10-19T01:16:48.538349Z",
-      "primary_item": {
-        "id": "2ea9afb14cab98fa2f565e2362aca1e84c38e53f",
-        "title": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-        "title_zh": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-        "title_en": null,
-        "title_original": "迪士尼将以2000万美元收购Character.AI部分资产并接纳核心团队",
-        "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
-        "recommend_reason_zh": "标题显示迪士尼以2000万美元收购Character.AI部分资产并接纳其核心团队，给出了交易金额与人员安排，但正文页面返回404、内容尚未加载，读者需自行核实细节。",
-        "url": "https://www.aibase.com/news/31704",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Disney to acquire some Character.AI assets for $20 million and take on its core team",
-          "summary": null,
-          "reason": "Disney will pay $20 million for part of Character.AI's assets and take on its core team, but the page returned a 404, so deal terms remain unconfirmed."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "又是变相收编团队，API 和产品没变动，做应用的不用改代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_c8053cb1d345",
-      "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": "Tomo 把 ChatGPT 的问答变成 Duolingo 式玩法：先问任何话题，再把答案以可玩的形式呈现，用游戏化方式满足好奇心，而不只是停留在读一段文字回答。",
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T01:08:24Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Tomo for ChatGPT turns ChatGPT Q&A into Duolingo-style play: users ask about any topic, then the answer appears in a playable form designed to satisfy curiosity through gameplay rather than just reading text."
-          }
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
-          "title_zh": "为ChatGPT打造的Tomo",
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "标题为 Tomo for ChatGPT，正文却只返回 403 Forbidden 并停在 CAPTCHA 安全验证页面，没有任何可读的产品信息，读者需注意这是一次抓取失败而非功能介绍。",
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "The page titled Tomo for ChatGPT returns a 403 Forbidden error and stops at a security CAPTCHA, leaving no readable product details and marking the request as a failed fetch rather than a feature description."
-          }
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": "Tomo 把 ChatGPT 的问答变成 Duolingo 式玩法：先问任何话题，再把答案以可玩的形式呈现，用游戏化方式满足好奇心，而不只是停留在读一段文字回答。",
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T01:08:24Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Tomo for ChatGPT turns ChatGPT Q&A into Duolingo-style play: users ask about any topic, then the answer appears in a playable form designed to satisfy curiosity through gameplay rather than just reading text."
-          }
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
-          "title_zh": "为ChatGPT打造的Tomo",
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "标题为 Tomo for ChatGPT，正文却只返回 403 Forbidden 并停在 CAPTCHA 安全验证页面，没有任何可读的产品信息，读者需注意这是一次抓取失败而非功能介绍。",
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "The page titled Tomo for ChatGPT returns a 403 Forbidden error and stops at a security CAPTCHA, leaving no readable product details and marking the request as a failed fetch rather than a feature description."
-          }
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-19T01:08:24Z",
-      "primary_item": {
-        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-        "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "summary": "Ask anything. Then play it, Duolingo-style.",
-        "recommend_reason_zh": "Tomo 把 ChatGPT 的问答变成 Duolingo 式玩法：先问任何话题，再把答案以可玩的形式呈现，用游戏化方式满足好奇心，而不只是停留在读一段文字回答。",
-        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Tomo for ChatGPT turns ChatGPT Q&A into Duolingo-style play: users ask about any topic, then the answer appears in a playable form designed to satisfy curiosity through gameplay rather than just reading text."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "游戏化套壳 ChatGPT 的学习 App，跟开发者选型和交付没交集，不用点开。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_306d2e501101",
-      "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "primary_url": "https://arxiv.org/abs/2610.18861",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
-          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_en": null,
-          "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "summary": null,
-          "recommend_reason_zh": "文章提出 HybridAgent，在潜空间推理与文本行动间切换，11个基准上性能提升10.4%，token减少35.5%-54.7%，值得读。",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T22:42:18.398000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Hybrid reasoning agents: LLM agents that reason in latent space and act through text",
-            "summary": null,
-            "reason": "HybridAgent switches between latent-space reasoning and text-based acting within one unified generation process, and the authors report 10.4% average gains across 11 benchmarks with 35.5%–54.7% fewer tokens."
-          }
-        },
-        {
-          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
-          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "summary": null,
-          "recommend_reason_zh": "HybridAgent通过HybridLink在潜空间推理与文本工具调用间切换，在11个基准上性能提升10.4%，token减少35.5%-54.7%。",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T20:48:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "HybridAgents use HybridLink to switch between latent-space reasoning and text-based tool calls, improving performance by 10.4% across 11 benchmarks while cutting token use by 35.5%–54.7%."
-          }
-        },
-        {
-          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
-          "title": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_zh": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent",
-          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "summary": null,
-          "recommend_reason_zh": "该文以14B模型在llama.cpp的8-bit量化下循环五分钟、BF16复现，讨论Hybrid Reasoning Agents的潜空间推理与思维链监控争议。",
-          "url": "https://news.ycombinator.com/item?id=50145337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T20:48:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A 14B model in llama.cpp with bartowski’s 8-bit quantization looped on one paragraph for five minutes before exhausting its turn budget on a simple chat request, as Hybrid Reasoning Agents weighs BF16 replication and latent-space reasoning versus chain-of-thought monitoring."
-          }
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
-          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_en": null,
-          "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "summary": null,
-          "recommend_reason_zh": "文章提出 HybridAgent，在潜空间推理与文本行动间切换，11个基准上性能提升10.4%，token减少35.5%-54.7%，值得读。",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T22:42:18.398000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Hybrid reasoning agents: LLM agents that reason in latent space and act through text",
-            "summary": null,
-            "reason": "HybridAgent switches between latent-space reasoning and text-based acting within one unified generation process, and the authors report 10.4% average gains across 11 benchmarks with 35.5%–54.7% fewer tokens."
-          }
-        },
-        {
-          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
-          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "summary": null,
-          "recommend_reason_zh": "HybridAgent通过HybridLink在潜空间推理与文本工具调用间切换，在11个基准上性能提升10.4%，token减少35.5%-54.7%。",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T20:48:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "HybridAgents use HybridLink to switch between latent-space reasoning and text-based tool calls, improving performance by 10.4% across 11 benchmarks while cutting token use by 35.5%–54.7%."
-          }
-        },
-        {
-          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
-          "title": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_zh": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent",
-          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "summary": null,
-          "recommend_reason_zh": "该文以14B模型在llama.cpp的8-bit量化下循环五分钟、BF16复现，讨论Hybrid Reasoning Agents的潜空间推理与思维链监控争议。",
-          "url": "https://news.ycombinator.com/item?id=50145337",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T20:48:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A 14B model in llama.cpp with bartowski’s 8-bit quantization looped on one paragraph for five minutes before exhausting its turn budget on a simple chat request, as Hybrid Reasoning Agents weighs BF16 replication and latent-space reasoning versus chain-of-thought monitoring."
-          }
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9635,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T20:48:14Z",
-      "latest_at": "2026-10-18T22:42:18.398000Z",
-      "primary_item": {
-        "id": "071de9687fe44887179752a9082a1df2ee5b5749",
-        "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-        "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-        "title_en": null,
-        "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
-        "summary": null,
-        "recommend_reason_zh": "文章提出 HybridAgent，在潜空间推理与文本行动间切换，11个基准上性能提升10.4%，token减少35.5%-54.7%，值得读。",
-        "url": "https://arxiv.org/abs/2610.18861",
-        "source": "arxiv.org",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Hybrid reasoning agents: LLM agents that reason in latent space and act through text",
-          "summary": null,
-          "reason": "HybridAgent switches between latent-space reasoning and text-based acting within one unified generation process, and the authors report 10.4% average gains across 11 benchmarks with 35.5%–54.7% fewer tokens."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "潜空间推理的论文思路，暂无代码可跑；想做Agent架构可读，落地还得等等。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -1276,40 +994,30 @@
           "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
           "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
           "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "recommend_reason_zh": "mlabonne/llm-course 分三部分讲 LLM 入门，覆盖数学、Python、神经网络基础与 SFT，提供 Colab notebooks，永久免费。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/mlabonne/llm-course",
           "source": "GitHub Trending",
           "source_name": "GitHub Trending",
           "site_id": "github_trending",
           "published_at": null,
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "mlabonne/llm-course splits LLM learning into three parts, covering math, Python, neural network fundamentals and SFT, and ships Colab notebooks that stay permanently free."
-          }
+          "recency_basis": null
         },
         {
           "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "mlabonne的llm-course课程含LLM路线图与Colab笔记本",
-          "title_zh": "mlabonne的llm-course课程含LLM路线图与Colab笔记本",
+          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
+          "title_zh": "Mlabonne / LLM课程",
           "title_en": "mlabonne /      llm-course",
           "title_original": "mlabonne /      llm-course",
           "summary": null,
-          "recommend_reason_zh": "mlabonne/llm-course 用 roadmaps 和 Colab notebooks 把 LLM 学习分为三部分，覆盖数学、Python、神经网络与 NLP 基础，并讲到 <1B 模型的小规模预训练和 SFT 后训练数据集。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/mlabonne/llm-course",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T12:26:24.600000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "mlabonne/llm-course splits LLM learning into three roadmap sections with Colab notebooks, from math, Python, neural networks and NLP basics through small-scale pretraining of under-1B models and SFT post-training datasets."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1325,53 +1033,43 @@
           "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
           "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
           "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-          "recommend_reason_zh": "mlabonne/llm-course 分三部分讲 LLM 入门，覆盖数学、Python、神经网络基础与 SFT，提供 Colab notebooks，永久免费。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/mlabonne/llm-course",
           "source": "GitHub Trending",
           "source_name": "GitHub Trending",
           "site_id": "github_trending",
           "published_at": null,
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "mlabonne/llm-course splits LLM learning into three parts, covering math, Python, neural network fundamentals and SFT, and ships Colab notebooks that stay permanently free."
-          }
+          "recency_basis": null
         },
         {
           "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "mlabonne的llm-course课程含LLM路线图与Colab笔记本",
-          "title_zh": "mlabonne的llm-course课程含LLM路线图与Colab笔记本",
+          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
+          "title_zh": "Mlabonne / LLM课程",
           "title_en": "mlabonne /      llm-course",
           "title_original": "mlabonne /      llm-course",
           "summary": null,
-          "recommend_reason_zh": "mlabonne/llm-course 用 roadmaps 和 Colab notebooks 把 LLM 学习分为三部分，覆盖数学、Python、神经网络与 NLP 基础，并讲到 <1B 模型的小规模预训练和 SFT 后训练数据集。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/mlabonne/llm-course",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T12:26:24.600000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "mlabonne/llm-course splits LLM learning into three roadmap sections with Colab notebooks, from math, Python, neural networks and NLP basics through small-scale pretraining of under-1B models and SFT post-training datasets."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,23 +1085,167 @@
         "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
         "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
         "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "recommend_reason_zh": "mlabonne/llm-course 分三部分讲 LLM 入门，覆盖数学、Python、神经网络基础与 SFT，提供 Colab notebooks，永久免费。",
+        "recommend_reason_zh": null,
         "url": "https://github.com/mlabonne/llm-course",
         "source": "GitHub Trending",
-        "source_name": "GitHub Trending",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "mlabonne/llm-course splits LLM learning into three parts, covering math, Python, neural network fundamentals and SFT, and ships Colab notebooks that stay permanently free."
-        }
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "想入门 LLM 的直接 clone，路线图和 Colab 能照着跑，省下找教程的时间。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_306d2e501101",
+      "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "primary_url": "https://arxiv.org/abs/2610.18861",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_en": null,
+          "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T22:42:18.398000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T20:48:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
+          "title": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_zh": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent",
+          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T20:48:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_en": null,
+          "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T22:42:18.398000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4fbbf7d9b6b88c4b9d1619e8af473ab535a4bcf8",
+          "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T20:48:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9d825bda0b90564334c236163624c455ffc3c05a",
+          "title": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent / Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_zh": "混合推理 Agent：在潜在空间思考、通过文本行动的 LLM Agent",
+          "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "title_original": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145337",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T20:48:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9403,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T20:48:14Z",
+      "latest_at": "2026-10-18T22:42:18.398000Z",
+      "primary_item": {
+        "id": "071de9687fe44887179752a9082a1df2ee5b5749",
+        "title": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+        "title_zh": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+        "title_en": null,
+        "title_original": "混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2610.18861",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -1421,19 +1263,14 @@
           "title_en": null,
           "title_original": "Anthropic 的就业形势正在发生怎样的变化",
           "summary": null,
-          "recommend_reason_zh": "报告基于Anthropic内部数据和17次访谈指出，其agent工作时长是人类的6倍、初级技术招聘放缓，人均营收达Meta和Google巅峰期的2–4倍。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.176000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "How is the employment situation at Anthropic changing?",
-            "summary": null,
-            "reason": "Anthropic’s internal data and 17 interviews show its agents work six times longer than humans, junior technical hiring has slowed, and revenue per employee is 2–4 times Meta and Google’s peak, framing how AI is reshaping work."
-          }
+          "recency_basis": null
         },
         {
           "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
@@ -1442,19 +1279,14 @@
           "title_en": "How employment is changing at Anthropic",
           "title_original": "How employment is changing at Anthropic",
           "summary": null,
-          "recommend_reason_zh": "文章基于Anthropic内部数据和17名员工访谈，揭示其Agent工时达人类6倍、初级技术岗位招聘放缓，以及公司用早期预警和内部转岗应对AI对就业的冲击。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T10:49:26Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's internal data and interviews with 17 employees show its Agent works six times as many hours as humans, junior technical hiring has slowed, and the company is using early-warning signals and internal transfers to manage AI's effect on jobs."
-          }
+          "recency_basis": null
         },
         {
           "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
@@ -1463,19 +1295,14 @@
           "title_en": "How employment is changing at Anthropic",
           "title_original": "How employment is changing at Anthropic",
           "summary": null,
-          "recommend_reason_zh": "围绕Anthropic就业变化的讨论里，有评论者引用Ted Chiang写于2002年的《The evolution of Human science》——其中人类已25年未发表论文——追问当LLMs接管关键系统，将来谁来修复电网和医疗系统。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50139873",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T10:49:26Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Commenters on Anthropic’s employment changes cite Ted Chiang’s 2002 story “The Evolution of Human Science,” where humans have published no papers for 25 years, to ask who will repair power grids and medical systems once LLMs control them."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -1492,19 +1319,14 @@
           "title_en": null,
           "title_original": "Anthropic 的就业形势正在发生怎样的变化",
           "summary": null,
-          "recommend_reason_zh": "报告基于Anthropic内部数据和17次访谈指出，其agent工作时长是人类的6倍、初级技术招聘放缓，人均营收达Meta和Google巅峰期的2–4倍。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.176000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "How is the employment situation at Anthropic changing?",
-            "summary": null,
-            "reason": "Anthropic’s internal data and 17 interviews show its agents work six times longer than humans, junior technical hiring has slowed, and revenue per employee is 2–4 times Meta and Google’s peak, framing how AI is reshaping work."
-          }
+          "recency_basis": null
         },
         {
           "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
@@ -1513,19 +1335,14 @@
           "title_en": "How employment is changing at Anthropic",
           "title_original": "How employment is changing at Anthropic",
           "summary": null,
-          "recommend_reason_zh": "文章基于Anthropic内部数据和17名员工访谈，揭示其Agent工时达人类6倍、初级技术岗位招聘放缓，以及公司用早期预警和内部转岗应对AI对就业的冲击。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T10:49:26Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's internal data and interviews with 17 employees show its Agent works six times as many hours as humans, junior technical hiring has slowed, and the company is using early-warning signals and internal transfers to manage AI's effect on jobs."
-          }
+          "recency_basis": null
         },
         {
           "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
@@ -1534,32 +1351,27 @@
           "title_en": "How employment is changing at Anthropic",
           "title_original": "How employment is changing at Anthropic",
           "summary": null,
-          "recommend_reason_zh": "围绕Anthropic就业变化的讨论里，有评论者引用Ted Chiang写于2002年的《The evolution of Human science》——其中人类已25年未发表论文——追问当LLMs接管关键系统，将来谁来修复电网和医疗系统。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50139873",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T10:49:26Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Commenters on Anthropic’s employment changes cite Ted Chiang’s 2002 story “The Evolution of Human Science,” where humans have published no papers for 25 years, to ask who will repair power grids and medical systems once LLMs control them."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9213,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1575,23 +1387,16 @@
         "title_en": null,
         "title_original": "Anthropic 的就业形势正在发生怎样的变化",
         "summary": null,
-        "recommend_reason_zh": "报告基于Anthropic内部数据和17次访谈指出，其agent工作时长是人类的6倍、初级技术招聘放缓，人均营收达Meta和Google巅峰期的2–4倍。",
+        "recommend_reason_zh": null,
         "url": "https://www.anthropic.com/research/employment-at-anthropic",
         "source": "www.anthropic.com",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "How is the employment situation at Anthropic changing?",
-          "summary": null,
-          "reason": "Anthropic’s internal data and 17 interviews show its agents work six times longer than humans, junior technical hiring has slowed, and revenue per employee is 2–4 times Meta and Google’s peak, framing how AI is reshaping work."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "就业趋势研究，看完也改不了你手里的代码，等有可落地的政策或工具再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -1609,19 +1414,14 @@
           "title_en": null,
           "title_original": "网站正纷纷关闭人工智能客服",
           "summary": null,
-          "recommend_reason_zh": "Yelp仅对付费数据许可的AI agents开放，Delta Air Lines禁止代订机票，文章揭示OpenAI、Meta、Google的agents正遭网站抵制。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
           "source": "www.theverge.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.202000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Websites are shutting down their AI customer service",
-            "summary": null,
-            "reason": "Yelp opens its data only to AI agents with paid licensing deals and Delta Air Lines blocks agent-assisted ticket booking, showing how sites are resisting OpenAI, Meta and Google’s agent ambitions."
-          }
+          "recency_basis": null
         },
         {
           "id": "8edecd96644001a45c1dbe820028bb69980b9868",
@@ -1630,19 +1430,14 @@
           "title_en": "Websites Are Closing Their Doors to AI Agents",
           "title_original": "Websites Are Closing Their Doors to AI Agents",
           "summary": null,
-          "recommend_reason_zh": "文章讨论OpenAI、Meta、Google、Instinct等承诺AI agents可代订晚餐、清理inbox甚至买鞋，但网站正开始对AI agents关闭大门，并呈现评论中对代理绕过限制、伪装成人类浏览器的争议。",
+          "recommend_reason_zh": null,
           "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
           "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-10-18T19:24:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI, Meta, Google and Instinct promise agents that book dinner reservations, clear inboxes and buy shoes, yet websites are closing their doors as commenters debate agents bypassing restrictions and posing as human browsers."
-          }
+          "recency_basis": null
         },
         {
           "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
@@ -1651,19 +1446,14 @@
           "title_en": "Websites are closing their doors to AI agents",
           "title_original": "Websites are closing their doors to AI agents",
           "summary": null,
-          "recommend_reason_zh": "Yelp只向付费数据授权开放，Delta Air Lines禁止AI代理订票，文章说明OpenAI、Meta、Google的AI agents正被网站设障。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T14:58:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Yelp limits access to paid data-licensing deals and Delta Air Lines bars AI agents from booking tickets, while OpenAI, Meta and Google market agents as personal assistants that can complete online tasks."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -1680,19 +1470,14 @@
           "title_en": null,
           "title_original": "网站正纷纷关闭人工智能客服",
           "summary": null,
-          "recommend_reason_zh": "Yelp仅对付费数据许可的AI agents开放，Delta Air Lines禁止代订机票，文章揭示OpenAI、Meta、Google的agents正遭网站抵制。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
           "source": "www.theverge.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.202000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Websites are shutting down their AI customer service",
-            "summary": null,
-            "reason": "Yelp opens its data only to AI agents with paid licensing deals and Delta Air Lines blocks agent-assisted ticket booking, showing how sites are resisting OpenAI, Meta and Google’s agent ambitions."
-          }
+          "recency_basis": null
         },
         {
           "id": "8edecd96644001a45c1dbe820028bb69980b9868",
@@ -1701,19 +1486,14 @@
           "title_en": "Websites Are Closing Their Doors to AI Agents",
           "title_original": "Websites Are Closing Their Doors to AI Agents",
           "summary": null,
-          "recommend_reason_zh": "文章讨论OpenAI、Meta、Google、Instinct等承诺AI agents可代订晚餐、清理inbox甚至买鞋，但网站正开始对AI agents关闭大门，并呈现评论中对代理绕过限制、伪装成人类浏览器的争议。",
+          "recommend_reason_zh": null,
           "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
           "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-10-18T19:24:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI, Meta, Google and Instinct promise agents that book dinner reservations, clear inboxes and buy shoes, yet websites are closing their doors as commenters debate agents bypassing restrictions and posing as human browsers."
-          }
+          "recency_basis": null
         },
         {
           "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
@@ -1722,32 +1502,27 @@
           "title_en": "Websites are closing their doors to AI agents",
           "title_original": "Websites are closing their doors to AI agents",
           "summary": null,
-          "recommend_reason_zh": "Yelp只向付费数据授权开放，Delta Air Lines禁止AI代理订票，文章说明OpenAI、Meta、Google的AI agents正被网站设障。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T14:58:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Yelp limits access to paid data-licensing deals and Delta Air Lines bars AI agents from booking tickets, while OpenAI, Meta and Google market agents as personal assistants that can complete online tasks."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9213,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1763,23 +1538,102 @@
         "title_en": null,
         "title_original": "网站正纷纷关闭人工智能客服",
         "summary": null,
-        "recommend_reason_zh": "Yelp仅对付费数据许可的AI agents开放，Delta Air Lines禁止代订机票，文章揭示OpenAI、Meta、Google的agents正遭网站抵制。",
+        "recommend_reason_zh": null,
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
         "source": "www.theverge.com",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Websites are shutting down their AI customer service",
-          "summary": null,
-          "reason": "Yelp opens its data only to AI agents with paid licensing deals and Delta Air Lines blocks agent-assisted ticket booking, showing how sites are resisting OpenAI, Meta and Google’s agent ambitions."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "AI客服落地翻车实录，做智能体的该重新算投入产出。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
+      }
+    },
+    {
+      "story_id": "story_d83ad166353f",
+      "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+      "url": "https://www.aibase.com/news/31708",
+      "primary_url": "https://www.aibase.com/news/31708",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96801ebb0b59af2d88647005900102161d894310",
+          "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "title_en": null,
+          "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31708",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T01:16:48.538349Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "96801ebb0b59af2d88647005900102161d894310",
+          "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "title_en": null,
+          "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31708",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T01:16:48.538349Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T01:16:48.538349Z",
+      "latest_at": "2026-10-19T01:16:48.538349Z",
+      "primary_item": {
+        "id": "96801ebb0b59af2d88647005900102161d894310",
+        "title": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+        "title_zh": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+        "title_en": null,
+        "title_original": "Vercel数据表明决策模型Jev成史上采用最快AI模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31708",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -1797,19 +1651,14 @@
           "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
           "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
           "summary": null,
-          "recommend_reason_zh": "read-only MCP跑在 Cloudflare Workers，让 Claude Code 搜索读取WhatsApp 消息，存 SQLite，需付费计划。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/finereli/whatsapp-mcp",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A read-only MCP server running on Cloudflare Workers lets Claude Code search and read your own WhatsApp messages, stores them in SQLite, and requires a paid plan."
-          }
+          "recency_basis": null
         },
         {
           "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
@@ -1818,19 +1667,14 @@
           "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
           "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
           "summary": null,
-          "recommend_reason_zh": "为让手机上的 Claude 读取个人 WhatsApp，作者在 Cloudflare 免费运行 MCP，并接入 Google 账户补全联系人姓名，否则只剩号码、搜索失效，单用户部署也引发隐私争议。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50145715",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Running an MCP server free on Cloudflare lets Claude on a phone read personal WhatsApp, with Google account integration filling in contact names that otherwise appear only as numbers and break search, while single-user deployment raises privacy concerns."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1846,19 +1690,14 @@
           "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
           "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
           "summary": null,
-          "recommend_reason_zh": "read-only MCP跑在 Cloudflare Workers，让 Claude Code 搜索读取WhatsApp 消息，存 SQLite，需付费计划。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/finereli/whatsapp-mcp",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A read-only MCP server running on Cloudflare Workers lets Claude Code search and read your own WhatsApp messages, stores them in SQLite, and requires a paid plan."
-          }
+          "recency_basis": null
         },
         {
           "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
@@ -1867,32 +1706,27 @@
           "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
           "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
           "summary": null,
-          "recommend_reason_zh": "为让手机上的 Claude 读取个人 WhatsApp，作者在 Cloudflare 免费运行 MCP，并接入 Google 账户补全联系人姓名，否则只剩号码、搜索失效，单用户部署也引发隐私争议。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50145715",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Running an MCP server free on Cloudflare lets Claude on a phone read personal WhatsApp, with Google account integration filling in contact names that otherwise appear only as numbers and break search, while single-user deployment raises privacy concerns."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1908,23 +1742,16 @@
         "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
         "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
         "summary": null,
-        "recommend_reason_zh": "read-only MCP跑在 Cloudflare Workers，让 Claude Code 搜索读取WhatsApp 消息，存 SQLite，需付费计划。",
+        "recommend_reason_zh": null,
         "url": "https://github.com/finereli/whatsapp-mcp",
         "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "A read-only MCP server running on Cloudflare Workers lets Claude Code search and read your own WhatsApp messages, stores them in SQLite, and requires a paid plan."
-        }
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "开源仓库可直接 clone，给 agent 接 WhatsApp 的今天就能跑，先看好 Cloudflare 免费额度。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -1942,19 +1769,14 @@
           "title_en": null,
           "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
           "summary": null,
-          "recommend_reason_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失后才会生效，文章由此追问这一门槛是否足以阻止AI模型失控。",
+          "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
           "source": "www.tomshardware.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.195000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Anthropic's proposed AI safety bill would only kick in after 50 deaths or $1 billion in damages",
-            "summary": null,
-            "reason": "Anthropic’s proposed AI safety bill would take effect only after an AI model causes 50 deaths or $1 billion in losses, raising the question of whether that threshold can prevent runaway AI."
-          }
+          "recency_basis": null
         },
         {
           "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
@@ -1963,19 +1785,14 @@
           "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "summary": null,
-          "recommend_reason_zh": "Anthropic 提出的 AI 安全法案设定了监管触发门槛：只有造成 50 人死亡或 10 亿美元损失时才启动，文章据此追问这样的门槛是否足以防止 AI 模型失控。",
+          "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T14:30:27Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's proposed AI safety bill would trigger regulation only after an AI model causes 50 deaths or $1 billion in damages, raising the question of whether that threshold can prevent an AI model from going out of control."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1991,19 +1808,14 @@
           "title_en": null,
           "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
           "summary": null,
-          "recommend_reason_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失后才会生效，文章由此追问这一门槛是否足以阻止AI模型失控。",
+          "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
           "source": "www.tomshardware.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.195000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Anthropic's proposed AI safety bill would only kick in after 50 deaths or $1 billion in damages",
-            "summary": null,
-            "reason": "Anthropic’s proposed AI safety bill would take effect only after an AI model causes 50 deaths or $1 billion in losses, raising the question of whether that threshold can prevent runaway AI."
-          }
+          "recency_basis": null
         },
         {
           "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
@@ -2012,32 +1824,27 @@
           "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "summary": null,
-          "recommend_reason_zh": "Anthropic 提出的 AI 安全法案设定了监管触发门槛：只有造成 50 人死亡或 10 亿美元损失时才启动，文章据此追问这样的门槛是否足以防止 AI 模型失控。",
+          "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T14:30:27Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's proposed AI safety bill would trigger regulation only after an AI model causes 50 deaths or $1 billion in damages, raising the question of whether that threshold can prevent an AI model from going out of control."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2053,23 +1860,16 @@
         "title_en": null,
         "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
         "summary": null,
-        "recommend_reason_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失后才会生效，文章由此追问这一门槛是否足以阻止AI模型失控。",
+        "recommend_reason_zh": null,
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
         "source": "www.tomshardware.com",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Anthropic's proposed AI safety bill would only kick in after 50 deaths or $1 billion in damages",
-          "summary": null,
-          "reason": "Anthropic’s proposed AI safety bill would take effect only after an AI model causes 50 deaths or $1 billion in losses, raising the question of whether that threshold can prevent runaway AI."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 28,
-      "persona_review": "只是提案，还没成法，接口和合规义务都没变，今天不用管。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -2087,19 +1887,14 @@
           "title_en": null,
           "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek的Search API与Fetch API每1000次成功请求收费0.75美元，仅HTTP 200且有结果才计费，失败、空结果和超时不收费，并说明账户级QPS限制及2026年11月1日起Harness等工具调用开始计费。",
+          "recommend_reason_zh": null,
           "url": "https://api-docs.deepseek.com/guides/search",
           "source": "api-docs.deepseek.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T08:37:12.821000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "DeepSeek Search and Fetch service — $0.75 per 1,000 successful requests",
-            "summary": null,
-            "reason": "DeepSeek's Search and Fetch APIs charge $0.75 per 1,000 successful requests, billing only HTTP 200 responses with results while failures, empty results and timeouts are free; account-level QPS limits apply and Harness tool calls begin billing on Nov 1, 2026."
-          }
+          "recency_basis": null
         },
         {
           "id": "1cc1e30e2370583e7c4514a4bf3263d39a46cc2a",
@@ -2108,19 +1903,14 @@
           "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek 上线 Search 和 Fetch API，为 agent 与 RAG 应用提供实时网页内容，按成功请求计费，每 1000 次 0.75 美元，失败、空结果和超时不计费。",
+          "recommend_reason_zh": null,
           "url": "https://api-docs.deepseek.com/guides/search",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T06:50:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek's new Search and Fetch APIs give agents and RAG applications live web content as raw JSON via https://api.deepseek.com with the same bearer authentication, billed at $0.75 per 1,000 successful requests, while failures, empty results and timeouts are not charged."
-          }
+          "recency_basis": null
         },
         {
           "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
@@ -2129,19 +1919,14 @@
           "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek search and fetch 每1000次成功请求收费0.75美元，评论区以 Ceramic.ai 每1000次搜索0.25美元作对比，并追问遇 Anubis 反爬时返回报错、空内容还是目标页面。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50138531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T06:50:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek search and fetch costs $0.75 per 1,000 successful requests, while commenters contrast Ceramic.ai at $0.25 per 1,000 searches and ask how it responds to Anubis anti-scraping—error, empty content, or the target page."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -2158,19 +1943,14 @@
           "title_en": null,
           "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek的Search API与Fetch API每1000次成功请求收费0.75美元，仅HTTP 200且有结果才计费，失败、空结果和超时不收费，并说明账户级QPS限制及2026年11月1日起Harness等工具调用开始计费。",
+          "recommend_reason_zh": null,
           "url": "https://api-docs.deepseek.com/guides/search",
           "source": "api-docs.deepseek.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T08:37:12.821000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "DeepSeek Search and Fetch service — $0.75 per 1,000 successful requests",
-            "summary": null,
-            "reason": "DeepSeek's Search and Fetch APIs charge $0.75 per 1,000 successful requests, billing only HTTP 200 responses with results while failures, empty results and timeouts are free; account-level QPS limits apply and Harness tool calls begin billing on Nov 1, 2026."
-          }
+          "recency_basis": null
         },
         {
           "id": "1cc1e30e2370583e7c4514a4bf3263d39a46cc2a",
@@ -2179,19 +1959,14 @@
           "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek 上线 Search 和 Fetch API，为 agent 与 RAG 应用提供实时网页内容，按成功请求计费，每 1000 次 0.75 美元，失败、空结果和超时不计费。",
+          "recommend_reason_zh": null,
           "url": "https://api-docs.deepseek.com/guides/search",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T06:50:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek's new Search and Fetch APIs give agents and RAG applications live web content as raw JSON via https://api.deepseek.com with the same bearer authentication, billed at $0.75 per 1,000 successful requests, while failures, empty results and timeouts are not charged."
-          }
+          "recency_basis": null
         },
         {
           "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
@@ -2200,32 +1975,27 @@
           "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek search and fetch 每1000次成功请求收费0.75美元，评论区以 Ceramic.ai 每1000次搜索0.25美元作对比，并追问遇 Anubis 反爬时返回报错、空内容还是目标页面。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50138531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T06:50:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek search and fetch costs $0.75 per 1,000 successful requests, while commenters contrast Ceramic.ai at $0.25 per 1,000 searches and ask how it responds to Anubis anti-scraping—error, empty content, or the target page."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7862,
+        "recency": 0.7673,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2241,23 +2011,16 @@
         "title_en": null,
         "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
         "summary": null,
-        "recommend_reason_zh": "DeepSeek的Search API与Fetch API每1000次成功请求收费0.75美元，仅HTTP 200且有结果才计费，失败、空结果和超时不收费，并说明账户级QPS限制及2026年11月1日起Harness等工具调用开始计费。",
+        "recommend_reason_zh": null,
         "url": "https://api-docs.deepseek.com/guides/search",
         "source": "api-docs.deepseek.com",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "DeepSeek Search and Fetch service — $0.75 per 1,000 successful requests",
-          "summary": null,
-          "reason": "DeepSeek's Search and Fetch APIs charge $0.75 per 1,000 successful requests, billing only HTTP 200 responses with results while failures, empty results and timeouts are free; account-level QPS limits apply and Harness tool calls begin billing on Nov 1, 2026."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "搜索接口按成功计费，0.75美元一千次，比自建爬虫加清洗便宜，RAG 项目可直接接。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     },
     {
@@ -2275,19 +2038,14 @@
           "title_en": null,
           "title_original": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
           "summary": null,
-          "recommend_reason_zh": "Sphinx 是给 agent-assisted development 的 Git hook，推送前按 diff 出题考你对代码行为的理解，比如 Stripe 重发事件会不会重复扣款；答错先解释再换场景，答对才放行。",
+          "recommend_reason_zh": null,
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "sphinx-six-theta.vercel.app",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T08:37:12.715000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Show HN: Sphinx – a hook that Q&A-tests your AI code before release",
-            "summary": null,
-            "reason": "Sphinx is a Git hook for agent-assisted development that asks a question generated from your diff about what the code actually does—such as whether a replayed Stripe event double-charges—and only lets the push through after a correct answer."
-          }
+          "recency_basis": null
         },
         {
           "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
@@ -2296,19 +2054,14 @@
           "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Sphinx是Git hook，AI代码推送前用diff出题考你，如Stripe重试时先存event ID再charge会否重复扣款或漏单，答错解释再问。",
+          "recommend_reason_zh": null,
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Sphinx is a Git hook that quizzes developers on an AI agent's diff before it ships, asking, for example, whether saving a Stripe event ID before charging prevents duplicate or missed charges."
-          }
+          "recency_basis": null
         },
         {
           "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
@@ -2317,19 +2070,14 @@
           "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Show HN 上的 Sphinx 是一个在 shipping AI 代码前用测验考你的 hook，评论区还提到 vibecheck.dev 在 PR 层面拦截合并，并有人指出开发者约每 3 年翻倍、任一时刻约一半人经验不足 3 年。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Sphinx is a Show HN hook that quizzes developers on AI-generated code before shipping, while commenters cite vibecheck.dev's PR-level merge interception and note developers double roughly every three years, with about half having under three years' experience."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -2346,19 +2094,14 @@
           "title_en": null,
           "title_original": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
           "summary": null,
-          "recommend_reason_zh": "Sphinx 是给 agent-assisted development 的 Git hook，推送前按 diff 出题考你对代码行为的理解，比如 Stripe 重发事件会不会重复扣款；答错先解释再换场景，答对才放行。",
+          "recommend_reason_zh": null,
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "sphinx-six-theta.vercel.app",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T08:37:12.715000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Show HN: Sphinx – a hook that Q&A-tests your AI code before release",
-            "summary": null,
-            "reason": "Sphinx is a Git hook for agent-assisted development that asks a question generated from your diff about what the code actually does—such as whether a replayed Stripe event double-charges—and only lets the push through after a correct answer."
-          }
+          "recency_basis": null
         },
         {
           "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
@@ -2367,19 +2110,14 @@
           "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Sphinx是Git hook，AI代码推送前用diff出题考你，如Stripe重试时先存event ID再charge会否重复扣款或漏单，答错解释再问。",
+          "recommend_reason_zh": null,
           "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Sphinx is a Git hook that quizzes developers on an AI agent's diff before it ships, asking, for example, whether saving a Stripe event ID before charging prevents duplicate or missed charges."
-          }
+          "recency_basis": null
         },
         {
           "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
@@ -2388,32 +2126,27 @@
           "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Show HN 上的 Sphinx 是一个在 shipping AI 代码前用测验考你的 hook，评论区还提到 vibecheck.dev 在 PR 层面拦截合并，并有人指出开发者约每 3 年翻倍、任一时刻约一半人经验不足 3 年。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Sphinx is a Show HN hook that quizzes developers on AI-generated code before shipping, while commenters cite vibecheck.dev's PR-level merge interception and note developers double roughly every three years, with about half having under three years' experience."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7862,
+        "recency": 0.7673,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2429,168 +2162,16 @@
         "title_en": null,
         "title_original": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
         "summary": null,
-        "recommend_reason_zh": "Sphinx 是给 agent-assisted development 的 Git hook，推送前按 diff 出题考你对代码行为的理解，比如 Stripe 重发事件会不会重复扣款；答错先解释再换场景，答对才放行。",
+        "recommend_reason_zh": null,
         "url": "https://sphinx-six-theta.vercel.app",
         "source": "sphinx-six-theta.vercel.app",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Show HN: Sphinx – a hook that Q&A-tests your AI code before release",
-          "summary": null,
-          "reason": "Sphinx is a Git hook for agent-assisted development that asks a question generated from your diff about what the code actually does—such as whether a replayed Stripe event double-charges—and only lets the push through after a correct answer."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 66,
-      "persona_review": "小工具能试用，给LLM调用加问答回归测试的思路可抄，但别指望生产级。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
-      }
-    },
-    {
-      "story_id": "story_383c2dd2c97b",
-      "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "primary_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
-          "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
-          "recommend_reason_zh": "作者主张自建LLM proxy，以多provider多模型单端点和记录key调用模型/客户端/时间/状态为例，并称cache miss可20秒手工定位。",
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T21:09:12Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Running your own LLM proxy gives a single endpoint across multiple providers and models while logging each key's calls with model, client, time and status, so the author says a cache miss can be manually traced in 20 seconds."
-          }
-        },
-        {
-          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
-          "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": "Title: If you don't run your own LLM proxy, how do you know whats going on?\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https:/",
-          "recommend_reason_zh": "Hacker News 上的这篇帖文追问：不自建 LLM proxy 如何掌握模型的实际行为？评论区 voodooEntity 回应称，自己搭建 agent/harness 正是为了获得完整可观测性，看清它在做什么、为什么这么做。",
-          "url": "https://news.ycombinator.com/item?id=50145507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T21:09:12Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A Hacker News post asks how anyone who doesn't run their own LLM proxy can know what a model is actually doing, and commenter voodooEntity says building an agent/harness gave full observability into its actions and reasons."
-          }
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
-          "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
-          "recommend_reason_zh": "作者主张自建LLM proxy，以多provider多模型单端点和记录key调用模型/客户端/时间/状态为例，并称cache miss可20秒手工定位。",
-          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T21:09:12Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Running your own LLM proxy gives a single endpoint across multiple providers and models while logging each key's calls with model, client, time and status, so the author says a cache miss can be manually traced in 20 seconds."
-          }
-        },
-        {
-          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
-          "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_zh": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？",
-          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-          "summary": "Title: If you don't run your own LLM proxy, how do you know whats going on?\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https:/",
-          "recommend_reason_zh": "Hacker News 上的这篇帖文追问：不自建 LLM proxy 如何掌握模型的实际行为？评论区 voodooEntity 回应称，自己搭建 agent/harness 正是为了获得完整可观测性，看清它在做什么、为什么这么做。",
-          "url": "https://news.ycombinator.com/item?id=50145507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T21:09:12Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A Hacker News post asks how anyone who doesn't run their own LLM proxy can know what a model is actually doing, and commenter voodooEntity says building an agent/harness gave full observability into its actions and reasons."
-          }
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9421,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T21:09:12Z",
-      "latest_at": "2026-10-18T21:09:12Z",
-      "primary_item": {
-        "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
-        "title": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
-        "title_zh": "如果你不自己搭一个 LLM 代理，又怎么知道到底发生了什么？",
-        "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
-        "recommend_reason_zh": "作者主张自建LLM proxy，以多provider多模型单端点和记录key调用模型/客户端/时间/状态为例，并称cache miss可20秒手工定位。",
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Running your own LLM proxy gives a single endpoint across multiple providers and models while logging each key's calls with model, client, time and status, so the author says a cache miss can be manually traced in 20 seconds."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 73,
-      "persona_review": "自建一层代理确实能看清请求日志和成本，折腾半小时就能上手，值得一抄。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-19T01:31:14.092688Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T02:58:57.113453Z"
       }
     }
   ]

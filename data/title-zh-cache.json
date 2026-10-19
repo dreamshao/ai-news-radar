@@ -58741,5 +58741,10 @@
   "re1|9a7c612b10394fe2552755c215b4d0410d600189": "Google 的 SynthID Detector 已向所有人开放，上传图片、视频或音频几秒即可查 SynthID 水印，覆盖 Gemini 与 OpenAI、NVIDIA、Kakao 内容，却无法识别 Meta 等不用该水印的模型，每天约限 10 次检查。",
   "re1|d0ecb25e6a714ce397224c571d627dfeaad0f319": "National Trading Standards首次发布AI scam watchlist，警告AI通过克隆假网站和语音克隆加速骗局，Which?称错别字已难辨真伪，并建议用FCA Firm Checker核实商家、不要向未见面者汇款。",
   "re1|e893dd359fc4efea8a35198db21b24a90713c54f": "作者主张自建LLM proxy，以多provider多模型单端点和记录key调用模型/客户端/时间/状态为例，并称cache miss可20秒手工定位。",
-  "re1|3e3c259748ad4100435dd94054e5889286b8c283": "Hacker News 上的这篇帖文追问：不自建 LLM proxy 如何掌握模型的实际行为？评论区 voodooEntity 回应称，自己搭建 agent/harness 正是为了获得完整可观测性，看清它在做什么、为什么这么做。"
+  "re1|3e3c259748ad4100435dd94054e5889286b8c283": "Hacker News 上的这篇帖文追问：不自建 LLM proxy 如何掌握模型的实际行为？评论区 voodooEntity 回应称，自己搭建 agent/harness 正是为了获得完整可观测性，看清它在做什么、为什么这么做。",
+  "China's economic growth picks up as AI boom boosts exports": "人工智能热潮推动出口，中国经济增长加速",
+  "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3": "Mistral AI 发布 Timestral：2.09 亿个预测模型系列，性能优于 Google TimesFM-3",
+  "Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode": "Anthropic 自己的员工无法使用 Claude Code 的“绕过权限”模式",
+  "'Human Vs. Robot' Cage Match Was Illegal, Says California": "'人类VS。加州称机器人笼子比赛是非法的",
+  "llm-tools-datasette 0.1.1": "llm-工具-数据集 0.1.1"
 }
