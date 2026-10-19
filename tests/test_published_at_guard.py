@@ -4,6 +4,8 @@ Real-world trigger: InfoQ CN's RSS labels Beijing time as GMT
 ("Tue, 14 Jul 2026 22:01:15 GMT" is actually 22:01 CST = 14:01 UTC), so the
 parsed published_at leads real time by 8 hours and the site timeline shows
 items from the future.
+
+# 测试文件
 """
 
 from __future__ import annotations
