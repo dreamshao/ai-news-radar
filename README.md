@@ -42,6 +42,12 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 ---
 
+## 姊妹站 · 一条流水线
+
+雷达管跟踪，上下游各有一站。先去 [**AI MAP** 热点图谱](https://aimap.carlwow.com) 一张图看最近 7 天谁在升温（每 12 小时刷新），锁定目标后回雷达深挖信源；看到想上手的热点，去 [**GoodCase** 用例库](https://goodcase.carlwow.com) 直接查现成案例和 Prompt。发现 → 跟踪 → 使用，三站一条路。
+
+---
+
 ## 这是什么
 
 AI News Radar是一个自动更新的24小时AI更新雷达。它不只是把AI新闻抓回来，会先判断信息源质量，把同一个事件合并成故事线，再用三种口味的 persona 替你打分点评，最后用伯乐精选、AI标签、源健康和AI占比帮你判断：
@@ -119,6 +125,15 @@ AI News Radar从来都不是单纯把信息抓回来，
 它更像是一条轻量的新闻pipeline，把来源判断、抓取、去重、AI强相关过滤、persona锐评、信息源健康状态和静态网页发布串起来，上线后核心流程不消耗模型额度。
 
 ## 能做什么
+
+### 今天值得做
+
+首页主信息流之后、页面最下方新增一个简短项目模块，从 **GitHub Trending** 公开日榜和 **Product Hunt**
+官方 Atom feed 中筛选 AI 相关项目，每次最多显示 4 个，每个只保留项目名、来源、
+一句话推荐和打开项目的链接。两个视图共用 `data/today-projects.json`，随现有更新任务刷新。
+Product Hunt 按近 24 小时的 feed 更新时间筛选，标明“近期更新”，同时保留原始发布时间；更新不代表首次发布。
+推荐依据项目真实简介生成，不代表已经试用；没有模型 Key 也能展示基于简介的推荐。
+没有合适项目或抓取失败时显示真实空状态，过期推荐不会冒充今天的项目。
 
 ### 给普通读者
 
@@ -206,6 +221,8 @@ AI News Radar学习了现代新闻学的技术，不是简单堆信息源，一�
 - `data/source-status.json`：来源抓取状态、成功率、站点覆盖和源健康
 - `data/stories-merged.json`：故事合并后的完整事件集合
 - `data/merge-log.json`：故事合并过程和命中记录，方便调试与审计
+- `data/feed-en.xml`：英文 RSS，线上地址 `/en/feed.xml`；`data/en-cache.json`：英文字段的翻译缓存（21 天修剪）
+- 条目上的 `en` 字段：`{title, summary, reason}`，只在配置了 DeepSeek key 时生成，英文页 `/en` 读它，中文页不读；`title_en` 仍是中文页的英文副标题，含义不变
 
 如果 `daily-brief.json` 暂时不存在，页面会回退到候选信号列表；如果 `stories-merged.json` 存在，页面会用完整故事池补齐后续故事线，避免只有少量精选故事被接入。
 
@@ -282,7 +299,10 @@ python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml fee
 - 如果设置 `TITLE_ENHANCE_MAX_PER_RUN`，会限制每次运行最多改写的标题条数；不设置默认 30
 - 如果没有设置 `FOLLOW_OPML_B64`，线上工作流会自动使用公开示例 `feeds/follow.example.opml`，让页面展示 RSS/OPML 能力
 - 如果设置 `FOLLOW_OPML_B64`，会优先自动解码为私有 `feeds/follow.opml`
-- 如果设置 `EMAIL_DIGEST_ENABLED=1`、`AGENTMAIL_API_KEY`、`AGENTMAIL_INBOX_ID`，会生成脱敏邮箱摘要
+- 如果设置 `EMAIL_DIGEST_ENABLED=1`，会生成脱敏邮箱摘要；`AGENTMAIL_PROVIDER=agently_cli` 通过已授权的 QQ Agent Mail CLI 读取 `message +list` 元数据，`AGENTMAIL_PROVIDER=api` 兼容旧 `AGENTMAIL_API_KEY` / `AGENTMAIL_INBOX_ID` 模式
+- 如果额外设置 `AGENTMAIL_RESOLVE_PUBLIC_URLS=1`，QQ Agent Mail CLI 模式会对每封候选邮件执行一次 `message +read`，只抽取 `Read online` / `View in browser` 这类公开 newsletter 链接；正文不会写入任何 JSON。没有公开链接的邮件不会进入 Radar 主列表，避免跳到私有邮箱首页
+- 只有额外设置 `EMAIL_DIGEST_INCLUDE_IN_RADAR=1`，才会把邮件 subject / snippet / sender domain / timestamp 作为独立 `agentmail` 源放进 Radar 主数据
+- AgentMail 进入 Radar 的标题会和其它英文源一样走双语标题流程：有 `DEEPSEEK_API_KEY` 时优先 DeepSeek 翻译，没有时回退谷歌翻译；翻译数量仍受 `--translate-max-new` / `--translate-max-new-broad` 限制
 - 只有额外设置 `EMAIL_DIGEST_PUBLISH=1`，才会提交 `data/email-digest.json`
 - 如果设置 `X_API_ENABLED=1`、`X_BEARER_TOKEN` 和预算变量，会在每日指定UTC窗口用官方X API抓取少量公开Post；默认关闭，且当前X API按返回资源计费
 - 如果设置 `SOCIALDATA_ENABLED=1`、`SOCIALDATA_API_KEY` 和预算变量，会按 `SOCIALDATA_RUN_INTERVAL_HOURS`（默认12小时）通过 SocialData.tools 抓取少量公开 X/Twitter 搜索结果；默认关闭，API Key 只应放在本地环境变量或 GitHub Secrets
