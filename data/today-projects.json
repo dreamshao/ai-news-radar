@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T10:45:46.642498Z",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-19T16:30:26.417094Z",
+  "date": "2026-10-20",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T10:44:50.551727Z"
+      "observed_at": "2026-10-19T16:29:36.634023Z"
     },
     {
-      "id": "project_fd8240429eaf",
-      "project_name": "CrawlForge MCP",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp",
-      "summary": "Give your AI agent 31 web tools in one MCP server",
+      "id": "project_e00b056f6151",
+      "project_name": "Beam.win",
+      "url": "https://www.producthunt.com/products/beam-win",
+      "summary": "Run AI agents on one Mac and use its windows on another",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Give your AI agent 31 web tools in one MCP server」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Give your AI agent 31 web tools in one MCP server\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-11T23:38:09Z",
-      "updated_at": "2026-10-19T10:45:24Z",
+      "recommend_reason_zh": "体验它主打的「Run AI agents on one Mac and use its windows on another」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run AI agents on one Mac and use its windows on another\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-18T19:13:45Z",
+      "updated_at": "2026-10-19T16:29:09Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T10:45:37.497204Z"
+      "observed_at": "2026-10-19T16:30:17.291703Z"
     },
     {
       "id": "project_9b780e5528de",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T10:44:50.551727Z"
+      "observed_at": "2026-10-19T16:29:36.634023Z"
     },
     {
-      "id": "project_1b15909b2f7f",
-      "project_name": "Own 1",
-      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
-      "summary": "Own your data. Own your AI. A mind of your own.",
+      "id": "project_0336a6821856",
+      "project_name": "Point and Yap",
+      "url": "https://www.producthunt.com/products/point-and-yap",
+      "summary": "Point at your screen and start yapping to your agent via MCP",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Own your data. Own your AI. A mind of your own」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Own your data. Own your AI. A mind of your own\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-18T08:46:56Z",
-      "updated_at": "2026-10-19T10:45:12Z",
+      "recommend_reason_zh": "体验它主打的「Point at your screen and start yapping to your agent via MCP」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Point at your screen and start yapping to your agent via MCP\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T00:12:27Z",
+      "updated_at": "2026-10-19T16:02:12Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T10:45:37.497204Z"
+      "observed_at": "2026-10-19T16:30:17.291703Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 230,
+      "duration_ms": 252,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 148,
+      "item_count": 50,
+      "duration_ms": 133,
       "error": null
     }
   ]
