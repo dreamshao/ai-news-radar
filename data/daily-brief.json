@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-19T08:56:07.177691Z",
+  "generated_at": "2026-10-19T10:44:50.551727Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_3e82f9917712",
-      "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-      "url": "https://www.aibase.com/news/31728",
-      "primary_url": "https://www.aibase.com/news/31728",
+      "story_id": "story_42cc36918f65",
+      "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+      "url": "https://www.aibase.com/news/31731",
+      "primary_url": "https://www.aibase.com/news/31731",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31728",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,18 +34,18 @@
       ],
       "items": [
         {
-          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31728",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -68,17 +68,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T08:56:07.177691Z",
-      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "earliest_at": "2026-10-19T10:44:50.551727Z",
+      "latest_at": "2026-10-19T10:44:50.551727Z",
       "primary_item": {
-        "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-        "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-        "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+        "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+        "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
         "title_en": null,
-        "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31728",
+        "url": "https://www.aibase.com/news/31731",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -171,30 +171,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
-      "story_id": "story_77ff31b79141",
-      "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-      "url": "https://www.aibase.com/news/31724",
-      "primary_url": "https://www.aibase.com/news/31724",
+      "story_id": "story_5806e8a8ca0a",
+      "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+      "url": "https://www.aibase.com/news/31730",
+      "primary_url": "https://www.aibase.com/news/31730",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "title_en": null,
-          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31724",
+          "url": "https://www.aibase.com/news/31730",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -205,18 +205,18 @@
       ],
       "items": [
         {
-          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "title_en": null,
-          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31724",
+          "url": "https://www.aibase.com/news/31730",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -239,17 +239,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T08:56:07.177691Z",
-      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "earliest_at": "2026-10-19T10:44:50.551727Z",
+      "latest_at": "2026-10-19T10:44:50.551727Z",
       "primary_item": {
-        "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
-        "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
-        "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+        "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+        "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
         "title_en": null,
-        "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31724",
+        "url": "https://www.aibase.com/news/31730",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -257,7 +257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -309,15 +309,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -342,30 +342,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
-      "story_id": "story_f866fb9579b1",
-      "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
-      "url": "https://www.aibase.com/news/31725",
-      "primary_url": "https://www.aibase.com/news/31725",
+      "story_id": "story_e40c814da79b",
+      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+      "url": "https://www.aibase.com/news/31729",
+      "primary_url": "https://www.aibase.com/news/31729",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
-          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
-          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31725",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -376,18 +376,18 @@
       ],
       "items": [
         {
-          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
-          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
-          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31725",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T08:56:07.177691Z",
+          "published_at": "2026-10-19T10:44:50.551727Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -410,17 +410,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T08:56:07.177691Z",
-      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "earliest_at": "2026-10-19T10:44:50.551727Z",
+      "latest_at": "2026-10-19T10:44:50.551727Z",
       "primary_item": {
-        "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
-        "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
-        "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
         "title_en": null,
-        "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31725",
+        "url": "https://www.aibase.com/news/31729",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -428,7 +428,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -480,15 +480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7272,
+        "recency": 0.7084,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -513,7 +513,265 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
+      }
+    },
+    {
+      "story_id": "story_3e82f9917712",
+      "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+      "url": "https://www.aibase.com/news/31728",
+      "primary_url": "https://www.aibase.com/news/31728",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_en": null,
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31728",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_en": null,
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31728",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T08:56:07.177691Z",
+      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "primary_item": {
+        "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+        "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "title_en": null,
+        "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31728",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:45:51.226973Z"
+      }
+    },
+    {
+      "story_id": "story_77ff31b79141",
+      "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+      "url": "https://www.aibase.com/news/31724",
+      "primary_url": "https://www.aibase.com/news/31724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T08:56:07.177691Z",
+      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "primary_item": {
+        "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+        "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_en": null,
+        "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:45:51.226973Z"
+      }
+    },
+    {
+      "story_id": "story_f866fb9579b1",
+      "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+      "url": "https://www.aibase.com/news/31725",
+      "primary_url": "https://www.aibase.com/news/31725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_en": null,
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_en": null,
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T08:56:07.177691Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T08:56:07.177691Z",
+      "latest_at": "2026-10-19T08:56:07.177691Z",
+      "primary_item": {
+        "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+        "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_en": null,
+        "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31725",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -565,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,383 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
-      }
-    },
-    {
-      "story_id": "story_2e0021cc3257",
-      "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-      "url": "https://www.aibase.com/news/31721",
-      "primary_url": "https://www.aibase.com/news/31721",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:54:55.380110Z",
-      "latest_at": "2026-10-19T06:54:55.380110Z",
-      "primary_item": {
-        "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-        "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-        "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-        "title_en": null,
-        "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
-      }
-    },
-    {
-      "story_id": "story_07d6bd367abd",
-      "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-      "url": "https://www.aibase.com/news/31716",
-      "primary_url": "https://www.aibase.com/news/31716",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:54:55.380110Z",
-      "latest_at": "2026-10-19T06:54:55.380110Z",
-      "primary_item": {
-        "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-        "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "title_en": null,
-        "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31716",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
-      }
-    },
-    {
-      "story_id": "story_c8053cb1d345",
-      "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T08:40:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
-          "title_zh": "为ChatGPT打造的Tomo",
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T08:40:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "为ChatGPT打造的Tomo / Tomo for ChatGPT",
-          "title_zh": "为ChatGPT打造的Tomo",
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-19T08:40:28Z",
-      "primary_item": {
-        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-        "title": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_zh": "Tomo for ChatGPT —— 想问什么都行，然后像玩 Duolingo 一样玩起来",
-        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "summary": "Ask anything. Then play it, Duolingo-style.",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
-      }
-    },
-    {
-      "story_id": "story_b8cfe2ba3126",
-      "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-      "url": "https://www.aibase.com/news/31720",
-      "primary_url": "https://www.aibase.com/news/31720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:54:55.380110Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9713,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:54:55.380110Z",
-      "latest_at": "2026-10-19T06:54:55.380110Z",
-      "primary_item": {
-        "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-        "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "title_en": null,
-        "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1093,15 +975,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5656,
+      "importance": 0.5656,
+      "importance_score": 0.5656,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9709,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1126,7 +1008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1244,15 +1126,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9632,
+        "recency": 0.9383,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1277,26 +1159,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
-      "story_id": "story_7e560b6785ec",
-      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-      "url": "https://www.aibase.com/news/31723",
-      "primary_url": "https://www.aibase.com/news/31723",
+      "story_id": "story_2e0021cc3257",
+      "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+      "url": "https://www.aibase.com/news/31721",
+      "primary_url": "https://www.aibase.com/news/31721",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
+          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
           "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
+          "url": "https://www.aibase.com/news/31721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1311,14 +1193,14 @@
       ],
       "items": [
         {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
+          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
           "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
+          "url": "https://www.aibase.com/news/31721",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1329,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,14 +1230,14 @@
       "earliest_at": "2026-10-19T06:54:55.380110Z",
       "latest_at": "2026-10-19T06:54:55.380110Z",
       "primary_item": {
-        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+        "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
+        "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+        "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
         "title_en": null,
-        "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+        "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31723",
+        "url": "https://www.aibase.com/news/31721",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1363,7 +1245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1448,15 +1330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7456,
+        "recency": 0.7263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1599,15 +1481,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8627,
+        "recency": 0.8404,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1632,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1750,15 +1632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8452,
+        "recency": 0.8233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1783,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -1901,15 +1783,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8452,
+        "recency": 0.8233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1934,7 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -2019,15 +1901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9744,
+        "recency": 0.9492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2052,7 +1934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     },
     {
@@ -2137,15 +2019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9575,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2170,7 +2052,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T08:57:02.427400Z"
+        "scored_at": "2026-10-19T10:45:51.226973Z"
+      }
+    },
+    {
+      "story_id": "story_07d6bd367abd",
+      "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+      "url": "https://www.aibase.com/news/31716",
+      "primary_url": "https://www.aibase.com/news/31716",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
+          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_en": null,
+          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31716",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T06:54:55.380110Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
+          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_en": null,
+          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31716",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T06:54:55.380110Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9462,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T06:54:55.380110Z",
+      "latest_at": "2026-10-19T06:54:55.380110Z",
+      "primary_item": {
+        "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
+        "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+        "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+        "title_en": null,
+        "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31716",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:45:51.226973Z"
       }
     }
   ]
