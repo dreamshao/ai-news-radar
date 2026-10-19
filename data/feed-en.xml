@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 16:29:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:28:14 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Some Git over HTTPS may temporarily require authentication</title>
@@ -48,12 +48,36 @@
 <pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
 </item>
 <item>
+<title>Mercury 3 is live on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2112225779782398131</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
+<description>Mercury 3 is live on OpenRouter!</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
+</item>
+<item>
 <title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
 <link>https://www.aibase.com/news/31731</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31731</guid>
 <description>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:44:50 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
+<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+<description>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
+</item>
+<item>
+<title>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
+<link>https://x.com/arena/status/2112215825944117361</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+<description>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
 </item>
 <item>
 <title>inclusionAI/Ming-3.0-tts</title>
@@ -142,30 +166,6 @@
 <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Mon, 19 Oct 2026 16:02:45 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Qwen3-4B，已消除AI写作中的怪癖</title>
-<link>https://100toolkit.com/blog/deslop-model</link>
-<guid isPermaLink="true">https://100toolkit.com/blog/deslop-model</guid>
-<description>Show HN: Qwen3-4B，已消除AI写作中的怪癖 (100toolkit.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 19 Oct 2026 16:21:22 +0000</pubDate>
-</item>
-<item>
-<title>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫</title>
-<link>https://www.aibase.com/news/31726</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31726</guid>
-<description>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 08:56:07 +0000</pubDate>
-</item>
-<item>
-<title>Tmux 和 Claude Code：会话、Send-Keys 以及上限</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>Tmux 和 Claude Code：会话、Send-Keys 以及上限 (crystl.dev)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
