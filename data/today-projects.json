@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:04:08.861913Z",
+  "generated_at": "2026-10-21T10:07:54.340764Z",
   "date": "2026-10-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T06:03:07.369059Z"
+      "observed_at": "2026-10-21T10:06:48.336862Z"
     },
     {
-      "id": "project_e3636f02f669",
-      "project_name": "RunInfra",
-      "url": "https://www.producthunt.com/products/runinfra",
-      "summary": "Open models, built for agents.",
+      "id": "project_c5589c2597ed",
+      "project_name": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "summary": "Coding agents, meet teamwork",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open models, built for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open models, built for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T23:12:51Z",
-      "updated_at": "2026-10-21T06:03:32Z",
+      "recommend_reason_zh": "体验它主打的「Coding agents, meet teamwork」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Coding agents, meet teamwork\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T21:02:39Z",
+      "updated_at": "2026-10-21T10:07:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T06:04:00.491841Z"
+      "observed_at": "2026-10-21T10:07:43.480405Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T06:03:07.369059Z"
+      "observed_at": "2026-10-21T10:06:48.336862Z"
     },
     {
-      "id": "project_f6d66354def7",
-      "project_name": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "summary": "Every friends' chat gets an AI friend with superpowers",
+      "id": "project_59b1b2a56521",
+      "project_name": "Tend",
+      "url": "https://www.producthunt.com/products/tend-5",
+      "summary": "Personal AI for businesses and entrepreneurs.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Every friends' chat gets an AI friend with superpowers」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Every friends' chat gets an AI friend with superpowers\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-17T18:04:38Z",
-      "updated_at": "2026-10-21T06:02:39Z",
+      "recommend_reason_zh": "体验它主打的「Personal AI for businesses and entrepreneurs」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Personal AI for businesses and entrepreneurs\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-20T18:30:09Z",
+      "updated_at": "2026-10-21T10:07:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T06:04:00.491841Z"
+      "observed_at": "2026-10-21T10:07:43.480405Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 1529,
+      "item_count": 14,
+      "duration_ms": 1606,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 127,
+      "duration_ms": 119,
       "error": null
     }
   ]
