@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:00:03.628181Z",
+  "generated_at": "2026-10-22T01:30:06.164227Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8794,
-      "importance": 0.8794,
-      "importance_score": 0.8794,
+      "score": 0.8761,
+      "importance": 0.8761,
+      "importance_score": 0.8761,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8409,
+        "recency": 0.8229,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9229,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -359,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8628,
-      "importance": 0.8628,
-      "importance_score": 0.8628,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7823,
+        "recency": 0.7655,
         "story_heat": 0.5
       },
       "category": "official",
@@ -395,7 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -513,15 +513,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8595,
+        "recency": 0.8411,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -548,7 +548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -600,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9002,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,7 +635,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
+      }
+    },
+    {
+      "story_id": "story_583019dc6666",
+      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "title_en": null,
+          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "title_en": null,
+          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T00:06:00Z",
+      "latest_at": "2026-10-22T00:06:00Z",
+      "primary_item": {
+        "id": "57b779c46686bc1954136c094928ec6605314308",
+        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "title_en": null,
+        "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -687,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9116,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -774,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7491,
+        "recency": 0.7331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -861,15 +947,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9576,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -948,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8985,
+        "recency": 0.8792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,7 +1068,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1034,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1120,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8919,
+        "recency": 0.8728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1155,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1207,15 +1293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8621,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1241,7 +1327,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
+      }
+    },
+    {
+      "story_id": "story_35dcda84eb6b",
+      "title": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+      "url": "https://www.aibase.com/news/31784",
+      "primary_url": "https://www.aibase.com/news/31784",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "46130e72c8a24ac64181d1b6397ea6cc67b671c0",
+          "title": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "title_zh": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "title_en": null,
+          "title_original": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T01:30:06.164227Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "46130e72c8a24ac64181d1b6397ea6cc67b671c0",
+          "title": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "title_zh": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "title_en": null,
+          "title_original": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31784",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T01:30:06.164227Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T01:30:06.164227Z",
+      "latest_at": "2026-10-22T01:30:06.164227Z",
+      "primary_item": {
+        "id": "46130e72c8a24ac64181d1b6397ea6cc67b671c0",
+        "title": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+        "title_zh": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+        "title_en": null,
+        "title_original": "Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31784",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1293,15 +1465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1379,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,7 +1585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1465,15 +1637,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1499,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1551,15 +1723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8514,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1586,7 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1638,15 +1810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1844,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     },
     {
@@ -1724,15 +1896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9038,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1759,178 +1931,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
-      }
-    },
-    {
-      "story_id": "story_de3ff4abf67c",
-      "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-      "url": "https://www.aibase.com/news/31780",
-      "primary_url": "https://www.aibase.com/news/31780",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
-          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "title_en": null,
-          "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31780",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T10:06:48.336862Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
-          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "title_en": null,
-          "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31780",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T10:06:48.336862Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8183,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T10:06:48.336862Z",
-      "latest_at": "2026-10-21T10:06:48.336862Z",
-      "primary_item": {
-        "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
-        "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-        "title_zh": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-        "title_en": null,
-        "title_original": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31780",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
-      }
-    },
-    {
-      "story_id": "story_7b2ba03c7801",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
-      "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "title_en": "Main takeaways from SpaceX’s earnings call today",
-        "title_original": "Main takeaways from SpaceX’s earnings call today",
-        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-22T00:02:56.677863Z"
+        "scored_at": "2026-10-22T01:31:44.758457Z"
       }
     }
   ]
