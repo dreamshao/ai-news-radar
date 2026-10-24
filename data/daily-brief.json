@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-24T19:29:08.077347Z",
+  "generated_at": "2026-10-24T23:10:39.393387Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 16,
   "items": [
     {
-      "story_id": "story_f72f49ac2b3d",
-      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "story_id": "story_84a11f0b50ca",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
-          "title_en": "Turn notifications into code with GitHub Copilot in Teams",
-          "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z",
+          "published_at": "2026-10-23T23:42:03Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
-          "title_en": "Turn notifications into code with GitHub Copilot in Teams",
-          "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z",
+          "published_at": "2026-10-23T23:42:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.728,
+        "ai_relevance": 0.87,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T21:29:58Z",
-      "latest_at": "2026-10-23T21:29:58Z",
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
       "primary_item": {
-        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-        "title_zh": "使用 Teams 中的 GitHub Copilot 将通知转换为代码",
-        "title_en": "Turn notifications into code with GitHub Copilot in Teams",
-        "title_original": "Turn notifications into code with GitHub Copilot in Teams",
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+        "title_en": "Usage metrics API adds usage from tools like OpenCode",
+        "title_original": "Usage metrics API adds usage from tools like OpenCode",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8874,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -225,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,180 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
-      }
-    },
-    {
-      "story_id": "story_84a11f0b50ca",
-      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-          "title_en": "Usage metrics API adds usage from tools like OpenCode",
-          "title_original": "Usage metrics API adds usage from tools like OpenCode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-          "title_en": "Usage metrics API adds usage from tools like OpenCode",
-          "title_original": "Usage metrics API adds usage from tools like OpenCode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7515,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T23:42:03Z",
-      "latest_at": "2026-10-23T23:42:03Z",
-      "primary_item": {
-        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-        "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-        "title_en": "Usage metrics API adds usage from tools like OpenCode",
-        "title_original": "Usage metrics API adds usage from tools like OpenCode",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
-      }
-    },
-    {
-      "story_id": "story_91d09a1a5262",
-      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-      "url": "https://x.com/OpenAI/status/2113766354386084338",
-      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-          "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7432,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T22:55:45Z",
-      "latest_at": "2026-10-23T22:55:45Z",
-      "primary_item": {
-        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "title_zh": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-        "title_en": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "title_original": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...",
-        "summary": "OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2113766354386084338",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -484,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7785,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,7 +344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -541,7 +368,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T19:22:51Z",
+          "updated_at": "2026-10-24T23:06:29Z",
           "recency_basis": "updated_at"
         },
         {
@@ -580,7 +407,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T19:22:51Z",
+          "updated_at": "2026-10-24T23:06:29Z",
           "recency_basis": "updated_at"
         },
         {
@@ -602,15 +429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9985,
+        "recency": 0.999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -618,7 +445,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-24T19:22:51Z",
+      "latest_at": "2026-10-24T23:06:29Z",
       "primary_item": {
         "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
         "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
@@ -635,7 +462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -720,15 +547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5898,
-      "importance": 0.5898,
-      "importance_score": 0.5898,
+      "score": 0.5813,
+      "importance": 0.5813,
+      "importance_score": 0.5813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9062,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -753,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -777,7 +604,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-24T19:22:23Z",
+          "updated_at": "2026-10-24T22:58:30Z",
           "recency_basis": "updated_at"
         },
         {
@@ -816,7 +643,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-24T19:22:23Z",
+          "updated_at": "2026-10-24T22:58:30Z",
           "recency_basis": "updated_at"
         },
         {
@@ -838,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5937,
+      "importance": 0.5937,
+      "importance_score": 0.5937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9984,
+        "recency": 0.9971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -854,7 +681,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-24T19:22:23Z",
+      "latest_at": "2026-10-24T22:58:30Z",
       "primary_item": {
         "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
         "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
@@ -871,7 +698,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -956,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5773,
-      "importance": 0.5773,
-      "importance_score": 0.5773,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9062,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -989,7 +816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -1107,15 +934,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.863,
+        "recency": 0.8182,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1140,46 +967,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
-      "story_id": "story_547557e54621",
-      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "story_id": "story_45843157ba03",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z",
+          "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
+          "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z",
+          "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1191,66 +1018,66 @@
       ],
       "items": [
         {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z",
+          "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
+          "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z",
+          "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9799,
+        "recency": 0.9522,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T18:04:57Z",
-      "latest_at": "2026-10-24T18:04:57Z",
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
-        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-        "title_zh": "为什么人工智能生成的语言如此难以理解？",
-        "title_en": "Why is AI generated language so hard to understand?",
-        "title_original": "Why is AI generated language so hard to understand?",
+        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+        "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+        "title_en": "No signs of AI payoff outside the tech sector",
+        "title_original": "No signs of AI payoff outside the tech sector",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.29162",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1258,7 +1085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -1282,7 +1109,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-24T19:01:18Z",
+          "updated_at": "2026-10-24T21:37:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1321,7 +1148,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-24T19:01:18Z",
+          "updated_at": "2026-10-24T21:37:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1343,15 +1170,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5902,
+      "importance": 0.5902,
+      "importance_score": 0.5902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9933,
+        "recency": 0.9779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,7 +1186,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-24T19:01:18Z",
+      "latest_at": "2026-10-24T21:37:41Z",
       "primary_item": {
         "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
         "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
@@ -1376,7 +1203,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
+      }
+    },
+    {
+      "story_id": "story_7f015f6d31aa",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8426,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T23:11:31.761463Z"
+      }
+    },
+    {
+      "story_id": "story_6161b4bb2fd9",
+      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://news.ycombinator.com/item?id=50220042",
+      "primary_url": "https://news.ycombinator.com/item?id=50220042",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T10:51:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T10:51:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.837,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T10:51:35Z",
+      "latest_at": "2026-10-24T10:51:35Z",
+      "primary_item": {
+        "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50220042",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -1461,15 +1524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5773,
-      "importance": 0.5773,
-      "importance_score": 0.5773,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9062,
+        "recency": 0.8592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1494,125 +1557,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
-      "story_id": "story_f1fd04d99c59",
-      "title": "保障我们的前沿模型训练环境安全",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "openai.com",
-      "source_name": "Buzzing",
+      "story_id": "story_547557e54621",
+      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8308,
+        "recency": 0.9291,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T19:50:56Z",
-      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
       "primary_item": {
-        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-        "title": "保障我们的前沿模型训练环境安全",
-        "title_zh": "保障我们的前沿模型训练环境安全",
-        "title_en": null,
-        "title_original": "保障我们的前沿模型训练环境安全",
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+        "title_zh": "为什么人工智能生成的语言如此难以理解？",
+        "title_en": "Why is AI generated language so hard to understand?",
+        "title_original": "Why is AI generated language so hard to understand?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "openai.com",
-        "source_name": "Buzzing"
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     },
     {
@@ -1697,15 +1760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9453,
+        "recency": 0.8962,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1730,243 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8887,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
-      }
-    },
-    {
-      "story_id": "story_48b1a6c85b6c",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8829,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T19:29:56.729982Z"
+        "scored_at": "2026-10-24T23:11:31.761463Z"
       }
     }
   ]
