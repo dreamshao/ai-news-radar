@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:51:19.579771Z",
+  "generated_at": "2026-10-24T01:34:29.711657Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8962,
+        "recency": 0.8742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9666,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9057,
+        "recency": 0.8835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,67 +261,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
-      "story_id": "story_8df94465a5bc",
-      "title": "Codex CLI 0.164.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_84a11f0b50ca",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.164.0",
-          "title_original": "Codex CLI 0.164.0",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
+          "published_at": "2026-10-23T23:42:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.164.0",
-          "title_original": "Codex CLI 0.164.0",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+          "title_en": "Usage metrics API adds usage from tools like OpenCode",
+          "title_original": "Usage metrics API adds usage from tools like OpenCode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
+          "published_at": "2026-10-23T23:42:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7086,
+        "ai_relevance": 0.87,
+        "recency": 0.9733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,25 +330,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
       "primary_item": {
-        "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-        "title": "Codex CLI 0.164.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.164.0",
-        "title_original": "Codex CLI 0.164.0",
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
+        "title_en": "Usage metrics API adds usage from tools like OpenCode",
+        "title_original": "Usage metrics API adds usage from tools like OpenCode",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -434,94 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
-      }
-    },
-    {
-      "story_id": "story_e601481ec54f",
-      "title": "EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9315,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
-      "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU deletions fix",
-        "title_zh": null,
-        "title_en": "EMU deletions fix",
-        "title_original": "EMU deletions fix",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -573,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8187,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,94 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
-      }
-    },
-    {
-      "story_id": "story_4cbd065cbc83",
-      "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-          "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-          "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-          "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-          "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
-      "primary_item": {
-        "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-        "title": "您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up",
-        "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
-        "title_en": "Does Your Model Run on AWS Trainium? Look It Up",
-        "title_original": "Does Your Model Run on AWS Trainium? Look It Up",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -747,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -781,7 +607,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
+      }
+    },
+    {
+      "story_id": "story_e601481ec54f",
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9086,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
+      "primary_item": {
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU deletions fix",
+        "title_zh": null,
+        "title_en": "EMU deletions fix",
+        "title_original": "EMU deletions fix",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -833,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -919,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9319,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,94 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
-      }
-    },
-    {
-      "story_id": "story_3844d9781f45",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8807,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
-      "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-        "title_en": "Enterprise installations for GitHub Apps generally available",
-        "title_original": "Enterprise installations for GitHub Apps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1092,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1125,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1177,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8103,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1210,7 +1036,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1262,15 +1088,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,94 +1121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
-      }
-    },
-    {
-      "story_id": "story_ce7f81360e67",
-      "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-          "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
-      "primary_item": {
-        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
-        "title_en": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1434,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7736,
+        "recency": 0.7547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1467,7 +1206,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
+      }
+    },
+    {
+      "story_id": "story_b44e0e852702",
+      "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "primary_url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:17:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:17:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8874,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:17:58Z",
+      "latest_at": "2026-10-23T17:17:58Z",
+      "primary_item": {
+        "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+        "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+        "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
+        "title_en": "Public monitoring adds triage, validity, API, and webhooks",
+        "title_original": "Public monitoring adds triage, validity, API, and webhooks",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1519,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1552,94 +1378,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
-      }
-    },
-    {
-      "story_id": "story_fde7fea26706",
-      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7116,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:17:51Z",
-      "latest_at": "2026-10-23T00:17:51Z",
-      "primary_item": {
-        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-        "title_en": "GitHub Copilot in Visual Studio — September update",
-        "title_original": "GitHub Copilot in Visual Studio — September update",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     },
     {
@@ -1691,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1724,7 +1463,264 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T23:52:13.612671Z"
+        "scored_at": "2026-10-24T01:35:20.827559Z"
+      }
+    },
+    {
+      "story_id": "story_3844d9781f45",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8591,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
+      "primary_item": {
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+        "title_en": "Enterprise installations for GitHub Apps generally available",
+        "title_original": "Enterprise installations for GitHub Apps generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T01:35:20.827559Z"
+      }
+    },
+    {
+      "story_id": "story_967a5437469b",
+      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+      "url": "https://www.aibase.com/news/31840",
+      "primary_url": "https://www.aibase.com/news/31840",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:02:05.639637Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "title_en": null,
+          "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:02:05.639637Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.799,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T10:02:05.639637Z",
+      "latest_at": "2026-10-23T10:02:05.639637Z",
+      "primary_item": {
+        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "title_zh": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "title_en": null,
+        "title_original": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31840",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T01:35:20.827559Z"
+      }
+    },
+    {
+      "story_id": "story_f38bd72f5972",
+      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+      "url": "https://www.aibase.com/news/31841",
+      "primary_url": "https://www.aibase.com/news/31841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "title_en": null,
+          "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:02:05.639637Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "title_en": null,
+          "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T10:02:05.639637Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.799,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T10:02:05.639637Z",
+      "latest_at": "2026-10-23T10:02:05.639637Z",
+      "primary_item": {
+        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "title_zh": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "title_en": null,
+        "title_original": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31841",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T01:35:20.827559Z"
       }
     }
   ]
