@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 07:16:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:31:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -104,14 +104,6 @@
 <pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
 </item>
 <item>
-<title>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</title>
-<link>https://www.ithome.com/1/017/113.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/017/113.htm</guid>
-<description>国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 09:17:16 +0000</pubDate>
-</item>
-<item>
 <title>Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
 <link>https://x.com/fal/status/2113646807997620396</link>
 <guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
@@ -128,22 +120,6 @@
 <pubDate>Fri, 23 Oct 2026 17:17:58 +0000</pubDate>
 </item>
 <item>
-<title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
-<link>https://www.aibase.com/news/31834</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
-<description>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 10:02:05 +0000</pubDate>
-</item>
-<item>
-<title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
-<link>https://www.aibase.com/news/31837</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31837</guid>
-<description>Etsy宣布禁止平台销售AI生成食谱与手工图样 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 10:02:05 +0000</pubDate>
-</item>
-<item>
 <title>Enterprise installations for GitHub Apps generally available</title>
 <link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
@@ -152,20 +128,44 @@
 <pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕</title>
-<link>https://www.aibase.com/news/31840</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31840</guid>
-<description>Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 10:02:05 +0000</pubDate>
+<title>MOVO AI — The world's first long-form video agent for mobile</title>
+<link>https://www.producthunt.com/products/movo-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/movo-ai</guid>
+<description>The world's first long-form video agent for mobile (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 24 Oct 2026 09:28:06 +0000</pubDate>
 </item>
 <item>
-<title>Hugging Face 推出 Carbon-X：基于千问，让科学家"与 DNA 对话"</title>
-<link>https://www.aibase.com/news/31841</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31841</guid>
-<description>Hugging Face 推出 Carbon-X：基于千问，让科学家"与 DNA 对话" (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 23 Oct 2026 10:02:05 +0000</pubDate>
+<title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停</title>
+<link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
+<guid isPermaLink="true">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</guid>
+<description>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 (www.reddit.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 24 Oct 2026 09:16:58 +0000</pubDate>
+</item>
+<item>
+<title>SnailSploit/Claude-Red — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</title>
+<link>https://github.com/SnailSploit/Claude-Red</link>
+<guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
+<description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 23 Oct 2026 11:42:25 +0000</pubDate>
+</item>
+<item>
+<title>瑞典政府机构将禁止使用ChatGPT和Claude</title>
+<link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
+<guid isPermaLink="true">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</guid>
+<description>瑞典政府机构将禁止使用ChatGPT和Claude (www.sverigesradio.se)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 23 Oct 2026 16:26:53 +0000</pubDate>
+</item>
+<item>
+<title>Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上</title>
+<link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
+<guid isPermaLink="true">https://artificialanalysis.ai/models/kimi-k3-1-pro</guid>
+<description>Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 (artificialanalysis.ai)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 23 Oct 2026 20:38:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
