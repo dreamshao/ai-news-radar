@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:40:00.921119Z",
+  "generated_at": "2026-10-24T14:31:10.518645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7448,
+        "recency": 0.7251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8033,
+        "recency": 0.7821,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7528,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,7 +347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -399,15 +399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8292,
+        "recency": 0.8074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -434,7 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -486,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8201,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -572,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.8364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.742,
+        "recency": 0.7224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -743,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7741,
+        "recency": 0.7537,
         "story_heat": 0.0
       },
       "category": "official",
@@ -778,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -830,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7695,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,7 +863,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -915,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -948,7 +948,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1000,15 +1000,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.7361,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1035,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1087,15 +1087,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.732,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1122,7 +1122,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1207,15 +1207,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6067,
-      "importance": 0.6067,
-      "importance_score": 0.6067,
+      "score": 0.6019,
+      "importance": 0.6019,
+      "importance_score": 0.6019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
+        "recency": 0.9736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,11 +1240,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
-      "story_id": "story_85c25a45df23",
+      "story_id": "story_a2b6dffb1943",
+      "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+      "url": "https://www.producthunt.com/products/1password",
+      "primary_url": "https://www.producthunt.com/products/1password",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "summary": "Let AI agents sign in for you without seeing your passwords",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-22T18:14:06Z",
+          "updated_at": "2026-10-24T14:29:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
+          "title": "1Password for Agents",
+          "title_zh": null,
+          "title_en": "1Password for Agents",
+          "title_original": "1Password for Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:40:39.748000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "summary": "Let AI agents sign in for you without seeing your passwords",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-22T18:14:06Z",
+          "updated_at": "2026-10-24T14:29:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
+          "title": "1Password for Agents",
+          "title_zh": null,
+          "title_en": "1Password for Agents",
+          "title_original": "1Password for Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:40:39.748000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9997,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:40:39.748000Z",
+      "latest_at": "2026-10-24T14:29:50Z",
+      "primary_item": {
+        "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+        "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+        "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "summary": "Let AI agents sign in for you without seeing your passwords",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/1password",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T14:32:07.928277Z"
+      }
+    },
+    {
+      "story_id": "story_439f765a556d",
       "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
       "url": "https://www.producthunt.com/products/zcad-ai",
       "primary_url": "https://www.producthunt.com/products/zcad-ai",
@@ -1264,7 +1382,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-24T12:39:06Z",
+          "updated_at": "2026-10-24T14:28:45Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1303,7 +1421,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-24T12:39:06Z",
+          "updated_at": "2026-10-24T14:28:45Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1325,23 +1443,23 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9998,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T12:39:06Z",
-      "latest_at": "2026-10-24T12:40:39.748000Z",
+      "earliest_at": "2026-10-24T12:40:39.748000Z",
+      "latest_at": "2026-10-24T14:28:45Z",
       "primary_item": {
         "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
         "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
@@ -1358,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1443,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5894,
+      "importance": 0.5894,
+      "importance_score": 0.5894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1476,125 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
-      }
-    },
-    {
-      "story_id": "story_30e2f59422a3",
-      "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-      "url": "https://www.producthunt.com/products/1password",
-      "primary_url": "https://www.producthunt.com/products/1password",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
-          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "summary": "Let AI agents sign in for you without seeing your passwords",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T12:36:30Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
-          "title": "1Password for Agents",
-          "title_zh": null,
-          "title_en": "1Password for Agents",
-          "title_original": "1Password for Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:39.748000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
-          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-          "summary": "Let AI agents sign in for you without seeing your passwords",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T12:36:30Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
-          "title": "1Password for Agents",
-          "title_zh": null,
-          "title_en": "1Password for Agents",
-          "title_original": "1Password for Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:39.748000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9992,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:36:30Z",
-      "latest_at": "2026-10-24T12:40:39.748000Z",
-      "primary_item": {
-        "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
-        "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
-        "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
-        "summary": "Let AI agents sign in for you without seeing your passwords",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/1password",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1712,15 +1712,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9523,
+        "recency": 0.9272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1745,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
@@ -1830,15 +1830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.9548,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1863,43 +1863,43 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     },
     {
-      "story_id": "story_6da50631fec2",
-      "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "primary_url": "https://github.com/pollen-robotics/microduck",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_0114c8f2f512",
+      "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "primary_url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-          "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
-          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "summary": "A Tiny biped duck robot 🦆",
+          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+          "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "summary": "Local AI for dictation, meetings, background tasks and more",
           "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-23T13:28:40Z",
+          "updated_at": "2026-10-24T14:22:39Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "title_zh": "花粉机器人/微型鸭",
-          "title_en": "pollen-robotics /      microduck",
-          "title_original": "pollen-robotics /      microduck",
+          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
+          "title": "sideOS.ai",
+          "title_zh": null,
+          "title_en": "sideOS.ai",
+          "title_original": "sideOS.ai",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-24T12:40:39.748000Z",
@@ -1909,36 +1909,36 @@
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-          "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
-          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-          "summary": "A Tiny biped duck robot 🦆",
+          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+          "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "summary": "Local AI for dictation, meetings, background tasks and more",
           "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-23T13:28:40Z",
+          "updated_at": "2026-10-24T14:22:39Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "title_zh": "花粉机器人/微型鸭",
-          "title_en": "pollen-robotics /      microduck",
-          "title_original": "pollen-robotics /      microduck",
+          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
+          "title": "sideOS.ai",
+          "title_zh": null,
+          "title_en": "sideOS.ai",
+          "title_original": "sideOS.ai",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-24T12:40:39.748000Z",
@@ -1948,40 +1948,40 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.998,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T12:40:00.921119Z",
-      "latest_at": "2026-10-24T12:40:39.748000Z",
+      "earliest_at": "2026-10-24T12:40:39.748000Z",
+      "latest_at": "2026-10-24T14:22:39Z",
       "primary_item": {
-        "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
-        "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
-        "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
-        "summary": "A Tiny biped duck robot 🦆",
+        "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+        "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+        "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "summary": "Local AI for dictation, meetings, background tasks and more",
         "recommend_reason_zh": null,
-        "url": "https://github.com/pollen-robotics/microduck",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
+        "url": "https://www.producthunt.com/products/sideos-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T12:41:03.770401Z"
+        "scored_at": "2026-10-24T14:32:07.928277Z"
       }
     }
   ]
