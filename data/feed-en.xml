@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 01:08:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 07:34:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
@@ -24,20 +24,28 @@
 <pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
 </item>
 <item>
-<title>Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687627&amp;idx=1&amp;sn=4816c8130f378587885913b465fd686f</guid>
-<description>Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效</description>
-<category>Industry news</category>
-<pubDate>Sat, 24 Oct 2026 02:08:43 +0000</pubDate>
+<title>sideOS.ai — Local AI for dictation, meetings, background tasks and more</title>
+<link>https://www.producthunt.com/products/sideos-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/sideos-ai</guid>
+<description>Local AI for dictation, meetings, background tasks and more (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 07:25:33 +0000</pubDate>
 </item>
 <item>
-<title>1Password for Agents — Let AI agents sign in for you without seeing your passwords</title>
-<link>https://www.producthunt.com/products/1password</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/1password</guid>
-<description>Let AI agents sign in for you without seeing your passwords (Product Hunt)</description>
+<title>Cerebras 部署了万亿参数的人工智能模型</title>
+<link>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</link>
+<guid isPermaLink="true">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</guid>
+<description>Cerebras 部署了万亿参数的人工智能模型 (www.cerebras.ai)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 07:05:49 +0000</pubDate>
+</item>
+<item>
+<title>zCAD AI — AI 3D that creates real parts, not just shapes</title>
+<link>https://www.producthunt.com/products/zcad-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/zcad-ai</guid>
+<description>AI 3D that creates real parts, not just shapes (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 25 Oct 2026 01:02:44 +0000</pubDate>
+<pubDate>Sun, 25 Oct 2026 07:25:53 +0000</pubDate>
 </item>
 <item>
 <title>Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</title>
@@ -48,20 +56,36 @@
 <pubDate>Sat, 24 Oct 2026 12:40:39 +0000</pubDate>
 </item>
 <item>
-<title>zCAD AI — AI 3D that creates real parts, not just shapes</title>
-<link>https://www.producthunt.com/products/zcad-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/zcad-ai</guid>
-<description>AI 3D that creates real parts, not just shapes (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 25 Oct 2026 01:02:44 +0000</pubDate>
+<title>为什么人工智能生成的语言这么难懂？</title>
+<link>https://arxiv.org/abs/2610.29162</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
+<description>为什么人工智能生成的语言这么难懂？ (arxiv.org)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
 </item>
 <item>
-<title>America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?</title>
+<title>科技行业以外尚未出现人工智能带来回报的迹象</title>
+<link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
+<guid isPermaLink="true">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</guid>
+<description>科技行业以外尚未出现人工智能带来回报的迹象 (www.apollo.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
+</item>
+<item>
+<title>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？</title>
 <link>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</link>
 <guid isPermaLink="true">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</guid>
-<description>America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?</description>
+<description>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ (www.apricitas.io)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 25 Oct 2026 01:05:14 +0000</pubDate>
+</item>
+<item>
+<title>1Password for Agents — Let AI agents sign in for you without seeing your passwords</title>
+<link>https://www.producthunt.com/products/1password</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/1password</guid>
+<description>Let AI agents sign in for you without seeing your passwords (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 23:11:54 +0000</pubDate>
+<pubDate>Sun, 25 Oct 2026 07:08:54 +0000</pubDate>
 </item>
 <item>
 <title>google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.</title>
@@ -72,20 +96,12 @@
 <pubDate>Sat, 24 Oct 2026 12:40:39 +0000</pubDate>
 </item>
 <item>
-<title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停</title>
-<link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
-<guid isPermaLink="true">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</guid>
-<description>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 (www.reddit.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 24 Oct 2026 09:16:58 +0000</pubDate>
-</item>
-<item>
-<title>sideOS.ai — Local AI for dictation, meetings, background tasks and more</title>
-<link>https://www.producthunt.com/products/sideos-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/sideos-ai</guid>
-<description>Local AI for dictation, meetings, background tasks and more (Product Hunt)</description>
+<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
+<link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</guid>
+<description>Oai-math-revised: a community hub for revising OpenAI's math write-ups</description>
 <category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 21:37:41 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
 </item>
 <item>
 <title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
@@ -104,36 +120,12 @@
 <pubDate>Sat, 24 Oct 2026 12:40:39 +0000</pubDate>
 </item>
 <item>
-<title>No signs of AI payoff outside the tech sector</title>
-<link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
-<guid isPermaLink="true">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</guid>
-<description>No signs of AI payoff outside the tech sector</description>
-<category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 19:47:19 +0000</pubDate>
-</item>
-<item>
 <title>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
 <link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
 <guid isPermaLink="true">https://gitlab.com/c4psu13/mali-pagecache-root</guid>
 <description>Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</description>
 <category>Worth watching</category>
 <pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
-</item>
-<item>
-<title>Why is AI generated language so hard to understand?</title>
-<link>https://arxiv.org/abs/2610.29162</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
-<description>Why is AI generated language so hard to understand?</description>
-<category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
-</item>
-<item>
-<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
-<link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</link>
-<guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</guid>
-<description>Oai-math-revised: a community hub for revising OpenAI's math write-ups</description>
-<category>Worth watching</category>
-<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
