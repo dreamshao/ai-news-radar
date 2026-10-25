@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:34:03.072845Z",
+  "generated_at": "2026-10-25T09:48:01.027528Z",
   "window_hours": 24,
   "total_items": 15,
   "items": [
@@ -52,21 +52,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7453,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T11:12:36Z",
       "latest_at": "2026-10-24T11:12:36Z",
@@ -86,7 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -138,15 +137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7817,
+        "recency": 0.7569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -171,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -195,7 +194,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-25T07:25:33Z",
+          "updated_at": "2026-10-25T09:48:25Z",
           "recency_basis": "updated_at"
         },
         {
@@ -234,7 +233,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-23T13:28:40Z",
-          "updated_at": "2026-10-25T07:25:33Z",
+          "updated_at": "2026-10-25T09:48:25Z",
           "recency_basis": "updated_at"
         },
         {
@@ -256,15 +255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.998,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,7 +271,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-25T07:25:33Z",
+      "latest_at": "2026-10-25T09:48:25Z",
       "primary_item": {
         "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
         "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
@@ -289,7 +288,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
+      }
+    },
+    {
+      "story_id": "story_439f765a556d",
+      "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "primary_url": "https://www.producthunt.com/products/zcad-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "summary": "AI 3D that creates real parts, not just shapes",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-15T15:16:27Z",
+          "updated_at": "2026-10-25T09:47:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
+          "title": "zCAD AI",
+          "title_zh": null,
+          "title_en": "zCAD AI",
+          "title_original": "zCAD AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:40:39.748000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "summary": "AI 3D that creates real parts, not just shapes",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-15T15:16:27Z",
+          "updated_at": "2026-10-25T09:47:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
+          "title": "zCAD AI",
+          "title_zh": null,
+          "title_en": "zCAD AI",
+          "title_original": "zCAD AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:40:39.748000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9998,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:40:39.748000Z",
+      "latest_at": "2026-10-25T09:47:16Z",
+      "primary_item": {
+        "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+        "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+        "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+        "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+        "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+        "summary": "AI 3D that creates real parts, not just shapes",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/zcad-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -407,15 +524,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9932,
+        "recency": 0.9617,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -440,125 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
-      }
-    },
-    {
-      "story_id": "story_439f765a556d",
-      "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
-      "url": "https://www.producthunt.com/products/zcad-ai",
-      "primary_url": "https://www.producthunt.com/products/zcad-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
-          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "summary": "AI 3D that creates real parts, not just shapes",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-25T07:25:53Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
-          "title": "zCAD AI",
-          "title_zh": null,
-          "title_en": "zCAD AI",
-          "title_original": "zCAD AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:39.748000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
-          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-          "summary": "AI 3D that creates real parts, not just shapes",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-15T15:16:27Z",
-          "updated_at": "2026-10-25T07:25:53Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
-          "title": "zCAD AI",
-          "title_zh": null,
-          "title_en": "zCAD AI",
-          "title_original": "zCAD AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:40:39.748000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-25T07:25:53Z",
-      "primary_item": {
-        "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
-        "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
-        "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
-        "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
-        "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
-        "summary": "AI 3D that creates real parts, not just shapes",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/zcad-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -643,15 +642,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.7611,
+        "recency": 0.737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -676,7 +675,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -794,15 +793,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9106,
+        "recency": 0.8817,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -855,7 +854,7 @@
           "recency_basis": null
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -863,9 +862,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
@@ -889,7 +888,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -911,7 +910,7 @@
           "recency_basis": null
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -919,9 +918,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z",
           "updated_at": null,
           "recency_basis": null
@@ -945,15 +944,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9106,
+        "recency": 0.8817,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -978,7 +977,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1096,15 +1095,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1129,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1153,7 +1152,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-25T07:08:54Z",
+          "updated_at": "2026-10-25T09:42:02Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1192,7 +1191,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-25T07:08:54Z",
+          "updated_at": "2026-10-25T09:42:02Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1214,15 +1213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9986,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1230,7 +1229,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:40:39.748000Z",
-      "latest_at": "2026-10-25T07:08:54Z",
+      "latest_at": "2026-10-25T09:42:02Z",
       "primary_item": {
         "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
         "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
@@ -1247,7 +1246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1332,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7611,
+        "recency": 0.737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1365,7 +1364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1373,156 +1372,38 @@
       "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
       "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7939,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
-      "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
-        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z",
+          "published_at": "2026-10-24T15:35:17Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "url": "https://news.ycombinator.com/item?id=50222283",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
+          "published_at": "2026-10-24T15:35:17Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1534,66 +1415,66 @@
       ],
       "items": [
         {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z",
+          "published_at": "2026-10-24T15:35:17Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "url": "https://news.ycombinator.com/item?id=50222283",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z",
+          "published_at": "2026-10-24T15:35:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7464,
+        "recency": 0.7687,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
       "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "id": "8edb78d4281318f7283191af552c8732be334942",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
+        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1601,7 +1482,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1686,15 +1567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7611,
+        "recency": 0.737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1719,7 +1600,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
+      }
+    },
+    {
+      "story_id": "story_7f015f6d31aa",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7227,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     },
     {
@@ -1804,15 +1803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7415,
+        "recency": 0.718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1837,7 +1836,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:35:00.704547Z"
+        "scored_at": "2026-10-25T09:49:00.176667Z"
       }
     }
   ]
