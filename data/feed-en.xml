@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 13:10:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 14:56:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
-<item>
-<title>Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</title>
-<link>https://x.com/emollick/status/2114001653879672877</link>
-<guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
-<description>Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</description>
-<category>Industry news</category>
-<pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
-</item>
 <item>
 <title>AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</title>
 <link>https://github.com/AgriciDaniel/claude-seo</link>
