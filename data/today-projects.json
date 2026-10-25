@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T14:57:52.311425Z",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-25T19:36:14.253646Z",
+  "date": "2026-10-26",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-25T14:56:57.425656Z"
+      "observed_at": "2026-10-25T19:35:14.131632Z"
     },
     {
-      "id": "project_dc51e098c1ff",
-      "project_name": "Moli by Lexmount",
-      "url": "https://www.producthunt.com/products/lexmount-browser",
-      "summary": "The fastest headless browser for agents and harnesses",
+      "id": "project_fa9dce661cc0",
+      "project_name": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "summary": "Secure data rooms your AI agents can run. Live in < 60 sec.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The fastest headless browser for agents and harnesses」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The fastest headless browser for agents and harnesses\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-13T06:39:58Z",
-      "updated_at": "2026-10-25T14:52:46Z",
+      "recommend_reason_zh": "体验它主打的「Secure data rooms your AI agents can run. Live in < 60 sec」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Secure data rooms your AI agents can run. Live in < 60 sec\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-24T19:09:46Z",
+      "updated_at": "2026-10-25T19:34:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-25T14:57:39.459230Z"
+      "observed_at": "2026-10-25T19:36:01.469709Z"
     },
     {
       "id": "project_e2469c92ba3c",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-25T14:56:57.425656Z"
+      "observed_at": "2026-10-25T19:35:14.131632Z"
     },
     {
-      "id": "project_eb4009491b32",
-      "project_name": "Yourcast 2.0",
-      "url": "https://www.producthunt.com/products/yourcast",
-      "summary": "AI summaries with tap-to-jump timestamps, right in Telegram",
+      "id": "project_dc51e098c1ff",
+      "project_name": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
+      "summary": "The fastest headless browser for agents and harnesses",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI summaries with tap-to-jump timestamps, right in Telegram」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI summaries with tap-to-jump timestamps, right in Telegram\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-24T14:42:59Z",
-      "updated_at": "2026-10-25T14:47:35Z",
+      "recommend_reason_zh": "体验它主打的「The fastest headless browser for agents and harnesses」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The fastest headless browser for agents and harnesses\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T06:39:58Z",
+      "updated_at": "2026-10-25T19:31:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-25T14:57:39.459230Z"
+      "observed_at": "2026-10-25T19:36:01.469709Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1132,
+      "duration_ms": 241,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 114,
+      "duration_ms": 164,
       "error": null
     }
   ]
