@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 10:31:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 13:14:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Working with academic communities to build scientific understanding</title>
@@ -56,6 +56,14 @@
 <pubDate>Mon, 26 Oct 2026 22:31:30 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
+<link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</link>
+<guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</guid>
+<description>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687831&amp;idx=1&amp;sn=6502cb593318d6e324e29d278fae4fcc</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687831&amp;idx=1&amp;sn=6502cb593318d6e324e29d278fae4fcc</guid>
@@ -86,14 +94,6 @@
 <description>Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 18:40:26 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.</title>
-<link>https://x.com/AnthropicAI/status/2114705042817110293</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2114705042817110293</guid>
-<description>Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 13:05:46 +0000</pubDate>
 </item>
 <item>
 <title>Gamma5 重塑思考与设计，深度打通20+主流办公工具</title>
@@ -136,14 +136,6 @@
 <pubDate>Tue, 27 Oct 2026 10:31:35 +0000</pubDate>
 </item>
 <item>
-<title>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
-<link>https://x.com/testingcatalog/status/2114696424021451174</link>
-<guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
-<description>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
-</item>
-<item>
 <title>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</title>
 <link>https://x.com/ClementDelangue/status/2114713576296300604</link>
 <guid isPermaLink="true">https://x.com/ClementDelangue/status/2114713576296300604</guid>
@@ -166,6 +158,14 @@
 <description>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
+</item>
+<item>
+<title>​即梦AI上线“短剧工作室”，一站式打通全流程AI创作</title>
+<link>https://www.aibase.com/news/31900</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31900</guid>
+<description>​即梦AI上线“短剧工作室”，一站式打通全流程AI创作 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 10:31:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
