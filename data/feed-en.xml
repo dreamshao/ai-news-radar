@@ -5,31 +5,47 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:11:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 19:20:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>An updated Model Spec for more capable and beneficial AI</title>
-<link>https://openai.com/index/updated-model-spec</link>
-<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
-<description>An updated Model Spec for more capable and beneficial AI (OpenAI News)</description>
+<title>nemotron-halloween</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+<description>nemotron-halloween (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
 </item>
 <item>
-<title>Webhook IP ranges added to the Meta API</title>
-<link>https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</guid>
-<description>Webhook IP ranges added to the Meta API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 17:14:38 +0000</pubDate>
-</item>
-<item>
-<title>Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</title>
-<link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</link>
-<guid isPermaLink="true">https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</guid>
-<description>Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</description>
+<title>US tech stocks see sharp falls over AI cost fears</title>
+<link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
+<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
+<description>US tech stocks see sharp falls over AI cost fears</description>
 <category>Multi-source buzz</category>
-<pubDate>Thu, 29 Oct 2026 23:49:53 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 16:13:02 +0000</pubDate>
+</item>
+<item>
+<title>Making it easier for websites to express AI training preferences</title>
+<link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+<guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+<description>Making it easier for websites to express AI training preferences (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Community safety report and new protections for teens</title>
+<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+<description>Community safety report and new protections for teens (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web</title>
+<link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</link>
+<guid isPermaLink="true">https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</guid>
+<description>Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
 </item>
 <item>
 <title>Silicon Valley wants you to invest in miracles</title>
@@ -48,20 +64,28 @@
 <pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
 </item>
 <item>
-<title>Google value plunges by $500B as AI fears rattle Wall Street</title>
-<link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
-<guid isPermaLink="true">https://www.bbc.com/news/articles/cm9qzdqpxy48o</guid>
-<description>Google value plunges by $500B as AI fears rattle Wall Street</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 21:52:13 +0000</pubDate>
-</item>
-<item>
 <title>AI can turn public security fixes into working exploits before users receive an update</title>
 <link>https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</link>
 <guid isPermaLink="true">https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</guid>
 <description>AI can turn public security fixes into working exploits before users receive an update</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 12:07:16 +0000</pubDate>
+</item>
+<item>
+<title>This incredible. Gemma 4 became the first LLM to run in space?</title>
+<link>https://x.com/_philschmid/status/2116235686445502608</link>
+<guid isPermaLink="true">https://x.com/_philschmid/status/2116235686445502608</guid>
+<description>This incredible. Gemma 4 became the first LLM to run in space?</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
+</item>
+<item>
+<title>Ultrathink</title>
+<link>https://x.com/adocomplete/status/2116224220539883992</link>
+<guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
+<description>Ultrathink</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
 </item>
 <item>
 <title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
@@ -80,12 +104,12 @@
 <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic’s financials are surprisingly strong</title>
-<link>https://www.understandingai.org/p/anthropics-financials-are-surprisingly</link>
-<guid isPermaLink="true">https://www.understandingai.org/p/anthropics-financials-are-surprisingly</guid>
-<description>Anthropic’s financials are surprisingly strong</description>
+<title>Google value plunges by $500B as AI fears rattle Wall Street</title>
+<link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cm9qzdqpxy48o</guid>
+<description>Google value plunges by $500B as AI fears rattle Wall Street</description>
 <category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 19:10:41 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 21:52:13 +0000</pubDate>
 </item>
 <item>
 <title>Our customers’ ambition is accelerating our growth</title>
@@ -112,36 +136,12 @@
 <pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
 </item>
 <item>
-<title>We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...</title>
-<link>https://x.com/cursor_ai/status/2116074289053175808</link>
-<guid isPermaLink="true">https://x.com/cursor_ai/status/2116074289053175808</guid>
-<description>We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 07:46:39 +0000</pubDate>
-</item>
-<item>
-<title>Mistral Le Chonk can now run locally!</title>
-<link>https://x.com/UnslothAI/status/2115812784189620265</link>
-<guid isPermaLink="true">https://x.com/UnslothAI/status/2115812784189620265</guid>
-<description>Mistral Le Chonk can now run locally!</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
-</item>
-<item>
 <title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
 <link>https://www.aibase.com/news/31995</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
 <description>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判” (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
-</item>
-<item>
-<title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
-<link>https://x.com/thsottiaux/status/2115850175868727621</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2115850175868727621</guid>
-<description>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
 </item>
 <item>
 <title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
