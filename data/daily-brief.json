@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T10:54:50.146042Z",
+  "generated_at": "2026-10-31T16:05:17.898918Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_3b4867ca19cb",
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7828,
+        "recency": 0.7264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,160 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
-      }
-    },
-    {
-      "story_id": "story_54217e411546",
-      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7484,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T14:50:37.797000Z",
-      "latest_at": "2026-10-30T16:13:02Z",
-      "primary_item": {
-        "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-        "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-        "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-        "title_en": "US tech stocks see sharp falls over AI cost fears",
-        "title_original": "US tech stocks see sharp falls over AI cost fears",
-        "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -292,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8403,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -378,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -464,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -550,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.8328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -636,21 +483,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T17:15:24Z",
       "latest_at": "2026-10-30T17:15:24Z",
@@ -670,92 +516,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
-      }
-    },
-    {
-      "story_id": "story_4c05b26f3043",
-      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7307,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:11:05Z",
-      "latest_at": "2026-10-30T13:11:05Z",
-      "primary_item": {
-        "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-        "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-        "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-        "title_en": "Silicon Valley wants you to invest in miracles",
-        "title_original": "Silicon Valley wants you to invest in miracles",
-        "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -807,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8542,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,7 +601,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -892,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -926,262 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
-      }
-    },
-    {
-      "story_id": "story_dfe72b41cb92",
-      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-      "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "primary_url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：Gradient Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7195,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T12:07:16Z",
-      "latest_at": "2026-10-30T12:07:16Z",
-      "primary_item": {
-        "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-        "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-        "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-        "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-        "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-        "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-        "recommend_reason_zh": null,
-        "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
-      }
-    },
-    {
-      "story_id": "story_9185a97dc649",
-      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "primary_url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "source": "Figma AI / Agent / Make",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Figma AI / Agent / Make"
-      ],
-      "items": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8662,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-31T00:58:00Z",
-      "latest_at": "2026-10-31T00:58:00Z",
-      "primary_item": {
-        "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-        "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-        "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-        "recommend_reason_zh": null,
-        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-        "source": "Figma AI / Agent / Make",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
-      }
-    },
-    {
-      "story_id": "story_996c96ecf698",
-      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-      "url": "https://x.com/_philschmid/status/2116235686445502608",
-      "primary_url": "https://x.com/_philschmid/status/2116235686445502608",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-          "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-          "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/_philschmid/status/2116235686445502608",
-          "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T18:28:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
-      ],
-      "items": [
-        {
-          "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-          "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-          "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/_philschmid/status/2116235686445502608",
-          "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T18:28:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T18:28:00Z",
-      "latest_at": "2026-10-30T18:28:00Z",
-      "primary_item": {
-        "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-        "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-        "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-        "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-        "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-        "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/_philschmid/status/2116235686445502608",
-        "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -1299,15 +805,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6553,
-      "importance": 0.6553,
-      "importance_score": 0.6553,
+      "score": 0.6446,
+      "importance": 0.6446,
+      "importance_score": 0.6446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8283,
+        "recency": 0.7687,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1332,46 +838,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
-      "story_id": "story_f8290973c657",
-      "title": "Knocket AI — 与来自您的网站或链接的访问者聊天 / Knocket AI — Chat with visitors from your website or link",
-      "url": "https://www.producthunt.com/products/knocket-ai",
-      "primary_url": "https://www.producthunt.com/products/knocket-ai",
+      "story_id": "story_73470a4c9770",
+      "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "primary_url": "https://github.com/Orkas-AI/Orkas",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T16:05:17.898918Z",
+      "latest_at": "2026-10-31T16:05:54.538000Z",
+      "primary_item": {
+        "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+        "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_zh": null,
+        "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Orkas-AI/Orkas",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T16:06:16.196497Z"
+      }
+    },
+    {
+      "story_id": "story_783b177dc145",
+      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "cdc4af702ea5dee82ab59e2e6f7c24a56271dde4",
-          "title": "Knocket AI — 与来自您的网站或链接的访问者聊天 / Knocket AI — Chat with visitors from your website or link",
-          "title_zh": "Knocket AI — 与来自您的网站或链接的访问者聊天",
-          "title_en": "Knocket AI — Chat with visitors from your website or link",
-          "title_original": "Knocket AI — Chat with visitors from your website or link",
-          "summary": "Chat with visitors from your website or link",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/knocket-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-26T07:29:10Z",
-          "updated_at": "2026-10-31T10:47:06Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T16:03:46Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "13a36223964046d6e296321f4bf2ad140f936d3a",
-          "title": "Knocket AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
           "title_zh": null,
-          "title_en": "Knocket AI",
-          "title_original": "Knocket AI",
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/knocket-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1383,66 +1007,66 @@
       ],
       "items": [
         {
-          "id": "cdc4af702ea5dee82ab59e2e6f7c24a56271dde4",
-          "title": "Knocket AI — 与来自您的网站或链接的访问者聊天 / Knocket AI — Chat with visitors from your website or link",
-          "title_zh": "Knocket AI — 与来自您的网站或链接的访问者聊天",
-          "title_en": "Knocket AI — Chat with visitors from your website or link",
-          "title_original": "Knocket AI — Chat with visitors from your website or link",
-          "summary": "Chat with visitors from your website or link",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/knocket-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-26T07:29:10Z",
-          "updated_at": "2026-10-31T10:47:06Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T16:03:46Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "13a36223964046d6e296321f4bf2ad140f936d3a",
-          "title": "Knocket AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
           "title_zh": null,
-          "title_en": "Knocket AI",
-          "title_original": "Knocket AI",
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/knocket-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9981,
+        "recency": 0.9996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T11:23:46.372000Z",
-      "latest_at": "2026-10-31T10:47:06Z",
+      "earliest_at": "2026-10-31T16:03:46Z",
+      "latest_at": "2026-10-31T16:05:54.538000Z",
       "primary_item": {
-        "id": "cdc4af702ea5dee82ab59e2e6f7c24a56271dde4",
-        "title": "Knocket AI — 与来自您的网站或链接的访问者聊天 / Knocket AI — Chat with visitors from your website or link",
-        "title_zh": "Knocket AI — 与来自您的网站或链接的访问者聊天",
-        "title_en": "Knocket AI — Chat with visitors from your website or link",
-        "title_original": "Knocket AI — Chat with visitors from your website or link",
-        "summary": "Chat with visitors from your website or link",
+        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "summary": "GitHub's AI coding agent that picks and combines models",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/knocket-ai",
+        "url": "https://www.producthunt.com/products/github-copilot-fusion",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1450,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -1534,15 +1158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5772,
-      "importance": 0.5772,
-      "importance_score": 0.5772,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7874,
+        "recency": 0.7307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1567,46 +1191,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
-      "story_id": "story_e0e907d5a1b7",
-      "title": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF / SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "primary_url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "story_id": "story_7d8b2e57a16f",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "20250640e42c5d94117fe3307af1093fd2da6a87",
-          "title": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF / SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "title_zh": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF",
-          "title_en": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "title_original": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "summary": "Instantly extract key details and analyze any webpage or PDF",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:14Z",
-          "updated_at": "2026-10-31T10:05:15Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T16:00:22Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "eabed700bd09236622d64baef3ff917d1ce5b6cc",
-          "title": "SparkBots AI（由 Jev 提供支持） / SparkBots AI (Powered by Jev)",
-          "title_zh": "SparkBots AI（由 Jev 提供支持）",
-          "title_en": "SparkBots AI (Powered by Jev)",
-          "title_original": "SparkBots AI (Powered by Jev)",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1618,66 +1242,66 @@
       ],
       "items": [
         {
-          "id": "20250640e42c5d94117fe3307af1093fd2da6a87",
-          "title": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF / SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "title_zh": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF",
-          "title_en": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "title_original": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-          "summary": "Instantly extract key details and analyze any webpage or PDF",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:14Z",
-          "updated_at": "2026-10-31T10:05:15Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T16:00:22Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "eabed700bd09236622d64baef3ff917d1ce5b6cc",
-          "title": "SparkBots AI（由 Jev 提供支持） / SparkBots AI (Powered by Jev)",
-          "title_zh": "SparkBots AI（由 Jev 提供支持）",
-          "title_en": "SparkBots AI (Powered by Jev)",
-          "title_original": "SparkBots AI (Powered by Jev)",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9881,
+        "recency": 0.9988,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T11:23:46.372000Z",
-      "latest_at": "2026-10-31T10:05:15Z",
+      "earliest_at": "2026-10-31T16:00:22Z",
+      "latest_at": "2026-10-31T16:05:54.538000Z",
       "primary_item": {
-        "id": "20250640e42c5d94117fe3307af1093fd2da6a87",
-        "title": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF / SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-        "title_zh": "SparkBots AI（由 Jev 提供支持）— 即时提取关键详细信息并分析任何网页或 PDF",
-        "title_en": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-        "title_original": "SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF",
-        "summary": "Instantly extract key details and analyze any webpage or PDF",
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+        "url": "https://www.producthunt.com/products/basetab-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1685,243 +1309,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
-      "story_id": "story_827faf353a8b",
-      "title": "anthropics/skills — 代理技能的公共代码仓库 / anthropics/skills — Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills",
-      "primary_url": "https://github.com/anthropics/skills",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_f00d1511750a",
+      "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4e5fdefa01b625776f4b430f4d6fc765c44d8cf0",
-          "title": "anthropics/skills — 代理技能的公共代码仓库 / anthropics/skills — Public repository for Agent Skills",
-          "title_zh": "anthropics/skills — 代理技能的公共代码仓库",
-          "title_en": "anthropics/skills — Public repository for Agent Skills",
-          "title_original": "anthropics/skills — Public repository for Agent Skills",
-          "summary": "Public repository for Agent Skills",
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/skills",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "33fd88a2cadacdc8cc864128f7d4f4a6402fe22f",
-          "title": "人类学/技能 / anthropics /      skills",
-          "title_zh": "人类学/技能",
-          "title_en": "anthropics /      skills",
-          "title_original": "anthropics /      skills",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/skills",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4e5fdefa01b625776f4b430f4d6fc765c44d8cf0",
-          "title": "anthropics/skills — 代理技能的公共代码仓库 / anthropics/skills — Public repository for Agent Skills",
-          "title_zh": "anthropics/skills — 代理技能的公共代码仓库",
-          "title_en": "anthropics/skills — Public repository for Agent Skills",
-          "title_original": "anthropics/skills — Public repository for Agent Skills",
-          "summary": "Public repository for Agent Skills",
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/skills",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "33fd88a2cadacdc8cc864128f7d4f4a6402fe22f",
-          "title": "人类学/技能 / anthropics /      skills",
-          "title_zh": "人类学/技能",
-          "title_en": "anthropics /      skills",
-          "title_original": "anthropics /      skills",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/skills",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.712,
+        "recency": 0.9771,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T11:23:18.422119Z",
-      "latest_at": "2026-10-30T11:23:46.372000Z",
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
       "primary_item": {
-        "id": "4e5fdefa01b625776f4b430f4d6fc765c44d8cf0",
-        "title": "anthropics/skills — 代理技能的公共代码仓库 / anthropics/skills — Public repository for Agent Skills",
-        "title_zh": "anthropics/skills — 代理技能的公共代码仓库",
-        "title_en": "anthropics/skills — Public repository for Agent Skills",
-        "title_original": "anthropics/skills — Public repository for Agent Skills",
-        "summary": "Public repository for Agent Skills",
+        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+        "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/skills",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
-      "story_id": "story_6580f358fefb",
-      "title": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制 / MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-      "url": "https://www.producthunt.com/products/xwiki",
-      "primary_url": "https://www.producthunt.com/products/xwiki",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_57d101ca8a1e",
+      "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "d9aef2d1f6a20748ea82e1a79bb77d6225a0670d",
-          "title": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制 / MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "title_zh": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制",
-          "title_en": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "title_original": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "summary": "Give your AI your wiki's knowledge while keeping the control",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/xwiki",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-20T08:15:05Z",
-          "updated_at": "2026-10-31T10:04:57Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "6cfeeec918666821d615d06c8afbafdd82c6d6bc",
-          "title": "XWiki 的 MCP 服务器 / MCP Server by XWiki",
-          "title_zh": "XWiki 的 MCP 服务器",
-          "title_en": "MCP Server by XWiki",
-          "title_original": "MCP Server by XWiki",
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/xwiki",
-          "source": "producthunt",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T10:30:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d9aef2d1f6a20748ea82e1a79bb77d6225a0670d",
-          "title": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制 / MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "title_zh": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制",
-          "title_en": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "title_original": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-          "summary": "Give your AI your wiki's knowledge while keeping the control",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/xwiki",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-20T08:15:05Z",
-          "updated_at": "2026-10-31T10:04:57Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "6cfeeec918666821d615d06c8afbafdd82c6d6bc",
-          "title": "XWiki 的 MCP 服务器 / MCP Server by XWiki",
-          "title_zh": "XWiki 的 MCP 服务器",
-          "title_en": "MCP Server by XWiki",
-          "title_original": "MCP Server by XWiki",
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/xwiki",
-          "source": "producthunt",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T11:23:46.372000Z",
+          "published_at": "2026-10-31T10:30:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9881,
+        "recency": 0.9225,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T11:23:46.372000Z",
-      "latest_at": "2026-10-31T10:04:57Z",
+      "earliest_at": "2026-10-31T10:30:11Z",
+      "latest_at": "2026-10-31T10:30:11Z",
       "primary_item": {
-        "id": "d9aef2d1f6a20748ea82e1a79bb77d6225a0670d",
-        "title": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制 / MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-        "title_zh": "XWiki 的 MCP 服务器 — 为您的 AI 提供 wiki 知识，同时保持控制",
-        "title_en": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-        "title_original": "MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control",
-        "summary": "Give your AI your wiki's knowledge while keeping the control",
+        "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+        "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+        "title_zh": "我们接管了 ChatGPT 帐户",
+        "title_en": "We Took over ChatGPT Accounts",
+        "title_original": "We Took over ChatGPT Accounts",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/xwiki",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     },
     {
@@ -2006,15 +1630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.4956,
+      "importance": 0.4956,
+      "importance_score": 0.4956,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7772,
+        "recency": 0.7212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2036,10 +1660,246 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:56:02.921880Z"
+        "scored_at": "2026-10-31T16:06:16.196497Z"
+      }
+    },
+    {
+      "story_id": "story_70e05b9d043b",
+      "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+      "primary_url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7133c70b319117e5bd58e804340237563c543d94",
+          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
+          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T17:24:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3e3bf15d0866307d20659209ac56e1c7df290894",
+          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
+          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50307183",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T17:24:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7133c70b319117e5bd58e804340237563c543d94",
+          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
+          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T17:24:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3e3bf15d0866307d20659209ac56e1c7df290894",
+          "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
+          "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50307183",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T17:24:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7208,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-30T17:24:45Z",
+      "latest_at": "2026-10-30T17:24:45Z",
+      "primary_item": {
+        "id": "7133c70b319117e5bd58e804340237563c543d94",
+        "title": "Proton 首席执行官取消人工智能“重新采访” / Proton's CEO Cancels AI 'Re-Interviews'",
+        "title_zh": "Proton 首席执行官取消人工智能“重新采访”",
+        "title_en": "Proton's CEO Cancels AI 'Re-Interviews'",
+        "title_original": "Proton's CEO Cancels AI 'Re-Interviews'",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T16:06:16.196497Z"
+      }
+    },
+    {
+      "story_id": "story_54217e411546",
+      "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T16:13:02Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-30T16:13:02Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50306008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-30T16:13:02Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4933,
+      "importance": 0.4933,
+      "importance_score": 0.4933,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7084,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-30T16:13:02Z",
+      "latest_at": "2026-10-30T16:13:02Z",
+      "primary_item": {
+        "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+        "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+        "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+        "title_en": "US tech stocks see sharp falls over AI cost fears",
+        "title_original": "US tech stocks see sharp falls over AI cost fears",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T16:06:16.196497Z"
       }
     }
   ]
