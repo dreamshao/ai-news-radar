@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 08:24:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 10:54:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -22,14 +22,6 @@
 <description>US tech stocks see sharp falls over AI cost fears</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 30 Oct 2026 16:13:02 +0000</pubDate>
-</item>
-<item>
-<title>Making it easier for websites to express AI training preferences</title>
-<link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-<guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
-<description>Making it easier for websites to express AI training preferences (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
 <title>“Black October” for AI Developer Platforms</title>
@@ -54,14 +46,6 @@
 <description>Cracks are emerging in the AI spending boom</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-</item>
-<item>
-<title>Community safety report and new protections for teens</title>
-<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
-<description>Community safety report and new protections for teens (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
@@ -128,30 +112,6 @@
 <pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
 </item>
 <item>
-<title>Ultrathink</title>
-<link>https://x.com/adocomplete/status/2116224220539883992</link>
-<guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
-<description>Ultrathink</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
-</item>
-<item>
-<title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
-<link>https://www.aibase.com/news/31991</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31991</guid>
-<description>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
-</item>
-<item>
-<title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
-<link>https://www.aibase.com/news/31995</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
-<description>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判” (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
 <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</guid>
@@ -160,12 +120,52 @@
 <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
-<link>https://www.aibase.com/news/31994</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
-<description>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
+<title>Knocket AI — Chat with visitors from your website or link</title>
+<link>https://www.producthunt.com/products/knocket-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/knocket-ai</guid>
+<description>Chat with visitors from your website or link (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 10:47:06 +0000</pubDate>
+</item>
+<item>
+<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
+<description>Google&amp;#8217;s satellite AI server transmits its first response to Earth (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+</item>
+<item>
+<title>SparkBots AI (Powered by Jev) — Instantly extract key details and analyze any webpage or PDF</title>
+<link>https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs</guid>
+<description>Instantly extract key details and analyze any webpage or PDF (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 10:05:15 +0000</pubDate>
+</item>
+<item>
+<title>anthropics/skills — Public repository for Agent Skills</title>
+<link>https://github.com/anthropics/skills</link>
+<guid isPermaLink="true">https://github.com/anthropics/skills</guid>
+<description>Public repository for Agent Skills (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 11:23:46 +0000</pubDate>
+</item>
+<item>
+<title>MCP Server by XWiki — Give your AI your wiki's knowledge while keeping the control</title>
+<link>https://www.producthunt.com/products/xwiki</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/xwiki</guid>
+<description>Give your AI your wiki's knowledge while keeping the control (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 10:04:57 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
+<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+<guid isPermaLink="true">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</guid>
+<description>Anthropic may not secure investment-grade rating after IPO, Blackstone says</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 17:27:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
