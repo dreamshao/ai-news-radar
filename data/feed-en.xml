@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 02:20:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 08:24:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -64,6 +64,14 @@
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
+<link>https://www.ithome.com/1/020/444.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/020/444.htm</guid>
+<description>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</description>
+<category>Industry news</category>
+<pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
+</item>
+<item>
 <title>Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web</title>
 <link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</link>
 <guid isPermaLink="true">https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</guid>
@@ -72,20 +80,20 @@
 <pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
 </item>
 <item>
-<title>How to Build Your Own Always-On AI Agent</title>
-<link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
-<description>How to Build Your Own Always-On AI Agent</description>
-<category>Industry news</category>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Silicon Valley wants you to invest in miracles</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
 <description>Silicon Valley wants you to invest in miracles</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
+</item>
+<item>
+<title>How to Build Your Own Always-On AI Agent</title>
+<link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
+<description>How to Build Your Own Always-On AI Agent</description>
+<category>Industry news</category>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
@@ -156,14 +164,6 @@
 <link>https://www.aibase.com/news/31994</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
 <description>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
-</item>
-<item>
-<title>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑</title>
-<link>https://www.aibase.com/news/31992</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31992</guid>
-<description>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 11:23:18 +0000</pubDate>
 </item>
