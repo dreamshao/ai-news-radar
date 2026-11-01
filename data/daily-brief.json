@@ -1,91 +1,124 @@
 {
-  "generated_at": "2026-11-01T02:13:03.236795Z",
+  "generated_at": "2026-11-01T09:13:23.510497Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
-      "story_id": "story_494ce9a30627",
-      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-      "url": "https://www.ithome.com/1/020/444.htm",
-      "primary_url": "https://www.ithome.com/1/020/444.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
+      "story_id": "story_56bd0150a143",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T03:25:09.697000Z",
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T08:05:31Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "IT之家·人工智能"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "title_en": null,
-          "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T03:25:09.697000Z",
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T08:05:31Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5913,
+      "importance": 0.5913,
+      "importance_score": 0.5913,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7195,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9838,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-31T03:25:09.697000Z",
-      "latest_at": "2026-10-31T03:25:09.697000Z",
+      "earliest_at": "2026-10-31T16:05:54.538000Z",
+      "latest_at": "2026-11-01T08:05:31Z",
       "primary_item": {
-        "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-        "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-        "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-        "title_en": null,
-        "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-        "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/020/444.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
+        "url": "https://www.producthunt.com/products/basetab-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
@@ -109,7 +142,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T02:08:51Z",
+          "updated_at": "2026-11-01T07:59:39Z",
           "recency_basis": "updated_at"
         },
         {
@@ -148,7 +181,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T02:08:51Z",
+          "updated_at": "2026-11-01T07:59:39Z",
           "recency_basis": "updated_at"
         },
         {
@@ -170,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.591,
+      "importance": 0.591,
+      "importance_score": 0.591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.999,
+        "recency": 0.9824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -186,7 +219,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T16:05:54.538000Z",
-      "latest_at": "2026-11-01T02:08:51Z",
+      "latest_at": "2026-11-01T07:59:39Z",
       "primary_item": {
         "id": "164bc916d7614aa824fd54c0bd7515878401a319",
         "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
@@ -203,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
@@ -288,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5547,
+      "importance": 0.5547,
+      "importance_score": 0.5547,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8639,
+        "recency": 0.7808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -321,164 +354,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
-      "story_id": "story_56bd0150a143",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T02:02:33Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T02:02:33Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9975,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T16:05:54.538000Z",
-      "latest_at": "2026-11-01T02:02:33Z",
-      "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
-      }
-    },
-    {
-      "story_id": "story_f4bfb4b46446",
-      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "story_id": "story_fe78a93aa7e9",
+      "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
+          "url": "https://news.ycombinator.com/item?id=50323088",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -490,66 +405,66 @@
       ],
       "items": [
         {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "title_zh": "JavaScript 框架的人工智能成本",
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
+          "url": "https://news.ycombinator.com/item?id=50323088",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9387,
+        "recency": 0.956,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T21:50:13Z",
-      "latest_at": "2026-10-31T21:50:13Z",
+      "earliest_at": "2026-11-01T06:06:19Z",
+      "latest_at": "2026-11-01T06:06:19Z",
       "primary_item": {
-        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-        "title_zh": "AI文本水印和质量损失",
-        "title_en": "AI text watermarking and quality loss",
-        "title_original": "AI text watermarking and quality loss",
+        "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+        "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+        "title_zh": "JavaScript 框架的人工智能成本",
+        "title_en": "The AI cost of JavaScript frameworks",
+        "title_original": "The AI cost of JavaScript frameworks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -557,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
@@ -642,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -675,7 +590,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
+      }
+    },
+    {
+      "story_id": "story_a8cf7a3536eb",
+      "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9053,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T02:19:53Z",
+      "latest_at": "2026-11-01T02:19:53Z",
+      "primary_item": {
+        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+        "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+        "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T09:14:14.171403Z"
+      }
+    },
+    {
+      "story_id": "story_bd0cb60b3055",
+      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8031,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:02:29Z",
+      "latest_at": "2026-10-31T18:02:29Z",
+      "primary_item": {
+        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
@@ -792,15 +943,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.797,
+        "recency": 0.7203,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -825,243 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
-      }
-    },
-    {
-      "story_id": "story_bd0cb60b3055",
-      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
-      "primary_item": {
-        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
-      }
-    },
-    {
-      "story_id": "story_4bd396aab7ea",
-      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9096,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T19:39:19Z",
-      "primary_item": {
-        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-        "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-        "title_en": "Anthropic blocks users for anything touching training larger models",
-        "title_original": "Anthropic blocks users for anything touching training larger models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     },
     {
@@ -1146,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5031,
+      "importance": 0.5031,
+      "importance_score": 0.5031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8441,
+        "recency": 0.7629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,7 +1094,361 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T02:14:11.414419Z"
+        "scored_at": "2026-11-01T09:14:14.171403Z"
+      }
+    },
+    {
+      "story_id": "story_f4bfb4b46446",
+      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8484,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T21:50:13Z",
+      "latest_at": "2026-10-31T21:50:13Z",
+      "primary_item": {
+        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+        "title_zh": "AI文本水印和质量损失",
+        "title_en": "AI text watermarking and quality loss",
+        "title_original": "AI text watermarking and quality loss",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T09:14:14.171403Z"
+      }
+    },
+    {
+      "story_id": "story_d3473ed57e42",
+      "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8482,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T21:49:07Z",
+      "latest_at": "2026-10-31T21:49:07Z",
+      "primary_item": {
+        "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+        "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+        "title_zh": "ChatGPT 和 Codex 使用限制合并",
+        "title_en": "ChatGPT and Codex usage limits merging",
+        "title_original": "ChatGPT and Codex usage limits merging",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T09:14:14.171403Z"
+      }
+    },
+    {
+      "story_id": "story_4bd396aab7ea",
+      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8221,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T19:39:19Z",
+      "primary_item": {
+        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+        "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+        "title_en": "Anthropic blocks users for anything touching training larger models",
+        "title_original": "Anthropic blocks users for anything touching training larger models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T09:14:14.171403Z"
       }
     }
   ]
