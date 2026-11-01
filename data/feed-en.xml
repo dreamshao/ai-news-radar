@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 11:50:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 18:54:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>telemetry.dev — Observability for AI agents</title>
+<link>https://www.producthunt.com/products/telemetry-dev</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/telemetry-dev</guid>
+<description>Observability for AI agents (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 01 Nov 2026 18:42:35 +0000</pubDate>
+</item>
 <item>
 <title>patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</title>
 <link>https://github.com/patchy631/ai-engineering-hub</link>
@@ -16,52 +24,44 @@
 <pubDate>Sun, 01 Nov 2026 11:50:02 +0000</pubDate>
 </item>
 <item>
+<title>《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
+<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</guid>
+<description>《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 (www.tomshardware.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 01 Nov 2026 17:59:39 +0000</pubDate>
+</item>
+<item>
 <title>Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch</title>
 <link>https://www.producthunt.com/products/usage-for-claude</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/usage-for-claude</guid>
 <description>Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 11:40:55 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 17:31:44 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
-<link>https://www.producthunt.com/products/github-copilot-fusion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
-<description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 10:42:51 +0000</pubDate>
+<title>ChatGPT 和 Codex 的使用限制将合并</title>
+<link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+<guid isPermaLink="true">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</guid>
+<description>ChatGPT 和 Codex 的使用限制将合并 (help.openai.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 01 Nov 2026 12:27:13 +0000</pubDate>
 </item>
 <item>
-<title>The AI cost of JavaScript frameworks</title>
+<title>JavaScript 框架的 AI 成本</title>
 <link>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks</link>
 <guid isPermaLink="true">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks</guid>
-<description>The AI cost of JavaScript frameworks</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
+<description>JavaScript 框架的 AI 成本 (nolanlawson.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 01 Nov 2026 12:27:13 +0000</pubDate>
 </item>
 <item>
-<title>BaseTab AI — Turn your new tab into an AI-powered workspace</title>
-<link>https://www.producthunt.com/products/basetab-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
-<description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 10:04:50 +0000</pubDate>
-</item>
-<item>
-<title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
-<link>https://github.com/Orkas-AI/Orkas</link>
-<guid isPermaLink="true">https://github.com/Orkas-AI/Orkas</guid>
-<description>Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 16:05:54 +0000</pubDate>
-</item>
-<item>
-<title>AI text watermarking and quality loss</title>
-<link>https://blog.keyvan.net/p/ai-text-watermarking-and-quality</link>
-<guid isPermaLink="true">https://blog.keyvan.net/p/ai-text-watermarking-and-quality</guid>
-<description>AI text watermarking and quality loss</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
+<title>Anthropic 会因任何涉及训练更大模型的行为而封禁用户</title>
+<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+<guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
+<description>Anthropic 会因任何涉及训练更大模型的行为而封禁用户 (twitter.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 31 Oct 2026 23:01:54 +0000</pubDate>
 </item>
 <item>
 <title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
@@ -72,44 +72,20 @@
 <pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
 </item>
 <item>
-<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
-<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
-<guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio</guid>
-<description>GPT-5.6 Sol can beat Factorio on peaceful mode</description>
+<title>Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程</title>
+<link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
+<guid isPermaLink="true">https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</guid>
+<description>Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程 (mashable.com)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 02:11:01 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT and Codex usage limits merging</title>
-<link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
-<guid isPermaLink="true">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</guid>
-<description>ChatGPT and Codex usage limits merging</description>
+<title>AI text watermarking and quality loss</title>
+<link>https://blog.keyvan.net/p/ai-text-watermarking-and-quality</link>
+<guid isPermaLink="true">https://blog.keyvan.net/p/ai-text-watermarking-and-quality</guid>
+<description>AI text watermarking and quality loss</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
-</item>
-<item>
-<title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
-<link>https://dl.acm.org/doi/full/10.1145/3706598.3713778</link>
-<guid isPermaLink="true">https://dl.acm.org/doi/full/10.1145/3706598.3713778</guid>
-<description>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic blocks users for anything touching training larger models</title>
-<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-<guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
-<description>Anthropic blocks users for anything touching training larger models</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-</item>
-<item>
-<title>Malware uses LLMs to rank victims by how much they're worth</title>
-<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
-<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
-<description>Malware uses LLMs to rank victims by how much they're worth</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
