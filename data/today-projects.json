@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:55:22.907879Z",
+  "generated_at": "2026-11-01T21:11:14.979351Z",
   "date": "2026-11-02",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T18:54:40.466687Z"
+      "observed_at": "2026-11-01T21:10:22.756145Z"
     },
     {
-      "id": "project_640ea6dd5d0f",
-      "project_name": "agentmash",
-      "url": "https://www.producthunt.com/products/agentmash",
-      "summary": "open-source multiplayer AI for teams' coding agents",
+      "id": "project_cc315665cdb1",
+      "project_name": "Usage for Claude + ChatGPT 4.0",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「open-source multiplayer AI for teams' coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"open-source multiplayer AI for teams' coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-31T18:08:19Z",
-      "updated_at": "2026-11-01T18:39:11Z",
+      "recommend_reason_zh": "体验它主打的「Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T21:38:31Z",
+      "updated_at": "2026-11-01T20:39:58Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T18:55:12.152983Z"
+      "observed_at": "2026-11-01T21:11:02.519816Z"
     },
     {
       "id": "project_7e7a6ce6c81f",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T18:54:40.466687Z"
+      "observed_at": "2026-11-01T21:10:22.756145Z"
     },
     {
-      "id": "project_cc315665cdb1",
-      "project_name": "Usage for Claude + ChatGPT 4.0",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+      "id": "project_ce7071017850",
+      "project_name": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "summary": "A team of AI agents for video: produce, edit, clip, post",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T21:38:31Z",
-      "updated_at": "2026-11-01T17:31:44Z",
+      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T17:33:37Z",
+      "updated_at": "2026-11-01T21:08:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T18:55:12.152983Z"
+      "observed_at": "2026-11-01T21:11:02.519816Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 183,
+      "duration_ms": 1284,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 48,
-      "duration_ms": 248,
+      "duration_ms": 237,
       "error": null
     }
   ]

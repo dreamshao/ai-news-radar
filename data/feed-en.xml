@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 18:54:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:10:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>telemetry.dev — Observability for AI agents</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/telemetry-dev</guid>
 <description>Observability for AI agents (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 18:42:35 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 20:47:46 +0000</pubDate>
 </item>
 <item>
 <title>patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</title>
@@ -24,20 +24,20 @@
 <pubDate>Sun, 01 Nov 2026 11:50:02 +0000</pubDate>
 </item>
 <item>
+<title>Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch</title>
+<link>https://www.producthunt.com/products/usage-for-claude</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/usage-for-claude</guid>
+<description>Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 01 Nov 2026 20:39:58 +0000</pubDate>
+</item>
+<item>
 <title>《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭</title>
 <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
 <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</guid>
 <description>《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 (www.tomshardware.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 01 Nov 2026 17:59:39 +0000</pubDate>
-</item>
-<item>
-<title>Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch</title>
-<link>https://www.producthunt.com/products/usage-for-claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/usage-for-claude</guid>
-<description>Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 17:31:44 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 和 Codex 的使用限制将合并</title>
@@ -56,28 +56,12 @@
 <pubDate>Sun, 01 Nov 2026 12:27:13 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 会因任何涉及训练更大模型的行为而封禁用户</title>
-<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-<guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
-<description>Anthropic 会因任何涉及训练更大模型的行为而封禁用户 (twitter.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 31 Oct 2026 23:01:54 +0000</pubDate>
-</item>
-<item>
-<title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
-<link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing</link>
-<guid isPermaLink="true">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing</guid>
-<description>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</description>
+<title>It wasn't AI that flipped Proton's charge</title>
+<link>https://blog.raed.dev/posts/proton-loser-thinking</link>
+<guid isPermaLink="true">https://blog.raed.dev/posts/proton-loser-thinking</guid>
+<description>It wasn't AI that flipped Proton's charge</description>
 <category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程</title>
-<link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
-<guid isPermaLink="true">https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</guid>
-<description>Anthropic 采取措施阻止 Claude 对电子游戏进行逆向工程 (mashable.com)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 02:11:01 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 18:53:55 +0000</pubDate>
 </item>
 <item>
 <title>AI text watermarking and quality loss</title>
@@ -86,6 +70,14 @@
 <description>AI text watermarking and quality loss</description>
 <category>Worth watching</category>
 <pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
+</item>
+<item>
+<title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
+<link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing</link>
+<guid isPermaLink="true">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing</guid>
+<description>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</description>
+<category>Worth watching</category>
+<pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
