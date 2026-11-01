@@ -1,45 +1,163 @@
 {
-  "generated_at": "2026-11-01T09:13:23.510497Z",
+  "generated_at": "2026-11-01T11:50:02.349915Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
-      "story_id": "story_56bd0150a143",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "story_id": "story_cee90a97bd0f",
+      "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "primary_url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "44bee38ad638e025446a002105d7414f8517cda3",
+          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
+          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
+          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
+          "title_zh": "patchy631 / 人工智能工程中心",
+          "title_en": "patchy631 /      ai-engineering-hub",
+          "title_original": "patchy631 /      ai-engineering-hub",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T11:32:33.891000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "44bee38ad638e025446a002105d7414f8517cda3",
+          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
+          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
+          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
+          "title_zh": "patchy631 / 人工智能工程中心",
+          "title_en": "patchy631 /      ai-engineering-hub",
+          "title_original": "patchy631 /      ai-engineering-hub",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T11:32:33.891000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T11:32:33.891000Z",
+      "latest_at": "2026-11-01T11:50:02.349915Z",
+      "primary_item": {
+        "id": "44bee38ad638e025446a002105d7414f8517cda3",
+        "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
+        "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/patchy631/ai-engineering-hub",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T11:51:08.016669Z"
+      }
+    },
+    {
+      "story_id": "story_810fcd3ac3a9",
+      "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "primary_url": "https://www.producthunt.com/products/usage-for-claude",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/usage-for-claude",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T08:05:31Z",
+          "published_at": "2026-10-29T21:38:31Z",
+          "updated_at": "2026-11-01T11:40:55Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
+          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
+          "title_zh": "Claude + ChatGPT 4.0 的用法",
+          "title_en": "Usage for Claude + ChatGPT 4.0",
+          "title_original": "Usage for Claude + ChatGPT 4.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/usage-for-claude",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
+          "published_at": "2026-11-01T11:32:07.132000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -51,66 +169,66 @@
       ],
       "items": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/usage-for-claude",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T08:05:31Z",
+          "published_at": "2026-10-29T21:38:31Z",
+          "updated_at": "2026-11-01T11:40:55Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
+          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
+          "title_zh": "Claude + ChatGPT 4.0 的用法",
+          "title_en": "Usage for Claude + ChatGPT 4.0",
+          "title_original": "Usage for Claude + ChatGPT 4.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/usage-for-claude",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
+          "published_at": "2026-11-01T11:32:07.132000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.9978,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T16:05:54.538000Z",
-      "latest_at": "2026-11-01T08:05:31Z",
+      "earliest_at": "2026-11-01T11:32:07.132000Z",
+      "latest_at": "2026-11-01T11:40:55Z",
       "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
+        "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+        "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+        "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
+        "url": "https://www.producthunt.com/products/usage-for-claude",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -118,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
@@ -142,7 +260,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T07:59:39Z",
+          "updated_at": "2026-11-01T10:42:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -181,7 +299,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T07:59:39Z",
+          "updated_at": "2026-11-01T10:42:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -203,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.591,
-      "importance": 0.591,
-      "importance_score": 0.591,
+      "score": 0.5913,
+      "importance": 0.5913,
+      "importance_score": 0.5913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9824,
+        "recency": 0.984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -219,7 +337,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T16:05:54.538000Z",
-      "latest_at": "2026-11-01T07:59:39Z",
+      "latest_at": "2026-11-01T10:42:51Z",
       "primary_item": {
         "id": "164bc916d7614aa824fd54c0bd7515878401a319",
         "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
@@ -236,125 +354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
-      }
-    },
-    {
-      "story_id": "story_73470a4c9770",
-      "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "primary_url": "https://github.com/Orkas-AI/Orkas",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_zh": null,
-          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "title_zh": null,
-          "title_en": "Orkas-AI /      Orkas",
-          "title_original": "Orkas-AI /      Orkas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_zh": null,
-          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "title_zh": null,
-          "title_en": "Orkas-AI /      Orkas",
-          "title_original": "Orkas-AI /      Orkas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T16:05:54.538000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7808,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T16:05:17.898918Z",
-      "latest_at": "2026-10-31T16:05:54.538000Z",
-      "primary_item": {
-        "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-        "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "title_zh": null,
-        "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Orkas-AI/Orkas",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.956,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,46 +472,282 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
-      "story_id": "story_147f50f62e45",
-      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_56bd0150a143",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T10:04:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z",
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T10:04:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T16:05:54.538000Z",
+      "latest_at": "2026-11-01T10:04:50Z",
+      "primary_item": {
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/basetab-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T11:51:08.016669Z"
+      }
+    },
+    {
+      "story_id": "story_73470a4c9770",
+      "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "primary_url": "https://github.com/Orkas-AI/Orkas",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T16:05:54.538000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7519,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T16:05:17.898918Z",
+      "latest_at": "2026-10-31T16:05:54.538000Z",
+      "primary_item": {
+        "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+        "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_zh": null,
+        "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Orkas-AI/Orkas",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T11:51:08.016669Z"
+      }
+    },
+    {
+      "story_id": "story_f4bfb4b46446",
+      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -523,66 +759,66 @@
       ],
       "items": [
         {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "url": "https://news.ycombinator.com/item?id=50320599",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8125,
+        "recency": 0.817,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T18:50:34Z",
-      "latest_at": "2026-10-31T18:50:34Z",
+      "earliest_at": "2026-10-31T21:50:13Z",
+      "latest_at": "2026-10-31T21:50:13Z",
       "primary_item": {
-        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-        "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
+        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+        "title_zh": "AI文本水印和质量损失",
+        "title_en": "AI text watermarking and quality loss",
+        "title_original": "AI text watermarking and quality loss",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -590,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
@@ -675,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9053,
+        "recency": 0.8718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -708,46 +944,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
-      "story_id": "story_bd0cb60b3055",
-      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "story_id": "story_147f50f62e45",
+      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
+          "published_at": "2026-10-31T18:50:34Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
+          "url": "https://news.ycombinator.com/item?id=50318871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
+          "published_at": "2026-10-31T18:50:34Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -759,66 +995,66 @@
       ],
       "items": [
         {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
+          "published_at": "2026-10-31T18:50:34Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
+          "url": "https://news.ycombinator.com/item?id=50318871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
+          "published_at": "2026-10-31T18:50:34Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8031,
+        "recency": 0.7824,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
+      "earliest_at": "2026-10-31T18:50:34Z",
+      "latest_at": "2026-10-31T18:50:34Z",
       "primary_item": {
-        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+        "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -826,393 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
-      }
-    },
-    {
-      "story_id": "story_907920e44382",
-      "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-          "title_en": "Do the math: How we took over ChatGPT accounts",
-          "title_original": "Do the math: How we took over ChatGPT accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "title_zh": "我们接管了 ChatGPT 帐户",
-          "title_en": "We Took over ChatGPT Accounts",
-          "title_original": "We Took over ChatGPT Accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50314699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T10:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7203,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T10:30:11Z",
-      "latest_at": "2026-10-31T10:30:11Z",
-      "primary_item": {
-        "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-        "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-        "title_zh": "算一算：我们是如何接管 ChatGPT 帐户的",
-        "title_en": "Do the math: How we took over ChatGPT accounts",
-        "title_original": "Do the math: How we took over ChatGPT accounts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
-      }
-    },
-    {
-      "story_id": "story_f00d1511750a",
-      "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5031,
-      "importance": 0.5031,
-      "importance_score": 0.5031,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7629,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:29:03Z",
-      "latest_at": "2026-10-31T14:29:03Z",
-      "primary_item": {
-        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-        "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-        "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
-        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
-      }
-    },
-    {
-      "story_id": "story_f4bfb4b46446",
-      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8484,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:50:13Z",
-      "latest_at": "2026-10-31T21:50:13Z",
-      "primary_item": {
-        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-        "title_zh": "AI文本水印和质量损失",
-        "title_en": "AI text watermarking and quality loss",
-        "title_original": "AI text watermarking and quality loss",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
@@ -1297,15 +1147,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8482,
+        "recency": 0.8168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,7 +1180,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
+      }
+    },
+    {
+      "story_id": "story_bd0cb60b3055",
+      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7734,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:02:29Z",
+      "latest_at": "2026-10-31T18:02:29Z",
+      "primary_item": {
+        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     },
     {
@@ -1415,15 +1383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8221,
+        "recency": 0.7917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,7 +1416,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T09:14:14.171403Z"
+        "scored_at": "2026-11-01T11:51:08.016669Z"
+      }
+    },
+    {
+      "story_id": "story_f00d1511750a",
+      "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T14:29:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T14:29:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.498,
+      "importance": 0.498,
+      "importance_score": 0.498,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7347,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
+      "primary_item": {
+        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+        "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T11:51:08.016669Z"
       }
     }
   ]
