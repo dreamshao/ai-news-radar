@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 18:24:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 22:46:14 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Introducing the Grid Protectors Program</title>
@@ -32,6 +32,14 @@
 <pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
 </item>
 <item>
+<title>LifeVal</title>
+<link>https://openai.com/index/lifeval</link>
+<guid isPermaLink="true">https://openai.com/index/lifeval</guid>
+<description>LifeVal (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
 <title>pull_request_target blocked by default December 2</title>
 <link>https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</guid>
@@ -40,12 +48,12 @@
 <pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
 </item>
 <item>
-<title>LifeVal</title>
-<link>https://openai.com/index/lifeval</link>
-<guid isPermaLink="true">https://openai.com/index/lifeval</guid>
-<description>LifeVal (OpenAI News)</description>
+<title>Qodo builds context into AI code review with Codex</title>
+<link>https://openai.com/index/qodo-codex-plugin</link>
+<guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
+<description>Qodo builds context into AI code review with Codex (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 要能主动挂断危险对话，屡犯者直接封号</title>
@@ -112,12 +120,12 @@
 <pubDate>Mon, 02 Nov 2026 13:28:25 +0000</pubDate>
 </item>
 <item>
-<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
-<link>https://www.producthunt.com/products/cedric</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
-<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
+<title>Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
+<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
+<description>Save web as an Agent-friendly Markdown browser extension (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 18:16:38 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 22:32:18 +0000</pubDate>
 </item>
 <item>
 <title>百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek</title>
@@ -125,47 +133,39 @@
 <guid isPermaLink="true">https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj</guid>
 <description>百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek (InfoQ CN)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 01:12:15 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 09:12:15 +0000</pubDate>
 </item>
 <item>
-<title>充斥着错误的AI粉丝维基正在混淆游戏文化的风向</title>
-<link>https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</link>
-<guid isPermaLink="true">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</guid>
-<description>充斥着错误的AI粉丝维基正在混淆游戏文化的风向 (www.eurogamer.net)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 17:04:04 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏</title>
-<link>https://www.aibase.com/news/32009</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32009</guid>
-<description>Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 02 Nov 2026 07:41:44 +0000</pubDate>
-</item>
-<item>
-<title>Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
-<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
-<description>Save web as an Agent-friendly Markdown browser extension (Product Hunt)</description>
+<title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
+<link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
+<description>The New York Times sues Brave web browser for AI scraping and bypassing paywalls (The Verge)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 17:06:08 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
-<title>中国首项前沿人工智能出口管制：商务部第48号公告</title>
-<link>https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2</link>
-<guid isPermaLink="true">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2</guid>
-<description>中国首项前沿人工智能出口管制：商务部第48号公告 (labs.cloudsecurityalliance.org)</description>
+<title>甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金</title>
+<link>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</link>
+<guid isPermaLink="true">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</guid>
+<description>甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金 (www.cnbc.com)</description>
 <category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 14:23:59 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 22:06:19 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic's internal AI use, at retail prices, now exceeds its employee pay</title>
-<link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
-<guid isPermaLink="true">https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</guid>
-<description>Anthropic's internal AI use, at retail prices, now exceeds its employee pay</description>
+<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
+<link>https://www.producthunt.com/products/cedric</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
+<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 16:40:29 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 22:27:02 +0000</pubDate>
+</item>
+<item>
+<title>昨晚，一个人工智能代理对一只小鼠进行了脑部手术</title>
+<link>https://twitter.com/OcanaSantero/status/2115442964574908902</link>
+<guid isPermaLink="true">https://twitter.com/OcanaSantero/status/2115442964574908902</guid>
+<description>昨晚，一个人工智能代理对一只小鼠进行了脑部手术 (twitter.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Mon, 02 Nov 2026 19:42:44 +0000</pubDate>
 </item>
 </channel>
 </rss>

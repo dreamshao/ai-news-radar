@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:24:26.876865Z",
+  "generated_at": "2026-11-02T22:46:14.932554Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.952,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9906,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9629,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
-      }
-    },
-    {
-      "story_id": "story_e38bf6a68f79",
-      "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
-      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
-          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
-          "title_en": "pull_request_target blocked by default December 2",
-          "title_original": "pull_request_target blocked by default December 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
-          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
-          "title_en": "pull_request_target blocked by default December 2",
-          "title_original": "pull_request_target blocked by default December 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9554,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T15:14:46Z",
-      "latest_at": "2026-11-02T15:14:46Z",
-      "primary_item": {
-        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-        "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
-        "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
-        "title_en": "pull_request_target blocked by default December 2",
-        "title_original": "pull_request_target blocked by default December 2",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -400,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.873,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +348,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
+      }
+    },
+    {
+      "story_id": "story_e38bf6a68f79",
+      "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+          "title_en": "pull_request_target blocked by default December 2",
+          "title_original": "pull_request_target blocked by default December 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+          "title_en": "pull_request_target blocked by default December 2",
+          "title_original": "pull_request_target blocked by default December 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.897,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:14:46Z",
+      "latest_at": "2026-11-02T15:14:46Z",
+      "primary_item": {
+        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+        "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+        "title_zh": "pull_request_target 默认被阻止 12 月 2 日",
+        "title_en": "pull_request_target blocked by default December 2",
+        "title_original": "pull_request_target blocked by default December 2",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T22:47:08.427375Z"
+      }
+    },
+    {
+      "story_id": "story_a3b0835af79f",
+      "title": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中 / Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "primary_url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+          "title": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中 / Qodo builds context into AI code review with Codex",
+          "title_zh": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中",
+          "title_en": "Qodo builds context into AI code review with Codex",
+          "title_original": "Qodo builds context into AI code review with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+          "title": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中 / Qodo builds context into AI code review with Codex",
+          "title_zh": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中",
+          "title_en": "Qodo builds context into AI code review with Codex",
+          "title_original": "Qodo builds context into AI code review with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7198,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T00:00:00Z",
+      "latest_at": "2026-11-02T00:00:00Z",
+      "primary_item": {
+        "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+        "title": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中 / Qodo builds context into AI code review with Codex",
+        "title_zh": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中",
+        "title_en": "Qodo builds context into AI code review with Codex",
+        "title_original": "Qodo builds context into AI code review with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -487,21 +574,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -521,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -573,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -658,21 +744,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -692,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -744,21 +829,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -778,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -830,21 +914,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -864,7 +947,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -916,21 +999,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -950,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -1034,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6204,
-      "importance": 0.6204,
-      "importance_score": 0.6204,
+      "score": 0.6097,
+      "importance": 0.6097,
+      "importance_score": 0.6097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.9813,
+        "recency": 0.9214,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
@@ -1119,21 +1201,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-02T13:28:25.559844Z",
       "latest_at": "2026-11-02T13:28:25.559844Z",
@@ -1153,42 +1234,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
-      "story_id": "story_d88ce8b1d39d",
-      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-      "url": "https://www.producthunt.com/products/cedric",
-      "primary_url": "https://www.producthunt.com/products/cedric",
+      "story_id": "story_626eaedeb08a",
+      "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "primary_url": "https://www.producthunt.com/products/linkly-ai-clipper",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-02T18:16:38Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T22:32:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1204,30 +1285,30 @@
       ],
       "items": [
         {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-02T18:16:38Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T22:32:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1238,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9981,
+        "recency": 0.9966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,16 +1335,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-02T13:28:53.665000Z",
-      "latest_at": "2026-11-02T18:16:38Z",
+      "latest_at": "2026-11-02T22:32:18Z",
       "primary_item": {
-        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "summary": "The first AI agent to present your slides and attend for you",
+        "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+        "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+        "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "summary": "Save web as an Agent-friendly Markdown browser extension",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/cedric",
+        "url": "https://www.producthunt.com/products/linkly-ai-clipper",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1271,11 +1352,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
-      "story_id": "story_a87d4f5b9401",
+      "story_id": "story_bf792e8992e5",
       "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
       "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
       "primary_url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
@@ -1294,7 +1375,7 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-11-02T01:12:15Z",
+          "published_at": "2026-11-02T09:12:15Z",
           "updated_at": null,
           "recency_basis": null
         },
@@ -1332,7 +1413,7 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-11-02T01:12:15Z",
+          "published_at": "2026-11-02T09:12:15Z",
           "updated_at": null,
           "recency_basis": null
         },
@@ -1355,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5783,
+      "importance": 0.5783,
+      "importance_score": 0.5783,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.78,
+        "recency": 0.8221,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1371,7 +1452,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-02T01:12:15Z",
-      "latest_at": "2026-11-02T01:12:15Z",
+      "latest_at": "2026-11-02T09:12:15Z",
       "primary_item": {
         "id": "1af386f3f1ccd35b200bd3858e2dc22ecd196d6e",
         "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
@@ -1388,278 +1469,311 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
-      "story_id": "story_96da7e5b0c4d",
-      "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "primary_url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "www.eurogamer.net",
+      "story_id": "story_16771212d574",
+      "title": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "primary_url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e6f4f8ff735f480de36e590671fbaddc6212cb52",
+          "title": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "title_zh": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙",
+          "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "title_original": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:51:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ffb987b66bf36e8551b5ec1756c05c65f4ed4e45",
+          "title": "《纽约时报》起诉 Brave Web 浏览器进行 AI 抓取、绕过付费墙 / The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "title_zh": "《纽约时报》起诉 Brave Web 浏览器进行 AI 抓取、绕过付费墙",
+          "title_en": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "title_original": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e6f4f8ff735f480de36e590671fbaddc6212cb52",
+          "title": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "title_zh": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙",
+          "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "title_original": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:51:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ffb987b66bf36e8551b5ec1756c05c65f4ed4e45",
+          "title": "《纽约时报》起诉 Brave Web 浏览器进行 AI 抓取、绕过付费墙 / The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "title_zh": "《纽约时报》起诉 Brave Web 浏览器进行 AI 抓取、绕过付费墙",
+          "title_en": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "title_original": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6031,
+      "importance": 0.6031,
+      "importance_score": 0.6031,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9315,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T17:51:19Z",
+      "latest_at": "2026-11-02T19:00:00Z",
+      "primary_item": {
+        "id": "e6f4f8ff735f480de36e590671fbaddc6212cb52",
+        "title": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "title_zh": "《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙",
+        "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "title_original": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T22:47:08.427375Z"
+      }
+    },
+    {
+      "story_id": "story_64f579c7f86f",
+      "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "primary_url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "source": "www.cnbc.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "title_zh": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+          "id": "2ddd69eaf51372846a5c12c5feb8465c98a241af",
+          "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+          "title_zh": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
           "title_en": null,
-          "title_original": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+          "title_original": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "www.eurogamer.net",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "source": "www.cnbc.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T17:04:04.290000Z",
+          "published_at": "2026-11-02T22:06:19.965000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "id": "83a798b52361d981a878091a9d04b2a34a2ccf90",
+          "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金 / Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_zh": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+          "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_original": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T01:47:07Z",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T19:27:37Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "id": "9ce734e7c7b55309417e13192de41696354bfd45",
+          "title": "甲骨文申请出售 20B 美元的新股票和债券，为人工智能建设提供资金 / Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_zh": "甲骨文申请出售 20B 美元的新股票和债券，为人工智能建设提供资金",
+          "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_original": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50332086",
+          "url": "https://news.ycombinator.com/item?id=50342284",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z",
+          "published_at": "2026-11-02T19:27:37Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "www.eurogamer.net"
+        "www.cnbc.com"
       ],
       "items": [
         {
-          "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "title_zh": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+          "id": "2ddd69eaf51372846a5c12c5feb8465c98a241af",
+          "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+          "title_zh": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
           "title_en": null,
-          "title_original": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+          "title_original": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "www.eurogamer.net",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "source": "www.cnbc.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T17:04:04.290000Z",
+          "published_at": "2026-11-02T22:06:19.965000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "id": "83a798b52361d981a878091a9d04b2a34a2ccf90",
+          "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金 / Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_zh": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+          "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_original": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T01:47:07Z",
+          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T19:27:37Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "id": "9ce734e7c7b55309417e13192de41696354bfd45",
+          "title": "甲骨文申请出售 20B 美元的新股票和债券，为人工智能建设提供资金 / Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_zh": "甲骨文申请出售 20B 美元的新股票和债券，为人工智能建设提供资金",
+          "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+          "title_original": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50332086",
+          "url": "https://news.ycombinator.com/item?id=50342284",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z",
+          "published_at": "2026-11-02T19:27:37Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9808,
+        "recency": 0.9904,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T01:47:07Z",
-      "latest_at": "2026-11-02T17:04:04.290000Z",
+      "earliest_at": "2026-11-02T19:27:37Z",
+      "latest_at": "2026-11-02T22:06:19.965000Z",
       "primary_item": {
-        "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-        "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-        "title_zh": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+        "id": "2ddd69eaf51372846a5c12c5feb8465c98a241af",
+        "title": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
+        "title_zh": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
         "title_en": null,
-        "title_original": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
+        "title_original": "甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "source": "www.eurogamer.net",
+        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+        "source": "www.cnbc.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
-      "story_id": "story_ce5baf5ed029",
-      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-      "url": "https://www.aibase.com/news/32009",
-      "primary_url": "https://www.aibase.com/news/32009",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8567,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
-      "primary_item": {
-        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "title_en": null,
-        "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32009",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
-      }
-    },
-    {
-      "story_id": "story_626eaedeb08a",
-      "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-      "primary_url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "story_id": "story_d88ce8b1d39d",
+      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+      "url": "https://www.producthunt.com/products/cedric",
+      "primary_url": "https://www.producthunt.com/products/cedric",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "summary": "Save web as an Agent-friendly Markdown browser extension",
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+          "url": "https://www.producthunt.com/products/cedric",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-02T17:06:08Z",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T22:27:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
-          "title": "Linkly AI Clipper",
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
           "title_zh": null,
-          "title_en": "Linkly AI Clipper",
-          "title_original": "Linkly AI Clipper",
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+          "url": "https://www.producthunt.com/products/cedric",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1675,30 +1789,30 @@
       ],
       "items": [
         {
-          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "summary": "Save web as an Agent-friendly Markdown browser extension",
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+          "url": "https://www.producthunt.com/products/cedric",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-02T17:06:08Z",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T22:27:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
-          "title": "Linkly AI Clipper",
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
           "title_zh": null,
-          "title_en": "Linkly AI Clipper",
-          "title_original": "Linkly AI Clipper",
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+          "url": "https://www.producthunt.com/products/cedric",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1709,15 +1823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5908,
-      "importance": 0.5908,
-      "importance_score": 0.5908,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9813,
+        "recency": 0.9954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1725,16 +1839,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-02T13:28:53.665000Z",
-      "latest_at": "2026-11-02T17:06:08Z",
+      "latest_at": "2026-11-02T22:27:02Z",
       "primary_item": {
-        "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-        "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-        "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "summary": "Save web as an Agent-friendly Markdown browser extension",
+        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "summary": "The first AI agent to present your slides and attend for you",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+        "url": "https://www.producthunt.com/products/cedric",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1742,62 +1856,62 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     },
     {
-      "story_id": "story_9bc09ee6e269",
-      "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "primary_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "source": "labs.cloudsecurityalliance.org",
+      "story_id": "story_74850789ca98",
+      "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "primary_url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "source": "twitter.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
+          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "title_en": null,
-          "title_original": "中国首项前沿人工智能出口管制：商务部第48号公告",
+          "title_original": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "twitter.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z",
+          "published_at": "2026-11-02T19:42:44.918000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "title_en": "Last night an AI agent performed brain surgery on a mouse",
+          "title_original": "Last night an AI agent performed brain surgery on a mouse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T07:27:28Z",
+          "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
-          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
+          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
+          "title_en": "Last night an AI agent performed brain surgery on a mouse",
+          "title_original": "Last night an AI agent performed brain surgery on a mouse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50334038",
+          "url": "https://news.ycombinator.com/item?id=50336138",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z",
+          "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1806,212 +1920,94 @@
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "labs.cloudsecurityalliance.org"
+        "twitter.com"
       ],
       "items": [
         {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
+          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "title_en": null,
-          "title_original": "中国首项前沿人工智能出口管制：商务部第48号公告",
+          "title_original": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "twitter.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z",
+          "published_at": "2026-11-02T19:42:44.918000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "title_en": "Last night an AI agent performed brain surgery on a mouse",
+          "title_original": "Last night an AI agent performed brain surgery on a mouse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T07:27:28Z",
+          "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
-          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
+          "title": "昨晚，人工智能特工对老鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "title_zh": "昨晚，人工智能特工对老鼠进行了脑部手术",
+          "title_en": "Last night an AI agent performed brain surgery on a mouse",
+          "title_original": "Last night an AI agent performed brain surgery on a mouse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50334038",
+          "url": "https://news.ycombinator.com/item?id=50336138",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z",
+          "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9568,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T07:27:28Z",
-      "latest_at": "2026-11-02T14:23:59.534000Z",
+      "earliest_at": "2026-11-02T12:50:59Z",
+      "latest_at": "2026-11-02T19:42:44.918000Z",
       "primary_item": {
-        "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-        "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-        "title_zh": "中国首项前沿人工智能出口管制：商务部第48号公告",
+        "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+        "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+        "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
         "title_en": null,
-        "title_original": "中国首项前沿人工智能出口管制：商务部第48号公告",
+        "title_original": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-        "source": "labs.cloudsecurityalliance.org",
+        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "source": "twitter.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
-      }
-    },
-    {
-      "story_id": "story_db7736f72d56",
-      "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
-          "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T16:40:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4c6dd322601336f8df75b0a738840600a19ee558",
-          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
-          "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50339494",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T16:40:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
-          "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T16:40:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4c6dd322601336f8df75b0a738840600a19ee558",
-          "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
-          "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50339494",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T16:40:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9753,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T16:40:29Z",
-      "latest_at": "2026-11-02T16:40:29Z",
-      "primary_item": {
-        "id": "bb19eed623eb99d3e42861d8fae8b5292409e46a",
-        "title": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资 / Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "title_zh": "Anthropic 内部人工智能的使用（按零售价计算）现已超过其员工工资",
-        "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "title_original": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T18:25:57.515796Z"
+        "scored_at": "2026-11-02T22:47:08.427375Z"
       }
     }
   ]
