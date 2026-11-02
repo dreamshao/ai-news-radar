@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02T07:41:44.133251Z",
+  "generated_at": "2026-11-02T13:28:25.559844Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ce5baf5ed029",
-      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-      "url": "https://www.aibase.com/news/32009",
-      "primary_url": "https://www.aibase.com/news/32009",
+      "story_id": "story_ed7ab6871012",
+      "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+      "url": "https://www.aibase.com/news/32025",
+      "primary_url": "https://www.aibase.com/news/32025",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+          "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+          "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
+          "url": "https://www.aibase.com/news/32025",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,18 +34,18 @@
       ],
       "items": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+          "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+          "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
+          "url": "https://www.aibase.com/news/32025",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -68,17 +68,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
       "primary_item": {
-        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+        "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+        "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
         "title_en": null,
-        "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32009",
+        "url": "https://www.aibase.com/news/32025",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -86,67 +86,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_fc21773a744f",
-      "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
-      "url": "https://www.aibase.com/news/32016",
-      "primary_url": "https://www.aibase.com/news/32016",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6f30c8d895dd",
+      "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
-          "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
-          "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
+          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
           "title_en": null,
-          "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32016",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-02T08:01:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
-          "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
-          "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
+          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
           "title_en": null,
-          "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32016",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-02T08:01:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -154,48 +154,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T08:01:01Z",
+      "latest_at": "2026-11-02T08:01:01Z",
       "primary_item": {
-        "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
-        "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
-        "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+        "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
+        "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
         "title_en": null,
-        "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+        "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32016",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_c0d5228a0470",
-      "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
-      "url": "https://www.aibase.com/news/32005",
-      "primary_url": "https://www.aibase.com/news/32005",
+      "story_id": "story_9467d9ce31bc",
+      "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+      "url": "https://www.aibase.com/news/32024",
+      "primary_url": "https://www.aibase.com/news/32024",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
-          "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
-          "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+          "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
           "title_en": null,
-          "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32005",
+          "url": "https://www.aibase.com/news/32024",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -206,18 +206,18 @@
       ],
       "items": [
         {
-          "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
-          "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
-          "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+          "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
           "title_en": null,
-          "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32005",
+          "url": "https://www.aibase.com/news/32024",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -240,17 +240,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
       "primary_item": {
-        "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
-        "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
-        "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+        "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+        "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+        "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
         "title_en": null,
-        "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+        "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32005",
+        "url": "https://www.aibase.com/news/32024",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -258,30 +258,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_e184bb3daaa2",
-      "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-      "url": "https://www.aibase.com/news/32012",
-      "primary_url": "https://www.aibase.com/news/32012",
+      "story_id": "story_2e0994bf6e75",
+      "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+      "url": "https://www.aibase.com/news/32020",
+      "primary_url": "https://www.aibase.com/news/32020",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-          "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "title_en": null,
-          "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32012",
+          "url": "https://www.aibase.com/news/32020",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -292,18 +292,18 @@
       ],
       "items": [
         {
-          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-          "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "title_en": null,
-          "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32012",
+          "url": "https://www.aibase.com/news/32020",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -326,17 +326,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
       "primary_item": {
-        "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-        "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-        "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+        "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+        "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+        "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
         "title_en": null,
-        "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+        "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32012",
+        "url": "https://www.aibase.com/news/32020",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -344,30 +344,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_b4f480bb991f",
-      "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-      "url": "https://www.aibase.com/news/32018",
-      "primary_url": "https://www.aibase.com/news/32018",
+      "story_id": "story_49a04fe2aa63",
+      "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+      "url": "https://www.aibase.com/news/32023",
+      "primary_url": "https://www.aibase.com/news/32023",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+          "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
           "title_en": null,
-          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32018",
+          "url": "https://www.aibase.com/news/32023",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -378,18 +378,18 @@
       ],
       "items": [
         {
-          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+          "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
           "title_en": null,
-          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32018",
+          "url": "https://www.aibase.com/news/32023",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -412,17 +412,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
       "primary_item": {
-        "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-        "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-        "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+        "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+        "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+        "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
         "title_en": null,
-        "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+        "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32018",
+        "url": "https://www.aibase.com/news/32023",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -430,30 +430,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_bf58fca4f249",
-      "title": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
-      "url": "https://www.aibase.com/news/32008",
-      "primary_url": "https://www.aibase.com/news/32008",
+      "story_id": "story_41401e58132a",
+      "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+      "url": "https://www.aibase.com/news/32026",
+      "primary_url": "https://www.aibase.com/news/32026",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a4bd97879635c43d8498ea2b81300689d0016547",
-          "title": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
-          "title_zh": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+          "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+          "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
           "title_en": null,
-          "title_original": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+          "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32008",
+          "url": "https://www.aibase.com/news/32026",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -464,18 +464,18 @@
       ],
       "items": [
         {
-          "id": "a4bd97879635c43d8498ea2b81300689d0016547",
-          "title": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
-          "title_zh": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+          "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+          "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
           "title_en": null,
-          "title_original": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+          "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32008",
+          "url": "https://www.aibase.com/news/32026",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
+          "published_at": "2026-11-02T13:28:25.559844Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -498,17 +498,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
       "primary_item": {
-        "id": "a4bd97879635c43d8498ea2b81300689d0016547",
-        "title": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
-        "title_zh": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+        "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+        "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+        "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
         "title_en": null,
-        "title_original": "xAI Grok正式支持支付宝与银联，中国大陆用户迎首月半价优惠",
+        "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32008",
+        "url": "https://www.aibase.com/news/32026",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -516,7 +516,211 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
+      }
+    },
+    {
+      "story_id": "story_ba3b1e222937",
+      "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+      "url": "https://www.aibase.com/news/32021",
+      "primary_url": "https://www.aibase.com/news/32021",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
+          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_en": null,
+          "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32021",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T13:28:25.559844Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
+          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_en": null,
+          "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32021",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T13:28:25.559844Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T13:28:25.559844Z",
+      "latest_at": "2026-11-02T13:28:25.559844Z",
+      "primary_item": {
+        "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
+        "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+        "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+        "title_en": null,
+        "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32021",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T13:29:18.139328Z"
+      }
+    },
+    {
+      "story_id": "story_546ed582db66",
+      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+      "url": "https://www.producthunt.com/products/cedric",
+      "primary_url": "https://www.producthunt.com/products/cedric",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T13:24:24Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
+          "title_zh": null,
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T13:28:53.665000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T13:24:24Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
+          "title_zh": null,
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T13:28:53.665000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T13:24:24Z",
+      "latest_at": "2026-11-02T13:28:53.665000Z",
+      "primary_item": {
+        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "summary": "The first AI agent to present your slides and attend for you",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/cedric",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
@@ -600,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5943,
-      "importance": 0.5943,
-      "importance_score": 0.5943,
+      "score": 0.5811,
+      "importance": 0.5811,
+      "importance_score": 0.5811,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9105,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -633,46 +837,132 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_810fcd3ac3a9",
-      "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "primary_url": "https://www.producthunt.com/products/usage-for-claude",
+      "story_id": "story_ce5baf5ed029",
+      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+      "url": "https://www.aibase.com/news/32009",
+      "primary_url": "https://www.aibase.com/news/32009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_en": null,
+          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T07:41:44.133251Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_en": null,
+          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T07:41:44.133251Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9199,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T07:41:44.133251Z",
+      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "primary_item": {
+        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_en": null,
+        "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32009",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T13:29:18.139328Z"
+      }
+    },
+    {
+      "story_id": "story_2cfef55c5ed8",
+      "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "primary_url": "https://www.producthunt.com/products/linkly-ai-clipper",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-02T07:42:57Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T13:24:42Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
+          "title_zh": null,
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-01T11:32:07.132000Z",
+          "published_at": "2026-11-02T13:28:53.665000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -684,66 +974,66 @@
       ],
       "items": [
         {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-02T07:42:57Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T13:24:42Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
+          "title_zh": null,
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-01T11:32:07.132000Z",
+          "published_at": "2026-11-02T13:28:53.665000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9991,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-01T11:32:07.132000Z",
-      "latest_at": "2026-11-02T07:42:57Z",
+      "earliest_at": "2026-11-02T13:24:42Z",
+      "latest_at": "2026-11-02T13:28:53.665000Z",
       "primary_item": {
-        "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-        "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-        "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+        "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+        "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "summary": "Save web as an Agent-friendly Markdown browser extension",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/usage-for-claude",
+        "url": "https://www.producthunt.com/products/linkly-ai-clipper",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -751,26 +1041,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_82801400d954",
-      "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-      "url": "https://www.aibase.com/news/32013",
-      "primary_url": "https://www.aibase.com/news/32013",
+      "story_id": "story_fc21773a744f",
+      "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+      "url": "https://www.aibase.com/news/32016",
+      "primary_url": "https://www.aibase.com/news/32016",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
+          "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
           "title_en": null,
-          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32013",
+          "url": "https://www.aibase.com/news/32016",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -785,14 +1075,14 @@
       ],
       "items": [
         {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
+          "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+          "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
           "title_en": null,
-          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32013",
+          "url": "https://www.aibase.com/news/32016",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -803,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,14 +1112,14 @@
       "earliest_at": "2026-11-02T07:41:44.133251Z",
       "latest_at": "2026-11-02T07:41:44.133251Z",
       "primary_item": {
-        "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-        "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-        "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+        "id": "fda2c664d9400d495ac25064054b5fcfa3cff638",
+        "title": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
+        "title_zh": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
         "title_en": null,
-        "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+        "title_original": "DeepSeek 甩出 Super-agent：AI 从\"等人派活\"变成\"自己找活干\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32013",
+        "url": "https://www.aibase.com/news/32016",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -837,210 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
-      }
-    },
-    {
-      "story_id": "story_f3e7e289564d",
-      "title": "telemetry.dev — AI 代理的可观测性 / telemetry.dev — Observability for AI agents",
-      "url": "https://www.producthunt.com/products/telemetry-dev",
-      "primary_url": "https://www.producthunt.com/products/telemetry-dev",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "55f1514642eb24cc2ed189d4ded624b666593cd8",
-          "title": "telemetry.dev — AI 代理的可观测性 / telemetry.dev — Observability for AI agents",
-          "title_zh": "telemetry.dev — AI 代理的可观测性",
-          "title_en": "telemetry.dev — Observability for AI agents",
-          "title_original": "telemetry.dev — Observability for AI agents",
-          "summary": "Observability for AI agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/telemetry-dev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T00:13:46Z",
-          "updated_at": "2026-11-02T07:17:51Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "beb8260d977cd040689a9876259c8e258cccefcf",
-          "title": "telemetry.dev — AI 代理的 LLM 可观察性 / telemetry.dev — LLM observability for AI agents",
-          "title_zh": "telemetry.dev — AI 代理的 LLM 可观察性",
-          "title_en": "telemetry.dev — LLM observability for AI agents",
-          "title_original": "telemetry.dev — LLM observability for AI agents",
-          "summary": "LLM observability for AI agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/telemetry-dev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T00:13:46Z",
-          "updated_at": "2026-11-01T11:38:04Z",
-          "recency_basis": "updated_at"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt"
-      ],
-      "items": [
-        {
-          "id": "55f1514642eb24cc2ed189d4ded624b666593cd8",
-          "title": "telemetry.dev — AI 代理的可观测性 / telemetry.dev — Observability for AI agents",
-          "title_zh": "telemetry.dev — AI 代理的可观测性",
-          "title_en": "telemetry.dev — Observability for AI agents",
-          "title_original": "telemetry.dev — Observability for AI agents",
-          "summary": "Observability for AI agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/telemetry-dev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T00:13:46Z",
-          "updated_at": "2026-11-02T07:17:51Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "beb8260d977cd040689a9876259c8e258cccefcf",
-          "title": "telemetry.dev — AI 代理的 LLM 可观察性 / telemetry.dev — LLM observability for AI agents",
-          "title_zh": "telemetry.dev — AI 代理的 LLM 可观察性",
-          "title_en": "telemetry.dev — LLM observability for AI agents",
-          "title_original": "telemetry.dev — LLM observability for AI agents",
-          "summary": "LLM observability for AI agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/telemetry-dev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T00:13:46Z",
-          "updated_at": "2026-11-01T11:38:04Z",
-          "recency_basis": "updated_at"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9943,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T11:38:04Z",
-      "latest_at": "2026-11-02T07:17:51Z",
-      "primary_item": {
-        "id": "55f1514642eb24cc2ed189d4ded624b666593cd8",
-        "title": "telemetry.dev — AI 代理的可观测性 / telemetry.dev — Observability for AI agents",
-        "title_zh": "telemetry.dev — AI 代理的可观测性",
-        "title_en": "telemetry.dev — Observability for AI agents",
-        "title_original": "telemetry.dev — Observability for AI agents",
-        "summary": "Observability for AI agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/telemetry-dev",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
-      }
-    },
-    {
-      "story_id": "story_f99be6e7fc1d",
-      "title": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-      "url": "https://www.aibase.com/news/32010",
-      "primary_url": "https://www.aibase.com/news/32010",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2e6894e4600b53180c10b0a9a41de22ed04dd23",
-          "title": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "title_zh": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "title_en": null,
-          "title_original": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32010",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f2e6894e4600b53180c10b0a9a41de22ed04dd23",
-          "title": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "title_zh": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "title_en": null,
-          "title_original": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32010",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
-      "primary_item": {
-        "id": "f2e6894e4600b53180c10b0a9a41de22ed04dd23",
-        "title": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-        "title_zh": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-        "title_en": null,
-        "title_original": "双十一Token首次作为独立品类上架电商平台，AI算力开始面向大众销售",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32010",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
@@ -1068,7 +1155,7 @@
           "recency_basis": null
         },
         {
-          "id": "1ce444d7be15b59f5b74b3e73559054b0b9dac51",
+          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
           "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
           "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -1076,9 +1163,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-01T22:10:45Z",
           "updated_at": null,
           "recency_basis": null
@@ -1102,7 +1189,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "techcrunch.com"
       ],
@@ -1124,7 +1211,7 @@
           "recency_basis": null
         },
         {
-          "id": "1ce444d7be15b59f5b74b3e73559054b0b9dac51",
+          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
           "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "title_zh": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
           "title_en": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -1132,9 +1219,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-01T22:10:45Z",
           "updated_at": null,
           "recency_basis": null
@@ -1158,15 +1245,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.903,
+        "recency": 0.8307,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1191,125 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
-      }
-    },
-    {
-      "story_id": "story_cee90a97bd0f",
-      "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "primary_url": "https://github.com/patchy631/ai-engineering-hub",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
-          "title_zh": "patchy631 / 人工智能工程中心",
-          "title_en": "patchy631 /      ai-engineering-hub",
-          "title_original": "patchy631 /      ai-engineering-hub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:32:33.891000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
-          "title_zh": "patchy631 / 人工智能工程中心",
-          "title_en": "patchy631 /      ai-engineering-hub",
-          "title_original": "patchy631 /      ai-engineering-hub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:32:33.891000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7507,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T11:32:33.891000Z",
-      "latest_at": "2026-11-01T11:50:02.349915Z",
-      "primary_item": {
-        "id": "44bee38ad638e025446a002105d7414f8517cda3",
-        "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-        "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/patchy631/ai-engineering-hub",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
@@ -1427,15 +1396,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8594,
+        "recency": 0.7906,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1460,7 +1429,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
+      }
+    },
+    {
+      "story_id": "story_9bc09ee6e269",
+      "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+      "primary_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
+          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
+          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T07:27:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
+          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
+          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50334038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T07:27:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
+          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
+          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T07:27:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
+          "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
+          "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50334038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T07:27:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9168,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T07:27:28Z",
+      "latest_at": "2026-11-02T07:27:28Z",
+      "primary_item": {
+        "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
+        "title": "中国首个前沿人工智能出口管制：商务部公告第48号 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "title_zh": "中国首个前沿人工智能出口管制：商务部公告第48号",
+        "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "title_original": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
@@ -1578,15 +1665,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8205,
+        "recency": 0.7548,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1611,7 +1698,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
+      }
+    },
+    {
+      "story_id": "story_c0d5228a0470",
+      "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+      "url": "https://www.aibase.com/news/32005",
+      "primary_url": "https://www.aibase.com/news/32005",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
+          "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_en": null,
+          "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T07:41:44.133251Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
+          "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "title_en": null,
+          "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T07:41:44.133251Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9199,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T07:41:44.133251Z",
+      "latest_at": "2026-11-02T07:41:44.133251Z",
+      "primary_item": {
+        "id": "5e8b1a391e31730f2dc0bfa5be6fe0396be59b31",
+        "title": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+        "title_zh": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+        "title_en": null,
+        "title_original": "OpenAI 要搞大公关：把\"数据中心\"改名\"AI 算力园区\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32005",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
@@ -1696,15 +1869,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9182,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1729,26 +1902,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_9cbbec494147",
-      "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-      "url": "https://www.aibase.com/news/32011",
-      "primary_url": "https://www.aibase.com/news/32011",
+      "story_id": "story_e184bb3daaa2",
+      "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+      "url": "https://www.aibase.com/news/32012",
+      "primary_url": "https://www.aibase.com/news/32012",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fe77598b59f32964e5df6e278b219455bf433488",
-          "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-          "title_zh": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
+          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
           "title_en": null,
-          "title_original": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+          "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32011",
+          "url": "https://www.aibase.com/news/32012",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1763,14 +1936,14 @@
       ],
       "items": [
         {
-          "id": "fe77598b59f32964e5df6e278b219455bf433488",
-          "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-          "title_zh": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
+          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+          "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
           "title_en": null,
-          "title_original": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+          "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32011",
+          "url": "https://www.aibase.com/news/32012",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1781,15 +1954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1800,14 +1973,14 @@
       "earliest_at": "2026-11-02T07:41:44.133251Z",
       "latest_at": "2026-11-02T07:41:44.133251Z",
       "primary_item": {
-        "id": "fe77598b59f32964e5df6e278b219455bf433488",
-        "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-        "title_zh": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+        "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
+        "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
+        "title_zh": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
         "title_en": null,
-        "title_original": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
+        "title_original": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32011",
+        "url": "https://www.aibase.com/news/32012",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1815,26 +1988,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     },
     {
-      "story_id": "story_6bcc728dcf63",
-      "title": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
-      "url": "https://www.aibase.com/news/32007",
-      "primary_url": "https://www.aibase.com/news/32007",
+      "story_id": "story_b4f480bb991f",
+      "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+      "url": "https://www.aibase.com/news/32018",
+      "primary_url": "https://www.aibase.com/news/32018",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dae70dd0ca8de0ab3a3e6b013ae6477cc2e8ceeb",
-          "title": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
-          "title_zh": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "title_en": null,
-          "title_original": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32007",
+          "url": "https://www.aibase.com/news/32018",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1849,14 +2022,14 @@
       ],
       "items": [
         {
-          "id": "dae70dd0ca8de0ab3a3e6b013ae6477cc2e8ceeb",
-          "title": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
-          "title_zh": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "title_en": null,
-          "title_original": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32007",
+          "url": "https://www.aibase.com/news/32018",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1867,15 +2040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1886,14 +2059,14 @@
       "earliest_at": "2026-11-02T07:41:44.133251Z",
       "latest_at": "2026-11-02T07:41:44.133251Z",
       "primary_item": {
-        "id": "dae70dd0ca8de0ab3a3e6b013ae6477cc2e8ceeb",
-        "title": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
-        "title_zh": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+        "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+        "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+        "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
         "title_en": null,
-        "title_original": "微软 AI 掌门人划红线：AI 不该有意识，有了就全员暂停",
+        "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32007",
+        "url": "https://www.aibase.com/news/32018",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1901,179 +2074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
-      }
-    },
-    {
-      "story_id": "story_a025df272916",
-      "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-      "url": "https://www.aibase.com/news/32015",
-      "primary_url": "https://www.aibase.com/news/32015",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_en": null,
-          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_en": null,
-          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
-      "primary_item": {
-        "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-        "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "title_en": null,
-        "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32015",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
-      }
-    },
-    {
-      "story_id": "story_2b7bcee8dc21",
-      "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-      "url": "https://www.aibase.com/news/32014",
-      "primary_url": "https://www.aibase.com/news/32014",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_en": null,
-          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32014",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_en": null,
-          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32014",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:41:44.133251Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T07:41:44.133251Z",
-      "latest_at": "2026-11-02T07:41:44.133251Z",
-      "primary_item": {
-        "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-        "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-        "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-        "title_en": null,
-        "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32014",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T07:44:01.256731Z"
+        "scored_at": "2026-11-02T13:29:18.139328Z"
       }
     }
   ]
