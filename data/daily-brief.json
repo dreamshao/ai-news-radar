@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:46:14.932554Z",
+  "generated_at": "2026-11-02T23:52:26.359423Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8939,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9301,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9041,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8197,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.897,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7198,
+        "recency": 0.7084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -659,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -744,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -777,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -829,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -862,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -914,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,7 +947,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -999,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1116,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6097,
-      "importance": 0.6097,
-      "importance_score": 0.6097,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.9214,
+        "recency": 0.9068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1149,7 +1149,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
+      }
+    },
+    {
+      "story_id": "story_d88ce8b1d39d",
+      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+      "url": "https://www.producthunt.com/products/cedric",
+      "primary_url": "https://www.producthunt.com/products/cedric",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T23:30:49Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
+          "title_zh": null,
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T13:28:53.665000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+          "summary": "The first AI agent to present your slides and attend for you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T13:40:39Z",
+          "updated_at": "2026-11-02T23:30:49Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
+          "title": "Cedric AI for Meetings",
+          "title_zh": null,
+          "title_en": "Cedric AI for Meetings",
+          "title_original": "Cedric AI for Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/cedric",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T13:28:53.665000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9948,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T13:28:53.665000Z",
+      "latest_at": "2026-11-02T23:30:49Z",
+      "primary_item": {
+        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
+        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
+        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
+        "summary": "The first AI agent to present your slides and attend for you",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/cedric",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1201,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,125 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
-      }
-    },
-    {
-      "story_id": "story_626eaedeb08a",
-      "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-      "primary_url": "https://www.producthunt.com/products/linkly-ai-clipper",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "summary": "Save web as an Agent-friendly Markdown browser extension",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-02T22:32:18Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
-          "title": "Linkly AI Clipper",
-          "title_zh": null,
-          "title_en": "Linkly AI Clipper",
-          "title_original": "Linkly AI Clipper",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T13:28:53.665000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-          "summary": "Save web as an Agent-friendly Markdown browser extension",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-02T22:32:18Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
-          "title": "Linkly AI Clipper",
-          "title_zh": null,
-          "title_en": "Linkly AI Clipper",
-          "title_original": "Linkly AI Clipper",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T13:28:53.665000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5936,
-      "importance": 0.5936,
-      "importance_score": 0.5936,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9966,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T13:28:53.665000Z",
-      "latest_at": "2026-11-02T22:32:18Z",
-      "primary_item": {
-        "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
-        "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
-        "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
-        "summary": "Save web as an Agent-friendly Markdown browser extension",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1436,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5783,
-      "importance": 0.5783,
-      "importance_score": 0.5783,
+      "score": 0.576,
+      "importance": 0.576,
+      "importance_score": 0.576,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8221,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,7 +1469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1554,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6031,
-      "importance": 0.6031,
-      "importance_score": 0.6031,
+      "score": 0.6005,
+      "importance": 0.6005,
+      "importance_score": 0.6005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9315,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1587,7 +1587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1705,15 +1705,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9748,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1738,42 +1738,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
-      "story_id": "story_d88ce8b1d39d",
-      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-      "url": "https://www.producthunt.com/products/cedric",
-      "primary_url": "https://www.producthunt.com/products/cedric",
+      "story_id": "story_626eaedeb08a",
+      "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+      "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+      "primary_url": "https://www.producthunt.com/products/linkly-ai-clipper",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-02T22:27:02Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T23:01:25Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1789,30 +1789,30 @@
       ],
       "items": [
         {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
+          "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+          "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+          "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+          "summary": "Save web as an Agent-friendly Markdown browser extension",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-02T22:27:02Z",
+          "published_at": "2026-07-27T13:11:29Z",
+          "updated_at": "2026-11-02T23:01:25Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "0209c53f89bac0eed2211fcb6302584a0f8cebbb",
+          "title": "Linkly AI Clipper",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "Linkly AI Clipper",
+          "title_original": "Linkly AI Clipper",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1823,15 +1823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5934,
-      "importance": 0.5934,
-      "importance_score": 0.5934,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.9878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1839,16 +1839,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-02T13:28:53.665000Z",
-      "latest_at": "2026-11-02T22:27:02Z",
+      "latest_at": "2026-11-02T23:01:25Z",
       "primary_item": {
-        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "summary": "The first AI agent to present your slides and attend for you",
+        "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
+        "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_zh": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展",
+        "title_en": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "title_original": "Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
+        "summary": "Save web as an Agent-friendly Markdown browser extension",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/cedric",
+        "url": "https://www.producthunt.com/products/linkly-ai-clipper",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1856,7 +1856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     },
     {
@@ -1884,7 +1884,7 @@
           "recency_basis": null
         },
         {
-          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "id": "9f79c5bf0c69cb65f114069a59c6d1a7b8576707",
           "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
           "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "title_en": "Last night an AI agent performed brain surgery on a mouse",
@@ -1892,9 +1892,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
@@ -1918,7 +1918,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "twitter.com"
       ],
@@ -1940,7 +1940,7 @@
           "recency_basis": null
         },
         {
-          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "id": "9f79c5bf0c69cb65f114069a59c6d1a7b8576707",
           "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
           "title_zh": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
           "title_en": "Last night an AI agent performed brain surgery on a mouse",
@@ -1948,9 +1948,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T12:50:59Z",
           "updated_at": null,
           "recency_basis": null
@@ -1974,15 +1974,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9417,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2007,7 +2007,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T22:47:08.427375Z"
+        "scored_at": "2026-11-02T23:53:14.095605Z"
       }
     }
   ]

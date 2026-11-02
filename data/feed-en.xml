@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 22:46:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:52:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Introducing the Grid Protectors Program</title>
@@ -112,20 +112,20 @@
 <pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
 </item>
 <item>
+<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
+<link>https://www.producthunt.com/products/cedric</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
+<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 02 Nov 2026 23:30:49 +0000</pubDate>
+</item>
+<item>
 <title>韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角</title>
 <link>https://www.aibase.com/news/32021</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32021</guid>
 <description>韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 02 Nov 2026 13:28:25 +0000</pubDate>
-</item>
-<item>
-<title>Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
-<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
-<description>Save web as an Agent-friendly Markdown browser extension (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 22:32:18 +0000</pubDate>
 </item>
 <item>
 <title>百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek</title>
@@ -152,12 +152,12 @@
 <pubDate>Mon, 02 Nov 2026 22:06:19 +0000</pubDate>
 </item>
 <item>
-<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
-<link>https://www.producthunt.com/products/cedric</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
-<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
+<title>Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
+<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
+<description>Save web as an Agent-friendly Markdown browser extension (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 22:27:02 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 23:01:25 +0000</pubDate>
 </item>
 <item>
 <title>昨晚，一个人工智能代理对一只小鼠进行了脑部手术</title>
