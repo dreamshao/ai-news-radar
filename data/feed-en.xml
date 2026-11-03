@@ -5,8 +5,64 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 16:16:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:30:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>StateBench: Testing how language models track state changes over long documents</title>
+<link>https://huggingface.co/blog/allenai/statebench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
+<description>StateBench: Testing how language models track state changes over long documents (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot is now available in JetBrains Air</title>
+<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
+<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
+</item>
+<item>
+<title>Agentic cheminformatics with Google Antigravity</title>
+<link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity</link>
+<guid isPermaLink="true">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity</guid>
+<description>Agentic cheminformatics with Google Antigravity (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+</item>
+<item>
+<title>Accelerating engineering for the physical world</title>
+<link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
+<guid isPermaLink="true">https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
+<description>Accelerating engineering for the physical world (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Palette: teaching a small model to build decks in your design language</title>
+<link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+<description>Palette: teaching a small model to build decks in your design language (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
+</item>
+<item>
+<title>Look up a resource’s cost center with the GitHub REST API</title>
+<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
+<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
+</item>
+<item>
+<title>Heimstaden is changing residential real estate management with AI</title>
+<link>https://openai.com/index/heimstaden</link>
+<guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
+<description>Heimstaden is changing residential real estate management with AI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?</title>
 <link>https://huggingface.co/blog/ibm-research/cuga-harness</link>
@@ -24,12 +80,20 @@
 <pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
 </item>
 <item>
-<title>Heimstaden is changing residential real estate management with AI</title>
-<link>https://openai.com/index/heimstaden</link>
-<guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
-<description>Heimstaden is changing residential real estate management with AI (OpenAI News)</description>
+<title>How Cisco defends at machine speed with OpenAI</title>
+<link>https://openai.com/index/cisco-cyber</link>
+<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
+<description>How Cisco defends at machine speed with OpenAI (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力</title>
+<link>https://www.aibase.com/news/32053</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32053</guid>
+<description>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot now supports Python 3.15</title>
@@ -48,20 +112,20 @@
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>The latest AI news we announced in October 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</guid>
-<description>The latest AI news we announced in October 2026 (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 17:45:00 +0000</pubDate>
+<title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
+<link>https://www.aibase.com/news/32058</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
+<description>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
-<title>Preparing our next security sprint to harden OpenAI</title>
-<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-<guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-<description>Preparing our next security sprint to harden OpenAI (OpenAI News)</description>
+<title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
+<link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
+<guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
+<description>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Desktop adds short-lived authentication tokens</title>
@@ -72,28 +136,12 @@
 <pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
 </item>
 <item>
-<title>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力</title>
-<link>https://www.aibase.com/news/32053</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32053</guid>
-<description>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
-</item>
-<item>
-<title>Rewarding defenders with bigger bug bounties</title>
-<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-<guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-<description>Rewarding defenders with bigger bug bounties (OpenAI News)</description>
+<title>CWE-bench v2: More coverage, quality, and transparency</title>
+<link>https://huggingface.co/blog/cwe-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/cwe-bench</guid>
+<description>CWE-bench v2: More coverage, quality, and transparency (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
-<link>https://www.aibase.com/news/32058</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
-<description>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会</title>
@@ -118,54 +166,6 @@
 <description>苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
-</item>
-<item>
-<title>Apple is all in on AI — its own and everyone else&amp;#8217;s</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</guid>
-<description>Apple is all in on AI — its own and everyone else&amp;#8217;s (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 15:24:51 +0000</pubDate>
-</item>
-<item>
-<title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
-<link>https://www.aibase.com/news/32047</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32047</guid>
-<description>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 07:57:36 +0000</pubDate>
-</item>
-<item>
-<title>Teamily AI — Your personal agent, agent teams &amp; people in one messenger</title>
-<link>https://www.producthunt.com/products/teamily-ai-human-ai-social-network</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/teamily-ai-human-ai-social-network</guid>
-<description>Your personal agent, agent teams &amp; people in one messenger (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 16:15:19 +0000</pubDate>
-</item>
-<item>
-<title>Here’s Why You Shouldn’t Use AI to Vote</title>
-<link>https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote</link>
-<guid isPermaLink="true">https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote</guid>
-<description>Here’s Why You Shouldn’t Use AI to Vote (Wired AI)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 14:45:08 +0000</pubDate>
-</item>
-<item>
-<title>Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</title>
-<link>https://github.com/Usagi-org/ai-goofish-monitor</link>
-<guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
-<description>Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 12:47:17 +0000</pubDate>
-</item>
-<item>
-<title>只是稍微抵制一下AI，当作一种乐趣</title>
-<link>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat</link>
-<guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat</guid>
-<description>只是稍微抵制一下AI，当作一种乐趣 (shkspr.mobi)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 03 Nov 2026 15:37:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
