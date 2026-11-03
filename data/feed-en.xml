@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:30:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:17:52 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -16,12 +16,12 @@
 <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot is now available in JetBrains Air</title>
-<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
-<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
+<title>Dependabot version updates support Agent Package Manager</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</guid>
+<description>Dependabot version updates support Agent Package Manager (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 20:24:07 +0000</pubDate>
 </item>
 <item>
 <title>Agentic cheminformatics with Google Antigravity</title>
@@ -48,12 +48,12 @@
 <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
 </item>
 <item>
-<title>Look up a resource’s cost center with the GitHub REST API</title>
-<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
-<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
+<title>GitHub Copilot is now available in JetBrains Air</title>
+<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
+<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
 </item>
 <item>
 <title>Heimstaden is changing residential real estate management with AI</title>
@@ -72,12 +72,12 @@
 <pubDate>Tue, 03 Nov 2026 15:57:39 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
-<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
-<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
+<title>Look up a resource’s cost center with the GitHub REST API</title>
+<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
+<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
 </item>
 <item>
 <title>How Cisco defends at machine speed with OpenAI</title>
@@ -96,12 +96,12 @@
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
-<title>Dependabot now supports Python 3.15</title>
-<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
-<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
+<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
+<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
+<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
 </item>
 <item>
 <title>Transformers Model Integration Contracts</title>
@@ -128,12 +128,12 @@
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop adds short-lived authentication tokens</title>
-<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
-<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<title>Dependabot now supports Python 3.15</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
+<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
 </item>
 <item>
 <title>CWE-bench v2: More coverage, quality, and transparency</title>
@@ -152,18 +152,18 @@
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Desktop adds short-lived authentication tokens</title>
+<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
+</item>
+<item>
 <title>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发</title>
 <link>https://www.aibase.com/news/32055</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32055</guid>
 <description>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
-</item>
-<item>
-<title>苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试</title>
-<link>https://www.aibase.com/news/32054</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32054</guid>
-<description>苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>

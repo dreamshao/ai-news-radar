@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:31:39.827851Z",
+  "generated_at": "2026-11-03T22:18:57.483066Z",
   "date": "2026-11-04",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T20:30:18.712668Z"
+      "observed_at": "2026-11-03T22:17:52.958953Z"
     },
     {
-      "id": "project_f37d2367e7b9",
-      "project_name": "Infino AI",
-      "url": "https://www.producthunt.com/products/infino-ai",
-      "summary": "Search, vectors and SQL over one Parquet copy, for agents",
+      "id": "project_bb90979e7914",
+      "project_name": "Teamily AI",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+      "summary": "Your personal agent, agent teams & people in one messenger",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Search, vectors and SQL over one Parquet copy, for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Search, vectors and SQL over one Parquet copy, for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T10:28:29Z",
-      "updated_at": "2026-11-03T20:30:25Z",
+      "recommend_reason_zh": "体验它主打的「Your personal agent, agent teams & people in one messenger」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your personal agent, agent teams & people in one messenger\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-06-03T01:43:42Z",
+      "updated_at": "2026-11-03T22:17:55Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T20:31:29.500254Z"
+      "observed_at": "2026-11-03T22:18:45.109903Z"
     },
     {
       "id": "project_40b1bb8d3105",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T20:30:18.712668Z"
+      "observed_at": "2026-11-03T22:17:52.958953Z"
     },
     {
-      "id": "project_bb90979e7914",
-      "project_name": "Teamily AI",
-      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
-      "summary": "Your personal agent, agent teams & people in one messenger",
+      "id": "project_a12d783652d0",
+      "project_name": "MachineMail",
+      "url": "https://www.producthunt.com/products/machinemail",
+      "summary": "Real inboxes for AI agents, with trust built in",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your personal agent, agent teams & people in one messenger」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your personal agent, agent teams & people in one messenger\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-06-03T01:43:42Z",
-      "updated_at": "2026-11-03T20:29:58Z",
+      "recommend_reason_zh": "体验它主打的「Real inboxes for AI agents, with trust built in」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Real inboxes for AI agents, with trust built in\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T10:33:33Z",
+      "updated_at": "2026-11-03T22:06:45Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T20:31:29.500254Z"
+      "observed_at": "2026-11-03T22:18:45.109903Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1605,
+      "duration_ms": 1228,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 347,
+      "duration_ms": 258,
       "error": null
     }
   ]
