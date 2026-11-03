@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:46:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 16:16:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?</title>
+<link>https://huggingface.co/blog/ibm-research/cuga-harness</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/cuga-harness</guid>
+<description>Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA? (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 15:57:39 +0000</pubDate>
+</item>
+<item>
+<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
+<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
+<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
+</item>
 <item>
 <title>Heimstaden is changing residential real estate management with AI</title>
 <link>https://openai.com/index/heimstaden</link>
@@ -14,6 +30,14 @@
 <description>Heimstaden is changing residential real estate management with AI (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dependabot now supports Python 3.15</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
+<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
 </item>
 <item>
 <title>Transformers Model Integration Contracts</title>
@@ -24,14 +48,6 @@
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop adds short-lived authentication tokens</title>
-<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
-<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
-</item>
-<item>
 <title>The latest AI news we announced in October 2026</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</guid>
@@ -40,12 +56,20 @@
 <pubDate>Mon, 02 Nov 2026 17:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Scaling Git at OpenAI</title>
-<link>https://openai.com/index/scaling-git-at-openai</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
-<description>Scaling Git at OpenAI (OpenAI News)</description>
+<title>Preparing our next security sprint to harden OpenAI</title>
+<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+<guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+<description>Preparing our next security sprint to harden OpenAI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 04:44:37 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop adds short-lived authentication tokens</title>
+<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
 </item>
 <item>
 <title>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力</title>
@@ -56,18 +80,10 @@
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
-<title>Security risk assessments include repository protection status</title>
-<link>https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</guid>
-<description>Security risk assessments include repository protection status (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
-</item>
-<item>
-<title>Preparing our next security sprint to harden OpenAI</title>
-<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-<guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-<description>Preparing our next security sprint to harden OpenAI (OpenAI News)</description>
+<title>Rewarding defenders with bigger bug bounties</title>
+<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+<guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+<description>Rewarding defenders with bigger bug bounties (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 </item>
@@ -80,36 +96,12 @@
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
-<title>pull_request_target blocked by default December 2</title>
-<link>https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</guid>
-<description>pull_request_target blocked by default December 2 (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
-</item>
-<item>
-<title>Rewarding defenders with bigger bug bounties</title>
-<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-<guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-<description>Rewarding defenders with bigger bug bounties (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会</title>
 <link>https://www.aibase.com/news/32057</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32057</guid>
 <description>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
-</item>
-<item>
-<title>Introducing the Grid Protectors Program</title>
-<link>https://openai.com/index/grid-protectors-program</link>
-<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
-<description>Introducing the Grid Protectors Program (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发</title>
@@ -128,6 +120,14 @@
 <pubDate>Tue, 03 Nov 2026 12:46:46 +0000</pubDate>
 </item>
 <item>
+<title>Apple is all in on AI — its own and everyone else&amp;#8217;s</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</guid>
+<description>Apple is all in on AI — its own and everyone else&amp;#8217;s (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 03 Nov 2026 15:24:51 +0000</pubDate>
+</item>
+<item>
 <title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
 <link>https://www.aibase.com/news/32047</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32047</guid>
@@ -141,7 +141,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/teamily-ai-human-ai-social-network</guid>
 <description>Your personal agent, agent teams &amp; people in one messenger (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 12:46:52 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 16:15:19 +0000</pubDate>
+</item>
+<item>
+<title>Here’s Why You Shouldn’t Use AI to Vote</title>
+<link>https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote</link>
+<guid isPermaLink="true">https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote</guid>
+<description>Here’s Why You Shouldn’t Use AI to Vote (Wired AI)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 03 Nov 2026 14:45:08 +0000</pubDate>
 </item>
 <item>
 <title>Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</title>
@@ -152,20 +160,12 @@
 <pubDate>Tue, 03 Nov 2026 12:47:17 +0000</pubDate>
 </item>
 <item>
-<title>Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028</title>
-<link>https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</guid>
-<description>Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028 (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
-</item>
-<item>
-<title>App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进"成人区"</title>
-<link>https://www.aibase.com/news/32050</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32050</guid>
-<description>App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进"成人区" (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 07:57:36 +0000</pubDate>
+<title>只是稍微抵制一下AI，当作一种乐趣</title>
+<link>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat</link>
+<guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat</guid>
+<description>只是稍微抵制一下AI，当作一种乐趣 (shkspr.mobi)</description>
+<category>Multi-source buzz</category>
+<pubDate>Tue, 03 Nov 2026 15:37:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
