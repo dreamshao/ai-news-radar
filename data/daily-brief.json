@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T20:48:40.993625Z",
+  "generated_at": "2026-11-04T22:37:28.788265Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_a5ecfede95e9",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
           "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
@@ -28,9 +28,25 @@
           "recency_basis": null
         },
         {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
-          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -76,17 +92,18 @@
           "recency_basis": null
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
         "OpenAI News",
-        "hackernews"
+        "hackernews",
+        "openai.com"
       ],
       "items": [
         {
           "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "title_zh": null,
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
           "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
@@ -100,9 +117,25 @@
           "recency_basis": null
         },
         {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
-          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
           "title_en": "OpenAI to acquire Pierre Computer Company",
           "title_original": "OpenAI to acquire Pierre Computer Company",
           "summary": null,
@@ -148,18 +181,18 @@
           "recency_basis": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.9113,
-      "importance": 0.9113,
-      "importance_score": 0.9113,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.9321,
+      "importance": 0.9321,
+      "importance_score": 0.9321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9129,
-        "story_heat": 0.75
+        "recency": 0.8893,
+        "story_heat": 1.0
       },
       "category": "official",
       "reasons": [
@@ -169,11 +202,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-11-04T14:30:00Z",
-      "latest_at": "2026-11-04T15:21:21Z",
+      "latest_at": "2026-11-04T21:12:50.695000Z",
       "primary_item": {
         "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-        "title_zh": null,
+        "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": "OpenAI将收购Pierre Computer Company",
         "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
         "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
         "summary": null,
@@ -186,7 +219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -238,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9579,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -325,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9767,
+        "recency": 0.9514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,7 +393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -412,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9895,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,7 +480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -499,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8192,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -534,7 +567,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
+      }
+    },
+    {
+      "story_id": "story_f06268fdc285",
+      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title_zh": "减少一千条通往根的路径",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-04T08:00:00Z",
+      "primary_item": {
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+        "title_zh": "减少一千条通往根的路径",
+        "title_en": "A thousand fewer paths to root",
+        "title_original": "A thousand fewer paths to root",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -586,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -619,7 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -671,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7462,
+        "recency": 0.7269,
         "story_heat": 0.0
       },
       "category": "official",
@@ -706,7 +826,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
+      }
+    },
+    {
+      "story_id": "story_8ce81320493c",
+      "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "primary_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+          "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+          "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7213,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:00:00Z",
+      "latest_at": "2026-11-04T00:00:00Z",
+      "primary_item": {
+        "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+        "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "title_zh": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+        "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "title_original": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -758,15 +965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -843,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -876,7 +1083,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -928,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,7 +1168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -1013,15 +1220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,7 +1253,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
+      }
+    },
+    {
+      "story_id": "story_8f4aedea0f10",
+      "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6222,
+      "importance": 0.6222,
+      "importance_score": 0.6222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9682,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T20:23:24Z",
+      "latest_at": "2026-11-04T20:23:24Z",
+      "primary_item": {
+        "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+        "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_zh": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+        "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -1098,15 +1422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,159 +1455,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
-      "story_id": "story_a6e835e9b328",
-      "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8805,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T12:00:00Z",
-      "latest_at": "2026-11-04T12:00:00Z",
-      "primary_item": {
-        "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-        "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-        "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
-      }
-    },
-    {
-      "story_id": "story_18d9cd84d7f4",
-      "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-      "url": "https://www.producthunt.com/products/krev",
-      "primary_url": "https://www.producthunt.com/products/krev",
+      "story_id": "story_27e064849594",
+      "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "primary_url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-          "summary": "An AI team that runs your ecommerce brand",
+          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "summary": "Run your entire digital marketing stack via one unified MCP",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-01T22:23:58Z",
-          "updated_at": "2026-11-04T20:41:09Z",
+          "published_at": "2026-10-07T09:59:12Z",
+          "updated_at": "2026-11-04T22:08:33Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
-          "title": "KREV AI",
+          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
+          "title": "Orphex MCP",
           "title_zh": null,
-          "title_en": "KREV AI",
-          "title_original": "KREV AI",
+          "title_en": "Orphex MCP",
+          "title_original": "Orphex MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1299,30 +1506,30 @@
       ],
       "items": [
         {
-          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-          "summary": "An AI team that runs your ecommerce brand",
+          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "summary": "Run your entire digital marketing stack via one unified MCP",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-01T22:23:58Z",
-          "updated_at": "2026-11-04T20:41:09Z",
+          "published_at": "2026-10-07T09:59:12Z",
+          "updated_at": "2026-11-04T22:08:33Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
-          "title": "KREV AI",
+          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
+          "title": "Orphex MCP",
           "title_zh": null,
-          "title_en": "KREV AI",
-          "title_original": "KREV AI",
+          "title_en": "Orphex MCP",
+          "title_original": "Orphex MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1333,15 +1540,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9982,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1349,16 +1556,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-04T12:43:59.028000Z",
-      "latest_at": "2026-11-04T20:41:09Z",
+      "latest_at": "2026-11-04T22:08:33Z",
       "primary_item": {
-        "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-        "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-        "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-        "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-        "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-        "summary": "An AI team that runs your ecommerce brand",
+        "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+        "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+        "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "summary": "Run your entire digital marketing stack via one unified MCP",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/krev",
+        "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1366,7 +1573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -1418,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1451,7 +1658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
@@ -1569,15 +1776,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
+      "score": 0.5632,
+      "importance": 0.5632,
+      "importance_score": 0.5632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9831,
+        "recency": 0.9577,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1602,42 +1809,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
-      "story_id": "story_27e064849594",
-      "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
-      "primary_url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "story_id": "story_18d9cd84d7f4",
+      "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+      "url": "https://www.producthunt.com/products/krev",
+      "primary_url": "https://www.producthunt.com/products/krev",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "summary": "Run your entire digital marketing stack via one unified MCP",
+          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+          "summary": "An AI team that runs your ecommerce brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/krev",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-07T09:59:12Z",
-          "updated_at": "2026-11-04T20:36:12Z",
+          "published_at": "2026-11-01T22:23:58Z",
+          "updated_at": "2026-11-04T21:08:23Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
-          "title": "Orphex MCP",
+          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
+          "title": "KREV AI",
           "title_zh": null,
-          "title_en": "Orphex MCP",
-          "title_original": "Orphex MCP",
+          "title_en": "KREV AI",
+          "title_original": "KREV AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/krev",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1653,30 +1860,30 @@
       ],
       "items": [
         {
-          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "summary": "Run your entire digital marketing stack via one unified MCP",
+          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+          "summary": "An AI team that runs your ecommerce brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/krev",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-07T09:59:12Z",
-          "updated_at": "2026-11-04T20:36:12Z",
+          "published_at": "2026-11-01T22:23:58Z",
+          "updated_at": "2026-11-04T21:08:23Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
-          "title": "Orphex MCP",
+          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
+          "title": "KREV AI",
           "title_zh": null,
-          "title_en": "Orphex MCP",
-          "title_original": "Orphex MCP",
+          "title_en": "KREV AI",
+          "title_original": "KREV AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/krev",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1687,15 +1894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
+      "score": 0.5904,
+      "importance": 0.5904,
+      "importance_score": 0.5904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.9788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1703,16 +1910,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-04T12:43:59.028000Z",
-      "latest_at": "2026-11-04T20:36:12Z",
+      "latest_at": "2026-11-04T21:08:23Z",
       "primary_item": {
-        "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-        "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-        "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "summary": "Run your entire digital marketing stack via one unified MCP",
+        "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+        "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+        "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+        "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+        "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+        "summary": "An AI team that runs your ecommerce brand",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+        "url": "https://www.producthunt.com/products/krev",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1720,460 +1927,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     },
     {
-      "story_id": "story_fe62fef1d184",
-      "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-      "url": "https://uncracked.city",
-      "primary_url": "https://uncracked.city",
-      "source": "uncracked.city",
-      "source_name": "Buzzing",
+      "story_id": "story_a6e835e9b328",
+      "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": null,
-          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "uncracked.city",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:20.641000Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T21:20:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
-          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50358352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T21:20:03Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "uncracked.city"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": null,
-          "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "uncracked.city",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:20.641000Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6ceeba31f807217f7dbe9c86e14cb1c7cc46d4a3",
-          "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
+          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
+          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
+          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://uncracked.city",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T21:20:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "64a6123313d1d91e35e475c4ef8052d59d9b7354",
-          "title": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言 / Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_zh": "Show HN: Uncracked City，侦探游戏，您可以在其中质疑LLM怀疑的谎言",
-          "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "title_original": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50358352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T21:20:03Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9242,
-        "story_heat": 0.5
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8578,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T21:20:03Z",
-      "latest_at": "2026-11-04T15:21:20.641000Z",
+      "earliest_at": "2026-11-04T12:00:00Z",
+      "latest_at": "2026-11-04T12:00:00Z",
       "primary_item": {
-        "id": "ea4c5a644193422b17aa6629543f44839f6358e6",
-        "title": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-        "title_zh": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
-        "title_en": null,
-        "title_original": "Show HN: 《未解之谜之城》，一款侦探游戏，你需要审问那些撒谎的LLM嫌疑人",
+        "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
+        "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
+        "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://uncracked.city",
-        "source": "uncracked.city",
-        "source_name": "Buzzing"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
-      }
-    },
-    {
-      "story_id": "story_73761f466638",
-      "title": "人工智能正迫使我们偿还40年的技术债务",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9242,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T11:52:17Z",
-      "latest_at": "2026-11-04T15:21:22.120000Z",
-      "primary_item": {
-        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-        "title": "人工智能正迫使我们偿还40年的技术债务",
-        "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-        "title_en": null,
-        "title_original": "人工智能正迫使我们偿还40年的技术债务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
-      }
-    },
-    {
-      "story_id": "story_c5e2969ff054",
-      "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9242,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T10:23:34Z",
-      "latest_at": "2026-11-04T15:21:22.116000Z",
-      "primary_item": {
-        "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-        "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_en": null,
-        "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T20:49:42.271953Z"
+        "scored_at": "2026-11-04T22:38:26.322414Z"
       }
     }
   ]
