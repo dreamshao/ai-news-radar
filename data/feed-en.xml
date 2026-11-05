@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 13:10:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:29:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
-<item>
-<title>OpenAI to acquire Pierre Computer Company, Inc.</title>
-<link>https://openai.com/index/openai-to-acquire-pierre</link>
-<guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
-<description>OpenAI to acquire Pierre Computer Company, Inc. (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 21:12:50 +0000</pubDate>
-</item>
 <item>
 <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
 <link>https://huggingface.co/blog/phonon-tts</link>
@@ -24,20 +16,20 @@
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot is now available in Xcode’s coding assistant</title>
-<link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</guid>
-<description>GitHub Copilot is now available in Xcode’s coding assistant (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
-</item>
-<item>
 <title>Setting a new standard for responsible AI infrastructure</title>
 <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
 <guid isPermaLink="true">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
 <description>Setting a new standard for responsible AI infrastructure (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot is now available in Xcode’s coding assistant</title>
+<link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</guid>
+<description>GitHub Copilot is now available in Xcode’s coding assistant (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
 </item>
 <item>
 <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
@@ -96,6 +88,14 @@
 <pubDate>Thu, 05 Nov 2026 07:55:45 +0000</pubDate>
 </item>
 <item>
+<title>You can edit your videos with AI on Instagram&amp;#8217;s new desktop Edits app</title>
+<link>https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp</guid>
+<description>You can edit your videos with AI on Instagram&amp;#8217;s new desktop Edits app (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Kimi Hosted Agents 发布:Harness 运行时转向云端托管</title>
 <link>https://www.aibase.com/news/32112</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32112</guid>
@@ -104,20 +104,20 @@
 <pubDate>Thu, 05 Nov 2026 07:55:45 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT Images 2.6 — GIFs, reusable reference images and 50% faster generation</title>
-<link>https://www.producthunt.com/products/chatgpt-images-2-6</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/chatgpt-images-2-6</guid>
-<description>GIFs, reusable reference images and 50% faster generation (Product Hunt)</description>
+<title>AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending</title>
+<link>https://www.producthunt.com/products/easy-peasy-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/easy-peasy-ai</guid>
+<description>Hire an AI team that splits the work and asks before sending (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 13:08:46 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 16:11:22 +0000</pubDate>
 </item>
 <item>
-<title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
-<link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</guid>
-<description>Gemini for Home now plugs into AT&amp;#038;T’s smart security system (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
+<title>GPT-6 Astra 在安全研究方面表现隐隐逊色</title>
+<link>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks</link>
+<guid isPermaLink="true">https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks</guid>
+<description>GPT-6 Astra 在安全研究方面表现隐隐逊色 (alignment.openai.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Thu, 05 Nov 2026 15:45:34 +0000</pubDate>
 </item>
 <item>
 <title>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码</title>
@@ -128,12 +128,28 @@
 <pubDate>Thu, 05 Nov 2026 07:55:45 +0000</pubDate>
 </item>
 <item>
-<title>AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending</title>
-<link>https://www.producthunt.com/products/easy-peasy-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/easy-peasy-ai</guid>
-<description>Hire an AI team that splits the work and asks before sending (Product Hunt)</description>
+<title>Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more</title>
+<link>https://www.producthunt.com/products/stitch-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/stitch-ai</guid>
+<description>Your AI workspace for mail, calendar, notes, tasks and more (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 13:08:46 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 16:10:08 +0000</pubDate>
+</item>
+<item>
+<title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
+<link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</guid>
+<description>Gemini for Home now plugs into AT&amp;#038;T’s smart security system (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
+</item>
+<item>
+<title>MCP 详解</title>
+<link>https://mcp-explained.com</link>
+<guid isPermaLink="true">https://mcp-explained.com</guid>
+<description>MCP 详解 (mcp-explained.com)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 16:23:50 +0000</pubDate>
 </item>
 <item>
 <title>从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流</title>
@@ -150,22 +166,6 @@
 <description>高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s (www.qualcomm.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Thu, 05 Nov 2026 01:44:43 +0000</pubDate>
-</item>
-<item>
-<title>现在什么都是AI骗局了</title>
-<link>https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now</link>
-<guid isPermaLink="true">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now</guid>
-<description>现在什么都是AI骗局了 (www.davidralphlewis.co.uk)</description>
-<category>Multi-source buzz</category>
-<pubDate>Wed, 04 Nov 2026 23:04:46 +0000</pubDate>
-</item>
-<item>
-<title>Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more</title>
-<link>https://www.producthunt.com/products/stitch-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/stitch-ai</guid>
-<description>Your AI workspace for mail, calendar, notes, tasks and more (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 13:08:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
