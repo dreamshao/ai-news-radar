@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:26:55.927709Z",
+  "generated_at": "2026-11-06T07:57:20.351988Z",
   "date": "2026-11-06",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T03:25:49.726070Z"
+      "observed_at": "2026-11-06T07:56:34.220435Z"
     },
     {
-      "id": "project_0f001285637e",
-      "project_name": "Rerun",
-      "url": "https://www.producthunt.com/products/rerun-2",
-      "summary": "Turn your AI subscriptions into a team of coworkers",
+      "id": "project_dfd84c938597",
+      "project_name": "Living Brain",
+      "url": "https://www.producthunt.com/products/chatandbuild",
+      "summary": "Interoperable, efficient memory layer for agentic AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn your AI subscriptions into a team of coworkers」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn your AI subscriptions into a team of coworkers\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T13:00:39Z",
-      "updated_at": "2026-11-06T03:24:44Z",
+      "recommend_reason_zh": "体验它主打的「Interoperable, efficient memory layer for agentic AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Interoperable, efficient memory layer for agentic AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T15:07:36Z",
+      "updated_at": "2026-11-06T07:55:47Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T03:26:42.464071Z"
+      "observed_at": "2026-11-06T07:57:07.514124Z"
     },
     {
       "id": "project_b22ad9f6b573",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T03:25:49.726070Z"
+      "observed_at": "2026-11-06T07:56:34.220435Z"
     },
     {
-      "id": "project_c3121311bd95",
-      "project_name": "Nemotron 3.5 Transcribe",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "summary": "Intelligent Transcription with a Speech LLM",
+      "id": "project_0f001285637e",
+      "project_name": "Rerun",
+      "url": "https://www.producthunt.com/products/rerun-2",
+      "summary": "Turn your AI subscriptions into a team of coworkers",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "用一段自己的录音试试转写，看看准确度是否满足你的需求。",
-      "recommend_reason_en": "Try its transcription on a recording of your own and check whether the accuracy meets your needs.",
-      "published_at": "2026-11-05T04:51:07Z",
-      "updated_at": "2026-11-06T03:24:41Z",
+      "recommend_reason_zh": "体验它主打的「Turn your AI subscriptions into a team of coworkers」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn your AI subscriptions into a team of coworkers\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T13:00:39Z",
+      "updated_at": "2026-11-06T07:43:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T03:26:42.464071Z"
+      "observed_at": "2026-11-06T07:57:07.514124Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1406,
+      "duration_ms": 279,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 85,
+      "duration_ms": 170,
       "error": null
     }
   ]
