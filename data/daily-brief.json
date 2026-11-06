@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:56:34.220435Z",
+  "generated_at": "2026-11-06T12:55:45.950966Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8916,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_88b16767209b",
+      "title": "埃及语和尼日利亚英语加入 Open ASR 排行榜 / Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "埃及语和尼日利亚英语加入 Open ASR 排行榜 / Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_zh": "埃及语和尼日利亚英语加入 Open ASR 排行榜",
+          "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "埃及语和尼日利亚英语加入 Open ASR 排行榜 / Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_zh": "埃及语和尼日利亚英语加入 Open ASR 排行榜",
+          "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8297,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
+      "primary_item": {
+        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+        "title": "埃及语和尼日利亚英语加入 Open ASR 排行榜 / Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "title_zh": "埃及语和尼日利亚英语加入 Open ASR 排行榜",
+        "title_en": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "title_original": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8416,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_3ce30504df16",
-      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8366,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T19:35:16Z",
-      "latest_at": "2026-11-05T19:35:16Z",
-      "primary_item": {
-        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
-        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8957,
+        "recency": 0.8335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8059,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_3ce30504df16",
+      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7785,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T19:35:16Z",
+      "latest_at": "2026-11-05T19:35:16Z",
+      "primary_item": {
+        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -487,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8935,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8059,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,30 +696,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
-      "story_id": "story_1f214e02bb3b",
-      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-      "url": "https://www.aibase.com/news/32148",
-      "primary_url": "https://www.aibase.com/news/32148",
+      "story_id": "story_93bb7dd7b2ab",
+      "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+      "url": "https://www.aibase.com/news/32155",
+      "primary_url": "https://www.aibase.com/news/32155",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
           "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
+          "url": "https://www.aibase.com/news/32155",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
+          "published_at": "2026-11-06T12:55:45.950966Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -643,18 +730,18 @@
       ],
       "items": [
         {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
           "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
+          "url": "https://www.aibase.com/news/32155",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
+          "published_at": "2026-11-06T12:55:45.950966Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -677,17 +764,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T07:56:34.220435Z",
-      "latest_at": "2026-11-06T07:56:34.220435Z",
+      "earliest_at": "2026-11-06T12:55:45.950966Z",
+      "latest_at": "2026-11-06T12:55:45.950966Z",
       "primary_item": {
-        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+        "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "title_zh": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
         "title_en": null,
-        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_original": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32148",
+        "url": "https://www.aibase.com/news/32155",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -695,94 +782,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
-      "story_id": "story_c4e6d017dd84",
-      "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "primary_url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_da3887ebd0dc",
+      "title": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+      "url": "https://www.aibase.com/news/32156",
+      "primary_url": "https://www.aibase.com/news/32156",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
-          "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
-          "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "id": "c0819ef54af76b9fc037e84664a0f69d163aa499",
+          "title": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+          "title_zh": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+          "title_en": null,
+          "title_original": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T09:00:00Z",
+          "url": "https://www.aibase.com/news/32156",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
-          "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
-          "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "id": "c0819ef54af76b9fc037e84664a0f69d163aa499",
+          "title": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+          "title_zh": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+          "title_en": null,
+          "title_original": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-gpt-6-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T09:00:00Z",
+          "url": "https://www.aibase.com/news/32156",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.718,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T09:00:00Z",
-      "latest_at": "2026-11-05T09:00:00Z",
+      "earliest_at": "2026-11-06T12:55:45.950966Z",
+      "latest_at": "2026-11-06T12:55:45.950966Z",
       "primary_item": {
-        "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
-        "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
-        "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "id": "c0819ef54af76b9fc037e84664a0f69d163aa499",
+        "title": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+        "title_zh": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
+        "title_en": null,
+        "title_original": "6G 还没来，AI 已写进它的基因：高通瞄准 2029",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32156",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -834,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7922,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,7 +955,416 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_86e30e015aef",
+      "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+      "url": "https://www.aibase.com/news/32157",
+      "primary_url": "https://www.aibase.com/news/32157",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+          "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_en": null,
+          "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+          "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "title_en": null,
+          "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T12:55:45.950966Z",
+      "latest_at": "2026-11-06T12:55:45.950966Z",
+      "primary_item": {
+        "id": "b6747e0f0a9806ebfafb9720c4f874eda8b0a570",
+        "title": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+        "title_zh": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+        "title_en": null,
+        "title_original": "准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32157",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_0766a8465115",
+      "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+      "url": "https://www.aibase.com/news/32154",
+      "primary_url": "https://www.aibase.com/news/32154",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a08b9ee524338cb479e6a82e73824faf3a2a018b",
+          "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "title_zh": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "title_en": null,
+          "title_original": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32154",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a08b9ee524338cb479e6a82e73824faf3a2a018b",
+          "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "title_zh": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "title_en": null,
+          "title_original": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32154",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T12:55:45.950966Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T12:55:45.950966Z",
+      "latest_at": "2026-11-06T12:55:45.950966Z",
+      "primary_item": {
+        "id": "a08b9ee524338cb479e6a82e73824faf3a2a018b",
+        "title": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+        "title_zh": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+        "title_en": null,
+        "title_original": "用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32154",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_1f214e02bb3b",
+      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+      "url": "https://www.aibase.com/news/32148",
+      "primary_url": "https://www.aibase.com/news/32148",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_en": null,
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32148",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:56:34.220435Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_en": null,
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32148",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:56:34.220435Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9305,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T07:56:34.220435Z",
+      "latest_at": "2026-11-06T07:56:34.220435Z",
+      "primary_item": {
+        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_en": null,
+        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32148",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
+      }
+    },
+    {
+      "story_id": "story_43aed8424453",
+      "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e94f4afbcfef1f6a8701cdbd5c1deecb6e5d03ef",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-05T19:14:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Reddit (热门)",
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e94f4afbcfef1f6a8701cdbd5c1deecb6e5d03ef",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-05T19:14:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6331,
+      "importance": 0.6331,
+      "importance_score": 0.6331,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7742,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T19:12:39Z",
+      "latest_at": "2026-11-05T19:14:24Z",
+      "primary_item": {
+        "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+        "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+        "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+        "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -921,15 +1416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,94 +1450,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
-      "story_id": "story_6708e526ca4d",
-      "title": "Merge 利用 OpenAI 技术构建产品和业务工具 / Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "primary_url": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5a5004c3b546",
+      "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "primary_url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
-          "title": "Merge 利用 OpenAI 技术构建产品和业务工具 / Merge builds product and business tools with OpenAI technology",
-          "title_zh": "Merge 利用 OpenAI 技术构建产品和业务工具",
-          "title_en": "Merge builds product and business tools with OpenAI technology",
-          "title_original": "Merge builds product and business tools with OpenAI technology",
+          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "summary": "The ERP you never need to open",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-26T23:03:55Z",
+          "updated_at": "2026-11-06T12:56:07Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
+          "title": "DALI AI by SupplyzPro",
+          "title_zh": null,
+          "title_en": "DALI AI by SupplyzPro",
+          "title_original": "DALI AI by SupplyzPro",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/merge-builds-with-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T08:00:00Z",
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T12:44:59.926000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
-          "title": "Merge 利用 OpenAI 技术构建产品和业务工具 / Merge builds product and business tools with OpenAI technology",
-          "title_zh": "Merge 利用 OpenAI 技术构建产品和业务工具",
-          "title_en": "Merge builds product and business tools with OpenAI technology",
-          "title_original": "Merge builds product and business tools with OpenAI technology",
+          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "summary": "The ERP you never need to open",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-26T23:03:55Z",
+          "updated_at": "2026-11-06T12:56:07Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
+          "title": "DALI AI by SupplyzPro",
+          "title_zh": null,
+          "title_en": "DALI AI by SupplyzPro",
+          "title_original": "DALI AI by SupplyzPro",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/merge-builds-with-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T08:00:00Z",
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T12:44:59.926000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7077,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-05T08:00:00Z",
-      "latest_at": "2026-11-05T08:00:00Z",
+      "earliest_at": "2026-11-06T12:44:59.926000Z",
+      "latest_at": "2026-11-06T12:56:07Z",
       "primary_item": {
-        "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
-        "title": "Merge 利用 OpenAI 技术构建产品和业务工具 / Merge builds product and business tools with OpenAI technology",
-        "title_zh": "Merge 利用 OpenAI 技术构建产品和业务工具",
-        "title_en": "Merge builds product and business tools with OpenAI technology",
-        "title_original": "Merge builds product and business tools with OpenAI technology",
-        "summary": null,
+        "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+        "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+        "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+        "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+        "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+        "summary": "The ERP you never need to open",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/merge-builds-with-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
@@ -1094,15 +1620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1128,674 +1654,275 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
-      "story_id": "story_2fb9f8919489",
-      "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "951395a070151ffeb897674157f63461692438b9",
-          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
-          "title_zh": "公共预览中的新拉取请求概述页面",
-          "title_en": "New pull request overview page in public preview",
-          "title_original": "New pull request overview page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "951395a070151ffeb897674157f63461692438b9",
-          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
-          "title_zh": "公共预览中的新拉取请求概述页面",
-          "title_en": "New pull request overview page in public preview",
-          "title_original": "New pull request overview page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7077,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T08:00:00Z",
-      "latest_at": "2026-11-05T08:00:00Z",
-      "primary_item": {
-        "id": "951395a070151ffeb897674157f63461692438b9",
-        "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
-        "title_zh": "公共预览中的新拉取请求概述页面",
-        "title_en": "New pull request overview page in public preview",
-        "title_original": "New pull request overview page in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_2c748b272af5",
-      "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-      "url": "https://www.aibase.com/news/32144",
-      "primary_url": "https://www.aibase.com/news/32144",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
-          "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "title_en": null,
-          "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32144",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
-          "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "title_en": null,
-          "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32144",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:56:34.220435Z",
-      "latest_at": "2026-11-06T07:56:34.220435Z",
-      "primary_item": {
-        "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
-        "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-        "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-        "title_en": null,
-        "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32144",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_8d3a217a7e3e",
-      "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-      "url": "https://www.aibase.com/news/32147",
-      "primary_url": "https://www.aibase.com/news/32147",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:56:34.220435Z",
-      "latest_at": "2026-11-06T07:56:34.220435Z",
-      "primary_item": {
-        "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-        "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_en": null,
-        "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32147",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_43aed8424453",
-      "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "source": "TechCrunch AI",
+      "story_id": "story_b1061a050691",
+      "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "primary_url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
-          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "title_zh": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频",
+          "title_en": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "title_original": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-05T19:12:39Z",
+          "published_at": "2026-11-05T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "id": "67c95d1f130194b49e9c29d301186bb704f3dcdd",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "title_zh": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频",
+          "title_en": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "title_original": "You can edit your videos with AI on Instagram’s new desktop Edits app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-05T19:12:39Z",
+          "published_at": "2026-11-05T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
-          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "title_zh": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频",
+          "title_en": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "title_original": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-05T19:12:39Z",
+          "published_at": "2026-11-05T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "id": "67c95d1f130194b49e9c29d301186bb704f3dcdd",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "title_zh": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频",
+          "title_en": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "title_original": "You can edit your videos with AI on Instagram’s new desktop Edits app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-05T19:12:39Z",
+          "published_at": "2026-11-05T15:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6185,
-      "importance": 0.6185,
-      "importance_score": 0.6185,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.4896,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.8321,
+        "ai_relevance": 0.68,
+        "recency": 0.7286,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T19:12:39Z",
-      "latest_at": "2026-11-05T19:12:39Z",
+      "earliest_at": "2026-11-05T15:00:00Z",
+      "latest_at": "2026-11-05T15:00:00Z",
       "primary_item": {
-        "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-        "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-        "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-        "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
-        "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+        "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+        "title_zh": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频",
+        "title_en": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+        "title_original": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-        "source": "TechCrunch AI",
+        "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+        "source": "The Verge",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     },
     {
-      "story_id": "story_8cfe62ffa8a2",
-      "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-      "url": "https://www.aibase.com/news/32150",
-      "primary_url": "https://www.aibase.com/news/32150",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_45e7f73f7975",
+      "title": "我很难相信人工智能的研发是独具匠心的",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "primary_url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "source": "www.lesswrong.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+          "title": "我很难相信人工智能的研发是独具匠心的",
+          "title_zh": "我很难相信人工智能的研发是独具匠心的",
           "title_en": null,
-          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_original": "我很难相信人工智能的研发是独具匠心的",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "www.lesswrong.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T10:52:42.861000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a49b00dc77e6ed7ae2d86a7537142a250be4cb1",
+          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
+          "title_zh": "我很难相信人工智能的研发是独具匠心的",
+          "title_en": "I struggle to believe that AI R&D is ingenious",
+          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T05:19:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
+          "title": "我很难相信人工智能研发是巧妙的 / I struggle to believe that AI R&D is ingenious",
+          "title_zh": "我很难相信人工智能研发是巧妙的",
+          "title_en": "I struggle to believe that AI R&D is ingenious",
+          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50388513",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T05:19:04Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.lesswrong.com"
       ],
       "items": [
         {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+          "title": "我很难相信人工智能的研发是独具匠心的",
+          "title_zh": "我很难相信人工智能的研发是独具匠心的",
           "title_en": null,
-          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_original": "我很难相信人工智能的研发是独具匠心的",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "www.lesswrong.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T10:52:42.861000Z",
           "updated_at": null,
           "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:56:34.220435Z",
-      "latest_at": "2026-11-06T07:56:34.220435Z",
-      "primary_item": {
-        "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-        "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "title_en": null,
-        "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32150",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_6bd99aedfa04",
-      "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-      "url": "https://www.producthunt.com/products/stitch-ai",
-      "primary_url": "https://www.producthunt.com/products/stitch-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
-          "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "title_zh": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区",
-          "title_en": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "title_original": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "summary": "Your AI workspace for mail, calendar, notes, tasks and more",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-06T07:50:11Z",
-          "recency_basis": "updated_at"
         },
         {
-          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
-          "title": "Stitch.ai",
-          "title_zh": null,
-          "title_en": "Stitch.ai",
-          "title_original": "Stitch.ai",
+          "id": "8a49b00dc77e6ed7ae2d86a7537142a250be4cb1",
+          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
+          "title_zh": "我很难相信人工智能的研发是独具匠心的",
+          "title_en": "I struggle to believe that AI R&D is ingenious",
+          "title_original": "I struggle to believe that AI R&D is ingenious",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T12:47:34.640000Z",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T05:19:04Z",
           "updated_at": null,
           "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
-          "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "title_zh": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区",
-          "title_en": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "title_original": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-          "summary": "Your AI workspace for mail, calendar, notes, tasks and more",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-06T07:50:11Z",
-          "recency_basis": "updated_at"
         },
         {
-          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
-          "title": "Stitch.ai",
-          "title_zh": null,
-          "title_en": "Stitch.ai",
-          "title_original": "Stitch.ai",
+          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
+          "title": "我很难相信人工智能研发是巧妙的 / I struggle to believe that AI R&D is ingenious",
+          "title_zh": "我很难相信人工智能研发是巧妙的",
+          "title_en": "I struggle to believe that AI R&D is ingenious",
+          "title_original": "I struggle to believe that AI R&D is ingenious",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "producthunt",
+          "url": "https://news.ycombinator.com/item?id=50388513",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-05T12:47:34.640000Z",
+          "published_at": "2026-11-06T05:19:04Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9985,
-        "story_heat": 0.25
+        "recency": 0.9708,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T12:47:34.640000Z",
-      "latest_at": "2026-11-06T07:50:11Z",
+      "earliest_at": "2026-11-06T05:19:04Z",
+      "latest_at": "2026-11-06T10:52:42.861000Z",
       "primary_item": {
-        "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
-        "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-        "title_zh": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区",
-        "title_en": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-        "title_original": "Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
-        "summary": "Your AI workspace for mail, calendar, notes, tasks and more",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/stitch-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
-      }
-    },
-    {
-      "story_id": "story_1d465e284ffb",
-      "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-      "url": "https://www.aibase.com/news/32145",
-      "primary_url": "https://www.aibase.com/news/32145",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "title_en": null,
-          "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "title_en": null,
-          "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T07:56:34.220435Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T07:56:34.220435Z",
-      "latest_at": "2026-11-06T07:56:34.220435Z",
-      "primary_item": {
-        "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-        "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-        "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+        "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+        "title": "我很难相信人工智能的研发是独具匠心的",
+        "title_zh": "我很难相信人工智能的研发是独具匠心的",
         "title_en": null,
-        "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+        "title_original": "我很难相信人工智能的研发是独具匠心的",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32145",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "source": "www.lesswrong.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T07:57:30.277270Z"
+        "scored_at": "2026-11-06T12:57:26.863769Z"
       }
     }
   ]

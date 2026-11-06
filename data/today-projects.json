@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:57:20.351988Z",
+  "generated_at": "2026-11-06T12:56:58.604280Z",
   "date": "2026-11-06",
   "total_items": 4,
   "items": [
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T07:56:34.220435Z"
+      "observed_at": "2026-11-06T12:55:45.950966Z"
     },
     {
-      "id": "project_dfd84c938597",
-      "project_name": "Living Brain",
-      "url": "https://www.producthunt.com/products/chatandbuild",
-      "summary": "Interoperable, efficient memory layer for agentic AI",
+      "id": "project_b1e722e8b2d4",
+      "project_name": "DALI AI by SupplyzPro",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "summary": "The ERP you never need to open",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Interoperable, efficient memory layer for agentic AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Interoperable, efficient memory layer for agentic AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T15:07:36Z",
-      "updated_at": "2026-11-06T07:55:47Z",
+      "recommend_reason_zh": "体验它主打的「The ERP you never need to open」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The ERP you never need to open\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-09-26T23:03:55Z",
+      "updated_at": "2026-11-06T12:56:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T07:57:07.514124Z"
+      "observed_at": "2026-11-06T12:56:48.375941Z"
     },
     {
-      "id": "project_b22ad9f6b573",
-      "project_name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "id": "project_876f4401e17e",
+      "project_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "summary": "Agent Skills for Google products and technologies",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an...\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Agent Skills for Google products and technologies」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Agent Skills for Google products and technologies\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T07:56:34.220435Z"
+      "observed_at": "2026-11-06T12:55:45.950966Z"
     },
     {
-      "id": "project_0f001285637e",
-      "project_name": "Rerun",
-      "url": "https://www.producthunt.com/products/rerun-2",
-      "summary": "Turn your AI subscriptions into a team of coworkers",
+      "id": "project_2fa2a5eab3a7",
+      "project_name": "Rankfender v3.0",
+      "url": "https://www.producthunt.com/products/rankfender",
+      "summary": "The SEO/GEO operating system, built for people and AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn your AI subscriptions into a team of coworkers」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn your AI subscriptions into a team of coworkers\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T13:00:39Z",
-      "updated_at": "2026-11-06T07:43:14Z",
+      "recommend_reason_zh": "体验它主打的「The SEO/GEO operating system, built for people and AI agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The SEO/GEO operating system, built for people and AI agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T14:05:15Z",
+      "updated_at": "2026-11-06T12:55:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T07:57:07.514124Z"
+      "observed_at": "2026-11-06T12:56:48.375941Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 279,
+      "item_count": 18,
+      "duration_ms": 1775,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 170,
+      "duration_ms": 92,
       "error": null
     }
   ]
