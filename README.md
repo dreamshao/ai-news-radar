@@ -11,6 +11,7 @@
 [![Actions](https://img.shields.io/github/actions/workflow/status/LearnPrompt/ai-news-radar/update-news.yml?branch=master&label=update&style=flat-square)](https://github.com/LearnPrompt/ai-news-radar/actions/workflows/update-news.yml)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-ai--radar%20%2B%20%E4%BC%AF%E4%B9%90-blueviolet?style=flat-square)](skills/radar/README.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
+[![AtomGitStars](https://atomgit.com/LearnPrompt/ai-news-radar/star/badge.svg)](https://atomgit.com/LearnPrompt/ai-news-radar)
 
 ```bash
 npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
@@ -312,6 +313,8 @@ python scripts/update_news.py --output-dir data --window-hours 24 --rss-opml fee
 默认情况下，本项目不需要任何API Key就能跑核心流程。
 
 线上页面右上角显示的"更新时间"来自 `data/latest-24h.json` 的 `generated_at`。如果页面长时间停在旧时间，优先检查 GitHub Actions 最近一次 `Update AI News Snapshot` 是否运行、是否有抓取错误、以及仓库 Pages 是否部署到包含最新 `data/` 提交的分支。
+
+如果公开站返回 526 或出现 HTTPS 证书错误，按 [Pages HTTPS 恢复与验收](docs/PAGES_HTTPS_RECOVERY.md) 检查源站证书及自定义域名。Actions 更新成功不能代替网站可用性验收。
 
 高级源配置模板见 `examples/advanced-sources.env.example`，
 

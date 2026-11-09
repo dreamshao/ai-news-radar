@@ -5,167 +5,167 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 22:06:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 08:02:09 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation</title>
-<link>https://huggingface.co/blog/allenai/toyblocks</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/toyblocks</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-</item>
-<item>
-<title>与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-<link>https://openai.com/index/partnering-with-hacktron</link>
-<guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 19:41:59 +0000</pubDate>
-</item>
-<item>
-<title>Codex CLI 0.167.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate</title>
-<link>https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 00:19:07 +0000</pubDate>
-</item>
-<item>
-<title>埃及语和尼日利亚英语加入 Open ASR 排行榜 / Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-<link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-<guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science</title>
-<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps</title>
-<link>https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 00:08:31 +0000</pubDate>
-</item>
-<item>
-<title>13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google</title>
-<link>https://www.aibase.com/news/32155</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32155</guid>
-<description>AIbase</description>
+<title>Meta 迎来重磅升级：基于 Muse Wonder 训练的专用模型全面登陆 Muse 与 Meta AI</title>
+<link>https://www.aibase.com/news/32176</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32176</guid>
+<description>消费端产品升级，没提API或开源，开发者暂时只能围观。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 12:55:45 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>6G 还没来，AI 已写进它的基因：高通瞄准 2029</title>
-<link>https://www.aibase.com/news/32156</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32156</guid>
-<description>AIbase</description>
+<title>​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐</title>
+<link>https://www.aibase.com/news/32178</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32178</guid>
+<description>比赛热闹但与你的代码无关，等出开源模型或数据集再关注。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 12:55:45 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>准确率刷新行业上限，Pangram凭何接连攻克图像与视频AI检测难关?</title>
-<link>https://www.aibase.com/news/32157</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32157</guid>
-<description>AIbase</description>
+<title>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45</guid>
+<description>周报式观点汇总，没新工具也没接口变化，扫一眼标题就够了。（Daily Digest）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 12:55:45 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 11:34:35 +0000</pubDate>
 </item>
 <item>
-<title>用 AI 做 PPT 被开除，公司反赔 4.6 万：法院判了</title>
-<link>https://www.aibase.com/news/32154</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32154</guid>
-<description>AIbase</description>
+<title>几秒钟“复刻”巨星?Suno再因侵权被告上法庭</title>
+<link>https://www.aibase.com/news/32174</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32174</guid>
+<description>做音乐生成产品的注意版权雷区，不用改代码，但该查下供应商的授权条款。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 12:55:45 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车</title>
-<link>https://www.aibase.com/news/32148</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32148</guid>
-<description>AIbase</description>
+<title>古尔曼爆料：Siri 最快明年变身自主代理，正面硬刚 OpenAI 与 Meta</title>
+<link>https://www.aibase.com/news/32175</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32175</guid>
+<description>爆料加明年时间表，今天没有可接入的 API，等 WWDC 看真东西再说。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 07:56:34 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
-<link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
-<description>The Verge</description>
+<title>实验室里的独角兽要出 App 了：Sakana AI 转向消费端</title>
+<link>https://www.aibase.com/news/32180</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32180</guid>
+<description>只是宣布要做 App，没接口没仓库，等真上线再花时间。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
+</item>
+<item>
+<title>【百万 AI 工程师特辑】Stanford 如何教出 AI 原生工程 —— Mihail Eric，Monaco / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+<link>https://www.youtube.com/watch?v=dpY7YzZo4kE</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=dpY7YzZo4kE</guid>
+<description>课程方法论的访谈，没有能直接跑的东西，顶多借鉴下学习路线。（Follow Builders · Podcast · Latent Space）</description>
 <category>值得关注</category>
-<pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
 </item>
 <item>
-<title>SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open</title>
-<link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
-<description>The ERP you never need to open（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Fri, 06 Nov 2026 22:05:10 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态</title>
-<link>https://www.aibase.com/news/32141</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32141</guid>
-<description>AIbase</description>
+<title>未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统</title>
+<link>https://www.aibase.com/news/32181</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32181</guid>
+<description>20万员工配2000万智能体的内部愿景，没开放接口也没产品，跟你的代码没关系。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 07:56:34 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac</title>
-<link>https://www.producthunt.com/products/cursor-craft</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
-<description>Custom cursors for Mac（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Fri, 06 Nov 2026 20:45:51 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
-<link>https://www.aibase.com/news/32152</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32152</guid>
-<description>AIbase</description>
+<title>英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作</title>
+<link>https://www.aibase.com/news/32179</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32179</guid>
+<description>又是签约与合影，没有可用的产品、价格或接口，等具体芯片和云服务落地再说。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 07:56:34 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>我很难相信人工智能的研发是独具匠心的</title>
-<link>https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</link>
-<guid isPermaLink="true">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</guid>
-<description>www.lesswrong.com</description>
+<title>我不认为存在所谓的“AI泡沫”</title>
+<link>https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html</link>
+<guid isPermaLink="true">https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html</guid>
+<description>泡沫辩论对写代码没帮助，观点文章看完还是不知道该不该换模型。（matteoraso.github.io）</description>
 <category>多源热议</category>
-<pubDate>Fri, 06 Nov 2026 10:52:42 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 04:57:56 +0000</pubDate>
 </item>
 <item>
-<title>SketchAgentBench – 评估 3D 空间推理的LLM / SketchAgentBench – evaluate LLMs on 3D spatial reasoning</title>
-<link>https://sketchagent.dev</link>
-<guid isPermaLink="true">https://sketchagent.dev</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Fri, 06 Nov 2026 20:28:24 +0000</pubDate>
+<title>阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元</title>
+<link>https://www.aibase.com/news/32177</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32177</guid>
+<description>降价+提额，跑通义API的项目今天就能改配置省成本。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>大学图书馆正被人工智能机器人淹没，公众访问面临风险 / University libraries are being swarmed by AI bots, putting public access at risk</title>
-<link>https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</link>
-<guid isPermaLink="true">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</guid>
-<description>Hacker News · 24h最热</description>
+<title>anthropics/claude-quickstarts — 一组项目合集，帮开发者快速上手，用 Claude API 构建可部署的应用 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
+<link>https://github.com/anthropics/claude-quickstarts</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
+<description>官方示例仓库，clone 下来照着改最快，省去从零搭 Claude 接入的时间。（GitHub Trending）</description>
 <category>值得关注</category>
-<pubDate>Fri, 06 Nov 2026 14:13:09 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 18:37:50 +0000</pubDate>
+</item>
+<item>
+<title>我如何对抗AI脑力透支</title>
+<link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
+<guid isPermaLink="true">https://sergeykuhne.com/blog/fighting-ai-brain-fry</guid>
+<description>个人心得随笔，读读解压可以，但没有可落地的做法或工具。（sergeykuhne.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 08 Nov 2026 22:19:44 +0000</pubDate>
+</item>
+<item>
+<title>Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU</title>
+<link>https://github.com/synchopate/llama-modchip</link>
+<guid isPermaLink="true">https://github.com/synchopate/llama-modchip</guid>
+<description>纯 CPU 内存跑大模型的折腾方案，能 clone 试，但别指望实用性能，看清是实验品。（github.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 08 Nov 2026 20:56:03 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI以1.25万亿美元估值融资110亿美元</title>
+<link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought</link>
+<guid isPermaLink="true">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought</guid>
+<description>估值融资和你的代码没关系，API 价格和模型能力才是要盯的。（247wallst.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 08 Nov 2026 20:56:03 +0000</pubDate>
+</item>
+<item>
+<title>风波里的站队：马斯克一句"我同意"力挺黄仁勋</title>
+<link>https://www.aibase.com/news/32173</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32173</guid>
+<description>两个大佬互相点赞，不落地任何产品，扫一眼标题就够了。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Mon, 09 Nov 2026 08:02:09 +0000</pubDate>
+</item>
+<item>
+<title>为什么我不会在编程中使用大型语言模型</title>
+<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
+<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
+<description>纯个人立场文，没有可验证数据，看完也不用改任何工具选型。（www.polso.info）</description>
+<category>值得关注</category>
+<pubDate>Sun, 08 Nov 2026 21:47:44 +0000</pubDate>
+</item>
+<item>
+<title>硅谷承诺AI能治愈疾病，制药公司CEO们并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
+<link>https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</guid>
+<description>纯观点对垒，没有新工具或数据，看完也不改一行代码。（Hacker News · 24h最热）</description>
+<category>值得关注</category>
+<pubDate>Sun, 08 Nov 2026 18:43:07 +0000</pubDate>
+</item>
+<item>
+<title>Goldman Sachs 正从银行家和交易员手中撤下 Claude Code / Goldman Sachs is pulling Claude Code from its bankers and traders</title>
+<link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
+<guid isPermaLink="true">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</guid>
+<description>大行合规踩刹车，说明企业级 AI 编码工具的门槛在审计不在模型；自建部署方案可以留意。（Hacker News (黑客新闻)）</description>
+<category>值得关注</category>
+<pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 斥资 34 亿美元抢购发电设备，为数据中心补充能源</title>
+<link>https://www.aibase.com/news/32162</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32162</guid>
+<description>采购发电设备跟你今天写代码无关，也说明算力成本短期难降，API 账单别指望便宜。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Mon, 09 Nov 2026 02:39:43 +0000</pubDate>
 </item>
 </channel>
 </rss>

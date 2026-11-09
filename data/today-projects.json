@@ -1,80 +1,80 @@
 {
-  "generated_at": "2026-11-06T22:06:54.899787Z",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-09T08:03:40.029483Z",
+  "date": "2026-11-09",
   "total_items": 4,
   "items": [
     {
-      "id": "project_8ac198972094",
-      "project_name": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "用一份自己的资料试试检索，看看能否更快找到需要的信息。",
-      "recommend_reason_en": "Try its retrieval on a document of your own and see whether it finds what you need faster.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-06T22:06:11.487398Z"
-    },
-    {
-      "id": "project_94b4fb19a6b7",
-      "project_name": "Cursor Craft",
-      "url": "https://www.producthunt.com/products/cursor-craft",
-      "summary": "Custom cursors for Mac",
+      "id": "project_661a8188e396",
+      "project_name": "Dageno AI 2.0",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "summary": "See why AI recommends your competitors instead of you",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Custom cursors for Mac」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Custom cursors for Mac\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T01:53:45Z",
-      "updated_at": "2026-11-06T20:45:51Z",
+      "recommend_reason_zh": "Dageno AI 2.0 能帮你看清 AI 为何推荐竞争对手而不是你，值得打开一探背后的原因。",
+      "recommend_reason_en": "Dageno AI 2.0 helps you see why AI recommends your competitors instead of you, making it worth opening to understand those AI-driven recommendations.",
+      "published_at": "2026-11-03T10:49:37Z",
+      "updated_at": "2026-11-09T08:02:10Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T22:06:45.600542Z"
+      "observed_at": "2026-11-09T08:03:29.658867Z"
     },
     {
-      "id": "project_876f4401e17e",
-      "project_name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "summary": "Agent Skills for Google products and technologies",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Agent Skills for Google products and technologies」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Agent Skills for Google products and technologies\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-06T22:06:11.487398Z"
-    },
-    {
-      "id": "project_53c5ac171932",
-      "project_name": "Meshia",
-      "url": "https://www.producthunt.com/products/meshia",
-      "summary": "Your autonomous research lab",
+      "id": "project_cfc314102741",
+      "project_name": "MCP1",
+      "url": "https://www.producthunt.com/products/appwrite",
+      "summary": "One URL for every MCP server.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your autonomous research lab」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your autonomous research lab\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-09T03:42:27Z",
-      "updated_at": "2026-11-06T19:48:32Z",
+      "recommend_reason_zh": "MCP1 为每个 MCP 服务器提供一个统一 URL，方便访问和接入，值得打开了解它如何简化服务器连接。",
+      "recommend_reason_en": "MCP1 provides one URL for every MCP server, making it worth opening when you need a single place to find the URL for a given MCP server.",
+      "published_at": "2026-11-06T13:13:56Z",
+      "updated_at": "2026-11-09T08:02:11Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T22:06:45.600542Z"
+      "observed_at": "2026-11-09T08:03:29.658867Z"
+    },
+    {
+      "id": "project_cab433b7ceaa",
+      "project_name": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "summary": "Sound engineered for dogs, not humans",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "Pawse.ai 的声音是按狗狗的听觉设计的，而不是迎合人类耳朵；如果你想让爱犬体验专属音频，可以打开看看。",
+      "recommend_reason_en": "Pawse.ai offers sound engineered for dogs rather than humans, making it worth opening if you want to explore audio designed around canine ears instead of people.",
+      "published_at": "2026-11-02T11:48:42Z",
+      "updated_at": "2026-11-09T08:02:36Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-09T08:03:29.658867Z"
+    },
+    {
+      "id": "project_a01404a27778",
+      "project_name": "Watchflows",
+      "url": "https://www.producthunt.com/products/watchflows",
+      "summary": "Visual automation for your Mac, with AI built in",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "Watchflows 把 AI 内置到 Mac 的可视化自动化中，适合想直观搭建工作流的人打开体验。",
+      "recommend_reason_en": "Watchflows offers visual automation for your Mac with AI built in, making it worth opening if you want to explore automating tasks through a visual interface.",
+      "published_at": "2026-10-28T04:13:10Z",
+      "updated_at": "2026-11-09T08:02:20Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-09T08:03:29.658867Z"
     }
   ],
   "sources": [
     {
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "ok": true,
-      "item_count": 18,
-      "duration_ms": 1911,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 4996,
+      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending?since=daily (Caused by ResponseError('too many 504 error responses'))"
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 61,
+      "duration_ms": 166,
       "error": null
     }
   ]
