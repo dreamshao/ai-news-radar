@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T13:10:59.312941Z",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-13T16:31:20.355759Z",
+  "date": "2026-11-14",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T13:10:02.842286Z"
+      "observed_at": "2026-11-13T16:30:12.406787Z"
     },
     {
-      "id": "project_eb66c34e41d9",
-      "project_name": "Gemini 4 Hydrogen",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "summary": "Fast agentic development for coders",
+      "id": "project_7ae8ceaacce8",
+      "project_name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Fast agentic development for coders」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Fast agentic development for coders\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T18:37:12Z",
-      "updated_at": "2026-11-13T13:09:01Z",
+      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T02:06:54Z",
+      "updated_at": "2026-11-13T16:27:50Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T13:10:48.027683Z"
+      "observed_at": "2026-11-13T16:31:08.381862Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T13:10:02.842286Z"
+      "observed_at": "2026-11-13T16:30:12.406787Z"
     },
     {
-      "id": "project_26974fd606da",
-      "project_name": "Aven App Agent",
-      "url": "https://www.producthunt.com/products/aven-app-agent",
-      "summary": "AI that guides users through your app",
+      "id": "project_1759ed031fc4",
+      "project_name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "summary": "Powerful content editor for people who aren’t editors",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI that guides users through your app」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI that guides users through your app\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T22:12:11Z",
-      "updated_at": "2026-11-13T12:45:35Z",
+      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T11:56:03Z",
+      "updated_at": "2026-11-13T16:26:18Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T13:10:48.027683Z"
+      "observed_at": "2026-11-13T16:31:08.381862Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1278,
+      "duration_ms": 3352,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 118,
+      "duration_ms": 122,
       "error": null
     }
   ]
