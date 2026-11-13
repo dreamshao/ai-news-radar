@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:31:20.355759Z",
+  "generated_at": "2026-11-13T20:56:25.344769Z",
   "date": "2026-11-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T16:30:12.406787Z"
+      "observed_at": "2026-11-13T20:55:25.951052Z"
     },
     {
-      "id": "project_7ae8ceaacce8",
-      "project_name": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
+      "id": "project_1759ed031fc4",
+      "project_name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "summary": "Powerful content editor for people who aren’t editors",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T02:06:54Z",
-      "updated_at": "2026-11-13T16:27:50Z",
+      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T11:56:03Z",
+      "updated_at": "2026-11-13T20:49:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T16:31:08.381862Z"
+      "observed_at": "2026-11-13T20:56:12.967257Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T16:30:12.406787Z"
+      "observed_at": "2026-11-13T20:55:25.951052Z"
     },
     {
-      "id": "project_1759ed031fc4",
-      "project_name": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
-      "summary": "Powerful content editor for people who aren’t editors",
+      "id": "project_7ae8ceaacce8",
+      "project_name": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T11:56:03Z",
-      "updated_at": "2026-11-13T16:26:18Z",
+      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T02:06:54Z",
+      "updated_at": "2026-11-13T20:54:30Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T16:31:08.381862Z"
+      "observed_at": "2026-11-13T20:56:12.967257Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 3352,
+      "duration_ms": 272,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 122,
+      "item_count": 50,
+      "duration_ms": 114,
       "error": null
     }
   ]
