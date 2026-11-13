@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-11-13T08:06:57.250059Z",
+  "generated_at": "2026-11-13T13:10:59.312941Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
+    {
+      "id": "project_f7cfdfd7bcc3",
+      "project_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
+      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-11-13T13:10:02.842286Z"
+    },
+    {
+      "id": "project_eb66c34e41d9",
+      "project_name": "Gemini 4 Hydrogen",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "summary": "Fast agentic development for coders",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「Fast agentic development for coders」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Fast agentic development for coders\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T18:37:12Z",
+      "updated_at": "2026-11-13T13:09:01Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-13T13:10:48.027683Z"
+    },
     {
       "id": "project_65f8a2e3eddb",
       "project_name": "openai/codex-security",
@@ -15,49 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T08:05:54.284913Z"
+      "observed_at": "2026-11-13T13:10:02.842286Z"
     },
     {
-      "id": "project_de28bd093fa9",
-      "project_name": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
+      "id": "project_26974fd606da",
+      "project_name": "Aven App Agent",
+      "url": "https://www.producthunt.com/products/aven-app-agent",
+      "summary": "AI that guides users through your app",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Spike alerts for your keywords in Telegram, Claude, ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Spike alerts for your keywords in Telegram, Claude, ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T18:54:12Z",
-      "updated_at": "2026-11-13T08:05:48Z",
+      "recommend_reason_zh": "体验它主打的「AI that guides users through your app」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI that guides users through your app\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-11T22:12:11Z",
+      "updated_at": "2026-11-13T12:45:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T08:06:43.100198Z"
-    },
-    {
-      "id": "project_5ad23f0e2e10",
-      "project_name": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "summary": "An open-source AI coding agent that lives in your terminal.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「An open-source AI coding agent that lives in your terminal」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"An open-source AI coding agent that lives in your terminal\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-13T08:05:54.284913Z"
-    },
-    {
-      "id": "project_1759ed031fc4",
-      "project_name": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
-      "summary": "Powerful content editor for people who aren’t editors",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T11:56:03Z",
-      "updated_at": "2026-11-13T08:05:33Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T08:06:43.100198Z"
+      "observed_at": "2026-11-13T13:10:48.027683Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 1447,
+      "item_count": 12,
+      "duration_ms": 1278,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 80,
+      "duration_ms": 118,
       "error": null
     }
   ]
