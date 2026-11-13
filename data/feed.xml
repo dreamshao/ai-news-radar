@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 20:55:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:41:48 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -112,14 +112,6 @@
 <pubDate>Fri, 13 Nov 2026 13:10:02 +0000</pubDate>
 </item>
 <item>
-<title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
-<link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
-</item>
-<item>
 <title>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任</title>
 <link>https://www.aibase.com/news/32321</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32321</guid>
@@ -144,12 +136,12 @@
 <pubDate>Fri, 13 Nov 2026 13:10:02 +0000</pubDate>
 </item>
 <item>
-<title>Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk</title>
-<link>https://www.producthunt.com/products/claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
-<description>Add Claude to your call and get work started as you talk（Product Hunt）</description>
+<title>Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors</title>
+<link>https://www.producthunt.com/products/templify</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/templify</guid>
+<description>Powerful content editor for people who aren’t editors（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Fri, 13 Nov 2026 20:53:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 22:40:49 +0000</pubDate>
 </item>
 <item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
@@ -166,6 +158,14 @@
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
 <pubDate>Fri, 13 Nov 2026 13:10:02 +0000</pubDate>
+</item>
+<item>
+<title>《拒绝低劣的AI：一份宣言》</title>
+<link>https://www.slopmanifesto.com</link>
+<guid isPermaLink="true">https://www.slopmanifesto.com</guid>
+<description>www.slopmanifesto.com</description>
+<category>多源热议</category>
+<pubDate>Fri, 13 Nov 2026 21:53:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
