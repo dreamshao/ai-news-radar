@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:26:13.530790Z",
+  "generated_at": "2026-11-15T12:47:12.011387Z",
   "date": "2026-11-15",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T09:25:25.479738Z"
+      "observed_at": "2026-11-15T12:46:29.509706Z"
     },
     {
       "id": "project_f63804c89783",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Run a team of AI agents from a pixel-art office」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Run a team of AI agents from a pixel-art office\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-12T16:47:12Z",
-      "updated_at": "2026-11-15T09:26:01Z",
+      "updated_at": "2026-11-15T12:22:51Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T09:26:03.037765Z"
+      "observed_at": "2026-11-15T12:47:02.548875Z"
     },
     {
       "id": "project_a67bb8d2a6b4",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T09:25:25.479738Z"
+      "observed_at": "2026-11-15T12:46:29.509706Z"
     },
     {
-      "id": "project_4f2f7a29e388",
-      "project_name": "Talyn",
-      "url": "https://www.producthunt.com/products/talyn",
-      "summary": "Run Claude Code and Codex in parallel cloud sandboxes",
+      "id": "project_1e4697a88d79",
+      "project_name": "Rakazo",
+      "url": "https://www.producthunt.com/products/rakazo",
+      "summary": "The open source Grok Bot alternative you actually own",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Run Claude Code and Codex in parallel cloud sandboxes」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Run Claude Code and Codex in parallel cloud sandboxes\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T10:07:59Z",
-      "updated_at": "2026-11-15T09:26:01Z",
+      "recommend_reason_zh": "体验它主打的「The open source Grok Bot alternative you actually own」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The open source Grok Bot alternative you actually own\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T18:46:58Z",
+      "updated_at": "2026-11-15T12:46:00Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T09:26:03.037765Z"
+      "observed_at": "2026-11-15T12:47:02.548875Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1340,
+      "duration_ms": 1308,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 257,
+      "duration_ms": 125,
       "error": null
     }
   ]
