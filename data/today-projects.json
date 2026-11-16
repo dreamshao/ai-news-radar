@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:53:56.751892Z",
+  "generated_at": "2026-11-16T02:46:52.976481Z",
   "date": "2026-11-16",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T21:52:50.473960Z"
+      "observed_at": "2026-11-16T02:46:05.829581Z"
     },
     {
-      "id": "project_10c8dceaf1b5",
-      "project_name": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2",
-      "summary": "AI that grows your business alongside your team",
+      "id": "project_f63804c89783",
+      "project_name": "Pixel Office",
+      "url": "https://www.producthunt.com/products/pixel-office-3",
+      "summary": "Run a team of AI agents from a pixel-art office",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI that grows your business alongside your team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI that grows your business alongside your team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-10T05:18:49Z",
-      "updated_at": "2026-11-15T21:39:15Z",
+      "recommend_reason_zh": "体验它主打的「Run a team of AI agents from a pixel-art office」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run a team of AI agents from a pixel-art office\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T16:47:12Z",
+      "updated_at": "2026-11-15T23:55:00Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T21:53:45.283791Z"
+      "observed_at": "2026-11-16T02:46:42.914459Z"
     },
     {
       "id": "project_52adf762d407",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T21:52:50.473960Z"
+      "observed_at": "2026-11-16T02:46:05.829581Z"
     },
     {
       "id": "project_59d02fcf4067",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「AI note taker for meetings & lectures. No bot on your calls」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"AI note taker for meetings & lectures. No bot on your calls\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-07T11:57:13Z",
-      "updated_at": "2026-11-15T19:52:27Z",
+      "updated_at": "2026-11-16T02:02:43Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T21:53:45.283791Z"
+      "observed_at": "2026-11-16T02:46:42.914459Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1256,
+      "duration_ms": 306,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 128,
+      "duration_ms": 171,
       "error": null
     }
   ]
