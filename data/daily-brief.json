@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:16:58.976054Z",
+  "generated_at": "2026-11-17T14:28:51.462253Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -58,11 +58,28 @@
           "published_at": "2026-11-16T18:12:48Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "14578751bbc58b30cfcc7987945d772d3eddcbba",
+          "title": "加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse",
+          "title_zh": "加强打击网络儿童性虐待的力度",
+          "title_en": "Strengthening the fight against online child sexual abuse",
+          "title_original": "Strengthening the fight against online child sexual abuse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T18:12:48Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "OpenAI News",
         "openai.com"
       ],
@@ -114,20 +131,36 @@
           "published_at": "2026-11-16T18:12:48Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "14578751bbc58b30cfcc7987945d772d3eddcbba",
+          "title": "加强打击网络儿童性虐待的力度 / Strengthening the fight against online child sexual abuse",
+          "title_zh": "加强打击网络儿童性虐待的力度",
+          "title_en": "Strengthening the fight against online child sexual abuse",
+          "title_original": "Strengthening the fight against online child sexual abuse",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-16T18:12:48Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.879,
+      "importance": 0.879,
+      "importance_score": 0.879,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7905,
-        "story_heat": 0.5
+        "recency": 0.7333,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -154,7 +187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -206,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8445,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,113 +274,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
-      "story_id": "story_bb9233c09d3b",
-      "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-      "primary_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-          "title_en": "New Ask Maps features to help with holiday travel and prep",
-          "title_original": "New Ask Maps features to help with holiday travel and prep",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-          "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-          "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-          "title_en": "New Ask Maps features to help with holiday travel and prep",
-          "title_original": "New Ask Maps features to help with holiday travel and prep",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7569,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T14:00:00Z",
-      "latest_at": "2026-11-16T14:00:00Z",
-      "primary_item": {
-        "id": "50cf4e7e045e2ef8265ecea5b06004ae9e3d4230",
-        "title": "新的“Ask Maps”功能可帮助您进行假期旅行和准备 / New Ask Maps features to help with holiday travel and prep",
-        "title_zh": "新的“Ask Maps”功能可帮助您进行假期旅行和准备",
-        "title_en": "New Ask Maps features to help with holiday travel and prep",
-        "title_original": "New Ask Maps features to help with holiday travel and prep",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
-      }
-    },
-    {
-      "story_id": "story_49384d4c148d",
-      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "story_id": "story_e05c122d19a4",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -362,14 +308,14 @@
       ],
       "items": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -380,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8745,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,14 +346,14 @@
       "earliest_at": "2026-11-17T00:00:00Z",
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-        "title_zh": "利用人工智能加强北约和盟国的网络防御",
-        "title_en": "Strengthening NATO and allied cyber defenses with AI",
-        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+        "title": "Introducing OpenAI for Chile",
+        "title_zh": null,
+        "title_en": "Introducing OpenAI for Chile",
+        "title_original": "Introducing OpenAI for Chile",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -415,180 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
-      }
-    },
-    {
-      "story_id": "story_7e6875842a45",
-      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "title_zh": "Dependabot 警报驳回请求已过去一年",
-          "title_en": "Dependabot alert dismissal requests now last one year",
-          "title_original": "Dependabot alert dismissal requests now last one year",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "title_zh": "Dependabot 警报驳回请求已过去一年",
-          "title_en": "Dependabot alert dismissal requests now last one year",
-          "title_original": "Dependabot alert dismissal requests now last one year",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:09:27Z",
-      "latest_at": "2026-11-17T00:09:27Z",
-      "primary_item": {
-        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-        "title_zh": "Dependabot 警报驳回请求已过去一年",
-        "title_en": "Dependabot alert dismissal requests now last one year",
-        "title_original": "Dependabot alert dismissal requests now last one year",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
-      }
-    },
-    {
-      "story_id": "story_ffa281130f35",
-      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-      "url": "https://www.aibase.com/news/32354",
-      "primary_url": "https://www.aibase.com/news/32354",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T09:16:58.976054Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T09:16:58.976054Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T09:16:58.976054Z",
-      "latest_at": "2026-11-17T09:16:58.976054Z",
-      "primary_item": {
-        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-        "title_en": null,
-        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32354",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -640,15 +413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8305,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -675,30 +448,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
-      "story_id": "story_720d3cffff4a",
-      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
+          "published_at": "2026-11-17T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -709,33 +482,33 @@
       ],
       "items": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
+          "published_at": "2026-11-17T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7905,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,17 +517,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T17:00:00Z",
-      "latest_at": "2026-11-16T17:00:00Z",
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-        "title_zh": "扩大科学家使用人工智能的机会",
-        "title_en": "Broadening access to AI for scientists",
-        "title_original": "Broadening access to AI for scientists",
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -762,7 +535,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
+      }
+    },
+    {
+      "story_id": "story_ffa281130f35",
+      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+      "url": "https://www.aibase.com/news/32354",
+      "primary_url": "https://www.aibase.com/news/32354",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_en": null,
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T09:16:58.976054Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_en": null,
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T09:16:58.976054Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9277,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T09:16:58.976054Z",
+      "latest_at": "2026-11-17T09:16:58.976054Z",
+      "primary_item": {
+        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_en": null,
+        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32354",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T14:30:06.485873Z"
+      }
+    },
+    {
+      "story_id": "story_7e6875842a45",
+      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "title_zh": "Dependabot 警报驳回请求已过去一年",
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "title_zh": "Dependabot 警报驳回请求已过去一年",
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:09:27Z",
+      "latest_at": "2026-11-17T00:09:27Z",
+      "primary_item": {
+        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+        "title_zh": "Dependabot 警报驳回请求已过去一年",
+        "title_en": "Dependabot alert dismissal requests now last one year",
+        "title_original": "Dependabot alert dismissal requests now last one year",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -814,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -900,15 +846,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8232,
+        "recency": 0.7637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -935,30 +881,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
-      "story_id": "story_83c01ad63559",
-      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "primary_url": "https://openai.com/index/science-at-the-frontier",
+      "story_id": "story_720d3cffff4a",
+      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -969,33 +915,33 @@
       ],
       "items": [
         {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7354,
+        "ai_relevance": 0.91,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,17 +950,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T12:00:00Z",
-      "latest_at": "2026-11-16T12:00:00Z",
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
       "primary_item": {
-        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-        "title_en": "Science at the Frontier: How scientists use ChatGPT",
-        "title_original": "Science at the Frontier: How scientists use ChatGPT",
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+        "title_zh": "扩大科学家使用人工智能的机会",
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/science-at-the-frontier",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1022,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1074,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1054,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1160,15 +1106,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8437,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1195,94 +1141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
-      }
-    },
-    {
-      "story_id": "story_52922842e062",
-      "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "primary_url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T09:30:00Z",
-      "latest_at": "2026-11-16T09:30:00Z",
-      "primary_item": {
-        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-        "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-        "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-        "title_en": "How Revolut raises ambition without lowering the bar",
-        "title_original": "How Revolut raises ambition without lowering the bar",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1334,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,7 +1227,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1420,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8181,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1455,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1507,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1659,15 +1518,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6373,
-      "importance": 0.6373,
-      "importance_score": 0.6373,
+      "score": 0.6269,
+      "importance": 0.6269,
+      "importance_score": 0.6269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7975,
+        "recency": 0.7398,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1692,7 +1551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1744,15 +1603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7773,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1779,7 +1638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     },
     {
@@ -1831,15 +1690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1865,7 +1724,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T09:18:12.956994Z"
+        "scored_at": "2026-11-17T14:30:06.485873Z"
+      }
+    },
+    {
+      "story_id": "story_7074c8777a54",
+      "title": "cursor/plugins — Cursor 插件规范与官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+      "url": "https://github.com/cursor/plugins",
+      "primary_url": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+          "title": "cursor/plugins — Cursor 插件规范与官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+          "title_zh": "cursor/plugins — Cursor 插件规范与官方插件",
+          "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+          "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+          "summary": "Cursor plugin specification and official plugins",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "title_zh": "光标/插件",
+          "title_en": "cursor /      plugins",
+          "title_original": "cursor /      plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T14:16:00.808000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+          "title": "cursor/plugins — Cursor 插件规范与官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+          "title_zh": "cursor/plugins — Cursor 插件规范与官方插件",
+          "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+          "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+          "summary": "Cursor plugin specification and official plugins",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "title_zh": "光标/插件",
+          "title_en": "cursor /      plugins",
+          "title_original": "cursor /      plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T14:16:00.808000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-17T14:16:00.808000Z",
+      "latest_at": "2026-11-17T14:28:51.462253Z",
+      "primary_item": {
+        "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+        "title": "cursor/plugins — Cursor 插件规范与官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+        "title_zh": "cursor/plugins — Cursor 插件规范与官方插件",
+        "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+        "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+        "summary": "Cursor plugin specification and official plugins",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T14:30:06.485873Z"
+      }
+    },
+    {
+      "story_id": "story_ac31253bf080",
+      "title": "OpenAI 将聘请安全研究人员调查 AI 颠覆 / OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "primary_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f92b200692c37737a2a6753c5f77d149bf8c2be4",
+          "title": "OpenAI 将聘请安全研究人员调查 AI 颠覆 / OpenAI will embed safety researchers to investigate AI subversion",
+          "title_zh": "OpenAI 将聘请安全研究人员调查 AI 颠覆",
+          "title_en": "OpenAI will embed safety researchers to investigate AI subversion",
+          "title_original": "OpenAI will embed safety researchers to investigate AI subversion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:02:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a0ff298c74294c7b0e4b5431f1db00f898172b9e",
+          "title": "OpenAI将嵌入阿波罗研究人员调查AI颠覆 / OpenAI will embed Apollo researchers to investigate AI subversion",
+          "title_zh": "OpenAI将嵌入阿波罗研究人员调查AI颠覆",
+          "title_en": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "title_original": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T17:02:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f92b200692c37737a2a6753c5f77d149bf8c2be4",
+          "title": "OpenAI 将聘请安全研究人员调查 AI 颠覆 / OpenAI will embed safety researchers to investigate AI subversion",
+          "title_zh": "OpenAI 将聘请安全研究人员调查 AI 颠覆",
+          "title_en": "OpenAI will embed safety researchers to investigate AI subversion",
+          "title_original": "OpenAI will embed safety researchers to investigate AI subversion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:02:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a0ff298c74294c7b0e4b5431f1db00f898172b9e",
+          "title": "OpenAI将嵌入阿波罗研究人员调查AI颠覆 / OpenAI will embed Apollo researchers to investigate AI subversion",
+          "title_zh": "OpenAI将嵌入阿波罗研究人员调查AI颠覆",
+          "title_en": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "title_original": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T17:02:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.7338,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-16T17:02:43Z",
+      "latest_at": "2026-11-16T17:02:43Z",
+      "primary_item": {
+        "id": "f92b200692c37737a2a6753c5f77d149bf8c2be4",
+        "title": "OpenAI 将聘请安全研究人员调查 AI 颠覆 / OpenAI will embed safety researchers to investigate AI subversion",
+        "title_zh": "OpenAI 将聘请安全研究人员调查 AI 颠覆",
+        "title_en": "OpenAI will embed safety researchers to investigate AI subversion",
+        "title_original": "OpenAI will embed safety researchers to investigate AI subversion",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T14:30:06.485873Z"
       }
     }
   ]
