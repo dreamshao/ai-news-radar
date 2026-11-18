@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 04:26:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 08:36:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -48,12 +48,12 @@
 <pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
 </item>
 <item>
-<title>Introducing ChatGPT for Sales</title>
-<link>https://openai.com/index/introducing-chatgpt-for-sales</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-for-sales</guid>
-<description>Introducing ChatGPT for Sales (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+<title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
+<link>https://www.aibase.com/news/32379</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32379</guid>
+<description>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot Evals is now in public preview</title>
@@ -64,20 +64,12 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
-<link>https://www.aibase.com/news/32366</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
-<description>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击 (AIbase)</description>
+<title>Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面</title>
+<link>https://www.aibase.com/news/32378</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32378</guid>
+<description>Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公</title>
-<link>https://www.aibase.com/news/32367</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32367</guid>
-<description>OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot app, Microsoft Ignite releases</title>
@@ -88,12 +80,12 @@
 <pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
 </item>
 <item>
-<title>代码"ANT"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元</title>
-<link>https://www.aibase.com/news/32362</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32362</guid>
-<description>代码"ANT"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元 (AIbase)</description>
+<title>免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉</title>
+<link>https://www.aibase.com/news/32383</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32383</guid>
+<description>免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>Copilot code review: Adaptive effort, secret detection, and more</title>
@@ -104,12 +96,28 @@
 <pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
-<title>宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场</title>
-<link>https://www.aibase.com/news/32372</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32372</guid>
-<description>宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场 (AIbase)</description>
+<title>总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线</title>
+<link>https://www.aibase.com/news/32381</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32381</guid>
+<description>总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+<description>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
+</item>
+<item>
+<title>曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万</title>
+<link>https://www.aibase.com/news/32377</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32377</guid>
+<description>曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot in JetBrains, Ignite releases</title>
@@ -120,12 +128,12 @@
 <pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
-<title>微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识</title>
-<link>https://www.aibase.com/news/32368</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32368</guid>
-<description>微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识 (AIbase)</description>
+<title>特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere</title>
+<link>https://www.aibase.com/news/32382</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32382</guid>
+<description>特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
@@ -136,20 +144,12 @@
 <pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半</title>
-<link>https://www.aibase.com/news/32373</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32373</guid>
-<description>微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半 (AIbase)</description>
+<title>腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载</title>
+<link>https://www.aibase.com/news/32380</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32380</guid>
+<description>腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
-</item>
-<item>
-<title>Monitor GitHub Copilot activity through Microsoft Agent 365</title>
-<link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
-<description>Monitor GitHub Copilot activity through Microsoft Agent 365 (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:36:28 +0000</pubDate>
 </item>
 <item>
 <title>Agents API by Recall.ai — Send your agent to meetings</title>
@@ -160,12 +160,12 @@
 <pubDate>Wed, 18 Nov 2026 04:00:04 +0000</pubDate>
 </item>
 <item>
-<title>微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一</title>
-<link>https://www.aibase.com/news/32374</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32374</guid>
-<description>微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 04:26:14 +0000</pubDate>
+<title>Track Copilot code review outcomes in Repository insights</title>
+<link>https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</guid>
+<description>Track Copilot code review outcomes in Repository insights (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
