@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 21:59:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 23:25:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>Gemini 4 Neon in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot</guid>
+<description>Gemini 4 Neon in GitHub Copilot (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 21:49:21 +0000</pubDate>
+</item>
 <item>
 <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
 <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
@@ -32,14 +40,6 @@
 <pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Customize GitHub Copilot for your team</title>
-<link>https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team</guid>
-<description>Customize GitHub Copilot for your team (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 16:00:13 +0000</pubDate>
-</item>
-<item>
 <title>Advancing chip design with OpenAI models</title>
 <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
 <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
@@ -54,6 +54,14 @@
 <description>Why your fine-tuning job takes longer than the FLOPs say (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
+</item>
+<item>
+<title>Connect Supabase, Box, Calendly, and more to Copilot</title>
+<link>https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot</guid>
+<description>Connect Supabase, Box, Calendly, and more to Copilot (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 22:04:50 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.170.0</title>
@@ -80,20 +88,20 @@
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Security risk assessments run automatically on GitHub Team</title>
-<link>https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</guid>
-<description>Security risk assessments run automatically on GitHub Team (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
-</item>
-<item>
 <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
 <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
 <description>Time-Series Models in the Streamhouse: A New Frontier and Use Cases (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
+</item>
+<item>
+<title>Customize GitHub Copilot for your team</title>
+<link>https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team</guid>
+<description>Customize GitHub Copilot for your team (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 16:00:13 +0000</pubDate>
 </item>
 <item>
 <title>The Silent Consensus</title>
@@ -112,6 +120,14 @@
 <pubDate>Wed, 18 Nov 2026 14:04:09 +0000</pubDate>
 </item>
 <item>
+<title>Security risk assessments run automatically on GitHub Team</title>
+<link>https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</guid>
+<description>Security risk assessments run automatically on GitHub Team (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
+</item>
+<item>
 <title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
 <link>https://huggingface.co/blog/moe-expert-streaming</link>
 <guid isPermaLink="true">https://huggingface.co/blog/moe-expert-streaming</guid>
@@ -120,12 +136,12 @@
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Managing frontier AI risk: From training to deployment</title>
-<link>https://openai.com/index/managing-frontier-ai-risk</link>
-<guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
-<description>Managing frontier AI risk: From training to deployment (OpenAI News)</description>
+<title>Research acceleration: The jagged frontier</title>
+<link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+<guid isPermaLink="true">https://openai.com/index/research-acceleration-jagged-frontier</guid>
+<description>Research acceleration: The jagged frontier (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”</title>
@@ -136,12 +152,12 @@
 <pubDate>Wed, 18 Nov 2026 14:04:09 +0000</pubDate>
 </item>
 <item>
-<title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
-<description>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT (OpenAI News)</description>
+<title>Managing frontier AI risk: From training to deployment</title>
+<link>https://openai.com/index/managing-frontier-ai-risk</link>
+<guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
+<description>Managing frontier AI risk: From training to deployment (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
@@ -150,22 +166,6 @@
 <description>Rumble-2-Flash: an open 0.5B speech model for 40+ languages (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单</title>
-<link>https://www.aibase.com/news/32389</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32389</guid>
-<description>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 14:04:09 +0000</pubDate>
-</item>
-<item>
-<title>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%</title>
-<link>https://www.aibase.com/news/32385</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32385</guid>
-<description>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35% (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 14:04:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
