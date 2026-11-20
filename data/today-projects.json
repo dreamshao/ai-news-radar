@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:38:10.407827Z",
+  "generated_at": "2026-11-20T04:02:02.207966Z",
   "date": "2026-11-20",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T23:37:15.400905Z"
+      "observed_at": "2026-11-20T03:59:54.740880Z"
     },
     {
-      "id": "project_d0421216fb9a",
-      "project_name": "HeyGen Avatar 6",
-      "url": "https://www.producthunt.com/products/heygen",
-      "summary": "AI Avatar Model That Looks Like You",
+      "id": "project_59c9722c5ea3",
+      "project_name": "Ableten Hybrid AI Travel Planner",
+      "url": "https://www.producthunt.com/products/ableten-source-library",
+      "summary": "Get your group on the same map.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI Avatar Model That Looks Like You」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI Avatar Model That Looks Like You\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-18T12:03:30Z",
-      "updated_at": "2026-11-19T23:14:17Z",
+      "recommend_reason_zh": "体验它主打的「Get your group on the same map」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Get your group on the same map\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-08-19T06:21:46Z",
+      "updated_at": "2026-11-20T03:34:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T23:37:58.984109Z"
+      "observed_at": "2026-11-20T04:01:50.948463Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T23:37:15.400905Z"
+      "observed_at": "2026-11-20T03:59:54.740880Z"
     },
     {
-      "id": "project_268b539330ef",
-      "project_name": "Teaflask",
-      "url": "https://www.producthunt.com/products/teaflask",
-      "summary": "Self-improving AI copilot for your app. No backend changes.",
+      "id": "project_6ca481a23918",
+      "project_name": "Manufact",
+      "url": "https://www.producthunt.com/products/manufact",
+      "summary": "Ship and test your MCP to every plugin marketplace",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Self-improving AI copilot for your app. No backend changes」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Self-improving AI copilot for your app. No backend changes\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T16:27:48Z",
-      "updated_at": "2026-11-19T23:31:04Z",
+      "recommend_reason_zh": "体验它主打的「Ship and test your MCP to every plugin marketplace」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Ship and test your MCP to every plugin marketplace\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T01:42:17Z",
+      "updated_at": "2026-11-20T03:41:13Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T23:37:58.984109Z"
+      "observed_at": "2026-11-20T04:01:50.948463Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 223,
+      "duration_ms": 299,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 130,
+      "item_count": 50,
+      "duration_ms": 107,
       "error": null
     }
   ]
