@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 03:59:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 08:38:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Codex CLI 0.171.0</title>
@@ -16,14 +16,6 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
-</item>
-<item>
 <title>Introducing Tool Retrieval in the Gemini API</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
@@ -32,12 +24,12 @@
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-<link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-<guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
-<description>How OpenAI’s Performance Factory keeps ChatGPT fast (OpenAI News)</description>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>Enterprise Live Migrations from Azure DevOps generally available</title>
@@ -56,12 +48,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
-<link>https://www.aibase.com/news/32422</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
-<description>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张 (AIbase)</description>
+<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
+<link>https://www.aibase.com/news/32446</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
+<description>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检” (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
 <title>Red Hat Enterprise Linux runner images now generally available</title>
@@ -72,44 +64,36 @@
 <pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元</title>
-<link>https://www.aibase.com/news/32420</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32420</guid>
-<description>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元 (AIbase)</description>
+<title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
+<link>https://www.aibase.com/news/32437</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
+<description>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
-<title>S3 audit log streaming with OpenID Connect expands to GHE.com</title>
-<link>https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</guid>
-<description>S3 audit log streaming with OpenID Connect expands to GHE.com (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 08:27:16 +0000</pubDate>
+<title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
+<link>https://www.aibase.com/news/32443</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
+<description>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送</title>
-<link>https://www.aibase.com/news/32418</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32418</guid>
-<description>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送 (AIbase)</description>
+<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
+<link>https://www.aibase.com/news/32436</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
+<description>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
-<title>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒</title>
-<link>https://www.aibase.com/news/32428</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32428</guid>
-<description>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒 (AIbase)</description>
+<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
+<link>https://www.aibase.com/news/32441</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32441</guid>
+<description>先办学后造车的李书福：AI 时代将诞生一批新型大学 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
-</item>
-<item>
-<title>Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成</title>
-<link>https://www.aibase.com/news/32424</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32424</guid>
-<description>Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic’s IPO could deliver $156B to charity</title>
@@ -120,12 +104,12 @@
 <pubDate>Thu, 19 Nov 2026 19:10:45 +0000</pubDate>
 </item>
 <item>
-<title>Meta AI 可穿戴设备 Muse Charm 据悉定价300美元</title>
-<link>https://www.aibase.com/news/32425</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32425</guid>
-<description>Meta AI 可穿戴设备 Muse Charm 据悉定价300美元 (AIbase)</description>
+<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
+<link>https://www.aibase.com/news/32439</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32439</guid>
+<description>先办学后造车的李书福：AI 时代将诞生一批新型大学 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
@@ -136,6 +120,14 @@
 <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
 </item>
 <item>
+<title>天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前</title>
+<link>https://www.aibase.com/news/32442</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32442</guid>
+<description>天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 4 Neon — Frontier reasoning with faster task completion</title>
 <link>https://www.producthunt.com/products/gemini-6</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
@@ -144,20 +136,28 @@
 <pubDate>Fri, 20 Nov 2026 03:50:06 +0000</pubDate>
 </item>
 <item>
-<title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
-<link>https://www.aibase.com/news/32431</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
-<description>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 03:59:54 +0000</pubDate>
-</item>
-<item>
 <title>Blue Origin will launch Google&amp;#8217;s AI server satellites in 2029</title>
 <link>https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029</guid>
 <description>Blue Origin will launch Google&amp;#8217;s AI server satellites in 2029 (The Verge)</description>
 <category>Worth watching</category>
 <pubDate>Thu, 19 Nov 2026 13:53:38 +0000</pubDate>
+</item>
+<item>
+<title>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]</title>
+<link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
+<description>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] (www.youtube.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 20 Nov 2026 07:21:53 +0000</pubDate>
+</item>
+<item>
+<title>敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设</title>
+<link>https://www.aibase.com/news/32438</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32438</guid>
+<description>敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 08:38:30 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Neon 荣登《Models Engineering》指数榜首</title>
