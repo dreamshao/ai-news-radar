@@ -5,23 +5,15 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 20:33:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:13:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>Security advisory permissions are now generally available</title>
-<link>https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</guid>
-<description>Security advisory permissions are now generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 21:49:29 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Enterprise Server 3.23 release candidate</title>
-<link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
-<description>GitHub Enterprise Server 3.23 release candidate (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
+<title>AlterContacts — AI client relationship assistant that thinks and does ahead</title>
+<link>https://www.producthunt.com/products/alter-contacts-ai-client-relationships</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/alter-contacts-ai-client-relationships</guid>
+<description>AI client relationship assistant that thinks and does ahead (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 21 Nov 2026 22:09:48 +0000</pubDate>
 </item>
 <item>
 <title>AI Context Flow MCP — Memory you control, synced to every agent, tool and team</title>
@@ -29,15 +21,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/ai-context-flow</guid>
 <description>Memory you control, synced to every agent, tool and team (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 21 Nov 2026 20:23:26 +0000</pubDate>
-</item>
-<item>
-<title>Prompt Puncher — The AI CEO Fighting Game</title>
-<link>https://www.producthunt.com/products/prompt-puncher</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/prompt-puncher</guid>
-<description>The AI CEO Fighting Game (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 21 Nov 2026 20:13:32 +0000</pubDate>
+<pubDate>Sat, 21 Nov 2026 21:55:35 +0000</pubDate>
 </item>
 <item>
 <title>ClawDOS——一款适用于DOS的人工智能编程代理</title>
@@ -48,20 +32,12 @@
 <pubDate>Sat, 21 Nov 2026 13:07:54 +0000</pubDate>
 </item>
 <item>
-<title>AlterContacts — AI client relationship assistant that thinks and does ahead</title>
-<link>https://www.producthunt.com/products/alter-contacts-ai-client-relationships</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/alter-contacts-ai-client-relationships</guid>
-<description>AI client relationship assistant that thinks and does ahead (Product Hunt)</description>
+<title>Prompt Puncher — The AI CEO Fighting Game</title>
+<link>https://www.producthunt.com/products/prompt-puncher</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/prompt-puncher</guid>
+<description>The AI CEO Fighting Game (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 21 Nov 2026 20:10:35 +0000</pubDate>
-</item>
-<item>
-<title>AI may have solved the most important problem in mathematics</title>
-<link>https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</link>
-<guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</guid>
-<description>AI may have solved the most important problem in mathematics</description>
-<category>Worth watching</category>
-<pubDate>Fri, 20 Nov 2026 22:46:59 +0000</pubDate>
+<pubDate>Sat, 21 Nov 2026 21:29:36 +0000</pubDate>
 </item>
 <item>
 <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
@@ -70,14 +46,6 @@
 <description>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</description>
 <category>Worth watching</category>
 <pubDate>Fri, 20 Nov 2026 22:18:20 +0000</pubDate>
-</item>
-<item>
-<title>Leaky AI supply chain is exposing secret user data at an alarming rate</title>
-<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</guid>
-<description>Leaky AI supply chain is exposing secret user data at an alarming rate</description>
-<category>Worth watching</category>
-<pubDate>Fri, 20 Nov 2026 21:53:39 +0000</pubDate>
 </item>
 </channel>
 </rss>

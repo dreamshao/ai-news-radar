@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:34:09.639249Z",
+  "generated_at": "2026-11-21T22:14:18.954303Z",
   "date": "2026-11-22",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-21T20:33:15.393571Z"
+      "observed_at": "2026-11-21T22:13:06.552102Z"
     },
     {
-      "id": "project_85151084a82e",
-      "project_name": "gitroots",
-      "url": "https://www.producthunt.com/products/gitroots",
-      "summary": "Path-level GitHub access for developers and AI agents",
+      "id": "project_1315107fa5e0",
+      "project_name": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail",
+      "summary": "A fast Mac email app with AI that never leaves your Mac",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Path-level GitHub access for developers and AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Path-level GitHub access for developers and AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-20T13:22:16Z",
-      "updated_at": "2026-11-21T17:05:46Z",
+      "recommend_reason_zh": "体验它主打的「A fast Mac email app with AI that never leaves your Mac」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A fast Mac email app with AI that never leaves your Mac\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-14T15:57:43Z",
+      "updated_at": "2026-11-21T22:05:43Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-21T20:33:59.455152Z"
+      "observed_at": "2026-11-21T22:14:06.625875Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-21T20:33:15.393571Z"
+      "observed_at": "2026-11-21T22:13:06.552102Z"
     },
     {
-      "id": "project_d4599fa68f2a",
-      "project_name": "SuperMailbox",
-      "url": "https://www.producthunt.com/products/supermailbox",
-      "summary": "Your email in one inbox, ready for AI",
+      "id": "project_1d71aabba9a7",
+      "project_name": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "summary": "Google’s AI agent that ships fixes and watches the metric",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your email in one inbox, ready for AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your email in one inbox, ready for AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T11:45:31Z",
-      "updated_at": "2026-11-21T19:06:36Z",
+      "recommend_reason_zh": "体验它主打的「Google’s AI agent that ships fixes and watches the metric」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Google’s AI agent that ships fixes and watches the metric\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-20T19:38:38Z",
+      "updated_at": "2026-11-21T20:49:38Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-21T20:33:59.455152Z"
+      "observed_at": "2026-11-21T22:14:06.625875Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1488,
+      "duration_ms": 1354,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 152,
+      "duration_ms": 163,
       "error": null
     }
   ]
