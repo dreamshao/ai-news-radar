@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 20:44:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 22:29:43 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Perplexity and Intelligence</title>
@@ -32,20 +32,20 @@
 <pubDate>Sun, 22 Nov 2026 16:44:44 +0000</pubDate>
 </item>
 <item>
-<title>Pandex——基于MCP的欧洲人工智能代理官方法律</title>
-<link>https://www.pandex.io</link>
-<guid isPermaLink="true">https://www.pandex.io</guid>
-<description>Pandex——基于MCP的欧洲人工智能代理官方法律 (www.pandex.io)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 22 Nov 2026 11:41:51 +0000</pubDate>
-</item>
-<item>
 <title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭</title>
 <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
 <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</guid>
 <description>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 (betterdatacenterproject.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
+</item>
+<item>
+<title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+<link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+<guid isPermaLink="true">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+<description>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</description>
+<category>Worth watching</category>
+<pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
 </item>
 <item>
 <title>“有意识的人工智能”的神话</title>
@@ -56,20 +56,28 @@
 <pubDate>Sun, 22 Nov 2026 14:37:43 +0000</pubDate>
 </item>
 <item>
-<title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
-<link>https://simonwillison.net/2026/Nov/21/muru</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/21/muru</guid>
-<description>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</description>
-<category>Worth watching</category>
-<pubDate>Sun, 22 Nov 2026 09:57:01 +0000</pubDate>
-</item>
-<item>
 <title>推理提供商上的数据处理事件</title>
 <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</guid>
 <description>推理提供商上的数据处理事件 (openrouter.ai)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 22 Nov 2026 07:28:01 +0000</pubDate>
+</item>
+<item>
+<title>Harvard CS 2881R AI Safety</title>
+<link>https://boazbk.github.io/mltheoryseminar</link>
+<guid isPermaLink="true">https://boazbk.github.io/mltheoryseminar</guid>
+<description>Harvard CS 2881R AI Safety</description>
+<category>Worth watching</category>
+<pubDate>Sun, 22 Nov 2026 18:01:54 +0000</pubDate>
+</item>
+<item>
+<title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
+<link>https://simonwillison.net/2026/Nov/21/muru</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/21/muru</guid>
+<description>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</description>
+<category>Worth watching</category>
+<pubDate>Sun, 22 Nov 2026 09:57:01 +0000</pubDate>
 </item>
 </channel>
 </rss>
