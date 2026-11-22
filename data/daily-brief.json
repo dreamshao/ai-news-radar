@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T03:13:43.219055Z",
+  "generated_at": "2026-11-22T09:45:54.044065Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_4ea94123d897",
@@ -24,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T10:25:12Z",
-          "updated_at": "2026-11-22T03:13:12Z",
+          "updated_at": "2026-11-22T09:43:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -62,7 +62,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T10:25:12Z",
-          "updated_at": "2026-11-22T03:13:12Z",
+          "updated_at": "2026-11-22T09:43:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -84,15 +84,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -100,7 +100,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-21T09:50:33Z",
-      "latest_at": "2026-11-22T03:13:12Z",
+      "latest_at": "2026-11-22T09:43:22Z",
       "primary_item": {
         "id": "c4798df028af915c09f28c4e891a2fcbe0d4dd9f",
         "title": "AlterContacts — 超前思考和行动的人工智能客户关系助理 / AlterContacts — AI client relationship assistant that thinks and does ahead",
@@ -117,7 +117,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T03:14:34.893737Z"
+        "scored_at": "2026-11-22T09:46:55.361151Z"
       }
     },
     {
@@ -141,7 +141,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T02:57:08Z",
+          "updated_at": "2026-11-22T09:23:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -180,7 +180,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T02:57:08Z",
+          "updated_at": "2026-11-22T09:23:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -202,15 +202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
+      "score": 0.5932,
+      "importance": 0.5932,
+      "importance_score": 0.5932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.996,
+        "recency": 0.9946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -218,7 +218,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-21T13:31:06.734000Z",
-      "latest_at": "2026-11-22T02:57:08Z",
+      "latest_at": "2026-11-22T09:23:15Z",
       "primary_item": {
         "id": "01e6968b4ddfaa57c7c3aefd035b2b2b174b5b24",
         "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -235,158 +235,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T03:14:34.893737Z"
+        "scored_at": "2026-11-22T09:46:55.361151Z"
       }
     },
     {
-      "story_id": "story_4fce2592a4ed",
-      "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-      "url": "http://ricapar.net/ClawDOS",
-      "primary_url": "http://ricapar.net/ClawDOS",
-      "source": "ricapar.net",
+      "story_id": "story_2f30e9bb3992",
+      "title": "推理提供商上的数据处理事件",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "primary_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "source": "openrouter.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "title_zh": "推理提供商上的数据处理事件",
           "title_en": null,
-          "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_original": "推理提供商上的数据处理事件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z",
+          "published_at": "2026-11-22T07:28:01.316000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "title_en": "ClawDOS – An AI coding agent for DOS",
-          "title_original": "ClawDOS – An AI coding agent for DOS",
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": "Data Processing Incidents on Inference Providers",
+          "title_original": "Data Processing Incidents on Inference Providers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T05:38:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "title_zh": "ClawDOS – DOS 的人工智能编码代理",
-          "title_en": "ClawDOS – An AI coding agent for DOS",
-          "title_original": "ClawDOS – An AI coding agent for DOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:14:14Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ricapar.net"
+        "Hacker News (黑客新闻)",
+        "openrouter.ai"
       ],
       "items": [
         {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "title_zh": "推理提供商上的数据处理事件",
           "title_en": null,
-          "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+          "title_original": "推理提供商上的数据处理事件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z",
+          "published_at": "2026-11-22T07:28:01.316000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "title_en": "ClawDOS – An AI coding agent for DOS",
-          "title_original": "ClawDOS – An AI coding agent for DOS",
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": "Data Processing Incidents on Inference Providers",
+          "title_original": "Data Processing Incidents on Inference Providers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T05:38:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "title_zh": "ClawDOS – DOS 的人工智能编码代理",
-          "title_en": "ClawDOS – An AI coding agent for DOS",
-          "title_original": "ClawDOS – An AI coding agent for DOS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:14:14Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8158,
-        "story_heat": 0.5
+        "recency": 0.9674,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T05:38:01Z",
-      "latest_at": "2026-11-21T13:07:54.916000Z",
+      "earliest_at": "2026-11-22T02:14:14Z",
+      "latest_at": "2026-11-22T07:28:01.316000Z",
       "primary_item": {
-        "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-        "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-        "title_zh": "ClawDOS——一款适用于DOS的人工智能编程代理",
+        "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+        "title": "推理提供商上的数据处理事件",
+        "title_zh": "推理提供商上的数据处理事件",
         "title_en": null,
-        "title_original": "ClawDOS——一款适用于DOS的人工智能编程代理",
+        "title_original": "推理提供商上的数据处理事件",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "http://ricapar.net/ClawDOS",
-        "source": "ricapar.net",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+        "source": "openrouter.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T03:14:34.893737Z"
+        "scored_at": "2026-11-22T09:46:55.361151Z"
+      }
+    },
+    {
+      "story_id": "story_37d59c42c05f",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "primary_url": "https://pwn.ai/upload2shell",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "title_zh": null,
+          "title_en": "Upload2Shell (CVE-2026-125396)",
+          "title_original": "Upload2Shell (CVE-2026-125396)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "title_zh": null,
+          "title_en": "Upload2Shell · CVE-2026-125396",
+          "title_original": "Upload2Shell · CVE-2026-125396",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "title_zh": null,
+          "title_en": "Upload2Shell (CVE-2026-125396)",
+          "title_original": "Upload2Shell (CVE-2026-125396)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "title_zh": null,
+          "title_en": "Upload2Shell · CVE-2026-125396",
+          "title_original": "Upload2Shell · CVE-2026-125396",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9416,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T18:29:29Z",
+      "latest_at": "2026-11-22T05:35:57.070000Z",
+      "primary_item": {
+        "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "title_zh": null,
+        "title_en": "Upload2Shell (CVE-2026-125396)",
+        "title_original": "Upload2Shell (CVE-2026-125396)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pwn.ai/upload2shell",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T09:46:55.361151Z"
       }
     },
     {
@@ -410,7 +495,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T02:26:21Z",
+          "updated_at": "2026-11-22T08:03:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -449,7 +534,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T02:26:21Z",
+          "updated_at": "2026-11-22T08:03:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -471,15 +556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5922,
-      "importance": 0.5922,
-      "importance_score": 0.5922,
+      "score": 0.5898,
+      "importance": 0.5898,
+      "importance_score": 0.5898,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.9756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -487,7 +572,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-21T13:31:06.734000Z",
-      "latest_at": "2026-11-22T02:26:21Z",
+      "latest_at": "2026-11-22T08:03:22Z",
       "primary_item": {
         "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
         "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
@@ -504,7 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T03:14:34.893737Z"
+        "scored_at": "2026-11-22T09:46:55.361151Z"
       }
     },
     {
@@ -589,15 +674,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9113,
+        "recency": 0.8292,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -622,7 +707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T03:14:34.893737Z"
+        "scored_at": "2026-11-22T09:46:55.361151Z"
       }
     }
   ]

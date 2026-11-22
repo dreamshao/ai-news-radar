@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:14:30.494989Z",
+  "generated_at": "2026-11-22T09:46:45.995194Z",
   "date": "2026-11-22",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-22T03:13:43.219055Z"
+      "observed_at": "2026-11-22T09:45:54.044065Z"
     },
     {
-      "id": "project_1315107fa5e0",
-      "project_name": "Glassmail",
-      "url": "https://www.producthunt.com/products/glassmail",
-      "summary": "A fast Mac email app with AI that never leaves your Mac",
+      "id": "project_052242070e3c",
+      "project_name": "Wispim",
+      "url": "https://www.producthunt.com/products/wispim-online-teleprompter",
+      "summary": "The teleprompter that follows your voice",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A fast Mac email app with AI that never leaves your Mac」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A fast Mac email app with AI that never leaves your Mac\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T15:57:43Z",
-      "updated_at": "2026-11-22T02:56:37Z",
+      "recommend_reason_zh": "体验它主打的「The teleprompter that follows your voice」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The teleprompter that follows your voice\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T16:46:59Z",
+      "updated_at": "2026-11-22T09:44:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-22T03:14:19.789215Z"
+      "observed_at": "2026-11-22T09:46:34.857182Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-22T03:13:43.219055Z"
+      "observed_at": "2026-11-22T09:45:54.044065Z"
     },
     {
-      "id": "project_bbea66717b2b",
-      "project_name": "AI Context Flow MCP",
-      "url": "https://www.producthunt.com/products/ai-context-flow",
-      "summary": "Memory you control, synced to every agent, tool and team",
+      "id": "project_aa247165c663",
+      "project_name": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "summary": "Your own team of AI on your desktop",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Memory you control, synced to every agent, tool and team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Memory you control, synced to every agent, tool and team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T14:46:21Z",
-      "updated_at": "2026-11-22T02:57:08Z",
+      "recommend_reason_zh": "体验它主打的「Your own team of AI on your desktop」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your own team of AI on your desktop\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-21T20:02:03Z",
+      "updated_at": "2026-11-22T09:45:53Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-22T03:14:19.789215Z"
+      "observed_at": "2026-11-22T09:46:34.857182Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1136,
+      "duration_ms": 1524,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 162,
+      "duration_ms": 124,
       "error": null
     }
   ]
