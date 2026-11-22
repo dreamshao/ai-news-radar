@@ -5,15 +5,15 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 09:45:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 13:24:01 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>AlterContacts — AI client relationship assistant that thinks and does ahead</title>
-<link>https://www.producthunt.com/products/alter-contacts-ai-client-relationships</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/alter-contacts-ai-client-relationships</guid>
-<description>AI client relationship assistant that thinks and does ahead (Product Hunt)</description>
+<title>mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.</title>
+<link>https://github.com/mjmirza/app-store-compliance</link>
+<guid isPermaLink="true">https://github.com/mjmirza/app-store-compliance</guid>
+<description>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. (GitHub Trending)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 22 Nov 2026 09:43:22 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 13:24:01 +0000</pubDate>
 </item>
 <item>
 <title>AI Context Flow MCP — Memory you control, synced to every agent, tool and team</title>
@@ -21,7 +21,39 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/ai-context-flow</guid>
 <description>Memory you control, synced to every agent, tool and team (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 22 Nov 2026 09:23:15 +0000</pubDate>
+<pubDate>Sun, 22 Nov 2026 13:15:46 +0000</pubDate>
+</item>
+<item>
+<title>Pandex——基于MCP的欧洲人工智能代理官方法律</title>
+<link>https://www.pandex.io</link>
+<guid isPermaLink="true">https://www.pandex.io</guid>
+<description>Pandex——基于MCP的欧洲人工智能代理官方法律 (www.pandex.io)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 22 Nov 2026 11:41:51 +0000</pubDate>
+</item>
+<item>
+<title>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭</title>
+<link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
+<guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</guid>
+<description>到2028年，Anthropic的电力将有87%来自天然气，11%来自煤炭 (betterdatacenterproject.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 22 Nov 2026 10:53:50 +0000</pubDate>
+</item>
+<item>
+<title>Prompt Puncher — The AI CEO Fighting Game</title>
+<link>https://www.producthunt.com/products/prompt-puncher</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/prompt-puncher</guid>
+<description>The AI CEO Fighting Game (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 22 Nov 2026 11:57:02 +0000</pubDate>
+</item>
+<item>
+<title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
+<link>https://simonwillison.net/2026/Nov/21/muru</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/21/muru</guid>
+<description>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</description>
+<category>Worth watching</category>
+<pubDate>Sun, 22 Nov 2026 09:57:01 +0000</pubDate>
 </item>
 <item>
 <title>推理提供商上的数据处理事件</title>
@@ -38,22 +70,6 @@
 <description>Upload2Shell (CVE-2026-125396) (pwn.ai)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 22 Nov 2026 05:35:57 +0000</pubDate>
-</item>
-<item>
-<title>Prompt Puncher — The AI CEO Fighting Game</title>
-<link>https://www.producthunt.com/products/prompt-puncher</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/prompt-puncher</guid>
-<description>The AI CEO Fighting Game (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 22 Nov 2026 08:03:22 +0000</pubDate>
-</item>
-<item>
-<title>Pandex – Official European Law for AI Agents, over MCP</title>
-<link>https://www.pandex.io</link>
-<guid isPermaLink="true">https://www.pandex.io</guid>
-<description>Pandex – Official European Law for AI Agents, over MCP</description>
-<category>Worth watching</category>
-<pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
