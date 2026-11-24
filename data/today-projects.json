@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T11:03:36.846796Z",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-24T21:16:56.712345Z",
+  "date": "2026-11-25",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T11:02:23.842672Z"
+      "observed_at": "2026-11-24T21:16:01.485378Z"
     },
     {
-      "id": "project_da0f99ea3690",
-      "project_name": "Astor",
-      "url": "https://www.producthunt.com/products/astor",
-      "summary": "AI Thesis Investing",
+      "id": "project_c6ccf7ffa604",
+      "project_name": "K-Stra",
+      "url": "https://www.producthunt.com/products/k-stra",
+      "summary": "Geomarketing for Australia, with an AI that does the maths",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI Thesis Investing」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI Thesis Investing\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-19T02:44:24Z",
-      "updated_at": "2026-11-24T11:02:52Z",
+      "recommend_reason_zh": "体验它主打的「Geomarketing for Australia, with an AI that does the maths」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Geomarketing for Australia, with an AI that does the maths\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-20T14:25:07Z",
+      "updated_at": "2026-11-24T18:27:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T11:03:24.257505Z"
+      "observed_at": "2026-11-24T21:16:46.435902Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T11:02:23.842672Z"
+      "observed_at": "2026-11-24T21:16:01.485378Z"
     },
     {
-      "id": "project_289f07b92459",
-      "project_name": "Cullman",
-      "url": "https://www.producthunt.com/products/cullman",
-      "summary": "Faster voice agent evals, from simulation to production",
+      "id": "project_da0f99ea3690",
+      "project_name": "Astor",
+      "url": "https://www.producthunt.com/products/astor",
+      "summary": "AI Thesis Investing",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Faster voice agent evals, from simulation to production」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Faster voice agent evals, from simulation to production\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-19T05:59:36Z",
-      "updated_at": "2026-11-24T11:02:51Z",
+      "recommend_reason_zh": "体验它主打的「AI Thesis Investing」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI Thesis Investing\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-19T02:44:24Z",
+      "updated_at": "2026-11-24T20:53:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T11:03:24.257505Z"
+      "observed_at": "2026-11-24T21:16:46.435902Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 243,
+      "duration_ms": 1570,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 137,
+      "duration_ms": 75,
       "error": null
     }
   ]
