@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:22:31.068860Z",
+  "generated_at": "2026-11-24T06:58:53.804457Z",
   "date": "2026-11-24",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T03:21:41.136527Z"
+      "observed_at": "2026-11-24T06:58:04.772699Z"
     },
     {
       "id": "project_b363e07e137e",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Set a budget, coordinate teams of AI agents,」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Set a budget, coordinate teams of AI agents,\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-22T17:13:25Z",
-      "updated_at": "2026-11-24T03:18:32Z",
+      "updated_at": "2026-11-24T06:50:41Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T03:22:19.205072Z"
+      "observed_at": "2026-11-24T06:58:42.168637Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T03:21:41.136527Z"
+      "observed_at": "2026-11-24T06:58:04.772699Z"
     },
     {
-      "id": "project_aa72cff1d94e",
-      "project_name": "Chat with Work",
-      "url": "https://www.producthunt.com/products/chat-with-work",
-      "summary": "AI bots in Europe. They work. You decide.",
+      "id": "project_c5fbaf1d8a56",
+      "project_name": "Ashwa",
+      "url": "https://www.producthunt.com/products/ashwa",
+      "summary": "Your AI companion that never forgets what you say",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI bots in Europe. They work. You decide」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI bots in Europe. They work. You decide\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-21T09:06:12Z",
-      "updated_at": "2026-11-24T03:18:02Z",
+      "recommend_reason_zh": "体验它主打的「Your AI companion that never forgets what you say」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your AI companion that never forgets what you say\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-22T20:25:10Z",
+      "updated_at": "2026-11-24T06:50:42Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T03:22:19.205072Z"
+      "observed_at": "2026-11-24T06:58:42.168637Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1452,
+      "duration_ms": 1632,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 155,
+      "duration_ms": 85,
       "error": null
     }
   ]

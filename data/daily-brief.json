@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:21:41.136527Z",
+  "generated_at": "2026-11-24T06:58:04.772699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9166,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "official",
@@ -121,7 +121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -173,15 +173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9526,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,7 +208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8653,
+        "recency": 0.8214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -347,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9072,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -434,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.861,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.861,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -608,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8805,
+        "recency": 0.8358,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -695,15 +695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7561,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -730,30 +730,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_94fa4d629e2e",
-      "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-      "url": "https://www.aibase.com/news/32485",
-      "primary_url": "https://www.aibase.com/news/32485",
+      "story_id": "story_efef0c41283c",
+      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+      "url": "https://www.aibase.com/news/32491",
+      "primary_url": "https://www.aibase.com/news/32491",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32485",
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -764,18 +764,18 @@
       ],
       "items": [
         {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32485",
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -798,17 +798,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-        "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-        "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
         "title_en": null,
-        "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+        "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32485",
+        "url": "https://www.aibase.com/news/32491",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -816,7 +816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -868,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8423,
+        "recency": 0.7996,
         "story_heat": 0.0
       },
       "category": "official",
@@ -903,7 +903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -955,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7561,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -990,30 +990,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_b8395a7f507b",
-      "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-      "url": "https://www.aibase.com/news/32483",
-      "primary_url": "https://www.aibase.com/news/32483",
+      "story_id": "story_dab527c02acf",
+      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+      "url": "https://www.aibase.com/news/32493",
+      "primary_url": "https://www.aibase.com/news/32493",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32483",
+          "url": "https://www.aibase.com/news/32493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1024,18 +1024,18 @@
       ],
       "items": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32483",
+          "url": "https://www.aibase.com/news/32493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1058,17 +1058,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-        "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-        "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+        "id": "31c1600aea349009f25d06633d704b728d86e842",
+        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
         "title_en": null,
-        "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+        "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32483",
+        "url": "https://www.aibase.com/news/32493",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1076,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -1128,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7838,
+        "recency": 0.744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1163,30 +1163,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_bc6aadb50411",
-      "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-      "url": "https://www.aibase.com/news/32482",
-      "primary_url": "https://www.aibase.com/news/32482",
+      "story_id": "story_0639fc04d65f",
+      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+      "url": "https://www.aibase.com/news/32498",
+      "primary_url": "https://www.aibase.com/news/32498",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "title_en": null,
-          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32482",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1197,18 +1197,18 @@
       ],
       "items": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "title_en": null,
-          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32482",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1231,17 +1231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-        "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-        "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
         "title_en": null,
-        "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32482",
+        "url": "https://www.aibase.com/news/32498",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1249,30 +1249,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_a69a6b9189fb",
-      "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-      "url": "https://www.aibase.com/news/32489",
-      "primary_url": "https://www.aibase.com/news/32489",
+      "story_id": "story_85ecf8e274ca",
+      "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+      "url": "https://www.aibase.com/news/32494",
+      "primary_url": "https://www.aibase.com/news/32494",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-          "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "title_en": null,
-          "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32489",
+          "url": "https://www.aibase.com/news/32494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1283,18 +1283,18 @@
       ],
       "items": [
         {
-          "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-          "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "title_en": null,
-          "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32489",
+          "url": "https://www.aibase.com/news/32494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1317,17 +1317,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-        "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-        "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+        "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+        "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
         "title_en": null,
-        "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+        "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32489",
+        "url": "https://www.aibase.com/news/32494",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1335,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -1420,15 +1420,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6605,
-      "importance": 0.6605,
-      "importance_score": 0.6605,
+      "score": 0.6521,
+      "importance": 0.6521,
+      "importance_score": 0.6521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9268,
+        "recency": 0.8798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,30 +1454,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_342bfa7b286a",
-      "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-      "url": "https://www.aibase.com/news/32484",
-      "primary_url": "https://www.aibase.com/news/32484",
+      "story_id": "story_3f7c2306d892",
+      "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+      "url": "https://www.aibase.com/news/32497",
+      "primary_url": "https://www.aibase.com/news/32497",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "title_en": null,
-          "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32484",
+          "url": "https://www.aibase.com/news/32497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1488,18 +1488,18 @@
       ],
       "items": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "title_en": null,
-          "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32484",
+          "url": "https://www.aibase.com/news/32497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1522,17 +1522,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-        "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-        "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+        "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+        "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
         "title_en": null,
-        "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+        "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32484",
+        "url": "https://www.aibase.com/news/32497",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1540,30 +1540,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_852b9844d4de",
-      "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-      "url": "https://www.aibase.com/news/32486",
-      "primary_url": "https://www.aibase.com/news/32486",
+      "story_id": "story_9f5aa52251ff",
+      "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+      "url": "https://www.aibase.com/news/32496",
+      "primary_url": "https://www.aibase.com/news/32496",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "title_en": null,
-          "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32486",
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1574,18 +1574,18 @@
       ],
       "items": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "title_en": null,
-          "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32486",
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1608,17 +1608,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-        "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-        "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+        "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+        "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+        "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
         "title_en": null,
-        "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+        "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32486",
+        "url": "https://www.aibase.com/news/32496",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1626,7 +1626,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
@@ -1650,7 +1650,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T02:41:01Z",
+          "updated_at": "2026-11-24T06:50:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1689,7 +1689,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T02:41:01Z",
+          "updated_at": "2026-11-24T06:50:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1711,15 +1711,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5924,
-      "importance": 0.5924,
-      "importance_score": 0.5924,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9903,
+        "recency": 0.9982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1727,7 +1727,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-23T16:02:46.700000Z",
-      "latest_at": "2026-11-24T02:41:01Z",
+      "latest_at": "2026-11-24T06:50:41Z",
       "primary_item": {
         "id": "5b185c328137e1a33ceb636df5742f293a40d559",
         "title": "Othor AI — 您的情报主管。了解您的号码隐藏了什么 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
@@ -1744,30 +1744,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     },
     {
-      "story_id": "story_90df56f7b235",
-      "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-      "url": "https://www.aibase.com/news/32487",
-      "primary_url": "https://www.aibase.com/news/32487",
+      "story_id": "story_5145bfd9d408",
+      "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+      "url": "https://www.aibase.com/news/32499",
+      "primary_url": "https://www.aibase.com/news/32499",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-          "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "title_en": null,
-          "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32487",
+          "url": "https://www.aibase.com/news/32499",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1778,18 +1778,18 @@
       ],
       "items": [
         {
-          "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-          "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "title_en": null,
-          "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32487",
+          "url": "https://www.aibase.com/news/32499",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:21:41.136527Z",
+          "published_at": "2026-11-24T06:58:04.772699Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1812,17 +1812,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:21:41.136527Z",
-      "latest_at": "2026-11-24T03:21:41.136527Z",
+      "earliest_at": "2026-11-24T06:58:04.772699Z",
+      "latest_at": "2026-11-24T06:58:04.772699Z",
       "primary_item": {
-        "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-        "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-        "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+        "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+        "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+        "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
         "title_en": null,
-        "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+        "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32487",
+        "url": "https://www.aibase.com/news/32499",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1830,7 +1830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T03:22:40.257256Z"
+        "scored_at": "2026-11-24T06:59:01.496024Z"
       }
     }
   ]
