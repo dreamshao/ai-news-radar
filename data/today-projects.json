@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T09:55:03.689443Z",
-  "date": "2026-11-25",
+  "generated_at": "2026-11-25T20:30:52.731483Z",
+  "date": "2026-11-26",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T09:54:08.760149Z"
+      "observed_at": "2026-11-25T20:29:37.547633Z"
     },
     {
-      "id": "project_648b2a3795e6",
-      "project_name": "Canva MCP",
-      "url": "https://www.producthunt.com/products/canva",
-      "summary": "Turn any AI agent into a creative powerhouse",
+      "id": "project_dc4b76687ea2",
+      "project_name": "Hai",
+      "url": "https://www.producthunt.com/products/hai-4",
+      "summary": "Your AI assistant that actually makes the phone call",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn any AI agent into a creative powerhouse」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn any AI agent into a creative powerhouse\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-24T15:05:09Z",
-      "updated_at": "2026-11-25T09:54:24Z",
+      "recommend_reason_zh": "体验它主打的「Your AI assistant that actually makes the phone call」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your AI assistant that actually makes the phone call\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-24T11:19:56Z",
+      "updated_at": "2026-11-25T20:29:38Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T09:54:52.070172Z"
+      "observed_at": "2026-11-25T20:30:40.462240Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T09:54:08.760149Z"
+      "observed_at": "2026-11-25T20:29:37.547633Z"
     },
     {
-      "id": "project_4cab4ec8e384",
-      "project_name": "SteerLatch",
-      "url": "https://www.producthunt.com/products/steerlatch",
-      "summary": "Connect MCP-compatible AIs to your computer",
+      "id": "project_bb8d460733ab",
+      "project_name": "Qube",
+      "url": "https://www.producthunt.com/products/qube-6",
+      "summary": "An AI agent for anyone",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Connect MCP-compatible AIs to your computer」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Connect MCP-compatible AIs to your computer\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T21:12:05Z",
-      "updated_at": "2026-11-25T09:54:24Z",
+      "recommend_reason_zh": "体验它主打的「An AI agent for anyone」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"An AI agent for anyone\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-24T17:55:06Z",
+      "updated_at": "2026-11-25T20:27:04Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T09:54:52.070172Z"
+      "observed_at": "2026-11-25T20:30:40.462240Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1736,
+      "duration_ms": 320,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 100,
+      "duration_ms": 117,
       "error": null
     }
   ]
