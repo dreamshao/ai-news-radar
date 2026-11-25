@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:28:16.676302Z",
+  "generated_at": "2026-11-25T09:55:03.689443Z",
   "date": "2026-11-25",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T05:27:30.735524Z"
+      "observed_at": "2026-11-25T09:54:08.760149Z"
     },
     {
-      "id": "project_04c64f5d1d97",
-      "project_name": "Finseo",
-      "url": "https://www.producthunt.com/products/finseo-ai",
-      "summary": "Company brain + outreach to get your brand mentioned by AI",
+      "id": "project_648b2a3795e6",
+      "project_name": "Canva MCP",
+      "url": "https://www.producthunt.com/products/canva",
+      "summary": "Turn any AI agent into a creative powerhouse",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Company brain + outreach to get your brand mentioned by AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Company brain + outreach to get your brand mentioned by AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-23T16:47:25Z",
-      "updated_at": "2026-11-25T04:52:16Z",
+      "recommend_reason_zh": "体验它主打的「Turn any AI agent into a creative powerhouse」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn any AI agent into a creative powerhouse\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-24T15:05:09Z",
+      "updated_at": "2026-11-25T09:54:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T05:28:05.309950Z"
+      "observed_at": "2026-11-25T09:54:52.070172Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T05:27:30.735524Z"
+      "observed_at": "2026-11-25T09:54:08.760149Z"
     },
     {
-      "id": "project_d9574cf0f585",
-      "project_name": "Juncts",
-      "url": "https://www.producthunt.com/products/juncts",
-      "summary": "Superhuman for your DMs, with AI that triages and drafts",
+      "id": "project_4cab4ec8e384",
+      "project_name": "SteerLatch",
+      "url": "https://www.producthunt.com/products/steerlatch",
+      "summary": "Connect MCP-compatible AIs to your computer",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Superhuman for your DMs, with AI that triages and drafts」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Superhuman for your DMs, with AI that triages and drafts\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-24T03:08:21Z",
-      "updated_at": "2026-11-25T05:08:49Z",
+      "recommend_reason_zh": "体验它主打的「Connect MCP-compatible AIs to your computer」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Connect MCP-compatible AIs to your computer\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-14T21:12:05Z",
+      "updated_at": "2026-11-25T09:54:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T05:28:05.309950Z"
+      "observed_at": "2026-11-25T09:54:52.070172Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1565,
+      "duration_ms": 1736,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 108,
+      "duration_ms": 100,
       "error": null
     }
   ]
