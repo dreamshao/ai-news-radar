@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-11-28T10:27:08.759429Z",
+  "generated_at": "2026-11-28T14:14:34.322308Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "items": [
-    {
-      "story_id": "story_f707740900a2",
-      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-      "url": "https://www.aibase.com/news/32580",
-      "primary_url": "https://www.aibase.com/news/32580",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "title_en": null,
-          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T15:09:21.584945Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "title_en": null,
-          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T15:09:21.584945Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7568,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T15:09:21.584945Z",
-      "latest_at": "2026-11-27T15:09:21.584945Z",
-      "primary_item": {
-        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-        "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-        "title_en": null,
-        "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32580",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
-      }
-    },
     {
       "story_id": "story_09660119eb8f",
       "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
@@ -109,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T10:30:46Z",
+          "updated_at": "2026-11-28T13:07:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -148,7 +63,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T10:30:46Z",
+          "updated_at": "2026-11-28T13:07:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -170,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5913,
+      "importance": 0.5913,
+      "importance_score": 0.5913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -186,7 +101,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T14:59:18.548000Z",
-      "latest_at": "2026-11-28T10:30:46Z",
+      "latest_at": "2026-11-28T13:07:01Z",
       "primary_item": {
         "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
         "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
@@ -203,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -288,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5933,
-      "importance": 0.5933,
-      "importance_score": 0.5933,
+      "score": 0.5837,
+      "importance": 0.5837,
+      "importance_score": 0.5837,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -321,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -439,15 +354,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.918,
+        "recency": 0.8691,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -472,7 +387,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
+      }
+    },
+    {
+      "story_id": "story_2fe9b77dee4d",
+      "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T11:57:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T11:57:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+          "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9674,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T11:57:04Z",
+      "latest_at": "2026-11-28T11:57:04Z",
+      "primary_item": {
+        "id": "f95907298469721541f72b14a848f684b1649395",
+        "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "title_zh": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者",
+        "title_en": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "title_original": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -590,15 +623,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8338,
+        "recency": 0.7894,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -623,7 +656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -708,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5933,
-      "importance": 0.5933,
-      "importance_score": 0.5933,
+      "score": 0.5837,
+      "importance": 0.5837,
+      "importance_score": 0.5837,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,46 +774,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
-      "story_id": "story_b0a55c398948",
-      "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-      "url": "https://github.com/skeeto/prospero",
-      "primary_url": "https://github.com/skeeto/prospero",
+      "story_id": "story_36099ce1165f",
+      "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
-          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
-          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/skeeto/prospero",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T20:23:14Z",
+          "published_at": "2026-11-28T10:37:40Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
-          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
-          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50671275",
+          "url": "https://news.ycombinator.com/item?id=50676390",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T20:23:14Z",
+          "published_at": "2026-11-28T10:37:40Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -792,66 +825,66 @@
       ],
       "items": [
         {
-          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
-          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
-          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/skeeto/prospero",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T20:23:14Z",
+          "published_at": "2026-11-28T10:37:40Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
-          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
-          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
-          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "title_zh": "Claude代码破坏：初步基准测试",
+          "title_en": "Claude Code sabotage: preliminary benchmarking",
+          "title_original": "Claude Code sabotage: preliminary benchmarking",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50671275",
+          "url": "https://news.ycombinator.com/item?id=50676390",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T20:23:14Z",
+          "published_at": "2026-11-28T10:37:40Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8162,
+        "recency": 0.9491,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T20:23:14Z",
-      "latest_at": "2026-11-27T20:23:14Z",
+      "earliest_at": "2026-11-28T10:37:40Z",
+      "latest_at": "2026-11-28T10:37:40Z",
       "primary_item": {
-        "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
-        "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
-        "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
-        "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
-        "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+        "title": "Claude代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+        "title_zh": "Claude代码破坏：初步基准测试",
+        "title_en": "Claude Code sabotage: preliminary benchmarking",
+        "title_original": "Claude Code sabotage: preliminary benchmarking",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/skeeto/prospero",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -859,7 +892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -944,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7961,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,7 +1010,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -1062,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.787,
+        "recency": 0.7451,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1092,49 +1125,49 @@
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
-      "story_id": "story_1ebdcbae904d",
-      "title": "数学家担心，人工智能即将使网络安全形同虚设",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "source": "www.thetimes.com",
-      "source_name": "Buzzing",
+      "story_id": "story_b0a55c398948",
+      "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "primary_url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_en": null,
-          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z",
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z",
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1142,196 +1175,78 @@
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.thetimes.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_en": null,
-          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z",
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z",
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.787,
+        "recency": 0.7727,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T11:09:04Z",
-      "latest_at": "2026-11-27T17:52:00.179000Z",
+      "earliest_at": "2026-11-27T20:23:14Z",
+      "latest_at": "2026-11-27T20:23:14Z",
       "primary_item": {
-        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-        "title": "数学家担心，人工智能即将使网络安全形同虚设",
-        "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
-        "title_en": null,
-        "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+        "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+        "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+        "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+        "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-        "source": "www.thetimes.com",
-        "source_name": "Buzzing"
+        "url": "https://github.com/skeeto/prospero",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
-      }
-    },
-    {
-      "story_id": "story_58ee99362953",
-      "title": "“Kimi for Science”：更多科学构想，化为现实",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "www.kimi.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": null,
-          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": "Kimi for Science: More scientific ideas, made possible",
-          "title_original": "Kimi for Science: More scientific ideas, made possible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.kimi.ai"
-      ],
-      "items": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": null,
-          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": "Kimi for Science: More scientific ideas, made possible",
-          "title_original": "Kimi for Science: More scientific ideas, made possible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7631,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:03:11Z",
-      "latest_at": "2026-11-27T15:43:52.256000Z",
-      "primary_item": {
-        "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-        "title": "“Kimi for Science”：更多科学构想，化为现实",
-        "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-        "title_en": null,
-        "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.ai/news/kimi-for-science-program",
-        "source": "www.kimi.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     },
     {
@@ -1416,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8,
+        "recency": 0.7574,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1449,125 +1364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
-      }
-    },
-    {
-      "story_id": "story_42df241d4b16",
-      "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "primary_url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7198,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:41:11Z",
-      "latest_at": "2026-11-27T11:41:11Z",
-      "primary_item": {
-        "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-        "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-        "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T10:31:16.505144Z"
+        "scored_at": "2026-11-28T14:18:29.670064Z"
       }
     }
   ]
